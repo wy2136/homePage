@@ -1,0 +1,192 @@
+[
+    {
+        "name_long": "Nature", 
+        "name_short": "nature", 
+        "url_rss": "http://feeds.nature.com/nature/rss/aop"
+    }, 
+    {
+        "name_long": "Nature: Climate Change", 
+        "name_short": "nature_cc", 
+        "url_rss": "http://feeds.nature.com/nclimate/rss/aop"
+    }, 
+    {
+        "name_long": "Nature: Geoscience", 
+        "name_short": "nature_geo", 
+        "url_rss": "http://feeds.nature.com/ngeo/rss/aop"
+    }, 
+    {
+        "name_long": "Science", 
+        "name_short": "science", 
+        "url_rss": "http://www.sciencemag.org/rss/current.xml"
+    }, 
+    {
+        "name_long": "PNAS - Environmental Sciences", 
+        "name_short": "pnas_e", 
+        "url_rss": "http://www.pnas.org/rss/Environmental_Sciences.xml"
+    }, 
+    {
+        "name_long": "Bulletin of the American Meteorological Society", 
+        "name_short": "bams", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=bams"
+    },
+    {
+        "name_long": "Earth Interactions",
+        "name_short": "earth_inter",
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=eint"
+    },
+    {
+        "name_long": "Journal of Climate", 
+        "name_short": "jc", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=clim"
+    },
+    {
+        "name_long": "Journal of the Atmospheric Science", 
+        "name_short": "jas", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=atsc"
+    },  
+    {
+        "name_long": "Journal of Hydrometeorology", 
+        "name_short": "hydrometeo", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=hydr"
+    }, 
+    {
+        "name_long": "Journal of Physical Oceanography", 
+        "name_short": "jpo", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=phoc"
+    }, 
+    {
+        "name_long": "Monthly Weather Review", 
+        "name_short": "mwr", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=mwre"
+    }, 
+    {
+        "name_long": "Weather, Climate and Society", 
+        "name_short": "wcs", 
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=wcas"
+    }, 
+    {
+        "name_long": "Journal of Applied Meteorology and Climatology",
+        "name_short": "app_meteo",
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=apme"
+    },
+    {
+        "name_long": "Weather and Forecasting",
+        "name_short": "w_forecast",
+        "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=wefo"
+    },
+    {
+        "name_long": "Reviews of Geophysics",
+        "name_short": "review_geo",
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-9208"
+    },
+    {
+        "name_long": "EOS",
+        "name_short": "eos",
+        "url_rss": "https://eos.org/research-spotlights/feed"
+    },
+    {
+        "name_long": "Geophysical Research Letters", 
+        "name_short": "grl", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007"
+    }, 
+    {
+        "name_long": "Journal of Geophysical Research: Atmospheres", 
+        "name_short": "jgr_a", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-8996"
+    },
+    {
+        "name_long": "Journal of Geophysical Research: Oceans", 
+        "name_short": "jgr_o", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9291"
+    },
+    {
+        "name_long": "Earth’s Future",
+        "name_short": "earth_future",
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2328-4277"
+    },
+    {
+        "name_long": "Water Resources Research",
+        "name_short": "water_res",
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-7973"
+    },
+    {
+        "name_long": "Journal of Advances in Modeling Earth Systems",
+        "name_short": "adv_model",
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1942-2466"
+    },
+    {
+        "name_long": "Paleoceanography",
+        "name_short": "paleocean",
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-9186"
+    },
+    {
+        "name_long": "Climate Dynamics", 
+        "name_short": "climdyn", 
+        "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=382&channel-name=Climate+Dynamics"
+    }, 
+    {
+        "name_long": "Atmospheric Science Letters", 
+        "name_short": "asl", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1530-261X"
+    }, 
+    {
+        "name_long": "International Journal of Climatology", 
+        "name_short": "ijoc", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-0088"
+    }, 
+    {
+        "name_long": "Quarterly Journal of the Royal Meteorological Society", 
+        "name_short": "qjrms", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1477-870X"
+    }, 
+    {
+        "name_long": "Advances in Atmospheric Sciences", 
+        "name_short": "aas", 
+        "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=376&channel-name=Advances+in+Atmospheric+Sciences"
+    }, 
+    {
+        "name_long": "Atmospheric Chemistry and Physics", 
+        "name_short": "acp", 
+        "url_rss": "http://www.atmos-chem-phys.net/xml/rss2_0.xml"
+    }, 
+    {
+        "name_long": "Biogeosciences", 
+        "name_short": "biogeo", 
+        "url_rss": "http://www.biogeosciences.net/xml/rss2_0.xml"
+    }, 
+    {
+        "name_long": "Climate of the Past", 
+        "name_short": "clim_past", 
+        "url_rss": "http://www.clim-past.net/xml/rss2_0.xml"
+    }, 
+    {
+        "name_long": "Hydrology and Earth System Sciences", 
+        "name_short": "hydro_earth", 
+        "url_rss": "http://www.hydrol-earth-syst-sci.net/xml/rss2_0.xml"
+    }, 
+    {
+        "name_long": "Natural Hazards and Earth System Science", 
+        "name_short": "hazards", 
+        "url_rss": "http://www.nat-hazards-earth-syst-sci.net/xml/rss2_0.xml"
+    }, 
+    {
+        "name_long": "Geoscientific Model Development", 
+        "name_short": "geo_model", 
+        "url_rss": "http://www.geosci-model-dev.net/xml/rss2_0.xml"
+    }, 
+    {
+        "name_long": "Climatic Change", 
+        "name_short": "clim_change", 
+        "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10584&channel-name=Climatic+Change"
+    }, 
+    {
+        "name_long": "Tellus: Atmosphere", 
+        "name_short": "tellus_a", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1600-0870"
+    }, 
+    {
+        "name_long": "WIREs Climate Change", 
+        "name_short": "wires", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1757-7799"
+    }
+]

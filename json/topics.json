@@ -1,0 +1,86 @@
+[
+    {
+        "name": "East Africa", 
+        "keywords": "East Africa, eastern Africa, Greater Horn"
+    },
+    {
+        "name": "Atmospheric River", 
+        "keywords": "Atmospheric River"
+    },
+    {
+        "name": "Arctic Amplification", 
+        "keywords": "Arctic Amplification"
+    }, 
+    {
+        "name": "Sea Ice", 
+        "keywords": "Sea Ice, Sea-ice"
+    },
+    {
+        "name": "ITCZ", 
+        "keywords": "ITCZ, Intertropical Convergence Zone, Inter-tropical Convergence Zone"
+    },
+    {
+        "name": "AO AAO", 
+        "keywords": "North Atlantic Oscillation, NAO, Arctic Oscillation, Antarctic Oscillation, Northern Hemisphere Annular Mode, Southern Hemisphere Annular Mode"
+    },
+    {
+        "name": "California Drought", 
+        "keywords": "California Drought"
+    },
+    {
+        "name": "Monsoon", 
+        "keywords": "monsoon"
+    },
+    {
+        "name": "Storm Tracks", 
+        "keywords": "Storm Tracks"
+    },
+    {
+        "name": "Drought", 
+        "keywords": "Drought"
+    },
+    {
+        "name": "Tropical Cyclone", 
+        "keywords": "Tropical Cyclone, Hurricane, Typhoon"
+    },
+    {
+        "name": "MJO", 
+        "keywords": "MJO, Madden-Julian Oscillation"
+    },
+    {
+        "name": "ENSO", 
+        "keywords": "ENSO, El Nino, La Nina, El Niño, La Niña"
+    },
+    {
+        "name": "QBO", 
+        "keywords": "QBO, Quasi-biennial Oscillation"
+    },
+    {
+        "name": "PDO", 
+        "keywords": "PDO, Pacific Decadal Oscillation"
+    },
+    {
+        "name": "AMO", 
+        "keywords": "Atlantic Multidecadal Oscillation, Atlantic Multi-decadal Oscillation, Atlantic Multidecadal Variability, Atlantic Multi-decadal Variability"
+    },
+    {
+        "name": "Indian Ocean", 
+        "keywords": "Indian Ocean"
+    },
+    {
+        "name": "Atlantic Ocean", 
+        "keywords": "Atlantic Ocean"
+    },
+    {
+        "name": "North America", 
+        "keywords": "North America"
+    }, 
+    {
+        "name": "China", 
+        "keywords": "China, Chinese"
+    }, 
+    {
+        "name": "CMIP", 
+        "keywords": "CMIP, Coupled Model Intercomparison Project"
+    }
+]

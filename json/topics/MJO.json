@@ -1,0 +1,194 @@
+[
+    {
+        "author": "", 
+        "date": "2015-09-01", 
+        "description": "\n                    <h3 class=\"a-plus-plus\">Abstract</h3>\n                    <p class=\"a-plus-plus\">Thirty strong Madden-Julian Oscillation (MJO) events in boreal winter 1982\u20132001 are selected to investigate the triggering processes of MJO convection over the western equatorial Indian Ocean (IO). These MJO events are classified into three types, according to their dynamic and thermodynamic precursor signals <em class=\"a-plus-plus\">in situ</em>. In Type I, a remarkable increase in low-level moisture occurs, on average, 7 days prior to the convection initiation. This low-level moistening is mainly due to the advection of the background mean moisture by easterly wind anomalies over the equatorial IO. In Type II, lower-tropospheric ascending motion anomalies develop, on average, 4 days prior to the initiation. The cause of this ascending motion anomaly is attributed to the anomalous warm advection, set up by a suppressed MJO phase in the equatorial IO. In Type III, there are no clear dynamic and thermodynamic precursor signals <em class=\"a-plus-plus\">in situ</em>. The convection might be triggered by energy accumulation in the upper layer associated with Rossby wave activity fluxes originated from the midlatitudes.</p>\n                  ", 
+        "journal": "Advances in Atmospheric Sciences", 
+        "link": "http://link.springer.com/10.1007/s00376-015-4201-0", 
+        "title": "Three-type MJO initiation processes over the Western Equatorial Indian Ocean"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-08-01", 
+        "description": "\n                    <h3 class=\"a-plus-plus\">Abstract</h3>\n                    <p class=\"a-plus-plus\">\n      The pre-monsoon tropical cyclone (TC) activity and the monsoon evolution in the Bay of Bengal (BoB) are both influenced by the Madden\u2013Julian Oscillation (MJO), but the two do not always occur in unison. This study examines the conditions that allow the MJO to modulate the monsoon onset in Myanmar and TC activity concurrently. Using the APHRODITE gridded precipitation and the ERA-Interim reanalysis datasets, composite evolutions of monsoon rainfall and TC genesis are constructed for the period of 1979\u20132010. It is found that the MJO exhibits a strong interannual variability in terms of phase and intensity, which in some years modulate the conditions for BoB TCs to shortly precede or form concurrently with the monsoon onset in Myanmar. Such a modulation is absent in years of weaker MJO events. Further understanding of the interannual variability of MJO activity could facilitate the prediction of the monsoon onset and TC formation in the BoB.</p>\n                  ", 
+        "journal": "Climate Dynamics", 
+        "link": "http://link.springer.com/10.1007/s00382-014-2289-z", 
+        "title": "Bay of Bengal: coupling of pre-monsoon tropical cyclones with the monsoon onset in Myanmar"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-08-01", 
+        "description": "\n                    <h3 class=\"a-plus-plus\">Abstract</h3>\n                    <p class=\"a-plus-plus\">An extended singularity value decomposition based statistical model, namely the spatial\u2013temporal projection model (STPM), was constructed for the extended-range (10\u201330-day) forecast of tropical outgoing longwave radiation anomalies (OLRA). The special feature of this empirical model is using the spatial and temporal information of predictor\u2013predictand coupled patterns to predict the temporally varying predictand field at all-time leads (i.e., 10\u201335\u00a0days) at once. A 10-year hindcast result shows that, different from previous statistical models, the skill scores of the STPM dropped slowly with forecast lead times. Useful skills can be detected at 30\u201335\u00a0day leads over most tropical regions. The highest temporal correlation coefficient of 0.4\u20130.5 appears over the Maritime Continent (Indian and western North Pacific monsoon regions) in boreal winter (summer), exceeding a 99\u00a0% confidence level. The STPM is also capable in predicting the spatial evolutions of convective anomalies, including the zonal and meridional propagation of OLRA. The forecast of the Real-time Multivariate MJO indices shows that the STPM attains a higher skill than previous statistical models. The STPM also shows comparable skills with the state-of-the-art dynamic models during the Dynamics of the Madden\u2013Julian Oscillation campaign period, especially at 15-day and longer leads.</p>\n                  ", 
+        "journal": "Climate Dynamics", 
+        "link": "http://link.springer.com/10.1007/s00382-014-2353-8", 
+        "title": "A spatial\u2013temporal projection model for extended-range forecast in the tropics"
+    }, 
+    {
+        "author": "Walter M. Hannah, Eric D. Maloney, Michael S. Pritchard", 
+        "date": "2015-07-14", 
+        "description": "\n\nHindcast simulations of MJO events during the dynamics of the MJO (DYNAMO) field campaign are conducted with two models, one with conventional parameterization (CAM5) and a comparable model that utilizes superparameterization (SP-CAM). SP-CAM is shown to produce a qualitatively better reproduction of the fluctuations of precipitation and low-level zonal wind associated with the first two DYNAMO MJO events compared to CAM5. Interestingly, skill metrics using the real-time multivariate MJO index (RMM) suggest the opposite conclusion that CAM5 has more skill than SP-CAM. This inconsistency can be explained by a systematic increase of RMM amplitude with lead time, which results from a drift of the large-scale wind field in SP-CAM that projects strongly onto the RMM index. CAM5 hindcasts exhibit a contraction of the moisture distribution, in which extreme wet and dry conditions become less frequent with lead time. SP-CAM hindcasts better reproduce the observed moisture distribution, but also have stronger drift patterns of moisture budget terms, such as an increase in drying by meridional advection in SP-CAM. This advection tendency in SP-CAM appears to be associated with enhanced off-equatorial synoptic eddy activity with lead time. Systematic drift moisture tendencies in SP-CAM are of similar magnitude to intraseasonal moisture tendencies, and therefore are important for understanding MJO prediction skill.\n", 
+        "journal": "Journal of Advances in Modeling Earth Systems", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014MS000423", 
+        "title": "Consequences of systematic model drift in DYNAMO MJO hindcasts with SP-CAM and CAM5"
+    }, 
+    {
+        "author": "R. E. Carbone et al", 
+        "date": "2015-07-08", 
+        "description": "Journal of the Atmospheric Sciences, Volume 72, Issue 7, Page 2703-2718, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Journal of the Atmospheric Science", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0226.1?af=R", 
+        "title": "Tropical Oceanic Rainfall and Sea Surface Temperature Structure: Parsing Causation from Correlation in the MJO"
+    }, 
+    {
+        "author": "Christopher E. Holloway et al", 
+        "date": "2015-07-08", 
+        "description": "Journal of the Atmospheric Sciences, Volume 72, Issue 7, Page 2719-2743, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Journal of the Atmospheric Science", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0308.1?af=R", 
+        "title": "The Effects of Explicit versus Parameterized Convection on the MJO in a Large-Domain High-Resolution Tropical Case Study. Part II: Processes Leading to Differences in MJO Development"
+    }, 
+    {
+        "author": "Bradford S. Barrett et al", 
+        "date": "2015-07-07", 
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Climate", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0092.1?af=R", 
+        "title": "The influence of MJO on the intraseasonal variability of Northern Hemisphere spring snow depth"
+    }, 
+    {
+        "author": "Baoqiang Xiang et al", 
+        "date": "2015-07-07", 
+        "description": "Journal of Climate, Volume 28, Issue 13, Page 5351-5364, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Climate", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0102.1?af=R", 
+        "title": "The 3\u20134-Week MJO Prediction Skill in a GFDL Coupled Model"
+    }, 
+    {
+        "author": "Chiung-Wen June Chang, Wan-Ling Tseng, Huang-Hsiung Hsu, Noel Keenlyside, Ben-Jei Tsuang", 
+        "date": "2015-07-07", 
+        "description": "\n\nGlobal warming's impact on the Madden-Julian Oscillation (MJO) is assessed using one of the few models capable in reproducing its key features. In a warmer climate predicted for the end of the century, the MJO increases in amplitude (by ~30%) and frequency, showing a more circumglobal propagation tendency. The MJO spatial extent becomes enhanced, deeper and more zonally extended but meridionally confined. A stronger vertical tilting structure in diabatic heating, moisture and convergence fields is seen. Our findings indicate that these changes result from an intensification of the frictional-wave CISK mechanism via the coupling of dynamical and thermodynamic response to the warming. The warming and moistening of the mean state contribute to the enhanced deep convective heating, driving a stronger forced Kelvin wave-like perturbation. This reinforces the frictional low-level convergence, leading to larger shallow convective heating, and therefore to a faster development and enhancement of the deep convection in the MJO.", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065095", 
+        "title": "The Madden-Julian Oscillation in a Warmer World"
+    }, 
+    {
+        "author": "Shuyi S. Chen et al", 
+        "date": "2015-06-24", 
+        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00196.1?af=R", 
+        "title": "Aircraft Observations of Dry Air, ITCZ, Convective Cloud Systems and Cold Pools in MJO During DYNAMO"
+    }, 
+    {
+        "author": "Traute Crueger, Bjorn Stevens", 
+        "date": "2015-06-16", 
+        "description": "\n\nThis article explores how atmospheric radiative heating, due to the presence of clouds, influences the Madden-Julian Oscillation (MJO) as simulated by four comprehensive atmosphere general circulation models. Simulations in which clouds are transparent to electromagnetic radiation (\u201cclouds-off\u201d) are compared with control simulations in which clouds are allowed to interact with radiation (\u201cclouds-on\u201d). Making clouds transparent to radiation leads to robust changes of the mean state: the westerly winds in the equatorial Indo-Pacific area weaken and the precipitation reveals a shift from single to double Intertropical Convergence Zones. These changes are accompanied by weaker MJOs. Also, the moisture sensitivity of precipitation changes, however not consistently within our group of models. Further analyses show that within the active phase of intraseasonal variability, cloud-radiative effects amplify the heating profiles compared to clouds-off. Heating from nonradiative processes is dominated by the parameterized convection, but large-scale heating associated with cloud microphysical processes acting on the grid-scale modifies the shape of the heating profile, leading to a top-heaviness when cloud-radiative effects are accounted for. The radiative heating due to clouds slows down the phase speed of the MJO. Averaged over the entire MJO life cycle, the column-integrated radiative heating due to clouds lags the vertically integrated moist static energy by 40\u00b0\u201360\u00b0 of longitude (equivalently 7\u201310 days assuming a period of 60 days). All four models studied reveal more pronounced Kelvin waves when clouds are transparent to radiation, suggesting that cloud-radiative effects on large-scale heating profiles damp smaller scale, or faster, Kelvin waves and amplify MJO-like disturbances.\n", 
+        "journal": "Journal of Advances in Modeling Earth Systems", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015MS000434", 
+        "title": "The effect of atmospheric radiative heating by clouds on the Madden-Julian Oscillation"
+    }, 
+    {
+        "author": "Charles Jones et al", 
+        "date": "2015-06-12", 
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Climate", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0149.1?af=R", 
+        "title": "The Madden-Julian Oscillation and boreal winter forecast skill:an analysis of NCEP CFSv2 reforecasts"
+    }, 
+    {
+        "author": "Junqiao Feng, Qingye Wang, Shijian Hu, Dunxin Hu", 
+        "date": "2015-06-12", 
+        "description": "\n\nThe spatial structure and temporal evolution of the intraseasonal variability (ISV) of the subsurface ocean temperature (STA) in the equatorial Pacific associated with the two flavours of El Ni\u00f1o [i.e. the canonical or eastern Pacific (EP) El Ni\u00f1o and the central Pacific (CP) El Ni\u00f1o] are investigated using observations and 1.5-layer linear reduced gravity model. Results suggest that the ISV characteristics show some differences in the two types of El Ni\u00f1o, although both oscillate along the thermocline in the form of the intraseasonal equatorial Kelvin wave (IEKW), which is excited in the western tropical Pacific by the zonal wind stress associated with the Madden\u2013Julian oscillation (MJO). First, the period of dominant mode of the STA ISV during CP El Ni\u00f1o broadly distributes in 50\u201380 days with the spectra peaking in 60\u201365 days. By contrast, the spectrum of STA ISV during EP El Ni\u00f1o shows a peak in 75\u201380-day period. This indicates that the wave speed is faster in the CP El Ni\u00f1o than in EP El Ni\u00f1o. Second, the ISV activity peaks in previous spring during the developing phase of EP El Ni\u00f1o, whereas during CP El Ni\u00f1o it becomes the most active during the mature phase. Third, the strongest IEKW occurs in the CP around the dateline during CP El Ni\u00f1o and attenuates quickly east of 130\u00b0W due to strong eddy viscosity dissipation, while the IEKW during the EP El Ni\u00f1o propagates efficiently from the western to the eastern Pacific with a relative weak diffusion.\n", 
+        "journal": "International Journal of Climatology", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fjoc.4389", 
+        "title": "Intraseasonal variability of the tropical Pacific subsurface temperature in the two flavours of El Ni\u00f1o"
+    }, 
+    {
+        "author": "\u00c1ngel F. Adames et al", 
+        "date": "2015-05-21", 
+        "description": "Journal of the Atmospheric Sciences, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of the Atmospheric Science", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-15-0003.1?af=R", 
+        "title": "Three-dimensional structure and evolution of the moisture field in the MJO"
+    }, 
+    {
+        "author": "Anthony D. Del Genio et al", 
+        "date": "2015-05-19", 
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Climate", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00832.1?af=R", 
+        "title": "Constraints on Cumulus Parameterization from Simulations of Observed MJO Events"
+    }, 
+    {
+        "author": "Marcela Ulate, Chidong Zhang, Jimy Dudhia", 
+        "date": "2015-05-19", 
+        "description": "\n\nA tropical channel model failed to simulate an observed MJO event. As a means to find reasons for the failure, model errors in water vapor (qv) and other fields were corrected to different extents by nudging towards a global reanalysis product. An MJO metric was developed to quantify the realism of a simulated MJO event in the amplitude and zonal propagation speed of its precipitation and zonal wind at 850 hPa (U850). Results show that correcting errors in qv alone is necessary and sufficient for a realistic simulation of the MJO event. Correcting errors in other fields is insufficient by itself and unnecessary with water vapor correction. For a realistic MJO simulation, error corrections are needed for qv perturbations of the planetary scales (zonal wave number 1\u20133) together with its zonal mean in both the lower and middle troposphere. Correcting errors in qv at upper levels, planetary-scale perturbations of any single zonal wave number, synoptic-scale perturbations, or temporal/zonal means alone is not sufficient for a realistic MJO simulation. Amplitudes of MJO precipitation and U850 are significantly correlated, but their propagation speeds are not. MJO signals in U850 are easier than those in precipitation to improve by correcting errors in qv. In the absence of MJO intrinsic dynamics, inserted MJO signals in qv in a simulation may create a phantom MJO event in precipitation but not in the circulation. This study confirms the existing knowledge on the importance of qv to MJO simulations, sheds new lights on the role of the qv spatial structure, and presents evidence for possible precipitation-circulation decoupling in MJO simulations.\n", 
+        "journal": "Journal of Advances in Modeling Earth Systems", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014MS000393", 
+        "title": "Role of water vapor and convection-circulation decoupling in MJO simulations by a tropical channel model"
+    }, 
+    {
+        "author": "Donald M. Lafleur et al", 
+        "date": "2015-05-01", 
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Climate", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00744.1?af=R", 
+        "title": "Some climatological aspects of the Madden-Julian Oscillation (MJO)"
+    }, 
+    {
+        "author": "Naoko Sakaeda et al", 
+        "date": "2015-04-27", 
+        "description": "Journal of the Atmospheric Sciences, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of the Atmospheric Science", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0293.1?af=R", 
+        "title": "The Development of Upper-Tropospheric Wind over the Western Hemisphere in Association with MJO Convective Initiation"
+    }, 
+    {
+        "author": "H. Reed Ogrosky, Samuel N. Stechmann", 
+        "date": "2015-04-27", 
+        "description": "\nThe Madden\u2013Julian Oscillation (MJO) skeleton model, a nonlinear oscillator model, has previously been shown to have solutions which exhibit several features in common with observed MJOs. In prior studies, model solutions have been found using mathematically simple (constant or sinusoidal) identical moistening and radiative forcing functions. Here we investigate whether this model can also produce realistic regional variability. To do this, observation-based forcing functions are prescribed for latent heat flux and radiative cooling, and model solutions \u2013both linear and nonlinear \u2013are studied. In the stochastic nonlinear model, solutions reproduce the climatological mean convective activity well and the climatological variance reasonably well for such a simple model. In the linearized model, the solutions are found to contain additional structure including a realistic wave envelope of convective activity centred over the warm pool. These linear solutions are then used to identify and compare significant MJO activity in both reanalysis data and stochastic model solutions. Additional potential uses for these analytical and numerical solutions are discussed.\n", 
+        "journal": "Quarterly Journal of the Royal Meteorological Society", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fqj.2552", 
+        "title": "The MJO skeleton model with observation-based background state and forcing"
+    }, 
+    {
+        "author": "Wanqiu Wang et al", 
+        "date": "2015-04-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00385.1?af=R", 
+        "title": "What is the role of the sea surface temperature uncertainty in the prediction of tropical convection associated with the MJO?"
+    }, 
+    {
+        "author": "Zhe Feng, Samson Hagos, Angela K. Rowe, Casey D. Burleyson, Matus N. Martini, Simon P. Szoeke", 
+        "date": "2015-04-03", 
+        "description": "\n\nThis paper investigates the mechanisms of convective cloud organization by precipitation-driven cold pools over the warm tropical Indian Ocean during the 2011 Atmospheric Radiation Measurement (ARM) Madden-Julian Oscillation (MJO) Investigation Experiment/Dynamics of the MJO (AMIE/DYNAMO) field campaign. A high-resolution regional model simulation is performed using the Weather Research and Forecasting model during the transition from suppressed to active phases of the November 2011 MJO. The simulated cold pool lifetimes, spatial extent, and thermodynamic properties agree well with the radar and ship-borne observations from the field campaign. The thermodynamic and dynamic structures of the outflow boundaries of isolated and intersecting cold pools in the simulation and the associated secondary cloud populations are examined. Intersecting cold pools last more than twice as long, are twice as large, 41% more intense (measured with buoyancy), and 62% deeper than isolated cold pools. Consequently, intersecting cold pools trigger 73% more convection than do isolated ones. This is due to stronger outflows that enhance secondary updraft velocities by up to 45%. However, cold pool-triggered convective clouds grow into deep convection not because of the stronger secondary updrafts at cloud base, but rather due to closer spacing (aggregation) between clouds and larger cloud clusters that form along the cold pool boundaries when they intersect. The close spacing of large clouds moistens the local environment and reduces entrainment drying, increasing the probability that the clouds further develop into deep convection. Implications for the design of future convective parameterization with cold pool-modulated entrainment rates are discussed.\n", 
+        "journal": "Journal of Advances in Modeling Earth Systems", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014MS000384", 
+        "title": "Mechanisms of convective cloud organization by cold pools over tropical warm ocean during the AMIE/DYNAMO field campaign"
+    }, 
+    {
+        "author": "Sue Chen et al", 
+        "date": "2015-02-02", 
+        "description": "Journal of the Atmospheric Sciences, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of the Atmospheric Science", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-13-0348.1?af=R", 
+        "title": "A Study of CINDY/DYNAMO MJO Suppressed Phase"
+    }, 
+    {
+        "author": "Juarez Ventura de Oliveira, Maria Isabel Vitorino, Leonardo Deane de Abreu S\u00e1", 
+        "date": "2015-01-27", 
+        "description": "\n\nThe Student's t-test was used to statistically prove the existence of a significant difference between mean values of several meteorological variables for the active and inactive phases of the Madden\u2013Julian Oscillation (MJO) in the Eastern Amazon. The wavelet transform was used to identify 14 cases of the MJO occurrence, in which the analyses were performed. The analysis shown that the variables influenced by the convection such as outgoing longwave radiation, mean and maximum temperature, and insolation presented differences, between each MJO phase, at significance levels of 95% or higher.\n", 
+        "journal": "Atmospheric Science Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fasl2.560", 
+        "title": "Implication of Madden\u2013Julian Oscillation phase on the Eastern Amazon climate"
+    }, 
+    {
+        "author": "Yoshiaki Miyamoto, Ryuji Yoshida, Tsuyoshi Yamaura, Hisashi Yashiro, Hirofumi Tomita, Yoshiyuki Kajikawa", 
+        "date": "2015-01-12", 
+        "description": "\n\nDeep moist convection is an element of cloud disturbances such as Madden-Julian oscillation (MJO), tropical cyclones (TCs), mid-latitudinal low depressions (MDL), and fronts (FRT). However, differences in convection characteristics in disturbances remain unclear. We first clarified the statistical features of the convection (structure, intensity, and environmental parameters) in various disturbances simulated by a global simulation with a sub-kilometre grid spacing. The convection in MJO (TC) was tall with a strong (weak) upward motion, and was driven by large convective available potential energy (strong low-level convergence). The convection in MDL and FRT was shorter and characterized by a strong vertical wind shear.\n", 
+        "journal": "Atmospheric Science Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fasl2.558", 
+        "title": "Does convection vary in different cloud disturbances?"
+    }
+]

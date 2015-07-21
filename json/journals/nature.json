@@ -1,0 +1,898 @@
+[
+    {
+        "author": "Xiaowen Wang", 
+        "date": "2015-07-20", 
+        "description": "Mitochondria are multifunctional organelles whose dysfunction leads to neuromuscular degeneration and ageing. The multi-functionality poses a great challenge for understanding the mechanisms by which mitochondrial dysfunction causes specific pathologies. Among the leading mitochondrial mediators of cell death are energy depletion, free radical production, defects in iron\u2013sulfur cluster biosynthesis, the release of pro-apoptotic and non-cell-autonomous signalling molecules, and altered stress signalling. Here we identify a new pathway of mitochondria-mediated cell death in yeast. This pathway was named mitochondrial precursor over-accumulation stress (mPOS), and is characterized by aberrant accumulation of mitochondrial precursors in the cytosol. mPOS can be triggered by clinically relevant mitochondrial damage that is not limited to the core machineries of protein import. We also discover a large network of genes that suppress mPOS, by modulating ribosomal biogenesis, messenger RNA decapping, transcript-specific translation, protein chaperoning and turnover. In response to mPOS, several ribosome-associated proteins were upregulated, including Gis2 and Nog2, which promote cap-independent translation and inhibit the nuclear export of the 60S ribosomal subunit, respectively. Gis2 and Nog2 upregulation promotes cell survival, which may be part of a feedback loop that attenuates mPOS. Our data indicate that mitochondrial dysfunction contributes directly to cytosolic proteostatic stress, and provide an explanation for the association between these two hallmarks of degenerative diseases and ageing. The results are relevant to understanding diseases (for example, spinocerebellar ataxia, amyotrophic lateral sclerosis and myotonic dystrophy) that involve mutations within the anti-degenerative network.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/cFcvw-gz3rY/nature14859", 
+        "title": "A cytosolic network suppressing mitochondria-mediated proteostatic stress and cell death"
+    }, 
+    {
+        "author": "Stephen M. Beverley", 
+        "date": "2015-07-15", 
+        "description": "Study of the diarrhoea-causing pathogen Cryptosporidium has been hindered by a lack of genetic-modification and culture tools. A description of genome editing and propagation methods for the parasite changes this picture.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/waRANeTKNhM/nature14636", 
+        "title": "Parasitology: CRISPR for Cryptosporidium"
+    }, 
+    {
+        "author": "Michael Lynch", 
+        "date": "2015-07-15", 
+        "description": "DNA-sequence analysis suggests that genetic mutations arise at elevated rates in genomes harbouring high levels of heterozygosity \u2014 the state in which the two copies of a genetic region contain sequence differences.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/1exNjCIm3oU/nature14634", 
+        "title": "Genetics: Feedforward loop for diversity"
+    }, 
+    {
+        "author": "Patrick F. Sullivan", 
+        "date": "2015-07-15", 
+        "description": "Two genetic regions associated with major depressive disorder have been revealed for the first time, through whole-genome sequencing of a population of Han Chinese women.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/GArPae0QEYo/nature14635", 
+        "title": "Genetics of disease: Associations with depression"
+    }, 
+    {
+        "author": "Dong Deng", 
+        "date": "2015-07-15", 
+        "description": "The SLC2 family glucose transporters facilitate the transport of glucose and other monosaccharides across biological membranes; the X-ray crystal structure of human GLUT3 has been solved in outward-open and outward-occluded conformations and a model for how the membrane protein rearranges itself during a complete transport cycle has been proposed.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ql9iZBTLUAQ/nature14655", 
+        "title": "Molecular basis of ligand recognition and transport by glucose transporters"
+    }, 
+    {
+        "author": "Asami Kondo", 
+        "date": "2015-07-15", 
+        "description": "Here the cis form of tau protein, which disrupts axonal microtubules and transport, spreads to other neurons, and leads to apoptosis in vitro and in vivo, is found to be produced by neurons immediately after traumatic brain injury (TBI); treating TBI mice with cis antibody blocks early production of cis tau, prevents tauopathy and spread and restores brain structural and functional outcomes, and may be further developed to treat TBI and to prevent neurodegeneration after injury.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/CGRCt0pAJ9M/nature14658", 
+        "title": "Antibody against early driver of neurodegeneration cis P-tau blocks brain injury and tauopathy"
+    }, 
+    {
+        "author": "Emilio Kropff", 
+        "date": "2015-07-15", 
+        "description": "On the basis of neural firing rates a specific class of neuron is identified in the medial entorhinal cortex that linearly encodes information on running speed in a context-independent manner and that is distinct from other functionally specific entorhinal neurons.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/GG5RQcQ_n-0/nature14622", 
+        "title": "Speed cells in the medial entorhinal cortex"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-15", 
+        "description": "Major depressive disorder (MDD), one of the most frequently encountered forms of mental illness and a leading cause of disability worldwide, poses a major challenge to genetic analysis. To date, no robustly replicated genetic loci have been identified, despite analysis of more than 9,000 cases. Here, using low-coverage whole-genome sequencing of 5,303 Chinese women with recurrent MDD selected to reduce phenotypic heterogeneity, and 5,337 controls screened to exclude MDD, we identified, and subsequently replicated in an independent sample, two loci contributing to risk of MDD on chromosome 10: one near the SIRT1 gene (P\u2009=\u20092.53\u2009\u00d7\u200910\u221210), the other in an intron of the LHPP gene (P = 6.45\u2009\u00d7\u200910\u221212). Analysis of 4,509 cases with a severe subtype of MDD, melancholia, yielded an increased genetic signal at the SIRT1 locus. We attribute our success to the recruitment of relatively homogeneous cases with severe illness.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/UVMpP096-NI/nature14659", 
+        "title": "Sparse whole-genome sequencing identifies two loci for major depressive disorder"
+    }, 
+    {
+        "author": "Peng Guo", 
+        "date": "2015-07-15", 
+        "description": "The prediction and synthesis of new crystal structures enable the targeted preparation of materials with desired properties. Among porous solids, this has been achieved for metal\u2013organic frameworks, but not for the more widely applicable zeolites, where new materials are usually discovered using exploratory synthesis. Although millions of hypothetical zeolite structures have been proposed, not enough is known about their synthesis mechanism to allow any given structure to be prepared. Here we present an approach that combines structure solution with structure prediction, and inspires the targeted synthesis of new super-complex zeolites. We used electron diffraction to identify a family of related structures and to discover the structural \u2018coding\u2019 within them. This allowed us to determine the complex, and previously unknown, structure of zeolite ZSM-25 (ref. 8), which has the largest unit-cell volume of all known zeolites (91,554 cubic \u00e5ngstr\u00f6ms) and demonstrates selective CO2 adsorption. By extending our method, we were able to predict other members of a family of increasingly complex, but structurally related, zeolites and to synthesize two more-complex zeolites in the family, PST-20 and PST-25, with much larger cell volumes (166,988 and 275,178 cubic \u00e5ngstr\u00f6ms, respectively) and similar selective adsorption properties. Members of this family have the same symmetry, but an expanding unit cell, and are related by hitherto unrecognized structural principles; we call these family members embedded isoreticular zeolite structures.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/-lMxs94t7xM/nature14575", 
+        "title": "A zeolite family with expanding structural complexity and embedded isoreticular structures"
+    }, 
+    {
+        "author": "Hong Ma", 
+        "date": "2015-07-15", 
+        "description": "Mitochondria have a major role in energy production via oxidative phosphorylation, which is dependent on the expression of critical genes encoded by mitochondrial (mt)DNA. Mutations in mtDNA can cause fatal or severely debilitating disorders with limited treatment options. Clinical manifestations vary based on mutation type and heteroplasmy (that is, the relative levels of mutant and wild-type mtDNA within each cell). Here we generated genetically corrected pluripotent stem cells (PSCs) from patients with mtDNA disease. Multiple induced pluripotent stem (iPS) cell lines were derived from patients with common heteroplasmic mutations including 3243A>G, causing mitochondrial encephalomyopathy and stroke-like episodes (MELAS), and 8993T>G and 13513G>A, implicated in Leigh syndrome. Isogenic MELAS and Leigh syndrome iPS cell lines were generated containing exclusively wild-type or mutant mtDNA through spontaneous segregation of heteroplasmic mtDNA in proliferating fibroblasts. Furthermore, somatic cell nuclear transfer (SCNT) enabled replacement of mutant mtDNA from homoplasmic 8993T>G fibroblasts to generate corrected Leigh-NT1 PSCs. Although Leigh-NT1 PSCs contained donor oocyte wild-type mtDNA (human haplotype D4a) that differed from Leigh syndrome patient haplotype (F1a) at a total of 47 nucleotide sites, Leigh-NT1 cells displayed transcriptomic profiles similar to those in embryo-derived PSCs carrying wild-type mtDNA, indicative of normal nuclear-to-mitochondrial interactions. Moreover, genetically rescued patient PSCs displayed normal metabolic function compared to impaired oxygen consumption and ATP production observed in mutant cells. We conclude that both reprogramming approaches offer complementary strategies for derivation of PSCs containing exclusively wild-type mtDNA, through spontaneous segregation of heteroplasmic mtDNA in individual iPS cell lines or mitochondrial replacement by SCNT in homoplasmic mtDNA-based disease.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ffAezuvSvZM/nature14546", 
+        "title": "Metabolic rescue in pluripotent cells from patients with mtDNA disease"
+    }, 
+    {
+        "author": "Sumiti Vinayak", 
+        "date": "2015-07-15", 
+        "description": "Recent studies into the global causes of severe diarrhoea in young children have identified the protozoan parasite Cryptosporidium as the second most important diarrhoeal pathogen after rotavirus. Diarrhoeal disease is estimated to be responsible for 10.5% of overall child mortality. Cryptosporidium is also an opportunistic pathogen in the contexts of human immunodeficiency virus (HIV)-caused AIDS and organ transplantation. There is no vaccine and only a single approved drug that provides no benefit for those in gravest danger: malnourished children and immunocompromised patients. Cryptosporidiosis drug and vaccine development is limited by the poor tractability of the parasite, which includes a lack of systems for continuous culture, facile animal models, and molecular genetic tools. Here we describe an experimental framework to genetically modify this important human pathogen. We established and optimized transfection of C. parvum sporozoites in tissue culture. To isolate stable transgenics we developed a mouse model that delivers sporozoites directly into the intestine, a Cryptosporidium clustered regularly interspaced short palindromic repeat (CRISPR)/Cas9 system, and in vivo selection for aminoglycoside resistance. We derived reporter parasites suitable for in vitro and in vivo drug screening, and we evaluated the basis of drug susceptibility by gene knockout. We anticipate that the ability to genetically engineer this parasite will be transformative for Cryptosporidium research. Genetic reporters will provide quantitative correlates for disease, cure and protection, and the role of parasite genes in these processes is now open to rigorous investigation.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/j11LIUzxpvk/nature14651", 
+        "title": "Genetic modification of the diarrhoeal pathogen Cryptosporidium parvum"
+    }, 
+    {
+        "author": "Sihai Yang", 
+        "date": "2015-07-15", 
+        "description": "Mutation rates vary within genomes, but the causes of this remain unclear. As many prior inferences rely on methods that assume an absence of selection, potentially leading to artefactual results, we call mutation events directly using a parent\u2013offspring sequencing strategy focusing on Arabidopsis and using rice and honey bee for replication. Here we show that mutation rates are higher in heterozygotes and in proximity to crossover events. A correlation between recombination rate and intraspecific diversity is in part owing to a higher mutation rate in domains of high recombination/diversity. Implicating diversity per se as a cause, we find an \u223c3.5-fold higher mutation rate in heterozygotes than in homozygotes, with mutations occurring in closer proximity to heterozygous sites than expected by chance. In a genome that is a patchwork of heterozygous and homozygous domains, mutations occur disproportionately more often in the heterozygous domains. If segregating mutations predispose to a higher local mutation rate, clusters of genes dominantly under purifying selection (more commonly homozygous) and under balancing selection (more commonly heterozygous), might have low and high mutation rates, respectively. Our results are consistent with this, there being a ten times higher mutation rate in pathogen resistance genes, expected to be under positive or balancing selection. Consequently, we do not necessarily need to evoke extremely weak selection on the mutation rate to explain why mutational hot and cold spots might correspond to regions under positive/balancing and purifying selection, respectively.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/3Sso_sLgLLE/nature14649", 
+        "title": "Parent\u2013progeny sequencing indicates higher mutation rates in heterozygotes"
+    }, 
+    {
+        "author": "Jieqi Wang", 
+        "date": "2015-07-15", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/kJugdlwzJ0A/nature14671", 
+        "title": "Corrigendum: Wild-type microglia do not reverse pathology in mouse models of Rett syndrome"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-13", 
+        "description": "Genomic sequencing of 110 human small cell lung cancers identifies genomic signatures including nearly ubiquitous bi-allelic inactivation of TP53 and RB1, a role for NOTCH family genes, and somatic rearrangements that create an oncogenic version of TP73.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/h_6ORoUZEkg/nature14664", 
+        "title": "Comprehensive genomic profiles of small cell lung cancer"
+    }, 
+    {
+        "author": "Benjamin Bailleul", 
+        "date": "2015-07-13", 
+        "description": "Diatoms are one of the most ecologically successful classes of photosynthetic marine eukaryotes in the contemporary oceans. Over the past 30 million years, they have helped to moderate Earth\u2019s climate by absorbing carbon dioxide from the atmosphere, sequestering it via the biological carbon pump and ultimately burying organic carbon in the lithosphere. The proportion of planetary primary production by diatoms in the modern oceans is roughly equivalent to that of terrestrial rainforests. In photosynthesis, the efficient conversion of carbon dioxide into organic matter requires a tight control of the ATP/NADPH ratio which, in other photosynthetic organisms, relies principally on a range of plastid-localized ATP generating processes. Here we show that diatoms regulate ATP/NADPH through extensive energetic exchanges between plastids and mitochondria. This interaction comprises the re-routing of reducing power generated in the plastid towards mitochondria and the import of mitochondrial ATP into the plastid, and is mandatory for optimized carbon fixation and growth. We propose that the process may have contributed to the ecological success of diatoms in the ocean.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/CG8wUMkUIqQ/nature14599", 
+        "title": "Energetic coupling between plastids and mitochondria drives CO2 assimilation in diatoms"
+    }, 
+    {
+        "author": "Rushika M. Perera", 
+        "date": "2015-07-13", 
+        "description": "Activation of cellular stress response pathways to maintain metabolic homeostasis is emerging as a critical growth and survival mechanism in many cancers. The pathogenesis of pancreatic ductal adenocarcinoma (PDA) requires high levels of autophagy, a conserved self-degradative process. However, the regulatory circuits that activate autophagy and reprogram PDA cell metabolism are unknown. Here we show that autophagy induction in PDA occurs as part of a broader transcriptional program that coordinates activation of lysosome biogenesis and function, and nutrient scavenging, mediated by the MiT/TFE family of transcription factors. In human PDA cells, the MiT/TFE proteins\u2014MITF, TFE3 and TFEB\u2014are decoupled from regulatory mechanisms that control their cytoplasmic retention. Increased nuclear import in turn drives the expression of a coherent network of genes that induce high levels of lysosomal catabolic function essential for PDA growth. Unbiased global metabolite profiling reveals that MiT/TFE-dependent autophagy\u2013lysosome activation is specifically required to maintain intracellular amino acid pools. These results identify the MiT/TFE proteins as master regulators of metabolic reprogramming in pancreatic cancer and demonstrate that transcriptional activation of clearance pathways converging on the lysosome is a novel hallmark of aggressive malignancy.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/AQYJFNf2zjM/nature14587", 
+        "title": "Transcriptional control of autophagy\u2013lysosome function drives pancreatic cancer metabolism"
+    }, 
+    {
+        "author": "Nelio T. L. Rodrigues", 
+        "date": "2015-07-13", 
+        "description": "Cell division requires the precise coordination of chromosome segregation and cytokinesis. This coordination is achieved by the recruitment of an actomyosin regulator, Ect2, to overlapping microtubules at the centre of the elongating anaphase spindle. Ect2 then signals to the overlying cortex to promote the assembly and constriction of an actomyosin ring between segregating chromosomes. Here, by studying division in proliferating Drosophila and human cells, we demonstrate the existence of a second, parallel signalling pathway, which triggers the relaxation of the polar cell cortex at mid anaphase. This is independent of furrow formation, centrosomes and microtubules and, instead, depends on PP1 phosphatase and its regulatory subunit Sds22 (refs 2, 3). As separating chromosomes move towards the polar cortex at mid anaphase, kinetochore-localized PP1\u2013Sds22 helps to break cortical symmetry by inducing the dephosphorylation and inactivation of ezrin/radixin/moesin proteins at cell poles. This promotes local softening of the cortex, facilitating anaphase elongation and orderly cell division. In summary, this identifies a conserved kinetochore-based phosphatase signal and substrate, which function together to link anaphase chromosome movements to cortical polarization, thereby coupling chromosome segregation to cell division.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/-hjzlk67cgA/nature14496", 
+        "title": "Kinetochore-localized PP1\u2013Sds22 couples chromosome segregation to polar relaxation"
+    }, 
+    {
+        "author": "Andrea Rossi", 
+        "date": "2015-07-13", 
+        "description": "Cells sense their environment and adapt to it by fine-tuning their transcriptome. Wired into this network of gene expression control are mechanisms to compensate for gene dosage. The increasing use of reverse genetics in zebrafish, and other model systems, has revealed profound differences between the phenotypes caused by genetic mutations and those caused by gene knockdowns at many loci, an observation previously reported in mouse and Arabidopsis. To identify the reasons underlying the phenotypic differences between mutants and knockdowns, we generated mutations in zebrafish egfl7, an endothelial extracellular matrix gene of therapeutic interest, as well as in vegfaa. Here we show that egfl7 mutants do not show any obvious phenotypes while animals injected with egfl7 morpholino (morphants) exhibit severe vascular defects. We further observe that egfl7 mutants are less sensitive than their wild-type siblings to Egfl7 knockdown, arguing against residual protein function in the mutants or significant off-target effects of the morpholinos when used at a moderate dose. Comparing egfl7 mutant and morphant proteomes and transcriptomes, we identify a set of proteins and genes that are upregulated in mutants but not in morphants. Among them are extracellular matrix genes that can rescue egfl7 morphants, indicating that they could be compensating for the loss of Egfl7 function in the phenotypically wild-type egfl7 mutants. Moreover, egfl7 CRISPR interference, which obstructs transcript elongation and causes severe vascular defects, does not cause the upregulation of these genes. Similarly, vegfaa mutants but not morphants show an upregulation of vegfab. Taken together, these data reveal the activation of a compensatory network to buffer against deleterious mutations, which was not observed after translational or transcriptional knockdown.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/HJqxF7dAK6E/nature14580", 
+        "title": "Genetic compensation induced by deleterious mutations but not gene knockdowns"
+    }, 
+    {
+        "author": "M. Sigl", 
+        "date": "2015-07-08", 
+        "description": "Ice-core and tree-ring data show that large volcanic eruptions in the tropics and high latitudes were primary drivers of temperature variability in the Northern Hemisphere during the past 2,500 years, firmly implicating such eruptions as catalysts in major sixth-century pandemics, famines, and socioeconomic disruptions.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ldNiKbuBo24/nature14565", 
+        "title": "Timing and climate forcing of volcanic eruptions for the past 2,500 years"
+    }, 
+    {
+        "author": "Florian Muller", 
+        "date": "2015-07-08", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/VSMvM5PB_jI/nature14609", 
+        "title": "Corrigendum: Passenger deletions generate therapeutic vulnerabilities in cancer"
+    }, 
+    {
+        "author": "John W. Schoggins", 
+        "date": "2015-07-08", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Kjk9MsQcQtU/nature14554", 
+        "title": "Corrigendum: A diverse range of gene products are effectors of the type I interferon antiviral response"
+    }, 
+    {
+        "author": "John W. Schoggins", 
+        "date": "2015-07-08", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/p2KzTyovBhg/nature14555", 
+        "title": "Corrigendum: Pan-viral specificity of IFN-induced genes reveals new roles for cGAS in innate immunity"
+    }, 
+    {
+        "author": "Tilman Flock", 
+        "date": "2015-07-06", 
+        "description": "There are \u223c800 human GPCRs and 16 different G\u03b1 proteins; this study revealed the molecular details of G\u03b1 activation by GPCRs and suggests that a universal activation mechanism governs G\u03b1 activation\u2014the details of this mechanism can explain how the GPCR\u2013G\u03b1 system diversified rapidly, while conserving the allosteric activation mechanism.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/B-NLXtUZmrU/nature14663", 
+        "title": "Universal allosteric mechanism for G\u03b1 activation by GPCRs"
+    }, 
+    {
+        "author": "Jinbo Han", 
+        "date": "2015-07-06", 
+        "description": "Abnormal accumulation of triglycerides in the liver, caused in part by increased de novo lipogenesis, results in non-alcoholic fatty liver disease and insulin resistance. Sterol regulatory element-binding protein 1 (SREBP1), an important transcriptional regulator of lipogenesis, is synthesized as an inactive precursor that binds to the endoplasmic reticulum (ER). In response to insulin signalling, SREBP1 is transported from the ER to the Golgi in a COPII-dependent manner, processed by proteases in the Golgi, and then shuttled to the nucleus to induce lipogenic gene expression; however, the mechanisms underlying enhanced SREBP1 activity in insulin-resistant obesity and diabetes remain unclear. Here we show in mice that CREB regulated transcription coactivator 2 (CRTC2) functions as a mediator of mTOR signalling to modulate COPII-dependent SREBP1 processing. CRTC2 competes with Sec23A, a subunit of the COPII complex, to interact with Sec31A, another COPII subunit, thus disrupting SREBP1 transport. During feeding, mTOR phosphorylates CRTC2 and attenuates its inhibitory effect on COPII-dependent SREBP1 maturation. As hepatic overexpression of an mTOR-defective CRTC2 mutant in obese mice improved the lipogenic program and insulin sensitivity, these results demonstrate how the transcriptional coactivator CRTC2 regulates mTOR-mediated lipid homeostasis in the fed state and in obesity.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/U-ruOGNzqVQ/nature14557", 
+        "title": "The CREB coactivator CRTC2 controls hepatic lipid metabolism by regulating SREBP1"
+    }, 
+    {
+        "author": "Ana Pardo-Saganta", 
+        "date": "2015-07-06", 
+        "description": "Stem cells integrate inputs from multiple sources. Stem cell niches provide signals that promote stem cell maintenance, while differentiated daughter cells are known to provide feedback signals to regulate stem cell replication and differentiation. Recently, stem cells have been shown to regulate themselves using an autocrine mechanism. The existence of a \u2018stem cell niche\u2019 was first postulated by Schofield in 1978 to define local environments necessary for the maintenance of haematopoietic stem cells. Since then, an increasing body of work has focused on defining stem cell niches. Yet little is known about how progenitor cell and differentiated cell numbers and proportions are maintained. In the airway epithelium, basal cells function as stem/progenitor cells that can both self-renew and produce differentiated secretory cells and ciliated cells. Secretory cells also act as transit-amplifying cells that eventually differentiate into post-mitotic ciliated cells . Here we describe a mode of cell regulation in which adult mammalian stem/progenitor cells relay a forward signal to their own progeny. Surprisingly, this forward signal is shown to be necessary for daughter cell maintenance. Using a combination of cell ablation, lineage tracing and signalling pathway modulation, we show that airway basal stem/progenitor cells continuously supply a Notch ligand to their daughter secretory cells. Without these forward signals, the secretory progenitor cell pool fails to be maintained and secretory cells execute a terminal differentiation program and convert into ciliated cells. Thus, a parent stem/progenitor cell can serve as a functional daughter cell niche.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/IKfDUr3Wvn4/nature14553", 
+        "title": "Parent stem cells can serve as niches for their daughter cells"
+    }, 
+    {
+        "author": "Sybille Pfender", 
+        "date": "2015-07-06", 
+        "description": "During fertilization, an egg and a sperm fuse to form a new embryo. Eggs develop from oocytes in a process called meiosis. Meiosis in human oocytes is highly error-prone, and defective eggs are the leading cause of pregnancy loss and several genetic disorders such as Down\u2019s syndrome. Which genes safeguard accurate progression through meiosis is largely unclear. Here we develop high-content phenotypic screening methods for the systematic identification of mammalian meiotic genes. We targeted 774 genes by RNA interference within follicle-enclosed mouse oocytes to block protein expression from an early stage of oocyte development onwards. We then analysed the function of several genes simultaneously by high-resolution imaging of chromosomes and microtubules in live oocytes and scored each oocyte quantitatively for 50 phenotypes, generating a comprehensive resource of meiotic gene function. The screen generated an unprecedented annotated data set of meiotic progression in 2,241 mammalian oocytes, which allowed us to analyse systematically which defects are linked to abnormal chromosome segregation during meiosis, identifying progression into anaphase with misaligned chromosomes as well as defects in spindle organization as risk factors. This study demonstrates how high-content screens can be performed in oocytes, and allows systematic studies of meiosis in mammals.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/uK00mJIgwyA/nature14568", 
+        "title": "Live imaging RNAi screen reveals genes essential for meiosis in mammalian oocytes"
+    }, 
+    {
+        "author": "Alphonse C. Sterling", 
+        "date": "2015-07-06", 
+        "description": "Solar X-ray jets are thought to be made by a burst of reconnection of closed magnetic field at the base of a jet with ambient open field. In the accepted version of the \u2018emerging-flux\u2019 model, such a reconnection occurs at a plasma current sheet between the open field and the emerging closed field, and also forms a localized X-ray brightening that is usually observed at the edge of the jet\u2019s base. Here we report high-resolution X-ray and extreme-ultraviolet observations of 20 randomly selected X-ray jets that form in coronal holes at the Sun\u2019s poles. In each jet, contrary to the emerging-flux model, a miniature version of the filament eruptions that initiate coronal mass ejections drives the jet-producing reconnection. The X-ray bright point occurs by reconnection of the \u2018legs\u2019 of the minifilament-carrying erupting closed field, analogous to the formation of solar flares in larger-scale eruptions. Previous observations have found that some jets are driven by base-field eruptions, but only one such study, of only one jet, provisionally questioned the emerging-flux model. Our observations support the view that solar filament eruptions are formed by a fundamental explosive magnetic process that occurs on a vast range of scales, from the biggest mass ejections and flare eruptions down to X-ray jets, and perhaps even down to smaller jets that may power coronal heating. A similar scenario has previously been suggested, but was inferred from different observations and based on a different origin of the erupting minifilament.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/DO704b_rnzg/nature14556", 
+        "title": "Small-scale filament eruptions as the driver of X-ray jets in solar coronal holes"
+    }, 
+    {
+        "author": "Peter K. Joshi", 
+        "date": "2015-07-01", 
+        "description": "Homozygosity has long been associated with rare, often devastating, Mendelian disorders, and Darwin was one of the first to recognize that inbreeding reduces evolutionary fitness. However, the effect of the more distant parental relatedness that is common in modern human populations is less well understood. Genomic data now allow us to investigate the effects of homozygosity on traits of public health importance by observing contiguous homozygous segments (runs of homozygosity), which are inferred to be homozygous along their complete length. Given the low levels of genome-wide homozygosity prevalent in most human populations, information is required on very large numbers of people to provide sufficient power. Here we use runs of homozygosity to study 16 health-related quantitative traits in 354,224 individuals from 102 cohorts, and find statistically significant associations between summed runs\u00a0of homozygosity and four complex traits: height, forced expiratory lung volume in one second, general cognitive ability and educational attainment (P < 1 \u00d7 10\u2212300, 2.1 \u00d7 10\u22126, 2.5 \u00d7 10\u221210 and 1.8 \u00d7 10\u221210, respectively). In each case, increased homozygosity was associated with decreased trait value, equivalent to the offspring of first cousins being 1.2 cm shorter and having 10 months\u2019 less education. Similar effect sizes were found across four continental groups and populations with different degrees of genome-wide homozygosity, providing evidence that homozygosity, rather than confounding, directly contributes to phenotypic variance. Contrary to earlier reports in substantially smaller samples, no evidence was seen of an influence of genome-wide homozygosity on blood pressure and low density lipoprotein cholesterol, or ten other cardio-metabolic traits. Since directional dominance is predicted for traits under directional evolutionary selection, this study provides evidence that increased stature and cognitive function have been positively selected in human evolution, whereas many important risk factors for late-onset complex diseases may not have been.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/DaN3tGVWqEk/nature14618", 
+        "title": "Directional dominance on stature and cognition in\u00a0diverse human populations"
+    }, 
+    {
+        "author": "Flaviano Morone", 
+        "date": "2015-07-01", 
+        "description": "The whole frame of interconnections in complex networks hinges on a specific set of structural nodes, much smaller than the total size, which, if activated, would cause the spread of information to the whole network, or, if immunized, would prevent the diffusion of a large scale epidemic. Localizing this optimal, that is, minimal, set of structural nodes, called influencers, is one of the most important problems in network science. Despite the vast use of heuristic strategies to identify influential spreaders, the problem remains unsolved. Here we map the problem onto optimal percolation in random networks to identify the minimal set of influencers, which arises by minimizing the energy of a many-body system, where the form of the interactions is fixed by the non-backtracking matrix of the network. Big data analyses reveal that the set of optimal influencers is much smaller than the one predicted by previous heuristic centralities. Remarkably, a large number of previously neglected weakly connected nodes emerges among the optimal influencers. These are topologically tagged as low-degree nodes surrounded by hierarchical coronas of hubs, and are uncovered only through the optimal collective interplay of all the influencers in the network. The present theoretical framework may hold a larger degree of universality, being applicable to other hard optimization problems exhibiting a continuous transition from a known phase.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/MGtG_0tsd0s/nature14604", 
+        "title": "Influence maximization in complex networks through optimal percolation"
+    }, 
+    {
+        "author": "Lindsay A. Schwarz", 
+        "date": "2015-07-01", 
+        "description": "Deciphering how neural circuits are anatomically organized with regard to input and output is instrumental in understanding how the brain processes information. For example, locus coeruleus noradrenaline (also known as norepinephrine) (LC-NE) neurons receive input from and send output to broad regions of the brain and spinal cord, and regulate diverse functions including arousal, attention, mood and sensory gating. However, it is unclear how LC-NE neurons divide up their brain-wide projection patterns and whether different LC-NE neurons receive differential input. Here we developed a set of viral-genetic tools to quantitatively analyse the input\u2013output relationship of neural circuits, and applied these tools to dissect the LC-NE circuit in mice. Rabies-virus-based input mapping indicated that LC-NE neurons receive convergent synaptic input from many regions previously identified as sending axons to the locus coeruleus, as well as from newly identified presynaptic partners, including cerebellar Purkinje cells. The \u2018tracing the relationship between input and output\u2019 method (or TRIO method) enables trans-synaptic input tracing from specific subsets of neurons based on their projection and cell type. We found that LC-NE neurons projecting to diverse output regions receive mostly similar input. Projection-based viral labelling revealed that LC-NE neurons projecting to one output region also project to all brain regions we examined. Thus, the LC-NE circuit overall integrates information from, and broadcasts to, many brain regions, consistent with its primary role in regulating brain states. At the same time, we uncovered several levels of specificity in certain LC-NE sub-circuits. These tools for mapping output architecture and input\u2013output relationship are applicable to other neuronal circuits and organisms. More broadly, our viral-genetic approaches provide an efficient intersectional means to target neuronal populations based on cell type and projection pattern.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/SRalGQFNH2k/nature14600", 
+        "title": "Viral-genetic tracing of the input\u2013output organization of a central noradrenaline circuit"
+    }, 
+    {
+        "author": "Laura A. Stevens", 
+        "date": "2015-07-01", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/c7_1dzVOExo/nature14608", 
+        "title": "Corrigendum: Greenland supraglacial lake drainages triggered by hydrologically induced basal slip"
+    }, 
+    {
+        "author": "Daniel M. Jordan", 
+        "date": "2015-06-29", 
+        "description": "Patterns of amino acid conservation have served as a tool for understanding protein evolution. The same principles have also found broad application in human genomics, driven by the need to interpret the pathogenic potential of variants in patients. Here we performed a systematic comparative genomics analysis of human disease-causing missense variants. We found that an appreciable fraction of disease-causing alleles are fixed in the genomes of other species, suggesting a role for genomic context. We developed a model of genetic interactions that predicts most of these to be simple pairwise compensations. Functional testing of this model on two known human disease genes revealed discrete cis amino acid residues that, although benign on their own, could rescue the human mutations in vivo. This approach was also applied to ab initio gene discovery to support the identification of a de novo disease driver in BTG2 that is subject to protective cis-modification in more than 50 species. Finally, on the basis of our data and models, we developed a computational tool to predict candidate residues subject to compensation. Taken together, our data highlight the importance of cis-genomic context as a contributor to protein evolution; they provide an insight into the complexity of allele effect on phenotype; and they are likely to assist methods for predicting allele pathogenicity.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/3-sW8Oogrhc/nature14497", 
+        "title": "Identification of cis-suppression of human disease mutations by comparative genomics"
+    }, 
+    {
+        "author": "Juha-Pekka Mattila", 
+        "date": "2015-06-29", 
+        "description": "Fusion and fission drive all vesicular transport. Although topologically opposite, these reactions pass through the same hemi-fusion/fission intermediate, characterized by a \u2018stalk\u2019 in which only the outer membrane monolayers of the two compartments have merged to form a localized non-bilayer connection. Formation of the hemi-fission intermediate requires energy input from proteins catalysing membrane remodelling; however, the relationship between protein conformational rearrangements and hemi-fusion/fission remains obscure. Here we analysed how the GTPase cycle of human dynamin 1, the prototypical membrane fission catalyst, is directly coupled to membrane remodelling. We used intramolecular chemical crosslinking to stabilize dynamin in its GDP\u00b7AlF4\u2212-bound transition state. In the absence of GTP this conformer produced stable hemi-fission, but failed to progress to complete fission, even in the presence of GTP. Further analysis revealed that the pleckstrin homology domain (PHD) locked in its membrane-inserted state facilitated hemi-fission. A second mode of dynamin activity, fuelled by GTP hydrolysis, couples dynamin disassembly with cooperative diminishing of the PHD wedging, thus destabilizing the hemi-fission intermediate to complete fission. Molecular simulations corroborate the bimodal character of dynamin action and indicate radial and axial forces as dominant, although not independent, drivers of hemi-fission and fission transformations, respectively. Mirrored in the fusion reaction, the force bimodality might constitute a general paradigm for leakage-free membrane remodelling.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/fEu8sVaPeaE/nature14509", 
+        "title": "A hemi-fission intermediate links two mechanistically distinct stages of membrane fission"
+    }, 
+    {
+        "author": "Eoin F. McKinney", 
+        "date": "2015-06-29", 
+        "description": "The clinical course of autoimmune and infectious disease varies greatly, even between individuals with the same condition. An understanding of the molecular basis for this heterogeneity could lead to significant improvements in both monitoring and treatment. During chronic infection the process of T-cell exhaustion inhibits the immune response, facilitating viral persistence. Here we show that a transcriptional signature reflecting CD8 T-cell exhaustion is associated with poor clearance of chronic viral infection, but conversely predicts better prognosis in multiple autoimmune diseases. The development of CD8 T-cell exhaustion during chronic infection is driven both by persistence of antigen and by a lack of accessory \u2018help\u2019 signals. In autoimmunity, we find that where evidence of CD4 T-cell co-stimulation is pronounced, that of CD8 T-cell exhaustion is reduced. We can reproduce the exhaustion signature by modifying the balance of persistent stimulation of T-cell antigen receptors and specific CD2-induced co-stimulation provided to human CD8 T cells in vitro, suggesting that each process plays a role in dictating outcome in autoimmune disease. The \u2018non-exhausted\u2019 T-cell state driven by CD2-induced co-stimulation is reduced by signals through the exhaustion-associated inhibitory receptor PD-1, suggesting that induction of exhaustion may be a therapeutic strategy in autoimmune and inflammatory disease. Using expression of optimal surrogate markers of co-stimulation/exhaustion signatures in independent data sets, we confirm an association with good clinical outcome or response to therapy in infection (hepatitis C virus) and vaccination (yellow fever, malaria, influenza), but poor outcome in autoimmune and inflammatory disease (type 1 diabetes, anti-neutrophil cytoplasmic antibody-associated vasculitis, systemic lupus erythematosus, idiopathic pulmonary fibrosis and dengue haemorrhagic fever). Thus, T-cell exhaustion plays a central role in determining outcome in autoimmune disease and targeted manipulation of this process could lead to new therapeutic opportunities.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/11foJ5w1xaE/nature14468", 
+        "title": "T-cell exhaustion, co-stimulation and clinical outcome in autoimmunity and infection"
+    }, 
+    {
+        "author": "Lanfeng Wang", 
+        "date": "2015-06-29", 
+        "description": "DNA methylation at selective cytosine residues (5-methylcytosine (5mC)) and their removal by TET-mediated DNA demethylation are critical for setting up pluripotent states in early embryonic development. TET enzymes successively convert 5mC to 5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC), and 5-carboxylcytosine (5caC), with 5fC and 5caC subject to removal by thymine DNA glycosylase (TDG) in conjunction with base excision repair. Early reports indicate that 5fC and 5caC could be stably detected on enhancers, promoters and gene bodies, with distinct effects on gene expression, but the mechanisms have remained elusive. Here we determined the X-ray crystal structure of yeast elongating RNA polymerase II (Pol II) in complex with a DNA template containing oxidized 5mCs, revealing specific hydrogen bonds between the 5-carboxyl group of 5caC and the conserved epi-DNA recognition loop in the polymerase. This causes a positional shift for incoming nucleoside 5\u2032-triphosphate (NTP), thus compromising nucleotide addition. To test the implication of this structural insight in vivo, we determined the global effect of increased 5fC/5caC levels on transcription, finding that such DNA modifications indeed retarded Pol II elongation on gene bodies. These results demonstrate the functional impact of oxidized 5mCs on gene expression and suggest a novel role for Pol II as a specific and direct epigenetic sensor during transcription elongation.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Kp9heFRB7yw/nature14482", 
+        "title": "Molecular basis for 5-carboxycytosine recognition by RNA polymerase II elongation complex"
+    }, 
+    {
+        "author": "Rainer R. Schoch", 
+        "date": "2015-06-24", 
+        "description": "The origin and early evolution of turtles have long been major contentious issues in vertebrate zoology. This is due to conflicting character evidence from molecules and morphology and a lack of transitional fossils from the critical time interval. The \u223c220-million-year-old stem-turtle Odontochelys from China has a partly formed shell and many turtle-like features in its postcranial skeleton. Unlike the 214-million-year-old Proganochelys from Germany and Thailand, it retains marginal teeth and lacks a carapace. Odontochelys is separated by a large temporal gap from the \u223c260-million-year-old Eunotosaurus from South Africa, which has been hypothesized as the earliest stem-turtle. Here we report a new reptile, Pappochelys, that is structurally and chronologically intermediate between Eunotosaurus and Odontochelys and dates from the Middle Triassic period (\u223c240 million years ago). The three taxa share anteroposteriorly broad trunk ribs that are T-shaped in cross-section and bear sculpturing, elongate dorsal vertebrae, and modified limb girdles. Pappochelys closely resembles Odontochelys in various features of the limb girdles. Unlike Odontochelys, it has a cuirass of robust paired gastralia in place of a plastron. Pappochelys provides new evidence that the plastron partly formed through serial fusion of gastralia. Its skull has small upper and ventrally open lower temporal fenestrae, supporting the hypothesis of diapsid affinities of turtles.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/JAEpgC9Fz3w/nature14472", 
+        "title": "A Middle Triassic stem-turtle and the evolution of the turtle body plan"
+    }, 
+    {
+        "author": "Etienne Simon-Loriere", 
+        "date": "2015-06-24", 
+        "description": "An epidemic of Ebola virus disease of unprecedented scale has been ongoing for more than a year in West Africa. As of 29 April 2015, there have been 26,277 reported total cases (of which 14,895 have been laboratory confirmed) resulting in 10,899 deaths. The source of the outbreak was traced to the prefecture of Gu\u00e9ck\u00e9dou in the forested region of southeastern Guinea. The virus later spread to the capital, Conakry, and to the neighbouring countries of Sierra Leone, Liberia, Nigeria, Senegal and Mali. In March 2014, when the first cases were detected in Conakry, the Institut Pasteur of Dakar, Senegal, deployed a mobile laboratory in Donka hospital to provide diagnostic services to the greater Conakry urban area and other regions of Guinea. Through this process we sampled 85 Ebola viruses (EBOV) from patients infected from July to November 2014, and report their full genome sequences here. Phylogenetic analysis reveals the sustained transmission of three distinct viral lineages co-circulating in Guinea, including the urban setting of Conakry and its surroundings. One lineage is unique to Guinea and closely related to the earliest sampled viruses of the epidemic. A second lineage contains viruses probably reintroduced from neighbouring Sierra Leone on multiple occasions, while a third lineage later spread from Guinea to Mali. Each lineage is defined by multiple mutations, including non-synonymous changes in the virion protein 35 (VP35), glycoprotein (GP) and RNA-dependent RNA polymerase (L) proteins. The viral GP is characterized by a glycosylation site modification and mutations in the mucin-like domain that could modify the outer shape of the virion. These data illustrate the ongoing ability of EBOV to develop lineage-specific and potentially phenotypically important variation.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/6lMUL7ssoxA/nature14612", 
+        "title": "Distinct lineages of Ebola virus in Guinea during the 2014 West African epidemic"
+    }, 
+    {
+        "author": "Yi Cao", 
+        "date": "2015-06-24", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/80qV-VODgzc/nature14605", 
+        "title": "Erratum: A strong ultraviolet pulse from a newborn type Ia supernova"
+    }, 
+    {
+        "author": "Rob P. Olling", 
+        "date": "2015-06-24", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ijB9Ue2gxfU/nature14572", 
+        "title": "Erratum: No signature of ejecta interaction with a stellar companion in three type Ia supernovae"
+    }, 
+    {
+        "author": "Danilo Maddalo", 
+        "date": "2015-06-24", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/CoTsXDYEsWU/nature14571", 
+        "title": "Corrigendum: In vivo engineering of oncogenic chromosomal rearrangements with the CRISPR/Cas9 system"
+    }, 
+    {
+        "author": "Alessio Attardo", 
+        "date": "2015-06-22", 
+        "description": "The mammalian hippocampus is crucial for episodic memory formation and transiently retains information for about 3\u20134 weeks in adult mice and longer in humans. Although neuroscientists widely believe that neural synapses are elemental sites of information storage, there has been no direct evidence that hippocampal synapses persist for time intervals commensurate with the duration of hippocampal-dependent memory. Here we tested the prediction that the lifetimes of hippocampal synapses match the longevity of hippocampal memory. By using time-lapse two-photon microendoscopy in the CA1 hippocampal area of live mice, we monitored the turnover dynamics of the pyramidal neurons\u2019 basal dendritic spines, postsynaptic structures whose turnover dynamics are thought to reflect those of excitatory synaptic connections. Strikingly, CA1 spine turnover dynamics differed sharply from those seen previously in the neocortex. Mathematical modelling revealed that the data best matched kinetic models with a single population of spines with a mean lifetime of approximately 1\u20132 weeks. This implies \u223c100% turnover in \u223c2\u20133 times this interval, a near full erasure of the synaptic connectivity pattern. Although N-methyl-d-aspartate (NMDA) receptor blockade stabilizes spines in the neocortex, in CA1 it transiently increased the rate of spine loss and thus lowered spine density. These results reveal that adult neocortical and hippocampal pyramidal neurons have divergent patterns of spine regulation and quantitatively support the idea that the transience of hippocampal-dependent memory directly reflects the turnover dynamics of hippocampal synapses.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/zBqNKBiM6Cs/nature14467", 
+        "title": "Impermanence of dendritic spines in live adult CA1 hippocampus"
+    }, 
+    {
+        "author": "Yonghong Bai", 
+        "date": "2015-06-22", 
+        "description": "Stearoyl-CoA desaturase (SCD) is conserved in all eukaryotes and introduces the first double bond into saturated fatty acyl-CoAs. Because the monounsaturated products of SCD are key precursors of membrane phospholipids, cholesterol esters and triglycerides, SCD is pivotal in fatty acid metabolism. Humans have two SCD homologues (SCD1 and SCD5), while mice have four (SCD1\u2013SCD4). SCD1-deficient mice do not become obese or diabetic when fed a high-fat diet because of improved lipid metabolic profiles and insulin sensitivity. Thus, SCD1 is a pharmacological target in the treatment of obesity, diabetes and other metabolic diseases. SCD1 is an integral membrane protein located in the endoplasmic reticulum, and catalyses the formation of a cis-double bond between the ninth and tenth carbons of stearoyl- or palmitoyl-CoA. The reaction requires molecular oxygen, which is activated by a di-iron centre, and cytochrome b5, which regenerates the di-iron centre. To understand better the structural basis of these characteristics of SCD function, here we crystallize and solve the structure of mouse SCD1 bound to stearoyl-CoA at 2.6 \u00c5 resolution. The structure shows a novel fold comprising four transmembrane helices capped by a cytosolic domain, and a plausible pathway for lateral substrate access and product egress. The acyl chain of the bound stearoyl-CoA is enclosed in a tunnel buried in the cytosolic domain, and the geometry of the tunnel and the conformation of the bound acyl chain provide a structural basis for the regioselectivity and stereospecificity of the desaturation reaction. The dimetal centre is coordinated by a unique spacial arrangement of nine conserved histidine residues that implies a potentially novel mechanism for oxygen activation. The structure also illustrates a possible route for electron transfer from cytochrome b5 to the di-iron centre.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/uzvkOr2wOWs/nature14549", 
+        "title": "X-ray structure of a mammalian stearoyl-CoA desaturase"
+    }, 
+    {
+        "author": "Qiaomei Fu", 
+        "date": "2015-06-22", 
+        "description": "Neanderthals are thought to have disappeared in Europe approximately 39,000\u201341,000 years ago but they have contributed 1\u20133% of the DNA of present-day people in Eurasia. Here we analyse DNA from a 37,000\u201342,000-year-old modern human from Pe\u015ftera cu Oase, Romania. Although the specimen contains small amounts of human DNA, we use an enrichment strategy to isolate sites that are informative about its relationship to Neanderthals and present-day humans. We find that on the order of 6\u20139% of the genome of the Oase individual is derived from Neanderthals, more than any other modern human sequenced to date. Three chromosomal segments of Neanderthal ancestry are over 50 centimorgans in size, indicating that this individual had a Neanderthal ancestor as recently as four to six generations back. However, the Oase individual does not share more alleles with later Europeans than with East Asians, suggesting that the Oase population did not contribute substantially to later humans in Europe.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/nV55NJYMCc8/nature14558", 
+        "title": "An early modern human from Romania with a recent Neanderthal ancestor"
+    }, 
+    {
+        "author": "Benjamin P. Kleinstiver", 
+        "date": "2015-06-22", 
+        "description": "Although CRISPR-Cas9 nucleases are widely used for genome editing, the range of sequences that Cas9 can recognize is constrained by the need for a specific protospacer adjacent motif (PAM). As a result, it can often be difficult to target double-stranded breaks (DSBs) with the precision that is necessary for various genome-editing applications. The ability to engineer Cas9 derivatives with purposefully altered PAM specificities would address this limitation. Here we show that the commonly used Streptococcus pyogenes Cas9 (SpCas9) can be modified to recognize alternative PAM sequences using structural information, bacterial selection-based directed evolution, and combinatorial design. These altered PAM specificity variants enable robust editing of endogenous gene sites in zebrafish and human cells not currently targetable by wild-type SpCas9, and their genome-wide specificities are comparable to wild-type SpCas9 as judged by GUIDE-seq analysis. In addition, we identify and characterize another SpCas9 variant that exhibits improved specificity in human cells, possessing better discrimination against off-target sites with non-canonical NAG and NGA PAMs and/or mismatched spacers. We also find that two smaller-size Cas9 orthologues, Streptococcus thermophilus Cas9 (St1Cas9) and Staphylococcus aureus Cas9 (SaCas9), function efficiently in the bacterial selection systems and in human cells, suggesting that our engineering strategies could be extended to Cas9s from other species. Our findings provide broadly useful SpCas9 variants and, more importantly, establish the feasibility of engineering a wide range of Cas9s with altered and improved PAM specificities.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/WvhTFQZ0PqE/nature14592", 
+        "title": "Engineered CRISPR-Cas9 nucleases with altered PAM specificities"
+    }, 
+    {
+        "author": "Mian Zhou", 
+        "date": "2015-06-22", 
+        "description": "Recent studies have shown that in addition to the transcriptional circadian clock, many organisms, including Arabidopsis, have a circadian redox rhythm driven by the organism\u2019s metabolic activities. It has been hypothesized that the redox rhythm is linked to the circadian clock, but the mechanism and the biological significance of this link have only begun to be investigated. Here we report that the master immune regulator NPR1 (non-expressor of pathogenesis-related gene 1) of Arabidopsis is a sensor of the plant\u2019s redox state and regulates transcription of core circadian clock genes even in the absence of pathogen challenge. Surprisingly, acute perturbation in the redox status triggered by the immune signal salicylic acid does not compromise the circadian clock but rather leads to its reinforcement. Mathematical modelling and subsequent experiments show that NPR1 reinforces the circadian clock without changing the period by regulating both the morning and the evening clock genes. This balanced network architecture helps plants gate their immune responses towards the morning and minimize costs on growth at night. Our study demonstrates how a sensitive redox rhythm interacts with a robust circadian clock to ensure proper responsiveness to environmental stimuli without compromising fitness of the organism.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/6PNquJOEryM/nature14449", 
+        "title": "Redox rhythm reinforces the circadian clock to gate immune response"
+    }, 
+    {
+        "author": "Herve Rhinn", 
+        "date": "2015-06-17", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/WCizmcMwYmE/nature14591", 
+        "title": "Retraction: Integrative genomics identifies APOE \u03b54 effectors in Alzheimer\u2019s disease"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-06-17", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/g-O1_mMe1R4/nature14538", 
+        "title": "Addendum"
+    }, 
+    {
+        "author": "Jason D. Buenrostro", 
+        "date": "2015-06-17", 
+        "description": "Cell-to-cell variation is a universal feature of life that affects a wide range of biological phenomena, from developmental plasticity to tumour heterogeneity. Although recent advances have improved our ability to document cellular phenotypic variation, the fundamental mechanisms that generate variability from identical DNA sequences remain elusive. Here we reveal the landscape and principles of mammalian DNA regulatory variation by developing a robust method for mapping the accessible genome of individual cells by assay for transposase-accessible chromatin using sequencing (ATAC-seq) integrated into a programmable microfluidics platform. Single-cell ATAC-seq (scATAC-seq) maps from hundreds of single cells in aggregate closely resemble accessibility profiles from tens of millions of cells and provide insights into cell-to-cell variation. Accessibility variance is systematically associated with specific trans-factors and cis-elements, and we discover combinations of trans-factors associated with either induction or suppression of cell-to-cell variability. We further identify sets of trans-factors associated with cell-type-specific accessibility variance across eight cell types. Targeted perturbations of cell cycle or transcription factor signalling evoke stimulus-specific changes in this observed variability. The pattern of accessibility variation in cis across the genome recapitulates chromosome compartmentsde novo, linking single-cell accessibility variation to three-dimensional genome organization. Single-cell analysis of DNA accessibility provides new insight into cellular variation of the \u2018regulome\u2019.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Jp8WkO-O6rU/nature14590", 
+        "title": "Single-cell chromatin accessibility reveals principles of regulatory variation"
+    }, 
+    {
+        "author": "Miles W. Carroll", 
+        "date": "2015-06-17", 
+        "description": "West Africa is currently witnessing the most extensive Ebola virus (EBOV) outbreak so far recorded. Until now, there have been 27,013 reported cases and 11,134 deaths. The origin of the virus is thought to have been a zoonotic transmission from a bat to a twoyear-old boy in December 2013 (ref. 2). From this index case the virus was spread by human-to-human contact throughout Guinea, Sierra Leone and Liberia. However, the origin of the particular virus in each country and time of transmission is not known and currently relies on epidemiological analysis, which may be unreliable owing to the difficulties of obtaining patient information. Here we trace the genetic evolution of EBOV in the current outbreak that has resulted in multiple lineages. Deep sequencing of 179 patient samples processed by the European Mobile Laboratory, the first diagnostics unit to be deployed to the epicentre of the outbreak in Guinea, reveals an epidemiological and evolutionary history of the epidemic from March 2014 to January 2015. Analysis of EBOV genome evolution has also benefited from a similar sequencing effort of patient samples from Sierra Leone. Our results confirm that the EBOV from Guinea moved into Sierra Leone, most likely in April or early May. The viruses of the Guinea/Sierra Leone lineage mixed around June/July 2014. Viral sequences covering August, September and October 2014 indicate that this lineage evolved independently within Guinea. These data can be used in conjunction with epidemiological information to test retrospectively the effectiveness of control measures, and provides an unprecedented window into the evolution of an ongoing viral haemorrhagic fever outbreak.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/66nXKbIa6bU/nature14594", 
+        "title": "Temporal and spatial analysis of the 2014\u20132015 Ebola virus outbreak in West Africa"
+    }, 
+    {
+        "author": "Samer M. I. Hussein", 
+        "date": "2015-06-17", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/G-aQ0o8ShrA/nature14606", 
+        "title": "Corrigendum: Genome-wide characterization of the routes to pluripotency"
+    }, 
+    {
+        "author": "Peter D. Tonge", 
+        "date": "2015-06-17", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/jr8og5gnOFY/nature14607", 
+        "title": "Corrigendum: Divergent reprogramming routes lead to alternative stem-cell states"
+    }, 
+    {
+        "author": "Yi-Gang Tong", 
+        "date": "2015-05-13", 
+        "description": "A novel Ebola virus (EBOV) first identified in March 2014 has infected more than 25,000 people in West Africa, resulting in more than 10,000 deaths. Preliminary analyses of genome sequences of 81 EBOV collected from March to June 2014 from Guinea and Sierra Leone suggest that the 2014 EBOV originated from an independent transmission event from its natural reservoir followed by sustained human-to-human infections. It has been reported that the EBOV genome variation might have an effect on the efficacy of sequence-based virus detection and candidate therapeutics. However, only limited viral information has been available since July 2014, when the outbreak entered a rapid growth phase. Here we describe 175 full-length EBOV genome sequences from five severely stricken districts in Sierra Leone from 28 September to 11 November 2014. We found that the 2014 EBOV has become more phylogenetically and genetically diverse from July to November 2014, characterized by the emergence of multiple novel lineages. The substitution rate for the 2014 EBOV was estimated to be 1.23 \u00d7 10\u22123 substitutions per site per year (95% highest posterior density interval, 1.04 \u00d7 10\u22123 to 1.41 \u00d7 10\u22123 substitutions per site per year), approximating to that observed between previous EBOV outbreaks. The sharp increase in genetic diversity of the 2014 EBOV warrants extensive EBOV surveillance in Sierra Leone, Guinea and Liberia to better understand the viral evolution and transmission dynamics of the ongoing outbreak. These data will facilitate the international efforts to develop vaccines and therapeutics.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/xqEMuTh2Yrg/nature14490", 
+        "title": "Genetic diversity and evolutionary dynamics of Ebola virus in Sierra Leone"
+    }, 
+    {
+        "author": "Michael Ghidiu", 
+        "date": "2014-11-26", 
+        "description": "Safe and powerful energy storage devices are becoming increasingly important. Charging times of seconds to minutes, with power densities exceeding those of batteries, can in principle be provided by electrochemical capacitors\u2014in particular, pseudocapacitors. Recent research has focused mainly on improving the gravimetric performance of the electrodes of such systems, but for portable electronics and vehicles volume is at a premium. The best volumetric capacitances of carbon-based electrodes are around 300 farads per cubic centimetre; hydrated ruthenium oxide can reach capacitances of 1,000 to 1,500\u00a0farads per cubic centimetre with great cyclability, but only in thin films. Recently, electrodes made of two-dimensional titanium carbide (Ti3C2, a member of the \u2018MXene\u2019 family), produced by etching aluminium from titanium aluminium carbide (Ti3AlC2, a \u2018MAX\u2019 phase) in concentrated hydrofluoric acid, have been shown to have volumetric capacitances of over 300\u00a0farads per cubic centimetre. Here we report a method of producing this material using a solution of lithium fluoride and hydrochloric acid. The resulting hydrophilic material swells in volume when hydrated, and can be shaped like clay and dried into a highly conductive solid or rolled into films tens of micrometres thick. Additive-free films of this titanium carbide \u2018clay\u2019 have volumetric capacitances of up to 900\u00a0farads per cubic centimetre, with excellent cyclability and rate performances. This capacitance is almost twice that of our previous report, and our synthetic method also offers a much faster route to film production as well as the avoidance of handling hazardous concentrated hydrofluoric acid.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/e4TrG5Hf6Wg/nature13970", 
+        "title": "Conductive two-dimensional titanium carbide \u2018clay\u2019 with high volumetric capacitance"
+    }, 
+    {
+        "author": "Sanchita Bhatnagar", 
+        "date": "2014-11-24", 
+        "description": "The TRIM37 (also known as MUL) gene is located in the 17q23 chromosomal region, which is amplified in up to \u223c40% of breast cancers. TRIM37 contains a RING finger domain, a hallmark of E3 ubiquitin ligases, but its protein substrate(s) is unknown. Here we report that TRIM37 mono-ubiquitinates histone H2A, a chromatin modification associated with transcriptional repression. We find that in human breast cancer cell lines containing amplified 17q23, TRIM37 is upregulated and, reciprocally, the major H2A ubiquitin ligase RNF2 (also known as RING1B) is downregulated. Genome-wide chromatin immunoprecipitation (ChIP)-chip experiments in 17q23-amplified breast cancer cells identified many genes, including multiple tumour suppressors, whose promoters were bound by TRIM37 and enriched for ubiquitinated H2A. However, unlike RNF2, which is a subunit of polycomb repressive complex 1 (PRC1), we find that TRIM37 associates with polycomb repressive complex 2 (PRC2). TRIM37, PRC2 and PRC1 are co-bound to specific target genes, resulting in their transcriptional silencing. RNA-interference-mediated knockdown of TRIM37 results in loss of ubiquitinated H2A, dissociation of PRC1 and PRC2 from target promoters, and transcriptional reactivation of silenced genes. Knockdown of TRIM37 in human breast cancer cells containing amplified 17q23 substantially decreases tumour growth in mouse xenografts. Conversely, ectopic expression of TRIM37 renders non-transformed cells tumorigenic. Collectively, our results reveal TRIM37 as an oncogenic H2A ubiquitin ligase that is overexpressed in a subset of breast cancers and promotes transformation by facilitating silencing of tumour suppressors and other genes.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/P-w1TkdTEa4/nature13955", 
+        "title": "TRIM37 is a new histone H2A ubiquitin ligase and breast cancer oncoprotein"
+    }, 
+    {
+        "author": "Deborah M. Muoio", 
+        "date": "2014-11-19", 
+        "description": "A new class of fatty acid \u2014 found in food and synthesized by mammalian tissues \u2014 enhances glucose uptake from the blood and reduces inflammation, suggesting that these fats might be used to treat diabetes.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/upzlyGnwOqk/nature14070", 
+        "title": "Diabetes: The good in fat"
+    }, 
+    {
+        "author": "Marie Claire Villeval", 
+        "date": "2014-11-19", 
+        "description": "An experiment shows that although bank employees behave honestly on average, their dishonesty increases when they make decisions after having been primed to think about their professional identity.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/D8aYXAy-5vo/nature14068", 
+        "title": "Behavioural economics: Professional identity can increase dishonesty"
+    }, 
+    {
+        "author": "Yao Wang", 
+        "date": "2014-11-19", 
+        "description": "The finding that intestinal viruses can substitute for intestinal bacteria to promote the health of their mammalian hosts raises the possibility that viruses in the gut may be beneficial in some circumstances.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/w3UaNUbDWtc/nature13938", 
+        "title": "Microbiology: A backup for bacteria"
+    }, 
+    {
+        "author": "Alain Cohn", 
+        "date": "2014-11-19", 
+        "description": "Trust in others\u2019 honesty is a key component of the long-term performance of firms, industries, and even whole countries. However, in recent years, numerous scandals involving fraud have undermined confidence in the financial industry. Contemporary commentators have attributed these scandals to the financial sector\u2019s business culture, but no scientific evidence supports this claim. Here we show that employees of a large, international bank behave, on average, honestly in a control condition. However, when their professional identity as bank employees is rendered salient, a significant proportion of them become dishonest. This effect is specific to bank employees because control experiments with employees from other industries and with students show that they do not become more dishonest when their professional identity or bank-related items are rendered salient. Our results thus suggest that the prevailing business culture in the banking industry weakens and undermines the honesty norm, implying that measures to re-establish an honest culture are very important.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/0f_QKIsIQxY/nature13977", 
+        "title": "Business culture and dishonesty in the banking industry"
+    }, 
+    {
+        "author": "Elisabeth Kernbauer", 
+        "date": "2014-11-19", 
+        "description": "Intestinal microbial communities have profound effects on host physiology. Whereas the symbiotic contribution of commensal bacteria is well established, the role of eukaryotic viruses that are present in the gastrointestinal tract under homeostatic conditions is undefined. Here we demonstrate that a common enteric RNA virus can replace the beneficial function of commensal bacteria in the intestine. Murine norovirus (MNV) infection of germ-free or antibiotic-treated mice restored intestinal morphology and lymphocyte function without inducing overt inflammation and disease. The presence of MNV also suppressed an expansion of group 2 innate lymphoid cells observed in the absence of bacteria, and induced transcriptional changes in the intestine associated with immune development and type I interferon (IFN) signalling. Consistent with this observation, the IFN-\u03b1 receptor was essential for the ability of MNV to compensate for bacterial depletion. Importantly, MNV infection offset the deleterious effect of treatment with antibiotics in models of intestinal injury and pathogenic bacterial infection. These data indicate that eukaryotic viruses have the capacity to support intestinal homeostasis and shape mucosal immunity, similarly to commensal bacteria.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/UG1UiJ4HgNk/nature13960", 
+        "title": "An enteric virus can replace the beneficial function of commensal bacteria"
+    }, 
+    {
+        "author": "Xu Chen", 
+        "date": "2014-11-17", 
+        "description": "The prominent and evolutionarily ancient role of the plant hormone auxin is the regulation of cell expansion. Cell expansion requires ordered arrangement of the cytoskeleton but molecular mechanisms underlying its regulation by signalling molecules including auxin are unknown. Here we show in the model plant Arabidopsis thaliana that in elongating cells exogenous application of auxin or redistribution of endogenous auxin induces very rapid microtubule re-orientation from transverse to longitudinal, coherent with the inhibition of cell expansion. This fast auxin effect requires auxin binding protein 1 (ABP1) and involves a contribution of downstream signalling components such as ROP6 GTPase, ROP-interactive protein RIC1 and the microtubule-severing protein katanin. These components are required for rapid auxin- and ABP1-mediated re-orientation of microtubules to regulate cell elongation in roots and dark-grown hypocotyls as well as asymmetric growth during gravitropic responses.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/RA8d07RqLAE/nature13889", 
+        "title": "Inhibition of cell expansion by rapid ABP1-mediated auxin effect on microtubules"
+    }, 
+    {
+        "author": "Gerhard Schratt", 
+        "date": "2014-11-12", 
+        "description": "Chronic stress can cause depression in some individuals, but leaves others untouched. Engagement of a molecular pathway controlling the production of tiny RNA snippets might help to explain the difference.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/WppVcqlB3-c/nature13942", 
+        "title": "Neurobiology: A molecular knife to dice depression"
+    }, 
+    {
+        "author": "Carmine Settembre", 
+        "date": "2014-11-12", 
+        "description": "Two studies find that an intracellular quality-control mechanism called autophagy is regulated by nuclear receptor proteins that govern the expression of autophagy genes.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/CPkQJZJxidg/nature13939", 
+        "title": "Cell metabolism: Autophagy transcribed"
+    }, 
+    {
+        "author": "Caroline Dias", 
+        "date": "2014-11-12", 
+        "description": "Here \u03b2-catenin, which has been implicated in neurological and psychiatric diseases, including depression, is shown to mediate resilience to chronic stress in mice through induction of Dicer and microRNAs in nucleus accumbens, a key brain reward region.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Q_lYgRcO87s/nature13976", 
+        "title": "\u03b2-catenin mediates stress resilience through Dicer1/microRNA regulation"
+    }, 
+    {
+        "author": "Jae Man Lee", 
+        "date": "2014-11-12", 
+        "description": "Autophagy is an evolutionarily conserved catabolic process that recycles nutrients upon starvation and maintains cellular energy homeostasis. Its acute regulation by nutrient-sensing signalling pathways is well described, but its longer-term transcriptional regulation is not. The nuclear receptors peroxisome proliferator-activated receptor-\u03b1 (PPAR\u03b1) and farnesoid X receptor (FXR) are activated in the fasted and fed liver, respectively. Here we show that both PPAR\u03b1 and FXR regulate hepatic autophagy in mice. Pharmacological activation of PPAR\u03b1 reverses the normal suppression of autophagy in the fed state, inducing autophagic lipid degradation, or lipophagy. This response is lost in PPAR\u03b1 knockout (Ppara\u2212/\u2212, also known as Nr1c1\u2212/\u2212) mice, which are partially defective in the induction of autophagy by fasting. Pharmacological activation of the bile acid receptor FXR strongly suppresses the induction of autophagy in the fasting state, and this response is absent in FXR knockout (Fxr\u2212/\u2212, also known as Nr1h4\u2212/\u2212) mice, which show a partial defect in suppression of hepatic autophagy in the fed state. PPAR\u03b1 and FXR compete for binding to shared sites in autophagic gene promoters, with opposite transcriptional outputs. These results reveal complementary, interlocking mechanisms for regulation of autophagy by nutrient status.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/wxpEsKAJ8aA/nature13961", 
+        "title": "Nutrient-sensing nuclear receptors coordinate autophagy"
+    }, 
+    {
+        "author": "Sunmi Seok", 
+        "date": "2014-11-12", 
+        "description": "Lysosomal degradation of cytoplasmic components by autophagy is essential for cellular survival and homeostasis under nutrient-deprived conditions. Acute regulation of autophagy by nutrient-sensing kinases is well defined, but longer-term transcriptional regulation is relatively unknown. Here we show that the fed-state sensing nuclear receptor farnesoid X receptor (FXR) and the fasting transcriptional activator cAMP response element-binding protein (CREB) coordinately regulate the hepatic autophagy gene network. Pharmacological activation of FXR repressed many autophagy genes and inhibited autophagy even in fasted mice, and feeding-mediated inhibition of macroautophagy was attenuated in FXR-knockout mice. From mouse liver chromatin immunoprecipitation and high-throughput sequencing data, FXR and CREB binding peaks were detected at 178 and 112 genes, respectively, out of 230 autophagy-related genes, and 78 genes showed shared binding, mostly in their promoter regions. CREB promoted autophagic degradation of lipids, or lipophagy, under nutrient-deprived conditions, and FXR inhibited this response. Mechanistically, CREB upregulated autophagy genes, including Atg7, Ulk1 and Tfeb, by recruiting the coactivator CRTC2. After feeding or pharmacological activation, FXR trans-repressed these genes by disrupting the functional CREB\u2013CRTC2 complex. This study identifies the new FXR\u2013CREB axis as a key physiological switch regulating autophagy, resulting in sustained nutrient regulation of autophagy during feeding/fasting cycles.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/dRKqzzABriA/nature13949", 
+        "title": "Transcriptional regulation of autophagy by an FXR\u2013CREB axis"
+    }, 
+    {
+        "author": "Adel Al Jord", 
+        "date": "2014-10-12", 
+        "description": "The semi-conservative centrosome duplication in cycling cells gives rise to a centrosome composed of a mother and a newly formed daughter centriole. Both centrioles are regarded as equivalent in their ability to form new centrioles and their symmetric duplication is crucial for cell division homeostasis. Multiciliated cells do not use the archetypal duplication program and instead form more than a hundred centrioles that are required for the growth of motile cilia and the efficient propelling of physiological fluids. The majority of these new centrioles are thought to appear de novo, that is, independently from the centrosome, around electron-dense structures called deuterosomes. Their origin remains unknown. Using live imaging combined with correlative super-resolution light and electron microscopy, we show that all new centrioles derive from the pre-existing progenitor cell centrosome through multiple rounds of procentriole seeding. Moreover, we establish that only the daughter centrosomal centriole contributes to deuterosome formation, and thus to over ninety per cent of the final centriole population. This unexpected centriolar asymmetry grants new perspectives when studying cilia-related diseases and pathological centriole amplification observed in cycling cells and associated with microcephaly and cancer.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/79JMG3byspU/nature13770", 
+        "title": "Centriole amplification by mother and daughter centrioles differs in multiciliated cells"
+    }, 
+    {
+        "author": "Andrew Whiten", 
+        "date": "2014-10-01", 
+        "description": "The adoption of a new form of tool use has been observed to spread along social-network pathways in a chimpanzee community. The finding offers the first direct evidence of cultural diffusion in these animals in the wild.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/K9BHIxUp9hA/nature13759", 
+        "title": "Animal behaviour: Incipient tradition in wild chimpanzees"
+    }, 
+    {
+        "author": "Robert T. Batey", 
+        "date": "2014-09-24", 
+        "description": "The spliceosome enzyme complex removes intron sequences from RNA transcripts to form messenger RNA. The crystal structure of a lasso-shaped RNA suggests a mechanism for this splicing process.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/0d5E6SQvJAc/nature13754", 
+        "title": "Structural biology: Lariat lessons"
+    }, 
+    {
+        "author": "Aaron R. Robart", 
+        "date": "2014-09-24", 
+        "description": "This study determines the structure of a branched lariat RNA, providing insights into rearrangement of the intron between the two steps of RNA splicing.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/A_ImGCoLYZQ/nature13790", 
+        "title": "Crystal structure of a eukaryotic group II intron lariat"
+    }, 
+    {
+        "author": "Nuno Carvalhais", 
+        "date": "2014-09-24", 
+        "description": "The response of the terrestrial carbon cycle to climate change is among the largest uncertainties affecting future climate change projections. The feedback between the terrestrial carbon cycle and climate is partly determined by changes in the turnover time of carbon in land ecosystems, which in turn is an ecosystem property that emerges from the interplay between climate, soil and vegetation type. Here we present a global, spatially explicit and observation-based assessment of whole-ecosystem carbon turnover times that combines new estimates of vegetation and soil organic carbon stocks and fluxes. We find that the overall mean global carbon turnover time is \u00a0years (95 per cent confidence interval). On average, carbon resides in the vegetation and soil near the Equator for a shorter time than at latitudes north of 75\u00b0 north (mean turnover times of 15 and 255\u00a0years, respectively). We identify a clear dependence of the turnover time on temperature, as expected from our present understanding of temperature controls on ecosystem dynamics. Surprisingly, our analysis also reveals a similarly strong association between turnover time and precipitation. Moreover, we find that the ecosystem carbon turnover times simulated by state-of-the-art coupled climate/carbon-cycle models vary widely and that numerical simulations, on average, tend to underestimate the global carbon turnover time by 36 per cent. The models show stronger spatial relationships with temperature than do observation-based estimates, but generally do not reproduce the strong relationships with precipitation and predict faster carbon turnover in many semi-arid regions. Our findings suggest that future climate/carbon-cycle feedbacks may depend more strongly on changes in the hydrological cycle than is expected at present and is considered in Earth system models.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/KIoX8_0pWoA/nature13731", 
+        "title": "Global covariation of carbon turnover times with climate in terrestrial ecosystems"
+    }, 
+    {
+        "author": "Taylor Feehley", 
+        "date": "2014-09-17", 
+        "description": "Analyses in mice and humans indicate that non-caloric artificial sweeteners may promote obesity-associated metabolic changes by changing the function of the bacteria that colonize the gut.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/fKM2lUnu9j4/nature13752", 
+        "title": "Health: The weighty costs of non-caloric sweeteners"
+    }, 
+    {
+        "author": "Jotham Suez", 
+        "date": "2014-09-17", 
+        "description": "Non-caloric artificial sweeteners (NAS), widely used food additives considered to be safe and beneficial alternatives to sugars, are shown here to lead to the development of glucose intolerance through compositional and functional changes in the gut microbiota of mice, and the deleterious metabolic effects are transferred to germ-free mice by faecal transplant; NAS-induced dysbiosis and glucose intolerance are also demonstrated in healthy human subjects.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/8CiFVoxRVso/nature13793", 
+        "title": "Artificial sweeteners induce glucose intolerance by altering the gut microbiota"
+    }, 
+    {
+        "author": "Ru-Jin Huang", 
+        "date": "2014-09-17", 
+        "description": "Rapid industrialization and urbanization in developing countries has led to an increase in air pollution, along a similar trajectory to that previously experienced by the developed nations. In China, particulate pollution is a serious environmental problem that is influencing air quality, regional and global climates, and human health. In response to the extremely severe and persistent haze pollution experienced by about 800 million people during the first quarter of 2013 (refs 4, 5), the Chinese State Council announced its aim to reduce concentrations of PM2.5 (particulate matter with an aerodynamic diameter less than 2.5\u00a0micrometres) by up to 25 per cent relative to 2012 levels by 2017 (ref. 6). Such efforts however require elucidation of the factors governing the abundance and composition of PM2.5, which remain poorly constrained in China. Here we combine a comprehensive set of novel and state-of-the-art offline analytical approaches and statistical techniques to investigate the chemical nature and sources of particulate matter at urban locations in Beijing, Shanghai, Guangzhou and Xi\u2019an during January 2013. We find that the severe haze pollution event was driven to a large extent by secondary aerosol formation, which contributed 30\u201377 per cent and 44\u201371 per cent (average for all four cities) of PM2.5 and of organic aerosol, respectively. On average, the contribution of secondary organic aerosol (SOA) and secondary inorganic aerosol (SIA) are found to be of similar importance (SOA/SIA ratios range from 0.6 to 1.4). Our results suggest that, in addition to mitigating primary particulate emissions, reducing the emissions of secondary aerosol precursors from, for example, fossil fuel combustion and biomass burning is likely to be important for controlling China\u2019s PM2.5 levels and for reducing the environmental, economic and health impacts resulting from particulate pollution.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/rYOoSJyiqOA/nature13774", 
+        "title": "High secondary aerosol contribution to particulate pollution during haze events in China"
+    }, 
+    {
+        "author": "Mazhar N. Ali", 
+        "date": "2014-09-14", 
+        "description": "Magnetoresistance is the change in a material\u2019s electrical resistance in response to an applied magnetic field. Materials with large magnetoresistance have found use as magnetic sensors, in magnetic memory, and in hard drives at room temperature, and their rarity has motivated many fundamental studies in materials physics at low temperatures. Here we report the observation of an extremely large positive magnetoresistance at low temperatures in the non-magnetic layered transition-metal dichalcogenide WTe2: 452,700 per cent at 4.5 kelvins in a magnetic field of 14.7 teslas, and 13 million per cent at 0.53 kelvins in a magnetic field of 60 teslas. In contrast with other materials, there is no saturation of the magnetoresistance value even at very high applied fields. Determination of the origin and consequences of this effect, and the fabrication of thin films, nanostructures and devices based on the extremely large positive magnetoresistance of WTe2, will represent a significant new direction in the study of magnetoresistivity.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/JfTiM39ZEic/nature13763", 
+        "title": "Large, non-saturating magnetoresistance in WTe2"
+    }, 
+    {
+        "author": "Jean-Beno\u00eet Arlet", 
+        "date": "2014-08-24", 
+        "description": "\u03b2-Thalassaemia major (\u03b2-TM) is an inherited haemoglobinopathy caused by a quantitative defect in the synthesis of \u03b2-globin chains of haemoglobin, leading to the accumulation of free \u03b1-globin chains that form toxic aggregates. Despite extensive knowledge of the molecular defects causing \u03b2-TM, little is known of the mechanisms responsible for the ineffective erythropoiesis observed in the condition, which is characterized by accelerated erythroid differentiation, maturation arrest and apoptosis at the polychromatophilic stage. We have previously demonstrated that normal human erythroid maturation requires a transient activation of caspase-3 at the later stages of maturation. Although erythroid transcription factor GATA-1, the master transcriptional factor of erythropoiesis, is a caspase-3 target, it is not cleaved during erythroid differentiation. We have shown that, in human erythroblasts, the chaperone heat shock protein70 (HSP70) is constitutively expressed and, at later stages of maturation, translocates into the nucleus and protects GATA-1 from caspase-3 cleavage. The primary role of this ubiquitous chaperone is to participate in the refolding of proteins denatured by cytoplasmic stress, thus preventing their aggregation. Here we show in vitro that during the maturation of human \u03b2-TM erythroblasts, HSP70 interacts directly with free \u03b1-globin chains. As a consequence, HSP70 is sequestrated in the cytoplasm and GATA-1 is no longer protected, resulting in end-stage maturation arrest and apoptosis. Transduction of a nuclear-targeted HSP70 mutant or a caspase-3-uncleavable GATA-1 mutant restores terminal maturation of \u03b2-TM erythroblasts, which may provide a rationale for new targeted therapies of \u03b2-TM.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Dq8t-DAC4m0/nature13614", 
+        "title": "HSP70 sequestration by free \u03b1-globin promotes ineffective erythropoiesis in \u03b2-thalassaemia"
+    }, 
+    {
+        "author": "Thomas De Raedt", 
+        "date": "2014-08-13", 
+        "description": "The polycomb repressive complex 2 (PRC2) exerts oncogenic effects in many tumour types. However, loss-of-function mutations in PRC2 components occur in a subset of haematopoietic malignancies, suggesting that this complex plays a dichotomous and poorly understood role in cancer. Here we provide genomic, cellular, and mouse modelling data demonstrating that the polycomb group gene SUZ12 functions as tumour suppressor in PNS tumours, high-grade gliomas and melanomas by cooperating with mutations in NF1. NF1 encodes a Ras GTPase-activating protein (RasGAP) and its loss drives cancer by activating Ras. We show that SUZ12 loss potentiates the effects of NF1 mutations by amplifying Ras-driven transcription through effects on chromatin. Importantly, however, SUZ12 inactivation also triggers an epigenetic switch that sensitizes these cancers to bromodomain inhibitors. Collectively, these studies not only reveal an unexpected connection between the PRC2 complex, NF1 and Ras, but also identify a promising epigenetic-based therapeutic strategy that may be exploited for a variety of cancers.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/chThdF-H-H8/nature13561", 
+        "title": "PRC2 loss amplifies Ras-driven transcription and confers sensitivity to BRD4-based therapies"
+    }, 
+    {
+        "author": "Jianjin Shi", 
+        "date": "2014-08-06", 
+        "description": "Caspase-4 and caspase-11 are shown to be the direct sensors for cytoplasmic lipopolysaccharide in humans and mice, respectively, mediating inflammatory cell death in intracellular bacterial infection.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/lJpcTYga5SA/nature13683", 
+        "title": "Inflammatory caspases are innate immune receptors for intracellular LPS"
+    }, 
+    {
+        "author": "Lei Pan", 
+        "date": "2014-08-06", 
+        "description": "The balance between stem cell self-renewal and differentiation is controlled by intrinsic factors and niche signals. In the Drosophila melanogaster ovary, some intrinsic factors promote germline stem cell (GSC) self-renewal, whereas others stimulate differentiation. However, it remains poorly understood how the balance between self-renewal and differentiation is controlled. Here we use D. melanogaster ovarian GSCs to demonstrate that the differentiation factor Bam controls the functional switch of the COP9 complex from self-renewal to differentiation via protein competition. The COP9 complex is composed of eight Csn subunits, Csn1\u20138, and removes Nedd8 modifications from target proteins. Genetic results indicated that the COP9 complex is required intrinsically for GSC self-renewal, whereas other Csn proteins, with the exception of Csn4, were also required for GSC progeny differentiation. Bam-mediated Csn4 sequestration from the COP9 complex via protein competition inactivated the self-renewing function of COP9 and allowed other Csn proteins to promote GSC differentiation. Therefore, this study reveals a protein-competition-based mechanism for controlling the balance between stem cell self-renewal and differentiation. Because numerous self-renewal factors are ubiquitously expressed throughout the stem cell lineage in various systems, protein competition may function as an important mechanism for controlling the self-renewal-to-differentiation switch.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/zUVLmQ8uuU0/nature13562", 
+        "title": "Protein competition switches the function of COP9 from self-renewal to differentiation"
+    }, 
+    {
+        "author": "Xiaoting Wang", 
+        "date": "2014-08-06", 
+        "description": "The connection between an altered gut microbiota and metabolic disorders such as obesity, diabetes, and cardiovascular disease is well established. Defects in preserving the integrity of the mucosal barriers can result in systemic endotoxaemia that contributes to chronic low-grade inflammation, which further promotes the development of metabolic syndrome. Interleukin (IL)-22 exerts essential roles in eliciting antimicrobial immunity and maintaining mucosal barrier integrity within the intestine. Here we investigate the connection between IL-22 and metabolic disorders. We find that the induction of IL-22 from innate lymphoid cells and CD4+ T cells is impaired in obese mice under various immune challenges, especially in the colon during infection with Citrobacter rodentium. While innate lymphoid cell populations are largely intact in obese mice, the upregulation of IL-23, a cytokine upstream of IL-22, is compromised during the infection. Consequently, these mice are susceptible to C. rodentium infection, and both exogenous IL-22 and IL-23 are able to restore the mucosal host defence. Importantly, we further unveil unexpected functions of IL-22 in regulating metabolism. Mice deficient in IL-22 receptor and fed with high-fat diet are prone to developing metabolic disorders. Strikingly, administration of exogenous IL-22 in genetically obese leptin-receptor-deficient (db/db) mice and mice fed with high-fat diet reverses many of the metabolic symptoms, including hyperglycaemia and insulin resistance. IL-22 shows diverse metabolic benefits, as it improves insulin sensitivity, preserves gut mucosal barrier and endocrine functions, decreases endotoxaemia and chronic inflammation, and regulates lipid metabolism in liver and adipose tissues. In summary, we identify the IL-22 pathway as a novel target for therapeutic intervention in metabolic diseases.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/tU10am62Y8I/nature13564", 
+        "title": "Interleukin-22 alleviates metabolic disorders and restores mucosal immunity in diabetes"
+    }, 
+    {
+        "author": "Christopher R. Faehnle", 
+        "date": "2014-08-03", 
+        "description": "The pluripotency factor Lin28 inhibits the biogenesis of the let-7 family of mammalian microRNAs. Lin28 is highly expressed in embryonic stem cells and has a fundamental role in regulation of development, glucose metabolism and tissue regeneration. Overexpression of Lin28 is correlated with the onset of numerous cancers, whereas let-7, a tumour suppressor, silences several human oncogenes. Lin28 binds to precursor let-7 (pre-let-7) hairpins, triggering the 3\u2032 oligo-uridylation activity of TUT4 and TUT7 (refs 10, 11, 12). The oligoU tail added to pre-let-7 serves as a decay signal, as it is rapidly degraded by Dis3l2 (refs 13, 14), a homologue of the catalytic subunit of the RNA exosome. The molecular basis of Lin28-mediated recruitment of TUT4 and TUT7 to pre-let-7 and its subsequent degradation by Dis3l2 is largely unknown. To examine the mechanism of Dis3l2 substrate recognition we determined the structure of mouse Dis3l2 in complex with an oligoU RNA to mimic the uridylated tail of pre-let-7. Three RNA-binding domains form an open funnel on one face of the catalytic domain that allows RNA to navigate a path to the active site different from that of its exosome counterpart. The resulting path reveals an extensive network of uracil-specific interactions spanning the first 12 nucleotides of an oligoU-tailed RNA. We identify three U-specificity zones that explain how Dis3l2 recognizes, binds and processes uridylated pre-let-7 in the final step of the Lin28\u2013let-7 pathway.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/pa5_l_Vlmmk/nature13553", 
+        "title": "Mechanism of Dis3l2 substrate recognition in the Lin28\u2013let-7 pathway"
+    }, 
+    {
+        "author": "Dorota Skowronska-Krawczyk", 
+        "date": "2014-08-03", 
+        "description": "Homeodomain proteins, described 30 years ago, exert essential roles in development as regulators of target gene expression; however, the molecular mechanisms underlying transcriptional activity of homeodomain factors remain poorly understood. Here investigation of a developmentally required POU-homeodomain transcription factor, Pit1 (also known as Pou1f1), has revealed that, unexpectedly, binding of Pit1-occupied enhancers to a nuclear matrin-3-rich network/architecture is a key event in effective activation of the Pit1-regulated enhancer/coding gene transcriptional program. Pit1 association with Satb1 (ref. 8) and \u03b2-catenin is required for this tethering event. A naturally occurring, dominant negative, point mutation in human PIT1(R271W), causing combined pituitary hormone deficiency, results in loss of Pit1 association with \u03b2-catenin and Satb1 and therefore the matrin-3-rich network, blocking Pit1-dependent enhancer/coding target gene activation. This defective activation can be rescued by artificial tethering of the mutant R271W Pit1 protein to the matrin-3 network, bypassing the pre-requisite association with \u03b2-catenin and Satb1 otherwise required. The matrin-3 network-tethered R271W Pit1 mutant, but not the untethered protein, restores Pit1-dependent activation of the enhancers and recruitment of co-activators, exemplified by p300, causing both enhancer RNA transcription and target gene activation. These studies have thus revealed an unanticipated homeodomain factor/\u03b2-catenin/Satb1-dependent localization of target gene regulatory enhancer regions to a subnuclear architectural structure that serves as an underlying mechanism by which an enhancer-bound homeodomain factor effectively activates developmental gene transcriptional programs.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/quJc93EfYZg/nature13573", 
+        "title": "Required enhancer\u2013matrin-3 network interactions for a homeodomain transcription program"
+    }, 
+    {
+        "author": "Jeanine L. Van Nostrand", 
+        "date": "2014-08-03", 
+        "description": "CHARGE syndrome is a multiple anomaly disorder in which patients present with a variety of phenotypes, including ocular coloboma, heart defects, choanal atresia, retarded growth and development, genitourinary hypoplasia and ear abnormalities. Despite 70\u201390% of CHARGE syndrome cases resulting from mutations in the gene CHD7, which encodes an ATP-dependent chromatin remodeller, the pathways underlying the diverse phenotypes remain poorly understood. Surprisingly, our studies of a knock-in mutant mouse strain that expresses a stabilized and transcriptionally dead variant of the tumour-suppressor protein p53 (p5325,26,53,54), along with a wild-type allele of p53 (also known as Trp53), revealed late-gestational embryonic lethality associated with a host of phenotypes that are characteristic of CHARGE syndrome, including coloboma, inner and outer ear malformations, heart outflow tract defects and craniofacial defects. We found that the p5325,26,53,54 mutant protein stabilized and hyperactivated wild-type p53, which then inappropriately induced its target genes and triggered cell-cycle arrest or apoptosis during development. Importantly, these phenotypes were only observed with a wild-type p53 allele, as p5325,26,53,54/\u2212 embryos were fully viable. Furthermore, we found that CHD7 can bind to the p53 promoter, thereby negatively regulating p53 expression, and that CHD7 loss in mouse neural crest cells or samples from patients with CHARGE syndrome results in p53 activation. Strikingly, we found that p53 heterozygosity partially rescued the phenotypes in Chd7-null mouse embryos, demonstrating that p53 contributes to the phenotypes that result from CHD7 loss. Thus, inappropriate p53 activation during development can promote CHARGE phenotypes, supporting the idea that p53 has a critical role in developmental syndromes and providing important insight into the mechanisms underlying CHARGE syndrome.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/dRLl2w50RkY/nature13585", 
+        "title": "Inappropriate p53 activation during development induces features of CHARGE syndrome"
+    }, 
+    {
+        "author": "Zhe-Xi Luo", 
+        "date": "2014-07-30", 
+        "description": "Mice deficient in the EDA protein lack normal tooth features. Restoring EDA in embryonic teeth at increasing doses has now been found to recover these dental features in a stepwise pattern that mimics evolution.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/aIdABie_ATY/nature13651", 
+        "title": "Evolution: Tooth structure re-engineered"
+    }, 
+    {
+        "author": "Enni Harjunmaa", 
+        "date": "2014-07-30", 
+        "description": "Gradual changes that occur to mammalian tooth morphology across evolutionary time were modelled in vitro and in vivo by modulation of signalling pathways in the mouse, and computer modelling was used to provide further analysis of the parameters influencing tooth morphology.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/NzSM0FnK6TE/nature13613", 
+        "title": "Replaying evolutionary transitions from the dental fossil record"
+    }, 
+    {
+        "author": "Greg Gibson", 
+        "date": "2014-07-23", 
+        "description": "A comparison of colorectal cancer and normal cells from 103 patients identifies dozens of genes that are differently expressed in tumour cells as a result of altered regulation of transcription.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/oCb9quv6zPg/nature13649", 
+        "title": "Cancer: Directions for the drivers"
+    }, 
+    {
+        "author": "Halit Ongen", 
+        "date": "2014-07-23", 
+        "description": "The cis-regulatory effects responsible for cancer development have not been as extensively studied as the perturbations of the protein coding genome in tumorigenesis. To better characterize colorectal cancer (CRC) development we conducted an RNA-sequencing experiment of 103 matched tumour and normal colon mucosa samples from Danish CRC patients, 90 of which were germline-genotyped. By investigating allele-specific expression (ASE) we show that the germline genotypes remain important determinants of allelic gene expression in tumours. Using the changes in ASE in matched pairs of samples we discover 71 genes with excess of somatic cis-regulatory effects in CRC, suggesting a cancer driver role. We correlate genotypes and gene expression to identify expression quantitative trait loci (eQTLs) and find 1,693 and 948 eQTLs in normal samples and tumours, respectively. We estimate that 36% of the tumour eQTLs are exclusive to CRC and show that this specificity is partially driven by increased expression of specific transcription factors and changes in methylation patterns. We show that tumour-specific eQTLs are more enriched for low CRC genome-wide association study (GWAS) P values than shared eQTLs, which suggests that some of the GWAS variants are tumour specific regulatory variants. Importantly, tumour-specific eQTL genes also accumulate more somatic mutations when compared to the shared eQTL genes, raising the possibility that they constitute germline-derived cancer regulatory drivers. Collectively the integration of genome and the transcriptome reveals a substantial number of putative somatic and germline cis-regulatory cancer changes that may have a role in tumorigenesis.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/A7-c759JYhE/nature13602", 
+        "title": "Putative cis-regulatory drivers in colorectal cancer"
+    }, 
+    {
+        "author": "Kai Deng", 
+        "date": "2014-07-20", 
+        "description": "Giving monkeys antiretroviral therapy from just three days after exposure to simian immunodeficiency virus does not prevent a subsequent rebound of viral replication, suggesting that viral reservoirs are established early.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/LGZpnbMtFd0/nature13647", 
+        "title": "HIV: Early treatment may not be early enough"
+    }, 
+    {
+        "author": "Sean T. Michaletz", 
+        "date": "2014-07-20", 
+        "description": "Net primary production is affected by temperature and precipitation, but whether this is a direct kinetic effect on plant metabolism or an indirect ecological effect mediated by changes in plant age, plant biomass or growing season length is unclear \u2014 this study develops metabolic scaling theory to be able to answer this question and applies it to a global data set of plant productivity, concluding that it is indirect effects that explain the influence of climate on productivity, which is characterized by a common scaling relationship across climate gradients.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/YyODND68fU0/nature13470", 
+        "title": "Convergence of terrestrial plant production across global climate gradients"
+    }, 
+    {
+        "author": "James B. Whitney", 
+        "date": "2014-07-20", 
+        "description": "The viral reservoir represents a critical challenge for human immunodeficiency virus type 1 (HIV-1) eradication strategies. However, it remains unclear when and where the viral reservoir is seeded during acute infection and the extent to which it is susceptible to early antiretroviral therapy (ART). Here we show that the viral reservoir is seeded rapidly after mucosal simian immunodeficiency virus (SIV) infection of rhesus monkeys and before systemic viraemia. We initiated suppressive ART in groups of monkeys on days 3, 7, 10 and 14 after intrarectal SIVMAC251 infection. Treatment with ART on day 3 blocked the emergence of viral RNA and proviral DNA in peripheral blood and also substantially reduced levels of proviral DNA in lymph nodes and gastrointestinal mucosa as compared with treatment at later time points. In addition, treatment on day 3 abrogated the induction of SIV-specific humoral and cellular immune responses. Nevertheless, after discontinuation of ART following 24 weeks of fully suppressive therapy, virus rebounded in all animals, although the monkeys that were treated on day 3 exhibited a delayed viral rebound as compared with those treated on days 7, 10 and 14. The time to viral rebound correlated with total viraemia during acute infection and with proviral DNA at the time of ART discontinuation. These data demonstrate that the viral reservoir is seeded rapidly after intrarectal SIV infection of rhesus monkeys, during the \u2018eclipse\u2019 phase, and before detectable viraemia. This strikingly early seeding of the refractory viral reservoir raises important new challenges for HIV-1 eradication strategies.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/UYtuXaf5mmI/nature13594", 
+        "title": "Rapid seeding of the viral reservoir prior to SIV viraemia in rhesus monkeys"
+    }, 
+    {
+        "author": "Eric S. Fischer", 
+        "date": "2014-07-16", 
+        "description": "The crystal structures of thalidomide and its derivatives bound to the E3 ligase subcomplex DDB1\u2013CRBN are shown; these drugs are found to have dual functions, interfering with the binding of certain cellular substrates to the E3 ligase but promoting the binding of others, thereby modulating the degradation of cellular proteins.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/WBLv880LHKQ/nature13527", 
+        "title": "Structure of the DDB1\u2013CRBN E3 ubiquitin ligase in complex with thalidomide"
+    }, 
+    {
+        "author": "Yad Ghavi-Helm", 
+        "date": "2014-07-02", 
+        "description": "Developmental enhancers initiate transcription and are fundamental to our understanding of developmental networks, evolution and disease. Despite their importance, the properties governing enhancer\u2013promoter interactions and their dynamics during embryogenesis remain unclear. At the \u03b2-globin locus, enhancer\u2013promoter interactions appear dynamic and cell-type specific, whereas at the HoxD locus they are stable and ubiquitous, being present in tissues where the target genes are not expressed. The extent to which preformed enhancer\u2013promoter conformations exist at other, more typical, loci and how transcription is eventually triggered is unclear. Here we generated a high-resolution map of enhancer three-dimensional contacts during Drosophila embryogenesis, covering two developmental stages and tissue contexts, at unprecedented resolution. Although local regulatory interactions are common, long-range interactions are highly prevalent within the compact Drosophila genome. Each enhancer contacts multiple enhancers, and promoters with similar expression, suggesting a role in their co-regulation. Notably, most interactions appear unchanged between tissue context and across development, arising before gene activation, and are frequently associated with paused RNA polymerase. Our results indicate that the general topology governing enhancer contacts is conserved from flies to humans and suggest that transcription initiates from preformed enhancer\u2013promoter loops through release of paused polymerase.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/6zzrnRFZ1UA/nature13417", 
+        "title": "Enhancer loops appear stable during development and are associated with paused polymerase"
+    }, 
+    {
+        "author": "Lieselotte Vande Walle", 
+        "date": "2014-06-29", 
+        "description": "Rheumatoid arthritis is a chronic autoinflammatory disease that affects 1\u20132% of the world\u2019s population and is characterized by widespread joint inflammation. Interleukin-1 is an important mediator of cartilage destruction in rheumatic diseases, but our understanding of the upstream mechanisms leading to production of interleukin-1\u03b2 in rheumatoid arthritis is limited by the absence of suitable mouse models of the disease in which inflammasomes contribute to pathology. Myeloid-cell-specific deletion of the rheumatoid arthritis susceptibility gene A20/Tnfaip3 in mice (A20myel-KO mice) triggers a spontaneous erosive polyarthritis that resembles rheumatoid arthritis in patients. Rheumatoid arthritis in A20myel-KO mice is not rescued by deletion of tumour necrosis factor receptor 1 (ref. 2). Here we show, however, that it crucially relies on the Nlrp3 inflammasome and interleukin-1 receptor signalling. Macrophages lacking A20 have increased basal and lipopolysaccharide-induced expression levels of the inflammasome adaptor Nlrp3 and proIL-1\u03b2. As a result, A20-deficiency in macrophages significantly enhances Nlrp3 inflammasome-mediated caspase-1 activation, pyroptosis and interleukin-1\u03b2 secretion by soluble and crystalline Nlrp3 stimuli. In contrast, activation of the Nlrc4 and AIM2 inflammasomes is not altered. Importantly, increased Nlrp3 inflammasome activation contributes to the pathology of rheumatoid arthritis in vivo, because deletion of Nlrp3, caspase-1 and the interleukin-1 receptor markedly protects against rheumatoid-arthritis-associated inflammation and cartilage destruction in A20myel-KO mice. These results reveal A20 as a novel negative regulator of Nlrp3 inflammasome activation, and describe A20myel-KO mice as the first experimental model to study the role of inflammasomes in the pathology of rheumatoid arthritis.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/3HfWsJKIeYk/nature13322", 
+        "title": "Negative regulation of the NLRP3 inflammasome by A20 protects against arthritis"
+    }, 
+    {
+        "author": "Lorena Arranz", 
+        "date": "2014-06-22", 
+        "description": "Myeloproliferative neoplasms (MPNs) are diseases caused by mutations in the haematopoietic stem cell (HSC) compartment. Most MPN patients have a common acquired mutation of Janus kinase 2 (JAK2) gene in HSCs that renders this kinase constitutively active, leading to uncontrolled cell expansion. The bone marrow microenvironment might contribute to the clinical outcomes of this common event. We previously showed that bone marrow nestin+ mesenchymal stem cells (MSCs) innervated by sympathetic nerve fibres regulate normal HSCs. Here we demonstrate that abrogation of this regulatory circuit is essential for MPN pathogenesis. Sympathetic nerve fibres, supporting Schwann cells and nestin+ MSCs are consistently reduced in the bone marrow of MPN patients and mice expressing the human JAK2(V617F) mutation in HSCs. Unexpectedly, MSC reduction is not due to differentiation but is caused by bone marrow neural damage and Schwann cell death triggered by interleukin-1\u03b2 produced by mutant HSCs. In turn, in vivo depletion of nestin+ cells or their production of CXCL12 expanded mutant HSC number and accelerated MPN progression. In contrast, administration of neuroprotective or sympathomimetic drugs prevented mutant HSC expansion. Treatment with \u03b23-adrenergic agonists that restored the sympathetic regulation of nestin+ MSCs prevented the loss of these cells and blocked MPN progression by indirectly reducing the number of leukaemic stem cells. Our results demonstrate that mutant-HSC-driven niche damage critically contributes to disease manifestation in MPN and identify niche-forming MSCs and their neural regulation as promising therapeutic targets.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/kvUICgzwqTM/nature13383", 
+        "title": "Neuropathy of haematopoietic stem cell niche is essential for myeloproliferative neoplasms"
+    }, 
+    {
+        "author": "Sayan Gupta", 
+        "date": "2014-06-22", 
+        "description": "The proton gradient is a principal energy source for respiration-dependent active transport, but the structural mechanisms of proton-coupled transport processes are poorly understood. YiiP is a proton-coupled zinc transporter found in the cytoplasmic membrane of Escherichia coli. Its transport site receives protons from water molecules that gain access to its hydrophobic environment and transduces the energy of an inward proton gradient to drive Zn(ii) efflux. This membrane protein is a well-characterized member of the family of cation diffusion facilitators that occurs at all phylogenetic levels. Here we show, using X-ray-mediated hydroxyl radical labelling of YiiP and mass spectrometry, that Zn(ii) binding triggers a highly localized, all-or-nothing change of water accessibility to the transport site and an adjacent hydrophobic gate. Millisecond time-resolved dynamics reveal a concerted and reciprocal pattern of accessibility changes along a transmembrane helix, suggesting a rigid-body helical re-orientation linked to Zn(ii) binding that triggers the closing of the hydrophobic gate. The gated water access to the transport site enables a stationary proton gradient to facilitate the conversion of zinc-binding energy to the kinetic power stroke of a vectorial zinc transport. The kinetic details provide energetic insights into a proton-coupled active-transport reaction.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Ozax3CwgHLc/nature13382", 
+        "title": "Visualizing the kinetic power stroke that drives proton-coupled zinc(ii) transport"
+    }, 
+    {
+        "author": "Yuen-Yi Tseng", 
+        "date": "2014-06-22", 
+        "description": "\u2018Gain\u2019 of supernumerary copies of the 8q24.21 chromosomal region has been shown to be common in many human cancers and is associated with poor prognosis. The well-characterized myelocytomatosis (MYC) oncogene resides in the 8q24.21 region and is consistently co-gained with an adjacent \u2018gene desert\u2019 of approximately 2\u2009megabases that contains the long non-coding RNA gene PVT1, the CCDC26 gene candidate and the GSDMC gene. Whether low copy-number gain of one or more of these genes drives neoplasia is not known. Here we use chromosome engineering in mice to show that a single extra copy of either the Myc gene or the region encompassing Pvt1, Ccdc26 and Gsdmc fails to advance cancer measurably, whereas a single supernumerary segment encompassing all four genes successfully promotes cancer. Gain of PVT1 long non-coding RNA expression was required for high MYC protein levels in 8q24-amplified human cancer cells. PVT1 RNA and MYC protein expression correlated in primary human tumours, and copy number of PVT1 was co-increased in more than 98% of MYC-copy-increase cancers. Ablation of PVT1 from MYC-driven colon cancer line HCT116 diminished its tumorigenic potency. As MYC protein has been refractory to small-molecule inhibition, the dependence of high MYC protein levels on PVT1 long non-coding RNA provides a much needed therapeutic target.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/5mCr78x6VXE/nature13311", 
+        "title": "PVT1 dependence in cancer with MYC copy-number increase"
+    }, 
+    {
+        "author": "Stephen D. Bartlett", 
+        "date": "2014-06-11", 
+        "description": "What gives quantum computers that extra oomph over their classical digital counterparts? An intrinsic, measurable aspect of quantum mechanics called contextuality, it now emerges.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ebVsDocWY-E/nature13504", 
+        "title": "Quantum computing: Powered by magic"
+    }, 
+    {
+        "author": "Emilio Hirsch", 
+        "date": "2014-06-11", 
+        "description": "The finding that phosphoinositide-3-OH kinase \u03b4 restrains the antitumour immune response by promoting the action of suppressive immune cells may broaden the applicability of drugs targeting this enzyme to multiple cancers.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/aqXYTRPVrWE/nature13503", 
+        "title": "Cancer: Natural-born killers unleashed"
+    }, 
+    {
+        "author": "Mark Howard", 
+        "date": "2014-06-11", 
+        "description": "Quantum computing promises advantages over classical computing for certain problems; now \u2018quantum contextuality\u2019 \u2014 a generalization of the concept of quantum non-locality \u2014 is shown to be a critical resource that gives the most promising class of quantum computers their power.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/PPeKTc98euU/nature13460", 
+        "title": "Contextuality supplies the \u2018magic\u2019 for quantum computation"
+    }, 
+    {
+        "author": "Alexander A. Myburg", 
+        "date": "2014-06-11", 
+        "description": "The Eucalyptus grandis genome has been sequenced, revealing the greatest number of tandem duplications of any plant genome sequenced so far, and the highest diversity of genes for specialized metabolites that act as chemical defence and provide unique pharmaceutical oils; genome sequencing of the sister species E. globulus and a set of inbred E. grandis tree genomes reveals dynamic genome evolution and hotspots of inbreeding depression.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/w1iCdjC-590/nature13308", 
+        "title": "The genome of Eucalyptus grandis"
+    }, 
+    {
+        "author": "Alex K. Shalek", 
+        "date": "2014-06-11", 
+        "description": "Large-scale single-cell RNA-seq of stimulated primary mouse bone-marrow-derived dendritic cells highlights positive and negative intercellular signalling pathways that promote and restrain cellular variation.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/5dhcJ7Oi1Es/nature13437", 
+        "title": "Single-cell RNA-seq reveals dynamic paracrine control of cellular variation"
+    }, 
+    {
+        "author": "Khaled Ali", 
+        "date": "2014-06-11", 
+        "description": "Inhibitors against the p110\u03b4 isoform of phosphoinositide-3-OH kinase (PI(3)K) have shown remarkable therapeutic efficacy in some human leukaemias. As p110\u03b4 is primarily expressed in leukocytes, drugs against p110\u03b4 have not been considered for the treatment of solid tumours. Here we report that p110\u03b4 inactivation in mice protects against a broad range of cancers, including non-haematological solid tumours. We demonstrate that p110\u03b4 inactivation in regulatory T\u2009cells unleashes CD8+ cytotoxic T\u2009cells and induces tumour regression. Thus, p110\u03b4 inhibitors can break tumour-induced immune tolerance and should be considered for wider use in oncology.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/mu5skuGv2oU/nature13444", 
+        "title": "Inactivation of PI(3)K p110\u03b4 breaks regulatory T-cell-mediated immune tolerance to cancer"
+    }, 
+    {
+        "author": "Elizabeth K. Costello", 
+        "date": "2014-06-04", 
+        "description": "Undernourished children fall behind not only on growth, but also on maturation of their intestinal bacterial communities, according to a study comparing acutely malnourished and healthy Bangladeshi children.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/eU0ZIPiOagc/nature13347", 
+        "title": "Population health: Immaturity in the gut microbial community"
+    }, 
+    {
+        "author": "Alban Ordureau", 
+        "date": "2014-06-04", 
+        "description": "The enzyme parkin is known to promote disposal of organelles called mitochondria that have suffered damage. The identification of an enzyme that opposes parkin demonstrates how a delicate balance is maintained in the cell.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/0EgrPOJoG4E/nature13500", 
+        "title": "Cell biology: Balancing act"
+    }, 
+    {
+        "author": "Baris Bingol", 
+        "date": "2014-06-04", 
+        "description": "Damaged mitochondria are removed by mitophagy, and defects in mitophagy are linked to Parkinson\u2019s disease; here it is shown that USP30, a deubiquitinase localized to mitochondria, antagonizes mitophagy by removing the ubiquitin tags put in place by Parkin, USP30 inhibition is therefore potentially beneficial for Parkinson\u2019s disease by promoting mitochondrial clearance and quality control.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Syu9gI7q3UQ/nature13418", 
+        "title": "The mitochondrial deubiquitinase USP30 opposes parkin-mediated mitophagy"
+    }, 
+    {
+        "author": "Sathish Subramanian", 
+        "date": "2014-06-04", 
+        "description": "Therapeutic food interventions have reduced mortality in children with severe acute malnutrition (SAM), but incomplete restoration of healthy growth remains a major problem. The relationships between the type of nutritional intervention, the gut microbiota, and therapeutic responses are unclear. In the current study, bacterial species whose proportional representation define a healthy gut microbiota as it assembles during the first two postnatal years were identified by applying a machine-learning-based approach to 16S ribosomal RNA data sets generated from monthly faecal samples obtained from birth onwards in a cohort of children living in an urban slum of Dhaka, Bangladesh, who exhibited consistently healthy growth. These age-discriminatory bacterial species were incorporated into a model that computes a \u2018relative microbiota maturity index\u2019 and \u2018microbiota-for-age Z-score\u2019 that compare postnatal assembly (defined here as maturation) of a child\u2019s faecal microbiota relative to healthy children of similar chronologic age. The model was applied to twins and triplets (to test for associations of these indices with genetic and environmental factors, including diarrhoea), children with SAM enrolled in a randomized trial of two food interventions, and children with moderate acute malnutrition. Our results indicate that SAM is associated with significant relative microbiota immaturity that is only partially ameliorated following two widely used nutritional interventions. Immaturity is also evident in less severe forms of malnutrition and correlates with anthropometric measurements. Microbiota maturity indices provide a microbial measure of human postnatal development, a way of classifying malnourished states, and a parameter for judging therapeutic efficacy. More prolonged interventions with existing or new therapeutic foods and/or addition of gut microbes may be needed to achieve enduring repair of gut microbiota immaturity in childhood malnutrition and improve clinical outcomes.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/MW0DmSvODQ0/nature13421", 
+        "title": "Persistent gut microbiota immaturity in malnourished Bangladeshi children"
+    }, 
+    {
+        "author": "Evgeny Z. Kvon", 
+        "date": "2014-06-01", 
+        "description": "Transcriptional enhancers are crucial regulators of gene expression and animal development and the characterization of their genomic organization, spatiotemporal activities and sequence properties is a key goal in modern biology. Here we characterize the in vivo activity of 7,705 Drosophila melanogaster enhancer candidates covering 13.5% of the non-coding non-repetitive genome throughout embryogenesis. 3,557 (46%) candidates are active, suggesting a high density with 50,000 to 100,000 developmental enhancers genome-wide. The vast majority of enhancers display specific spatial patterns that are highly dynamic during development. Most appear to regulate their neighbouring genes, suggesting that the cis-regulatory genome is organized locally into domains, which are supported by chromosomal domains, insulator binding and genome evolution. However, 12 to 21 per cent of enhancers appear to skip non-expressed neighbours and regulate a more distal gene. Finally, we computationally identify cis-regulatory motifs that are predictive and required for enhancer activity, as we validate experimentally. This work provides global insights into the organization of an animal regulatory genome and the make-up of enhancer sequences and confirms and generalizes principles from previous studies. All enhancer patterns are annotated manually with a controlled vocabulary and all results are available through a web interface (http://enhancers.starklab.org), including the raw images of all microscopy slides for manual inspection at arbitrary zoom levels.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/n7MGcCcYLuQ/nature13395", 
+        "title": "Genome-scale functional characterization of Drosophila developmental enhancers in vivo"
+    }, 
+    {
+        "author": "Joseph T. Rodgers", 
+        "date": "2014-05-25", 
+        "description": "A unique property of many adult stem cells is their ability to exist in a non-cycling, quiescent state. Although quiescence serves an essential role in preserving stem cell function until the stem cell is needed in tissue homeostasis or repair, defects in quiescence can lead to an impairment in tissue function. The extent to which stem cells can regulate quiescence is unknown. Here we show that the stem cell quiescent state is composed of two distinct functional phases, G0 and an \u2018alert\u2019 phase we term GAlert. Stem cells actively and reversibly transition between these phases in response to injury-induced systemic signals. Using genetic mouse models specific to muscle stem cells (or satellite cells), we show that mTORC1 activity is necessary and sufficient for the transition of satellite cells from G0 into GAlert and that signalling through the HGF receptor cMet is also necessary. We also identify G0-to-GAlert transitions in several populations of quiescent stem cells. Quiescent stem cells that transition into GAlert possess enhanced tissue regenerative function. We propose that the transition of quiescent stem cells into GAlert functions as an \u2018alerting\u2019 mechanism, an adaptive response that positions stem cells to respond rapidly under conditions of injury and stress, priming them for cell cycle entry.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/YFM2GvezZSE/nature13255", 
+        "title": "mTORC1 controls the adaptive transition of quiescent stem cells from G0 to GAlert"
+    }, 
+    {
+        "author": "Randall M. Chin", 
+        "date": "2014-05-14", 
+        "description": "Metabolism and ageing are intimately linked. Compared with ad libitum feeding, dietary restriction consistently extends lifespan and delays age-related diseases in evolutionarily diverse organisms. Similar conditions of nutrient limitation and genetic or pharmacological perturbations of nutrient or energy metabolism also have longevity benefits. Recently, several metabolites have been identified that modulate ageing; however, the molecular mechanisms underlying this are largely undefined. Here we show that \u03b1-ketoglutarate (\u03b1-KG), a tricarboxylic acid cycle intermediate, extends the lifespan of adult Caenorhabditis elegans. ATP synthase subunit \u03b2 is identified as a novel binding protein of \u03b1-KG using a small-molecule target identification strategy termed drug affinity responsive target stability (DARTS). The ATP synthase, also known as complex V of the mitochondrial electron transport chain, is the main cellular energy-generating machinery and is highly conserved throughout evolution. Although complete loss of mitochondrial function is detrimental, partial suppression of the electron transport chain has been shown to extend C. elegans lifespan. We show that \u03b1-KG inhibits ATP synthase and, similar to ATP synthase knockdown, inhibition by \u03b1-KG leads to reduced ATP content, decreased oxygen consumption, and increased autophagy in both C. elegans and mammalian cells. We provide evidence that the lifespan increase by \u03b1-KG requires ATP synthase subunit \u03b2 and is dependent on target of rapamycin (TOR) downstream. Endogenous \u03b1-KG levels are increased on starvation and \u03b1-KG does not extend the lifespan of dietary-restricted animals, indicating that \u03b1-KG is a key metabolite that mediates longevity by dietary restriction. Our analyses uncover new molecular links between a common metabolite, a universal cellular energy generator and dietary restriction in the regulation of organismal lifespan, thus suggesting new strategies for the prevention and treatment of ageing and age-related diseases.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/E29JhVapbxg/nature13264", 
+        "title": "The metabolite \u03b1-ketoglutarate extends lifespan by inhibiting ATP synthase and TOR"
+    }, 
+    {
+        "author": "Rasheduzzaman Chowdhury", 
+        "date": "2014-05-11", 
+        "description": "2-Oxoglutarate (2OG)-dependent oxygenases have important roles in the regulation of\n                gene expression via demethylation of N-methylated chromatin components and in the hydroxylation of transcription factors\n                and splicing factor proteins. Recently, 2OG-dependent oxygenases\n                that catalyse hydroxylation of transfer RNA and ribosomal\n                    proteins have been shown to be important in translation relating\n                to cellular growth, TH17-cell differentiation and translational\n                    accuracy. The finding that ribosomal oxygenases\n                (ROXs) occur in organisms ranging from prokaryotes to humans raises\n                questions as to their structural and evolutionary relationships. In Escherichia\n                    coli, YcfD catalyses arginine hydroxylation in the ribosomal protein L16; in\n                humans, MYC-induced nuclear antigen (MINA53; also known as MINA) and nucleolar\n                protein 66 (NO66) catalyse histidine hydroxylation in the ribosomal proteins RPL27A\n                and RPL8, respectively. The functional assignments of ROXs open therapeutic\n                possibilities via either ROX inhibition or targeting of differentially modified\n                ribosomes. Despite differences in the residue and protein selectivities of\n                prokaryotic and eukaryotic ROXs, comparison of the crystal structures of E.\n                    coli YcfD and Rhodothermus marinus YcfD with those of human MINA53\n                and NO66 reveals highly conserved folds and novel dimerization modes defining a new\n                structural subfamily of 2OG-dependent oxygenases. ROX structures with and without\n                their substrates support their functional assignments as hydroxylases but not\n                demethylases, and reveal how the subfamily has evolved to catalyse the hydroxylation\n                of different residue side chains of ribosomal proteins. Comparison of ROX crystal\n                structures with those of other JmjC-domain-containing hydroxylases, including the\n                hypoxia-inducible factor asparaginyl hydroxylase FIH and histone\n                    N\u03b5-methyl lysine demethylases, identifies branch\n                points in 2OG-dependent oxygenase evolution and distinguishes between\n                JmjC-containing hydroxylases and demethylases catalysing modifications of\n                translational and transcriptional machinery. The structures reveal that new protein\n                hydroxylation activities can evolve by changing the coordination position from which\n                the iron-bound substrate-oxidizing species reacts. This coordination flexibility has\n                probably contributed to the evolution of the wide range of reactions catalysed by\n                oxygenases.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/XMSFM81DeQY/nature13263", 
+        "title": "Ribosomal oxygenases are structurally conserved from prokaryotes to humans"
+    }, 
+    {
+        "author": "Chioniso P. Masamha", 
+        "date": "2014-05-11", 
+        "description": "The global shortening of messenger RNAs through alternative polyadenylation (APA) that occurs during enhanced cellular proliferation represents an important, yet poorly understood mechanism of regulated gene expression. The 3\u2032 untranslated region (UTR) truncation of growth-promoting mRNA transcripts that relieves intrinsic microRNA- and AU-rich-element-mediated repression has been observed to correlate with cellular transformation; however, the importance to tumorigenicity of RNA 3\u2032-end-processing factors that potentially govern APA is unknown. Here we identify CFIm25 as a broad repressor of proximal poly(A) site usage that, when depleted, increases cell proliferation. Applying a regression model on standard RNA-sequencing data for novel APA events, we identified at least 1,450 genes with shortened 3\u2032\u2009UTRs after CFIm25 knockdown, representing 11% of significantly expressed mRNAs in human cells. Marked increases in the expression of several known oncogenes, including cyclin D1, are observed as a consequence of CFIm25 depletion. Importantly, we identified a subset of CFIm25-regulated APA genes with shortened 3\u2032\u2009UTRs in glioblastoma tumours that have reduced CFIm25 expression. Downregulation of CFIm25 expression in glioblastoma cells enhances their tumorigenic properties and increases tumour size, whereas CFIm25 overexpression reduces these properties and inhibits tumour growth. These findings identify a pivotal role of CFIm25 in governing APA and reveal a previously unknown connection between CFIm25 and glioblastoma tumorigenicity.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/VQEmMLsl5IM/nature13261", 
+        "title": "CFIm25 links alternative polyadenylation to glioblastoma tumour suppression"
+    }, 
+    {
+        "author": "Eita Sasaki", 
+        "date": "2014-05-11", 
+        "description": "Sulphur is an essential element for life and is ubiquitous in living systems. Yet how the sulphur atom is incorporated into many sulphur-containing secondary metabolites is poorly understood. For bond formation between carbon and sulphur in primary metabolites, the major ionic sulphur sources are the persulphide and thiocarboxylate groups on sulphur-carrier (donor) proteins. Each group is post-translationally generated through the action of a specific activating enzyme. In all reported bacterial cases, the gene encoding the enzyme that catalyses the carbon\u2013sulphur bond formation reaction and that encoding the cognate sulphur-carrier protein exist in the same gene cluster. To study the production of the 2-thiosugar moiety in BE-7585A, an antibiotic from Amycolatopsis orientalis, we identified a putative 2-thioglucose synthase, BexX, whose protein sequence and mode of action seem similar to those of ThiG, the enzyme that catalyses thiazole formation in thiamine biosynthesis. However, no gene encoding a sulphur-carrier protein could be located in the BE-7585A cluster. Subsequent genome sequencing uncovered a few genes encoding sulphur-carrier proteins that are probably involved in the biosynthesis of primary metabolites but only one activating enzyme gene in the A. orientalis genome. Further experiments showed that this activating enzyme can adenylate each of these sulphur-carrier proteins and probably also catalyses the subsequent thiolation, through its rhodanese domain. A proper combination of these sulphur-delivery systems is effective for BexX-catalysed 2-thioglucose production. The ability of BexX to selectively distinguish sulphur-carrier proteins is given a structural basis using X-ray crystallography. This study is, to our knowledge, the first complete characterization of thiosugar formation in nature and also demonstrates the receptor promiscuity of the A. orientalis sulphur-delivery system. Our results also show that co-opting the sulphur-delivery machinery of primary metabolism for the biosynthesis of sulphur-containing natural products is probably a general strategy found in nature.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/kGJueAyPMT4/nature13256", 
+        "title": "Co-opting sulphur-carrier proteins from primary metabolic pathways for 2-thiosugar biosynthesis"
+    }, 
+    {
+        "author": "Cornelius Miething", 
+        "date": "2014-05-04", 
+        "description": "PTEN encodes a lipid phosphatase that is underexpressed in many cancers owing to deletions, mutations or gene silencing. PTEN dephosphorylates phosphatidylinositol (3,4,5)-triphosphate, thereby opposing the activity of class I phosphatidylinositol 3-kinases that mediate growth- and survival-factor signalling through phosphatidylinositol 3-kinase effectors such as AKT and mTOR. To determine whether continued PTEN inactivation is required to maintain malignancy, here we generate an RNA interference-based transgenic mouse model that allows tetracycline-dependent regulation of PTEN in a time- and tissue-specific manner. Postnatal Pten knockdown in the haematopoietic compartment produced highly disseminated T-cell acute lymphoblastic leukaemia. Notably, reactivation of PTEN mainly reduced T-cell leukaemia dissemination but had little effect on tumour load in haematopoietic organs. Leukaemia infiltration into the intestine was dependent on CCR9 G-protein-coupled receptor signalling, which was amplified by PTEN loss. Our results suggest that in the absence of PTEN, G-protein-coupled receptors may have an unanticipated role in driving tumour growth and invasion in an unsupportive environment. They further reveal that the role of PTEN loss in tumour maintenance is not invariant and can be influenced by the tissue microenvironment, thereby producing a form of intratumoral heterogeneity that is independent of cancer genotype.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/w7-SrYrK2lQ/nature13239", 
+        "title": "PTEN action in leukaemia dictated by the tissue microenvironment"
+    }
+]

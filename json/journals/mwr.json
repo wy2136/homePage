@@ -1,0 +1,722 @@
+[
+    {
+        "author": "Soyoung Ha et al", 
+        "date": "2015-07-20", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00395.1?af=R", 
+        "title": "A Comparison of Model Error Representations in Mesoscale Ensemble Data Assimilation"
+    }, 
+    {
+        "author": "Lili Lei et al", 
+        "date": "2015-07-20", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00413.1?af=R", 
+        "title": "Model space localization is not always better than observation space localization for assimilation of satellite radiances"
+    }, 
+    {
+        "author": "Daniel Holdaway et al", 
+        "date": "2015-07-17", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0037.1?af=R", 
+        "title": "A Linearized Prognostic Cloud Scheme in NASA\u2019s Goddard Earth Observing System Data Assimilation Tools"
+    }, 
+    {
+        "author": "Stephen G. Penny et al", 
+        "date": "2015-07-15", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00376.1?af=R", 
+        "title": "A Hybrid Global Ocean Data Assimilation System at NCEP"
+    }, 
+    {
+        "author": "I. Grooms et al", 
+        "date": "2015-07-15", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0032.1?af=R", 
+        "title": "Ensemble filtering and low resolution model error: Covariance inflation, stochastic parameterization, and model numerics"
+    }, 
+    {
+        "author": "K. I. Hodges et al", 
+        "date": "2015-07-14", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-13-00385.1?af=R", 
+        "title": "The Prediction of Northern Hemisphere Tropical Cyclone Extended Lifecycles by the ECMWF Ensemble and Deterministic Prediction Systems. Part 1: Tropical Cyclone Stage."
+    }, 
+    {
+        "author": "Carl J. Schreck", 
+        "date": "2015-07-13", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0111.1?af=R", 
+        "title": "Kelvin Waves and Tropical Cyclogenesis: A Global Survey"
+    }, 
+    {
+        "author": "Zhijin Li et al", 
+        "date": "2015-07-10", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00384.1?af=R", 
+        "title": "A Multiscale Variational Data Assimilation Scheme: Formulation and Illustration"
+    }, 
+    {
+        "author": "Yukiko Imada et al", 
+        "date": "2015-07-09", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0007.1?af=R", 
+        "title": "Predictability of Two Types of El Ni\u00f1o Assessed Using an Extended Seasonal Prediction System by MIROC"
+    }, 
+    {
+        "author": "Steven Sandbach et al", 
+        "date": "2015-07-06", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0059.1?af=R", 
+        "title": "A Semi-Implicit Version of the MPAS-Atmosphere Dynamical Core"
+    }, 
+    {
+        "author": "Durga Lal Shrestha et al", 
+        "date": "2015-07-02", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00329.1?af=R", 
+        "title": "Improving Precipitation Forecasts by Generating Ensembles through Postprocessing"
+    }, 
+    {
+        "author": "Kirstin Kober et al", 
+        "date": "2015-07-01", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0012.1?af=R", 
+        "title": "Examination of a stochastic and deterministic convection parameterization in the COSMO model"
+    }, 
+    {
+        "author": "Sara A. Ganetis et al", 
+        "date": "2015-06-30", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00407.1?af=R", 
+        "title": "The Thermodynamic and Microphysical Evolution of an Intense Snowband during the Northeast U.S. Blizzard of 8-9 February 2013"
+    }, 
+    {
+        "author": "Ryan D. Torn et al", 
+        "date": "2015-06-30", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0085.1?af=R", 
+        "title": "Sensitivity of Central Oklahoma Convection Forecasts to Upstream Potential Vorticity Anomalies during Two Strongly Forced Cases during MPEX"
+    }, 
+    {
+        "author": "Benjamin M\u00e9n\u00e9trier et al", 
+        "date": "2015-06-26", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00404.1?af=R", 
+        "title": "An overlooked issue of variational data assimilation"
+    }, 
+    {
+        "author": "Benjamin M\u00e9n\u00e9trier et al", 
+        "date": "2015-06-26", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0057.1?af=R", 
+        "title": "Optimized Localization and Hybridization to Filter Ensemble-Based Covariances"
+    }, 
+    {
+        "author": "Qianwen Luo et al", 
+        "date": "2015-06-25", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0006.1?af=R", 
+        "title": "Case study of moisture and heat budgets within atmospheric rivers"
+    }, 
+    {
+        "author": "Ivan G\u00fcttler et al", 
+        "date": "2015-06-24", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00302.1?af=R", 
+        "title": "Impact of horizontal resolution on precipitation in complex orography simulated by the regional climate model RCA3"
+    }, 
+    {
+        "author": "Elizabeth R. Sanabia et al", 
+        "date": "2015-06-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0066.1?af=R", 
+        "title": "Satellite and aircraft observations of the eyewall replacement cycle in Typhoon Sinlaku (2008)"
+    }, 
+    {
+        "author": "Paul Markowski et al", 
+        "date": "2015-06-19", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0126.1?af=R", 
+        "title": "Comments on \u201cObservations of Wall Cloud Formation in Supercell Thunderstorms during VORTEX2\u201d"
+    }, 
+    {
+        "author": "Stanley B. Trier et al", 
+        "date": "2015-06-12", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0133.1?af=R", 
+        "title": "Mesoscale Thermodynamic Influences on Convection Initiation near a Surface Dryline in a Convection-Permitting Ensemble"
+    }, 
+    {
+        "author": "Peter G. Veals et al", 
+        "date": "2015-06-11", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0009.1?af=R", 
+        "title": "Climatological Characteristics and Orographic Enhancement of Lake-Effect Precipitation east of Lake Ontario and over the Tug Hill Plateau"
+    }, 
+    {
+        "author": "Thomas M. Hamill et al", 
+        "date": "2015-06-03", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0004.1?af=R", 
+        "title": "Analog Probabilistic Precipitation Forecasts Using GEFS Reforecasts and Climatology-Calibrated Precipitation Analyses"
+    }, 
+    {
+        "author": "Ryan A. Sobash et al", 
+        "date": "2015-05-29", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00126.1?af=R", 
+        "title": "Assimilating surface mesonet observations with the EnKF to improve ensemble forecasts of convection initiation on 29 May 2012"
+    }, 
+    {
+        "author": "Stefano Migliorini", 
+        "date": "2015-05-29", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00249.1?af=R", 
+        "title": "Optimal ensemble-based selection of channels from advanced sounders in the presence of cloud"
+    }, 
+    {
+        "author": "Craig S. Schwartz et al", 
+        "date": "2015-05-29", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00259.1?af=R", 
+        "title": "Sensitivity of limited-area hybrid variational-ensemble analyses and forecasts to ensemble perturbation resolution"
+    }, 
+    {
+        "author": "Xuwei Bao et al", 
+        "date": "2015-05-28", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00241.1?af=R", 
+        "title": "Diagnostics for an Extreme Rain Event near Shanghai, during the Landfall of Typhoon Fitow (2013)"
+    }, 
+    {
+        "author": "Yue Zheng et al", 
+        "date": "2015-05-28", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0005.1?af=R", 
+        "title": "Improving High-Resolution Weather Forecasts using the Weather Research and Forecasting (WRF) Model with an Updated Kain-Fritsch Scheme."
+    }, 
+    {
+        "author": "Nasreen Akter", 
+        "date": "2015-05-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00260.1?af=R", 
+        "title": "Mesoscale Convection and Bimodal Cyclogenesis over the Bay of Bengal"
+    }, 
+    {
+        "author": "Lili Lei et al", 
+        "date": "2015-05-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00415.1?af=R", 
+        "title": "Empirical Localization Functions for Ensemble Kalman Filter Data Assimilation in Regions with and without Precipitation"
+    }, 
+    {
+        "author": "Daniel L. Swain et al", 
+        "date": "2015-05-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0079.1?af=R", 
+        "title": "Evaluation of non-hydrostatic simulations of Northeast Pacific atmospheric rivers and comparison to in-situ observations"
+    }, 
+    {
+        "author": "Ross N. Bannister", 
+        "date": "2015-05-21", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00379.1?af=R", 
+        "title": "How is the balance of a forecast ensemble affected by adaptive and non-adaptive localization schemes?"
+    }, 
+    {
+        "author": "Feiyu Lu et al", 
+        "date": "2015-05-19", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00322.1?af=R", 
+        "title": "Strongly Coupled Data Assimilation Using Leading Averaged Coupled Covariance (LACC). Part I: Simple Model Study"
+    }, 
+    {
+        "author": "Arun Kumar et al", 
+        "date": "2015-05-19", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0035.1?af=R", 
+        "title": "An Analysis of the Temporal Evolution of ENSO Prediction Skill in the Context of the Equatorial Pacific Ocean Observing System"
+    }, 
+    {
+        "author": "Yuan Sun et al", 
+        "date": "2015-05-15", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00340.1?af=R", 
+        "title": "Sensitivity of Tropical Cyclone Track Simulation over the Western North Pacific to Different Heating/Drying Rates in the Betts-Miller-Janji\u0107 Scheme"
+    }, 
+    {
+        "author": "Ryan A. Sobash et al", 
+        "date": "2015-05-13", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00323.1?af=R", 
+        "title": "On the impact of additive noise in storm-scale EnKF experiments"
+    }, 
+    {
+        "author": "Jiangshan Zhu et al", 
+        "date": "2015-05-12", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00301.1?af=R", 
+        "title": "Bayesian Model Averaging with Stratified Sampling for Probabilistic Quantitative Precipitation Forecasting in Northern China during Summer 2010"
+    }, 
+    {
+        "author": "Matt C. Wilbanks et al", 
+        "date": "2015-05-12", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00359.1?af=R", 
+        "title": "Near-surface density currents observed in the southeast Pacific stratocumulus-topped marine boundary layer"
+    }, 
+    {
+        "author": "Arun Kumar et al", 
+        "date": "2015-05-12", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0022.1?af=R", 
+        "title": "Inherent Predictability, Requirements on the Ensemble Size, and Complementarity"
+    }, 
+    {
+        "author": "RAUL A. VALENZUELA et al", 
+        "date": "2015-05-11", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00365.1?af=R", 
+        "title": "Orographic Precipitation Forcing along the Coast of Northern California during a Landfalling Winter Storm"
+    }, 
+    {
+        "author": "Yanqiu Zhu et al", 
+        "date": "2015-05-08", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00235.1?af=R", 
+        "title": "Variational correction of aircraft temperature bias in the NCEP\u2019s GSI analysis system"
+    }, 
+    {
+        "author": "Jieshun Zhu et al", 
+        "date": "2015-05-07", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00297.1?af=R", 
+        "title": "Sea Surface Temperature Predictions in NCEP CFSv2 Using a Simple Ocean Initialization Scheme"
+    }, 
+    {
+        "author": "Huijun Zong et al", 
+        "date": "2015-05-06", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00321.1?af=R", 
+        "title": "Synoptic-scale Influences on Tropical Cyclone Formation within the Western North Pacific Monsoon Trough"
+    }, 
+    {
+        "author": "Michael M. French et al", 
+        "date": "2015-05-05", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00349.1?af=R", 
+        "title": "Documenting a Rare Tornado Merger Observed in the 24 May 2011 El Reno-Piedmont, Oklahoma, Supercell"
+    }, 
+    {
+        "author": "Luiz A. T. Machado et al", 
+        "date": "2015-05-05", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00393.1?af=R", 
+        "title": "Effect of Turbulence Parameterization on Assessment of Cloud Organization"
+    }, 
+    {
+        "author": "Krishna K. Osuri et al", 
+        "date": "2015-05-01", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-13-00381.1?af=R", 
+        "title": "Improved Prediction of Bay of Bengal Tropical Cyclones through Assimilation of Doppler Weather Radar Observations"
+    }, 
+    {
+        "author": "Jason E. Nachamkin et al", 
+        "date": "2015-05-01", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00411.1?af=R", 
+        "title": "Applying a Neighborhood Fractions Sampling Approach as a Diagnostic Tool"
+    }, 
+    {
+        "author": "Seyed Hamed Alemohammad et al", 
+        "date": "2015-04-29", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00337.1?af=R", 
+        "title": "Quantifying Precipitation Uncertainty for Land Data Assimilation Applications"
+    }, 
+    {
+        "author": "Erin B. Munsell et al", 
+        "date": "2015-04-29", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00358.1?af=R", 
+        "title": "Dynamics and predictability of Hurricane Nadine (2012) evaluated through convection-permitting ensemble analysis and forecasts"
+    }, 
+    {
+        "author": "Yuqing Wang et al", 
+        "date": "2015-04-24", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0049.1?af=R", 
+        "title": "A statistical analysis of the effects of vertical wind shear on tropical cyclone intensity change over the western North Pacific"
+    }, 
+    {
+        "author": "Thomas J. Galarneau", 
+        "date": "2015-04-23", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0053.1?af=R", 
+        "title": "Influence of a predecessor rain event on the track of tropical cyclone Isaac (2012)"
+    }, 
+    {
+        "author": "Wanqiu Wang et al", 
+        "date": "2015-04-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00385.1?af=R", 
+        "title": "What is the role of the sea surface temperature uncertainty in the prediction of tropical convection associated with the MJO?"
+    }, 
+    {
+        "author": "Michael C. Kruk et al", 
+        "date": "2015-04-21", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00280.1?af=R", 
+        "title": "Using Microwave Satellite Data to Assess Changes in Storminess over the Pacific Ocean"
+    }, 
+    {
+        "author": "Neil C. G. Hart et al", 
+        "date": "2015-04-21", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00382.1?af=R", 
+        "title": "Detection of coherent airstreams using cluster analysis: application to an extratropical cyclone"
+    }, 
+    {
+        "author": "Jun A. Zhang et al", 
+        "date": "2015-04-20", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00339.1?af=R", 
+        "title": "Evaluating the impact of improvements in the boundary layer parameterization on hurricane intensity and structure forecasts in HWRF"
+    }, 
+    {
+        "author": "Aaron Johnson et al", 
+        "date": "2015-04-10", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00345.1?af=R", 
+        "title": "A Comparison of Multi-scale GSI-based EnKF and 3DVar Data Assimilation using Radar and Conventional Observations for Mid-latitude Convective-scale Precipitation Forecasts"
+    }, 
+    {
+        "author": "Brian C. Ancell et al", 
+        "date": "2015-04-10", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0001.1?af=R", 
+        "title": "Evaluation of Wind Forecasts and Observation Impacts from Variational and Ensemble Data Assimilation for Wind Energy Applications"
+    }, 
+    {
+        "author": "Nusrat Yussouf et al", 
+        "date": "2015-04-07", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00268.1?af=R", 
+        "title": "Storm-scale Data Assimilation and Ensemble Forecasts for the 27 April 2011 Severe Weather Outbreak in Alabama"
+    }, 
+    {
+        "author": "Charles N. Helms et al", 
+        "date": "2015-04-06", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00242.1?af=R", 
+        "title": "The Evolution of Dropsonde-Derived Kinematic and Thermodynamic Structures in Developing and Nondeveloping Atlantic Tropical Convective Systems"
+    }, 
+    {
+        "author": "Yunji Zhang et al", 
+        "date": "2015-04-02", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00394.1?af=R", 
+        "title": "Practical Predictability of the 20 May 2013 Tornadic Thunderstorm Event in Oklahoma: Sensitivity to Synoptic Timing and Topographical Influence"
+    }, 
+    {
+        "author": "Corey K. Potvin et al", 
+        "date": "2015-04-01", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00416.1?af=R", 
+        "title": "Sensitivity of idealized supercell simulations to horizontal grid spacing: Implications for Warn-on-Forecast"
+    }, 
+    {
+        "author": "Elijah Goodfriend et al", 
+        "date": "2015-03-19", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00392.1?af=R", 
+        "title": "Improving large-eddy simulation of neutral boundary layer flow across grid interfaces"
+    }, 
+    {
+        "author": "E. E. Houssos et al", 
+        "date": "2015-03-16", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00198.1?af=R", 
+        "title": "Atmospheric Circulation Characteristics Favoring Dust Outbreaks over the Solar Village, Central Saudi Arabia"
+    }, 
+    {
+        "author": "Christopher A. Jeffery", 
+        "date": "2013-07-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-12-00279.1?af=R", 
+        "title": "Assessment of model error in limited-area simulations of shallow water test cases on the C-grid plane and sphere"
+    }, 
+    {
+        "author": "John L. Beven et al", 
+        "date": "2012-06-29", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-11-00264.1?af=R", 
+        "title": "Atlantic Hurricane Season of 2010"
+    }, 
+    {
+        "author": "Eric D. Skyllingstad et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2441-2458, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00247.1?af=R", 
+        "title": "Cloud-Resolving Large-Eddy Simulation of Tropical Convective Development and Surface Fluxes"
+    }, 
+    {
+        "author": "Andrew B. Penny et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2459-2484, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00163.1?af=R", 
+        "title": "Observations of a Nondeveloping Tropical Disturbance in the Western North Pacific during TCS-08 (2008)"
+    }, 
+    {
+        "author": "X. Zou et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2485-2505, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00223.1?af=R", 
+        "title": "Improved Tropical Storm Forecasts with GOES-13/15 Imager Radiance Assimilation and Asymmetric Vortex Initialization in HWRF"
+    }, 
+    {
+        "author": "Ting-Chi Wu et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2506-2531, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00220.1?af=R", 
+        "title": "Understanding the Influence of Assimilating Subsets of Enhanced Atmospheric Motion Vectors on Numerical Analyses and Forecasts of Tropical Cyclone Track and Intensity with an Ensemble Kalman Filter"
+    }, 
+    {
+        "author": "Mark Buehner et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2532-2559, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00354.1?af=R", 
+        "title": "Implementation of Deterministic Weather Forecasting Systems Based on Ensemble\u2013Variational Data Assimilation at Environment Canada. Part I: The Global System"
+    }, 
+    {
+        "author": "Jean-Fran\u00e7ois Caron et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2560-2580, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00353.1?af=R", 
+        "title": "Implementation of Deterministic Weather Forecasting Systems Based on Ensemble\u2013Variational Data Assimilation at Environment Canada. Part II: The Regional System"
+    }, 
+    {
+        "author": "Hyo-Jong Song et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2581-2599, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00089.1?af=R", 
+        "title": "Spectral Transformation Using a Cubed-Sphere Grid for a Three-Dimensional Variational Data Assimilation System"
+    }, 
+    {
+        "author": "Lili Lei et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2600-2610, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00295.1?af=R", 
+        "title": "Nudging, Ensemble, and Nudging Ensembles for Data Assimilation in the Presence of Model Error"
+    }, 
+    {
+        "author": "Derek J. Posselt et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2611-2636, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00347.1?af=R", 
+        "title": "Assimilation of Dual-Polarization Radar Observations in Mixed- and Ice-Phase Regions of Convective Storms: Information Content and Forward Model Errors"
+    }, 
+    {
+        "author": "Dominik Jacques et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2637-2656, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00243.1?af=R", 
+        "title": "The Impacts of Representing the Correlation of Errors in Radar Data Assimilation. Part II: Model Output as Background Estimates"
+    }, 
+    {
+        "author": "Roger M. Wakimoto et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2657-2683, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0034.1?af=R", 
+        "title": "Photogrammetric Analysis of the 2013 El Reno Tornado Combined with Mobile X-Band Polarimetric Radar Data"
+    }, 
+    {
+        "author": "Jana Lesak Houser et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2685-2710, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00253.1?af=R", 
+        "title": "Rapid-Scan, Polarimetric, Doppler Radar Observations of Tornadogenesis and Tornado Dissipation in a Tornadic Supercell: The \u201cEl Reno, Oklahoma\u201d Storm of 24 May 2011"
+    }, 
+    {
+        "author": "James M. Kurdzo et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2711-2735, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00357.1?af=R", 
+        "title": "High-Temporal Resolution Polarimetric X-Band Doppler Radar Observations of the 20 May 2013 Moore, Oklahoma, Tornado"
+    }, 
+    {
+        "author": "Christopher C. Weiss et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2736-2753, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00307.1?af=R", 
+        "title": "A Comparison of Near-Surface Buoyancy and Baroclinity across Three VORTEX2 Supercell Intercepts"
+    }, 
+    {
+        "author": "Matthew R. Kumjian et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2754-2773, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00402.1?af=R", 
+        "title": "On the Mechanisms of Rain Formation in an Idealized Supercell Storm"
+    }, 
+    {
+        "author": "Retha Matthee Mecikalski et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2774-2794, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00250.1?af=R", 
+        "title": "Radar and Lightning Observations of Deep Moist Convection across Northern Alabama during DC3: 21 May 2012"
+    }, 
+    {
+        "author": "Matthew D. Parker et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2795-2816, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00310.1?af=R", 
+        "title": "Production of Near-Surface Vertical Vorticity by Idealized Downdrafts"
+    }, 
+    {
+        "author": "Shawn M. Milrad et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2817-2841, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00236.1?af=R", 
+        "title": "A Meteorological Analysis of the 2013 Alberta Flood: Antecedent Large-Scale Flow Pattern and Synoptic\u2013Dynamic Characteristics"
+    }, 
+    {
+        "author": "Socorro Medina et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2842-2870, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00124.1?af=R", 
+        "title": "Small-Scale Precipitation Elements in Midlatitude Cyclones Crossing the California Sierra Nevada"
+    }, 
+    {
+        "author": "Shuhua Li et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2871-2889, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00277.1?af=R", 
+        "title": "Evaluation of Submonthly Precipitation Forecast Skill from Global Ensemble Prediction Systems"
+    }, 
+    {
+        "author": "Aitor Atencia et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2890-2908, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00342.1?af=R", 
+        "title": "A Comparison of Two Techniques for Generating Nowcasting Ensembles. Part II: Analogs Selection and Comparison of Techniques"
+    }, 
+    {
+        "author": "Constantin Junk et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2909-2917, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0095.1?af=R", 
+        "title": "Analog-Based Ensemble Model Output Statistics"
+    }, 
+    {
+        "author": "I. Hoteit et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2918-2936, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00088.1?af=R", 
+        "title": "Mitigating Observation Perturbation Sampling Errors in the Stochastic EnKF"
+    }, 
+    {
+        "author": "Kiran K. Katta et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2937-2954, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-13-00176.1?af=R", 
+        "title": "High-Order Finite-Volume Transport on the Cubed Sphere: Comparison between 1D and 2D Reconstruction Schemes"
+    }, 
+    {
+        "author": "K. Chowdhary et al", 
+        "date": "2015-07-08", 
+        "description": "Monthly Weather Review, Volume 143, Issue 7, Page 2955-2972, July 2015. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-14-00168.1?af=R", 
+        "title": "Quadrature Methods for the Calculation of Subgrid Microphysics Moments"
+    }
+]

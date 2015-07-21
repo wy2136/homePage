@@ -1,0 +1,586 @@
+[
+    {
+        "author": "Marcia McNutt", 
+        "date": "2015-07-17", 
+        "description": "Last month, 65 Nobel laureates gathered in Lindau, Germany, for an annual exchange of knowledge between these most honored scientists and a group of selected young researchers from around the globe. To extend the reach of the conference, Science hosted a webinar to address a common concern of young scientists everywhere: persevering in science. Some advice on this topic may have been unexpected.\nAuthor: Marcia McNutt", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/217.summary?rss=1", 
+        "title": "[Editorial] Passion is just the start"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-17", 
+        "description": "In science news around the world, Iran agrees to dismantle large pieces of its nuclear program in exchange for lifting economic sanctions\u2014with science as an important beneficiary, Smithsonian Institution scientists sample plants from federal gardens as part of an initiative to capture the genomic diversity of half of the world's living plant genera, a bill to speed the discovery and development of new medical cures sails through the U.S. House of Representatives, and more. Also, IBM says it has manufactured a working version of an ultradense 7-nanometer computer chip with four times the capacity of the most powerful chips on the market. And an inexpensive cholera vaccine shows promise in a new study conducted in Dhaka.\n", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/218.summary?rss=1", 
+        "title": "[In Brief] This week's section"
+    }, 
+    {
+        "author": "John Bohannon", 
+        "date": "2015-07-17", 
+        "description": "After years of denying that it had given scientific and ethical legitimacy to torture by the U.S. government, the American Psychological Association (APA) last week accepted the finding of an external investigation that concluded it had done just that. The 542-page report from a former Chicago inspector general, David Hoffman, pulls no punches, concluding that APA officials colluded with the U.S. government to enable the torture of detainees. Now, with a public apology and wave of forced retirements, APA is struggling to craft an institutional response that will satisfy its members and longtime detractors, even as some of those pilloried in the probe defend themselves and their colleagues.\nAuthor: John Bohannon", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/221.summary?rss=1", 
+        "title": "[In Depth] Torture report prompts APA apology"
+    }, 
+    {
+        "author": "Jennifer Couzin-Frankel", 
+        "date": "2015-07-17", 
+        "description": "The race to bring a new treatment to market has many dropouts along the way. About 12% of clinical trials are reported to shut down prematurely. Knowing why could help minimize the number of terminated trials going forward. A team of three computational biologists who had hoped to use ClinicalTrials.gov in a research project of their own instead began exploring why clinical trials end prematurely. They looked at all 3122 terminated trials on the registry at the time their study began, and divided the reasons for ending early into \"buckets,\" such as funding, ethical reasons, or business decisions, so they could see the breakdown by category.\nAuthor: Jennifer Couzin-Frankel", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/222.summary?rss=1", 
+        "title": "[In Depth] Researchers seek clear reasons when clinical trials end early"
+    }, 
+    {
+        "author": "Kai Kupferschmidt", 
+        "date": "2015-07-17", 
+        "description": "On 7 July, an independent six-member panel delivered a scathing review of how the World Health Organization (WHO) has handled the Ebola epidemic in West Africa. It also proposed wide-ranging reforms that would enable the agency to better tackle the next major health crisis\u2014from giving it more money and power to setting up a special, semi-independent emergency center. But whereas many of the suggestions have been praised as sensible, WHO's complex, politicized governance structure and entrenched bureaucracy make it difficult to change, people who know the $2 billion U.N. agency say. Much will depend on member states' willingness to give the agency additional funding and powers.\nAuthor: Kai Kupferschmidt", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/223.summary?rss=1", 
+        "title": "[In Depth] Report prescribes strong medicine for WHO"
+    }, 
+    {
+        "author": "Vladimir Pokrovsky", 
+        "date": "2015-07-17", 
+        "description": "The news last week that the Dynasty Foundation, Russia's only private funder of scientific research, is closing its doors adds to a darkening prospect for philanthropic support of Russian science. The decision by the Dynasty Foundation's council, announced 8 July in a terse one-sentence notice on Dynasty's Russian-language website, came weeks after the Russian government had labeled Dynasty a \"foreign agent\" under a recently enacted law. That move was part of what many see as a growing official crackdown on organizations the government considers subversive. A new mechanism, separate from the foreign-agent law, threatens to label such groups as \"undesirable\" and make collaborating with them illegal, potentially curtailing their support for scientists. Anna Piotrovskaya, the foundation's executive director, told the press that she cannot say exactly when it will close but that all of Dynasty's obligations to current grantees will be fulfilled.\nAuthor: Vladimir Pokrovsky", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/224.summary?rss=1", 
+        "title": "[In Depth] Russia targets Western ties"
+    }, 
+    {
+        "author": "Jeffrey Mervis", 
+        "date": "2015-07-17", 
+        "description": "This new feature will take a fresh look at some of the numbers that drive important science policy questions in the United States and around the world. The first column examines a metric devised by the U.S. National Institutes of Health (NIH) to track the cost of what's needed to carry out biomedical research. Conventional wisdom holds that the Biomedical Research and Development Price Index grows faster than a similar index for consumer goods because of the ever-rising cost of the high-tech supplies and equipment used in a modern lab, and that NIH needs an extra dollop of funds each year to keep pace. But it turns out that salaries and benefits are by far the largest component\u2014a fact revealed in 2012 after Congress lowered the ceiling for what investigators could be paid on an NIH grant.\nAuthor: Jeffrey Mervis", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/225.summary?rss=1", 
+        "title": "[In Depth] Salaries pump up biomedical inflation"
+    }, 
+    {
+        "author": "Jon Cohen", 
+        "date": "2015-07-17", 
+        "description": "Recent advances in HIV/AIDS treatment and prevention have convinced an increasing number of scientists, politicians, and advocates that the tools now exist to end AIDS epidemics locally and, by 2030, around the world. Chief among the new findings that have driven this optimism is that antiretroviral (ARV) drugs both ward off disease in an infected person and, if the virus is suppressed to undetectable levels, powerfully reduce the risk of transmission. ARVs given to uninfected people as prophylaxis, a strategy dubbed pre-exposure prophylaxis, also can prevent transmissions, further changing the trajectory of epidemics. San Francisco, New York state, and British Columbia, Canada, all are at the vanguard of the movement to end AIDS epidemics, and each locale is tailor-making a response based on their demographics, politics, and scientific convictions of what is needed most. They also have different definitions of what it means to \"end AIDS.\" But each locale has set the goal line at 2020\u2014and each faces complex challenges.\nAuthor: Jon Cohen", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/226.summary?rss=1", 
+        "title": "[Feature] Means to an end"
+    }, 
+    {
+        "author": "Jon Cohen", 
+        "date": "2015-07-17", 
+        "description": "Tijuana, Mexico, has vastly improved its HIV/AIDS treatment and prevention efforts over the past decade, now providing free antiretrovirals to all infected people. But like many locales around the world, its HIV/AIDS response also illustrates that a vast distance separates the dream of \"ending AIDS\"\u2014which is gaining increasing attention worldwide\u2014and reality. Its one publicly funded HIV/AIDS clinic is located far from downtown, is difficult for people to reach, and has only three doctors treating a patient load of around 1000 people. HIV-infected people in Tijuana who know they are living with the virus rarely receive treatment, a tiny percentage fully suppress their viral levels, and some still die in AIDS hospices without ever having taken antiretroviral drugs. Needle sharing among people who inject drugs is commonplace. HIV testing in not routinely done in gay bars or the red light district. And the prevalence in drug users, sex workers, gay men, and transgender people ranges from 5% to 20%\u2014and is showing no signs of declining.\nAuthor: Jon Cohen", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/230.summary?rss=1", 
+        "title": "[Feature] No end in sight"
+    }, 
+    {
+        "author": "Christian Colliex", 
+        "date": "2015-07-17", 
+        "description": "Nanoparticles containing a few tens or hundreds of atoms have applications in an ever-expanding range of areas, from electronics to catalysis and biological sensors. This versatility stems from the high sensitivity of nanoparticle properties to size, chemical composition, and shape, which are largely determined by the synthesis route by which they are produced. Nanoparticles grown in solution, termed \u201ccolloidal nanoparticles,\u201d are of particular interest because they may be used in many applications, including as biosensors (1). On page 290 of this issue, Park et al. (2) report high-resolution structures of nanoparticles in solution deduced from electron microscopy. This spectacular result relies on the convergence of recently developed techniques from both the physical and life sciences and heralds a new era of high-resolution studies in solution.\nAuthor: Christian Colliex", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/232.abstract?rss=1", 
+        "title": "[Perspective] Tracking the merry dance of nanoparticles"
+    }, 
+    {
+        "author": "Kirsten von Bergmann", 
+        "date": "2015-07-17", 
+        "description": "Present-day hard disk drives use magnetic bits that are read out by movable read heads. To circumvent the inherent fragility of such a mechanical construction, and to exploit the third dimension for increased storage density, Parkin et al. proposed a racetrack memory device (1). The general concept is that the information is encoded in a localized magnetization configuration that can be driven through the material with electrical currents and transported to a stationary read head. Recently, interface-induced skyrmions, which are circular particlelike magnetic objects (see the figure, panel A), have been envisioned as ideal candidates for future racetrack memory\u2013type applications (see the figure, panel B) (2, 3). On page 283 of this issue, Jiang et al. (4) have made progress toward realizing such a device architecture. They report on the generation and movement of individual skyrmionic bubbles at room temperature, accomplished by exploiting two different spin-orbit coupling\u2013related effects.\nAuthor: Kirsten von Bergmann", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/234.abstract?rss=1", 
+        "title": "[Perspective] Magnetic bubbles with a twist"
+    }, 
+    {
+        "author": "Felicia Keesing", 
+        "date": "2015-07-17", 
+        "description": "On a floodplain of the River Saale near Jena, Germany, grassland plants are naturally bombarded by spores of pathogenic fungi. But whether or not those fungi cause infection turns out to be largely about the neighborhood: Plants on highly diverse experimental plots have much lower levels of infection than plants grown in monoculture (1) (see the photos). The pathogens, it appears, are less likely to encounter their optimal host on the more diverse plots, which reduces disease prevalence and incidence. This protective effect of diversity has been found in many studies, not just for plants but also for diseases afflicting humans and wildlife. It has remained unclear, however, whether this observation holds generally (2, 3). In a recent paper, Civitello et al. addressed this question in a rigorous meta-analysis of diversity-disease relationships (4).\nAuthors: Felicia Keesing, Richard S. Ostfeld", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/235.abstract?rss=1", 
+        "title": "[Perspective] Is biodiversity good for your health?"
+    }, 
+    {
+        "author": "Matthias Nahrendorf", 
+        "date": "2015-07-17", 
+        "description": "Neutrophils and monocyte-derived macrophages are myeloid cells, with a shared hematopoietic ancestry, that pursue both common and distinct immune functions. In response to tissue damage or infection, neutrophils infiltrate first, followed by monocytes (1). Through a series of events involving the release of proinflammatory products, both cell types seek to neutralize danger, and if successful, inflammation resolves. But when stimuli persist and inflammation is not resolved, neutrophils and monocytes continue to accumulate, presumably inflicting the irreversible damage that characterizes chronic inflammation. Whether neutrophils and monocytes act together to fuel the inflammatory cascade in those circumstances is still poorly understood. On page 316 of this issue, Warnatsch et al. (2) report that neutrophils prime macrophages for inflammatory responses that aggravate atherosclerosis. Neutrophil extracellular traps (NETs) underlie the communication between these two immune cell types.\nAuthors: Matthias Nahrendorf, Filip K. Swirski", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/237.abstract?rss=1", 
+        "title": "[Perspective] Neutrophil-macrophage communication in inflammation and atherosclerosis"
+    }, 
+    {
+        "author": "Ruth DeFries", 
+        "date": "2015-07-17", 
+        "description": "Over the past half-century, the paradigm for agricultural development has been to maximize yields through intensifying production, particularly for cereal crops (1). Increasing production of high-yielding cereals\u2014wheat, rice, and maize\u2014has replaced more nutrient-rich cereals, which has eroded the content of essential dietary nutrients in the world's cereal supply. New approaches are needed to produce healthy foods, rich in essential nutrients, with efficient use of land. Standard yield metrics that measure the quantity of production are inadequate to assess progress toward this goal; thus, we propose alternative metrics of nutritional yields.\nAuthors: Ruth DeFries, Jessica Fanzo, Roseline Remans, Cheryl Palm, Stephen Wood, Tal L. Anderman", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/238.summary?rss=1", 
+        "title": "[Policy Forum] Metrics for land-scarce agriculture"
+    }, 
+    {
+        "author": "Rahul Dev Mukhopadhyay", 
+        "date": "2015-07-17", 
+        "description": "Most polymers that we encounter, like those used in grocery bags and soda bottles, are formed from small molecules (monomers) held together by strong covalent bonds. In supramolecular polymerization, monomers bond through weaker reversible interactions, such as hydrogen bonds (H-bonds). Supramolecular polymerization usually proceeds through step-growth mechanisms (1), where both ends of each monomer are reactive and many smaller oligomers form before long polymers appear. To overcome this problem, a method developed for covalent polymers known as living polymerization has been adopted for supramolecular polymers to achieve better control and uniformity of chain growth and dispersity.\nAuthors: Rahul Dev Mukhopadhyay, Ayyappanpillai Ajayaghosh", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/241.abstract?rss=1", 
+        "title": "[Perspective] Living supramolecular polymerization"
+    }, 
+    {
+        "author": "Rosalind W. Picard", 
+        "date": "2015-07-17", 
+        "description": "In Ex Machina, a young programmer named Caleb finds himself falling for the humanoid robot Ava. But is the feeling mutual? Reviewer Rosalind Picard isn't so sure. Still, she applauds the fact that director Alex Garland has obviously done some homework on the science of emotions and artificial intelligence.\nAuthor: Rosalind W. Picard", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/243.summary?rss=1", 
+        "title": "[Book Review] Virtual love"
+    }, 
+    {
+        "author": "Nicholas Freudenberg", 
+        "date": "2015-07-17", 
+        "description": "In From Field to Fork, Paul B. Thompson applies the methods of philosophy and ethics to the choices individuals and societies make about food. The book considers a variety of topics, including: hunger and food insecurity in a land of plenty; the impact of the Green Revolution and genetically modified crops on food production, famine, and the environment; the ethical, health, and environmental rationales for vegetarianism; and the human cost of cheap food. Although Thompson leaves two key players\u2014global food companies and government\u2014out of his analyses, reviewer Nicholas Freudenberg praises the book as a \"sensible and engaging introduction to food ethics.\" \nAuthor: Nicholas Freudenberg", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/244.1.summary?rss=1", 
+        "title": "[Book Review] Food for thought"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-17", 
+        "description": "A listing of books received at Science during the week ending 10 July 2015.\n", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/244.2.summary?rss=1", 
+        "title": "[Books et al.] Books Received"
+    }, 
+    {
+        "author": "Giacomo Certini", 
+        "date": "2015-07-17", 
+        "description": "Authors: Giacomo Certini, Riccardo Scalenghe", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/246.1.summary?rss=1", 
+        "title": "[Letter] Holocene as Anthropocene"
+    }, 
+    {
+        "author": "Simon L. Lewis", 
+        "date": "2015-07-17", 
+        "description": "Authors: Simon L. Lewis, Mark A. Maslin", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/246.2.summary?rss=1", 
+        "title": "[Letter] Geological evidence for the Anthropocene"
+    }, 
+    {
+        "author": "Jennifer Sills", 
+        "date": "2015-07-17", 
+        "description": "Authors: Jennifer Sills, William F. Ruddiman", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/247.1.summary?rss=1", 
+        "title": "[Letter] Geological evidence for the Anthropocene\u2014Response"
+    }, 
+    {
+        "author": "K. D. Bennett", 
+        "date": "2015-07-17", 
+        "description": "Smith et al. (Reports, 27 February 2015, p. 998) identify wheat DNA from an 8000-calendar-years-before-the-present archaeological site in southern England and conclude that wheat was traded to Britain 2000 years before the arrival of agriculture. The DNA samples are not dated, either directly or from circumstantial evidence, so there is no chronological evidence to support the claim.\nAuthor: K. D. Bennett", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/247.2.summary?rss=1", 
+        "title": "[Technical Comment] Comment on \u201cSedimentary DNA from a submerged site reveals wheat in the British Isles 8000 years ago\u201d"
+    }, 
+    {
+        "author": "Oliver Smith", 
+        "date": "2015-07-17", 
+        "description": "Bennett questions the rigor of the dating of our sample from which sedimentary ancient DNA was obtained and the reliability of the taxonomic identification of wheat. We present a further radiocarbon date from S308 that confirms the lateral consistency of the palaeosol age. The suggestion of taxonomic false positives in our data illustrates a misinterpretation of the phylogenetic intersection analysis.\nAuthors: Oliver Smith, Garry Momber, Richard Bates, Paul Garwood, Simon Fitch, Mark Pallen, Vincent Gaffney, Robin G. Allaby", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/247.3.summary?rss=1", 
+        "title": "[Technical Response] Response to Comment on \u201cSedimentary DNA from a submerged site reveals wheat in the British Isles 8000 years ago\u201d"
+    }, 
+    {
+        "author": "Jelena Stajic", 
+        "date": "2015-07-17", 
+        "description": "Authors: Jelena Stajic, Richard Stone, Gilbert Chin, Brad Wible", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/248.summary?rss=1", 
+        "title": "[Introduction to Special Issue] Rise of the Machines"
+    }, 
+    {
+        "author": "John Bohannon", 
+        "date": "2015-07-17", 
+        "description": "Some people prefer to bare their souls to computers rather than to fellow humans\nAuthor: John Bohannon", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/250.summary?rss=1", 
+        "title": "[Special Issue News] The synthetic therapist"
+    }, 
+    {
+        "author": "John Bohannon", 
+        "date": "2015-07-17", 
+        "description": "Stuart Russell argues that AI is as dangerous as nuclear weapons\nAuthor: John Bohannon", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/252.summary?rss=1", 
+        "title": "[Special Issue News] Fears of an AI pioneer"
+    }, 
+    {
+        "author": "Eric Horvitz", 
+        "date": "2015-07-17", 
+        "description": "Large-scale aggregate analyses of anonymized data can yield valuable results and insights that address public health challenges and provide new avenues for scientific discovery. These methods can extend our knowledge and provide new tools for enhancing health and wellbeing. However, they raise questions about how to best address potential threats to privacy while reaping benefits for individuals and to society as a whole. The use of machine learning to make leaps across informational and social contexts to infer health conditions and risks from nonmedical data provides representative scenarios for reflections on directions with balancing innovation and regulation. \nAuthors: Eric Horvitz, Deirdre Mulligan", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/253.summary?rss=1", 
+        "title": "[Special Issue Policy Forum] Data, privacy, and the greater good"
+    }, 
+    {
+        "author": "M. I. Jordan", 
+        "date": "2015-07-17", 
+        "description": "Machine learning addresses the question of how to build computers that improve automatically through experience. It is one of today\u2019s most rapidly growing technical fields, lying at the intersection of computer science and statistics, and at the core of artificial intelligence and data science. Recent progress in machine learning has been driven both by the development of new learning algorithms and theory and by the ongoing explosion in the availability of online data and low-cost computation. The adoption of data-intensive machine-learning methods can be found throughout science, technology and commerce, leading to more evidence-based decision-making across many walks of life, including health care, manufacturing, education, financial modeling, policing, and marketing.\nAuthors: M. I. Jordan, T. M. Mitchell", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/255.summary?rss=1", 
+        "title": "[Special Issue Review] Machine learning: Trends, perspectives, and prospects"
+    }, 
+    {
+        "author": "Julia Hirschberg", 
+        "date": "2015-07-17", 
+        "description": "Natural language processing employs computational techniques for the purpose of learning, understanding, and producing human language content. Early computational approaches to language research focused on automating the analysis of the linguistic structure of language and developing basic technologies such as machine translation, speech recognition, and speech synthesis. Today\u2019s researchers refine and make use of such tools in real-world applications, creating spoken dialogue systems and speech-to-speech translation engines, mining social media for information about health or finance, and identifying sentiment and emotion toward products and services. We describe successes and challenges in this rapidly advancing area.\nAuthors: Julia Hirschberg, Christopher D. Manning", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/261.summary?rss=1", 
+        "title": "[Special Issue Review] Advances in natural language processing"
+    }, 
+    {
+        "author": "David C. Parkes", 
+        "date": "2015-07-17", 
+        "description": "The field of artificial intelligence (AI) strives to build rational agents capable of perceiving the world around them and taking actions to advance specified goals. Put another way, AI researchers aim to construct a synthetic homo economicus, the mythical perfectly rational agent of neoclassical economics. We review progress toward creating this new species of machine, machina economicus, and discuss some challenges in designing AIs that can reason effectively in economic contexts. Supposing that AI succeeds in this quest, or at least comes close enough that it is useful to think about AIs in rationalistic terms, we ask how to design the rules of interaction in multi-agent systems that come to represent an economy of AIs. Theories of normative design from economics may prove more relevant for artificial agents than human agents, with AIs that better respect idealized assumptions of rationality than people, interacting through novel rules and incentive systems quite distinct from those tailored for people.\nAuthors: David C. Parkes, Michael P. Wellman", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/267.summary?rss=1", 
+        "title": "[Special Issue Review] Economic reasoning and artificial intelligence"
+    }, 
+    {
+        "author": "Samuel J. Gershman", 
+        "date": "2015-07-17", 
+        "description": "After growing up together, and mostly growing apart in the second half of the 20th century, the fields of artificial intelligence (AI), cognitive science, and neuroscience are reconverging on a shared view of the computational foundations of intelligence that promotes valuable cross-disciplinary exchanges on questions, methods, and results. We chart advances over the past several decades that address challenges of perception and action under uncertainty through the lens of computation. Advances include the development of representations and inferential procedures for large-scale probabilistic inference and machinery for enabling reflection and decisions about tradeoffs in effort, precision, and timeliness of computations. These tools are deployed toward the goal of computational rationality: identifying decisions with highest expected utility, while taking into consideration the costs of computation in complex real-world problems in which most relevant calculations can only be approximated. We highlight key concepts with examples that show the potential for interchange between computer science, cognitive science, and neuroscience.\nAuthors: Samuel J. Gershman, Eric J. Horvitz, Joshua B. Tenenbaum", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/273.summary?rss=1", 
+        "title": "[Special Issue Review] Computational rationality: A converging paradigm for intelligence in brains, minds, and machines"
+    }, 
+    {
+        "author": "Sacha Vignieri", 
+        "date": "2015-07-17", 
+        "description": "Author: Sacha Vignieri", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.1.full?rss=1", 
+        "title": "[This Week in Science] Keeping cool"
+    }, 
+    {
+        "author": "Kristen L. Mueller", 
+        "date": "2015-07-17", 
+        "description": "Author: Kristen L. Mueller", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.2.full?rss=1", 
+        "title": "[This Week in Science] To defeat SIV, add a protein boost"
+    }, 
+    {
+        "author": "Jelena Stajic", 
+        "date": "2015-07-17", 
+        "description": "Author: Jelena Stajic", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.3.full?rss=1", 
+        "title": "[This Week in Science] Skyrmions emerge in trilayers"
+    }, 
+    {
+        "author": "Marc S. Lavine", 
+        "date": "2015-07-17", 
+        "description": "Author: Marc S. Lavine", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.4.full?rss=1", 
+        "title": "[This Week in Science] Looking at teeny tiny platinum particles"
+    }, 
+    {
+        "author": "Pamela J. Hines", 
+        "date": "2015-07-17", 
+        "description": "Author: Pamela J. Hines", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.5.full?rss=1", 
+        "title": "[This Week in Science] Substrate channeling in morphine biosynthesis"
+    }, 
+    {
+        "author": "Beverly A. Purnell", 
+        "date": "2015-07-17", 
+        "description": "Author: Beverly A. Purnell", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.6.full?rss=1", 
+        "title": "[This Week in Science] How germ cells become sperm or egg"
+    }, 
+    {
+        "author": "H. Jesse Smith", 
+        "date": "2015-07-17", 
+        "description": "Author: H. Jesse Smith", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.7.full?rss=1", 
+        "title": "[This Week in Science] Movers and shakers"
+    }, 
+    {
+        "author": "Orla M. Smith", 
+        "date": "2015-07-17", 
+        "description": "Author: Orla M. Smith", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.8.full?rss=1", 
+        "title": "[This Week in Science] Long-acting drug to treat resistant malaria"
+    }, 
+    {
+        "author": "Philip Yeagle", 
+        "date": "2015-07-17", 
+        "description": "Author: Philip Yeagle", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.9.full?rss=1", 
+        "title": "[This Week in Science] GBS toxin activates mast cells for host defence"
+    }, 
+    {
+        "author": "Guy Riddihough", 
+        "date": "2015-07-17", 
+        "description": "Author: Guy Riddihough", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.10.full?rss=1", 
+        "title": "[This Week in Science] Protein partners for chromosome silencing"
+    }, 
+    {
+        "author": "Andrew M. Sugden", 
+        "date": "2015-07-17", 
+        "description": "Author: Andrew M. Sugden", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.11.full?rss=1", 
+        "title": "[This Week in Science] Grassland diversity and ecosystem productivity"
+    }, 
+    {
+        "author": "Jelena Stajic", 
+        "date": "2015-07-17", 
+        "description": "Author: Jelena Stajic", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.12.full?rss=1", 
+        "title": "[This Week in Science] Probing the insulating state of SmB6"
+    }, 
+    {
+        "author": "Sacha Vignieri", 
+        "date": "2015-07-17", 
+        "description": "Author: Sacha Vignieri", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.13.full?rss=1", 
+        "title": "[This Week in Science] Not that unusual after all"
+    }, 
+    {
+        "author": "L. Bryan Ray", 
+        "date": "2015-07-17", 
+        "description": "Author: L. Bryan Ray", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.14.full?rss=1", 
+        "title": "[This Week in Science] Biochemical basis of a 24-hour clock"
+    }, 
+    {
+        "author": "Julia Fahrenkamp-Uppenbrink", 
+        "date": "2015-07-17", 
+        "description": "Author: Julia Fahrenkamp-Uppenbrink", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.15.full?rss=1", 
+        "title": "[This Week in Science] The benefits of diversity"
+    }, 
+    {
+        "author": "Kristen L. Mueller", 
+        "date": "2015-07-17", 
+        "description": "Author: Kristen L. Mueller", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.16.full?rss=1", 
+        "title": "[This Week in Science] Neutrophil NETs drive atherosclerosis"
+    }, 
+    {
+        "author": "John F. Foley", 
+        "date": "2015-07-17", 
+        "description": "Author: John F. Foley", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/279.17.full?rss=1", 
+        "title": "[This Week in Science] Fine-tuning the inflammatory response"
+    }, 
+    {
+        "author": "Guy Riddihough", 
+        "date": "2015-07-17", 
+        "description": "Author: Guy Riddihough", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.1.full?rss=1", 
+        "title": "[Editors' Choice] Hunter RNAs seek and destroy parasitic DNAs"
+    }, 
+    {
+        "author": " KTS", 
+        "date": "2015-07-17", 
+        "description": "Author:  KTS", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.2.full?rss=1", 
+        "title": "[Editors' Choice] X-ray echoes used as a cosmic yardstick"
+    }, 
+    {
+        "author": "Jelena Stajic", 
+        "date": "2015-07-17", 
+        "description": "Author: Jelena Stajic", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.3.full?rss=1", 
+        "title": "[Editors' Choice] A gap in a topological surface state"
+    }, 
+    {
+        "author": "Valda Vinson", 
+        "date": "2015-07-17", 
+        "description": "Author: Valda Vinson", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.4.full?rss=1", 
+        "title": "[Editors' Choice] Trapped on the wrong pathway"
+    }, 
+    {
+        "author": "H. Jesse Smith", 
+        "date": "2015-07-17", 
+        "description": "Author: H. Jesse Smith", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.5.full?rss=1", 
+        "title": "[Editors' Choice] Seeing the forest from the trees"
+    }, 
+    {
+        "author": "Peter Stern", 
+        "date": "2015-07-17", 
+        "description": "Author: Peter Stern", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.6.full?rss=1", 
+        "title": "[Editors' Choice] Contextual memory networks in monkey brains"
+    }, 
+    {
+        "author": "Laura M. Zahn", 
+        "date": "2015-07-17", 
+        "description": "Author: Laura M. Zahn", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/280.7.full?rss=1", 
+        "title": "[Editors' Choice] The genetic underpinnings of brain size"
+    }, 
+    {
+        "author": "Anand Minajigi", 
+        "date": "2015-07-17", 
+        "description": "The inactive X chromosome (Xi) serves as a model to understand gene silencing on a global scale. Here, we perform \u201cidentification of direct RNA interacting proteins\u201d (iDRiP) to isolate a comprehensive protein interactome for Xist, an RNA required for Xi silencing. We discover multiple classes of interactors\u2014including cohesins, condensins, topoisomerases, RNA helicases, chromatin remodelers, and modifiers\u2014that synergistically repress Xi transcription. Inhibiting two or three interactors destabilizes silencing. Although Xist attracts some interactors, it repels architectural factors. Xist evicts cohesins from the Xi and directs an Xi-specific chromosome conformation. Upon deleting Xist, the Xi acquires the cohesin-binding and chromosomal architecture of the active X. Our study unveils many layers of Xi repression and demonstrates a central role for RNA in the topological organization of mammalian chromosomes.\nAuthors: Anand Minajigi, John E. Froberg, Chunyao Wei, Hongjae Sunwoo, Barry Kesner, David Colognori, Derek Lessing, Bernhard Payer, Myriam Boukhali, Wilhelm Haas, Jeannie T. Lee", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/aab2276.abstract?rss=1", 
+        "title": "[Research Article] A comprehensive Xist interactome reveals cohesin repulsion and an RNA-directed chromosome conformation"
+    }, 
+    {
+        "author": "Wanjun Jiang", 
+        "date": "2015-07-17", 
+        "description": "The formation of soap bubbles from thin films is accompanied by topological transitions. Here we show how a magnetic topological structure, a skyrmion bubble, can be generated in a solid-state system in a similar manner. Using an inhomogeneous in-plane current in a system with broken inversion symmetry, we experimentally \u201cblow\u201d magnetic skyrmion bubbles from a geometrical constriction. The presence of a spatially divergent spin-orbit torque gives rise to instabilities of the magnetic domain structures that are reminiscent of Rayleigh-Plateau instabilities in fluid flows. We determine a phase diagram for skyrmion formation and reveal the efficient manipulation of these dynamically created skyrmions, including depinning and motion. The demonstrated current-driven transformation from stripe domains to magnetic skyrmion bubbles could lead to progress in skyrmion-based spintronics.\nAuthors: Wanjun Jiang, Pramey Upadhyaya, Wei Zhang, Guoqiang Yu, M. Benjamin Jungfleisch, Frank Y. Fradin, John E. Pearson, Yaroslav Tserkovnyak, Kang L. Wang, Olle Heinonen, Suzanne G. E. te Velthuis, Axel Hoffmann", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/283.abstract?rss=1", 
+        "title": "[Research Article] Blowing magnetic skyrmion bubbles"
+    }, 
+    {
+        "author": "B. S. Tan", 
+        "date": "2015-07-17", 
+        "description": "Insulators occur in more than one guise; a recent finding was a class of topological insulators, which host a conducting surface juxtaposed with an insulating bulk. Here, we report the observation of an unusual insulating state with an electrically insulating bulk that simultaneously yields bulk quantum oscillations with characteristics of an unconventional Fermi liquid. We present quantum oscillation measurements of magnetic torque in high-purity single crystals of the Kondo insulator SmB6, which reveal quantum oscillation frequencies characteristic of a large three-dimensional conduction electron Fermi surface similar to the metallic rare earth hexaborides such as PrB6 and LaB6. The quantum oscillation amplitude strongly increases at low temperatures, appearing strikingly at variance with conventional metallic behavior.\nAuthors: B. S. Tan, Y.-T. Hsu, B. Zeng, M. Ciomaga Hatnean, N. Harrison, Z. Zhu, M. Hartstein, M. Kiourlappou, A. Srivastava, M. D. Johannes, T. P. Murphy, J.-H. Park, L. Balicas, G. G. Lonzarich, G. Balakrishnan, Suchitra E. Sebastian", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/287.summary?rss=1", 
+        "title": "[Report] Unconventional Fermi surface in an insulating state"
+    }, 
+    {
+        "author": "Jungwon Park", 
+        "date": "2015-07-17", 
+        "description": "Knowledge about the synthesis, growth mechanisms, and physical properties of colloidal nanoparticles has been limited by technical impediments. We introduce a method for determining three-dimensional (3D) structures of individual nanoparticles in solution. We combine a graphene liquid cell, high-resolution transmission electron microscopy, a direct electron detector, and an algorithm for single-particle 3D reconstruction originally developed for analysis of biological molecules. This method yielded two 3D structures of individual platinum nanocrystals at near-atomic resolution. Because our method derives the 3D structure from images of individual nanoparticles rotating freely in solution, it enables the analysis of heterogeneous populations of potentially unordered nanoparticles that are synthesized in solution, thereby providing a means to understand the structure and stability of defects at the nanoscale.\nAuthors: Jungwon Park, Hans Elmlund, Peter Ercius, Jong Min Yuk, David T. Limmer, Qian Chen, Kwanpyo Kim, Sang Hoon Han, David A. Weitz, A. Zettl, A. Paul Alivisatos", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/290.summary?rss=1", 
+        "title": "[Report] 3D structure of individual nanocrystals in solution by electron microscopy"
+    }, 
+    {
+        "author": "J. P. Whiteman", 
+        "date": "2015-07-17", 
+        "description": "Polar bears (Ursus maritimus) summer on the sea ice or, where it melts, on shore. Although the physiology of \u201cice\u201d bears in summer is unknown, \u201cshore\u201d bears purportedly minimize energy losses by entering a hibernation-like state when deprived of food. Such a strategy could partially compensate for the loss of on-ice foraging opportunities caused by climate change. However, here we report gradual, moderate declines in activity and body temperature of both shore and ice bears in summer, resembling energy expenditures typical of fasting, nonhibernating mammals. Also, we found that to avoid unsustainable heat loss while swimming, bears employed unusual heterothermy of the body core. Thus, although well adapted to seasonal ice melt, polar bears appear susceptible to deleterious declines in body condition during the lengthening period of summer food deprivation.\nAuthors: J. P. Whiteman, H. J. Harlow, G. M. Durner, R. Anderson-Sprecher, S. E. Albeke, E. V. Regehr, S. C. Amstrup, M. Ben-David", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/295.summary?rss=1", 
+        "title": "[Report] Summer declines in activity and body temperature offer polar bears limited energy savings"
+    }, 
+    {
+        "author": "Norman Nan Shi", 
+        "date": "2015-07-17", 
+        "description": "Saharan silver ants, Cataglyphis bombycina, forage under extreme temperature conditions in the African desert. We show that the ants\u2019 conspicuous silvery appearance is created by a dense array of triangular hairs with two thermoregulatory effects. They enhance not only the reflectivity of the ant\u2019s body surface in the visible and near-infrared range of the spectrum, where solar radiation culminates, but also the emissivity of the ant in the mid-infrared. The latter effect enables the animals to efficiently dissipate heat back to the surroundings via blackbody radiation under full daylight conditions. This biological solution for a thermoregulatory problem may lead to the development of biomimetic coatings for passive radiative cooling of objects.\nAuthors: Norman Nan Shi, Cheng-Chia Tsai, Fernando Camino, Gary D. Bernard, Nanfang Yu, R\u00fcdiger Wehner", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/298.summary?rss=1", 
+        "title": "[Report] Keeping cool: Enhanced optical reflection and radiative heat dissipation in Saharan silver ants"
+    }, 
+    {
+        "author": "Lauchlan H. Fraser", 
+        "date": "2015-07-17", 
+        "description": "The search for predictions of species diversity across environmental gradients has challenged ecologists for decades. The humped-back model (HBM) suggests that plant diversity peaks at intermediate productivity; at low productivity few species can tolerate the environmental stresses, and at high productivity a few highly competitive species dominate. Over time the HBM has become increasingly controversial, and recent studies claim to have refuted it. Here, by using data from coordinated surveys conducted throughout grasslands worldwide and comprising a wide range of site productivities, we provide evidence in support of the HBM pattern at both global and regional extents. The relationships described here provide a foundation for further research into the local, landscape, and historical factors that maintain biodiversity.\nAuthors: Lauchlan H. Fraser, Jason Pither, Anke Jentsch, Marcelo Sternberg, Martin Zobel, Diana Askarizadeh, Sandor Bartha, Carl Beierkuhnlein, Jonathan A. Bennett, Alex Bittel, Bazartseren Boldgiv, Ilsi I. Boldrini, Edward Bork, Leslie Brown, Marcelo Cabido, James Cahill, Cameron N. Carlyle, Giandiego Campetella, Stefano Chelli, Ofer Cohen, Anna-Maria Csergo, Sandra D\u00edaz, Lucas Enrico, David Ensing, Alessandra Fidelis, Jason D. Fridley, Bryan Foster, Heath Garris, Jacob R. Goheen, Hugh A. L. Henry, Maria Hohn, Mohammad Hassan Jouri, John Klironomos, Kadri Koorem, Rachael Lawrence-Lodge, Ruijun Long, Pete Manning, Randall Mitchell, Mari Moora, Sandra C. M\u00fcller, Carlos Nabinger, Kamal Naseri, Gerhard E. Overbeck, Todd M. Palmer, Sheena Parsons, Mari Pesek, Val\u00e9rio D. Pillar, Robert M. Pringle, Kathy Roccaforte, Amanda Schmidt, Zhanhuan Shang, Reinhold Stahlmann, Gisela C. Stotz, Shu-ichi Sugiyama, Szil\u00e1rd Szentes, Don Thompson, Radnaakhand Tungalag, Sainbileg Undrakhbold, Margaretha van Rooyen, Camilla Wellstein, J. Bastow Wilson, Talita Zupo", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/302.summary?rss=1", 
+        "title": "[Report] Worldwide evidence of a unimodal relationship between productivity and plant species richness"
+    }, 
+    {
+        "author": "T. Murray", 
+        "date": "2015-07-17", 
+        "description": "Nearly half of Greenland\u2019s mass loss occurs through iceberg calving, but the physical mechanisms operating during calving are poorly known and in situ observations are sparse. We show that calving at Greenland\u2019s Helheim Glacier causes a minutes-long reversal of the glacier\u2019s horizontal flow and a downward deflection of its terminus. The reverse motion results from the horizontal force caused by iceberg capsize and acceleration away from the glacier front. The downward motion results from a hydrodynamic pressure drop behind the capsizing berg, which also causes an upward force on the solid Earth. These forces are the source of glacial earthquakes, globally detectable seismic events whose proper interpretation will allow remote sensing of calving processes occurring at increasing numbers of outlet glaciers in Greenland and Antarctica.\nAuthors: T. Murray, M. Nettles, N. Selmes, L. M. Cathles, J. C. Burton, T. D. James, S. Edwards, I. Martin, T. O\u2019Farrell, R. Aspey, I. Rutt, T. Baug\u00e9", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/305.summary?rss=1", 
+        "title": "[Report] Reverse glacier motion during iceberg calving and the cause of glacial earthquakes"
+    }, 
+    {
+        "author": "Thilo Winzer", 
+        "date": "2015-07-17", 
+        "description": "Morphinan alkaloids from the opium poppy are used for pain relief. The direction of metabolites to morphinan biosynthesis requires isomerization of (S)- to (R)-reticuline. Characterization of high-reticuline poppy mutants revealed a genetic locus, designated STORR [(S)- to (R)-reticuline] that encodes both cytochrome P450 and oxidoreductase modules, the latter belonging to the aldo-keto reductase family. Metabolite analysis of mutant alleles and heterologous expression demonstrate that the P450 module is responsible for the conversion of (S)-reticuline to 1,2-dehydroreticuline, whereas the oxidoreductase module converts 1,2-dehydroreticuline to (R)-reticuline rather than functioning as a P450 redox partner. Proteomic analysis confirmed that these two modules are contained on a single polypeptide in vivo. This modular assembly implies a selection pressure favoring substrate channeling. The fusion protein STORR may enable microbial-based morphinan production.\nAuthors: Thilo Winzer, Marcelo Kern, Andrew J. King, Tony R. Larson, Roxana I. Teodor, Samantha L. Donninger, Yi Li, Adam A. Dowle, Jared Cartwright, Rachel Bates, David Ashford, Jerry Thomas, Carol Walker, Tim A. Bowser, Ian A. Graham", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/309.summary?rss=1", 
+        "title": "[Report] Morphinan biosynthesis in opium poppy requires a P450-oxidoreductase fusion protein"
+    }, 
+    {
+        "author": "Jun Abe", 
+        "date": "2015-07-17", 
+        "description": "Circadian clocks generate slow and ordered cellular dynamics but consist of fast-moving bio-macromolecules; consequently, the origins of the overall slowness remain unclear. We identified the adenosine triphosphate (ATP) catalytic region [adenosine triphosphatase (ATPase)] in the amino-terminal half of the clock protein KaiC as the minimal pacemaker that controls the in vivo frequency of the cyanobacterial clock. Crystal structures of the ATPase revealed that the slowness of this ATPase arises from sequestration of a lytic water molecule in an unfavorable position and coupling of ATP hydrolysis to a peptide isomerization with high activation energy. The slow ATPase is coupled with another ATPase catalyzing autodephosphorylation in the carboxyl-terminal half of KaiC, yielding the circadian response frequency of intermolecular interactions with other clock-related proteins that influences the transcription and translation cycle.\nAuthors: Jun Abe, Takuya B. Hiyama, Atsushi Mukaiyama, Seyoung Son, Toshifumi Mori, Shinji Saito, Masato Osako, Julie Wolanin, Eiki Yamashita, Takao Kondo, Shuji Akiyama", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/312.summary?rss=1", 
+        "title": "[Report] Atomic-scale origins of slowness in the cyanobacterial circadian clock"
+    }, 
+    {
+        "author": "Annika Warnatsch", 
+        "date": "2015-07-17", 
+        "description": "Secretion of the cytokine interleukin-1\u03b2 (IL-1\u03b2) by macrophages, a major driver of pathogenesis in atherosclerosis, requires two steps: Priming signals promote transcription of immature IL-1\u03b2, and then endogenous \u201cdanger\u201d signals activate innate immune signaling complexes called inflammasomes to process IL-1\u03b2 for secretion. Although cholesterol crystals are known to act as danger signals in atherosclerosis, what primes IL-1\u03b2 transcription remains elusive. Using a murine model of atherosclerosis, we found that cholesterol crystals acted both as priming and danger signals for IL-1\u03b2 production. Cholesterol crystals triggered neutrophils to release neutrophil extracellular traps (NETs). NETs primed macrophages for cytokine release, activating T helper 17 (TH17) cells that amplify immune cell recruitment in atherosclerotic plaques. Therefore, danger signals may drive sterile inflammation, such as that seen in atherosclerosis, through their interactions with neutrophils.\nAuthors: Annika Warnatsch, Marianna Ioannou, Qian Wang, Venizelos Papayannopoulos", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/316.summary?rss=1", 
+        "title": "[Report] Neutrophil extracellular traps license macrophages for cytokine production in atherosclerosis"
+    }, 
+    {
+        "author": "Dan H. Barouch", 
+        "date": "2015-07-17", 
+        "description": "Preclinical studies of viral vector\u2013based HIV-1 vaccine candidates have previously shown partial protection against neutralization-resistant virus challenges in rhesus monkeys. In this study, we evaluated the protective efficacy of adenovirus serotype 26 (Ad26) vector priming followed by purified envelope (Env) glycoprotein boosting. Rhesus monkeys primed with Ad26 vectors expressing SIVsmE543 Env, Gag, and Pol and boosted with AS01B-adjuvanted SIVmac32H Env gp140 demonstrated complete protection in 50% of vaccinated animals against a series of repeated, heterologous, intrarectal SIVmac251 challenges that infected all controls. Protective efficacy correlated with the functionality of Env-specific antibody responses. Comparable protection was also observed with a similar Ad/Env vaccine against repeated, heterologous, intrarectal SHIV-SF162P3 challenges. These data demonstrate robust protection by Ad/Env vaccines against acquisition of neutralization-resistant virus challenges in rhesus monkeys.\nAuthors: Dan H. Barouch, Galit Alter, Thomas Broge, Caitlyn Linde, Margaret E. Ackerman, Eric P. Brown, Erica N. Borducchi, Kaitlin M. Smith, Joseph P. Nkolola, Jinyan Liu, Jennifer Shields, Lily Parenteau, James B. Whitney, Peter Abbink, David M. Ng\u2019ang\u2019a, Michael S. Seaman, Christy L. Lavine, James R. Perry, Wenjun Li, Arnaud D. Colantonio, Mark G. Lewis, Bing Chen, Holger Wenschuh, Ulf Reimer, Michael Piatak, Jeffrey D. Lifson, Scott A. Handley, Herbert W. Virgin, Marguerite Koutsoukos, Clarisse Lorin, Gerald Voss, Mo Weijtens, Maria G. Pau, Hanneke Schuitemaker", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/320.summary?rss=1", 
+        "title": "[Report] Protective efficacy of adenovirus/protein vaccines against SIV challenges in rhesus monkeys"
+    }, 
+    {
+        "author": "Yong-Gang Chang", 
+        "date": "2015-07-17", 
+        "description": "Organisms are adapted to the relentless cycles of day and night, because they evolved timekeeping systems called circadian clocks, which regulate biological activities with ~24-hour rhythms. The clock of cyanobacteria is driven by a three-protein oscillator composed of KaiA, KaiB, and KaiC, which together generate a circadian rhythm of KaiC phosphorylation. We show that KaiB flips between two distinct three-dimensional folds, and its rare transition to an active state provides a time delay that is required to match the timing of the oscillator to that of Earth\u2019s rotation. Once KaiB switches folds, it binds phosphorylated KaiC and captures KaiA, which initiates a phase transition of the circadian cycle, and it regulates components of the clock-output pathway, which provides the link that joins the timekeeping and signaling functions of the oscillator.\nAuthors: Yong-Gang Chang, Susan E. Cohen, Connie Phong, William K. Myers, Yong-Ick Kim, Roger Tseng, Jenny Lin, Li Zhang, Joseph S. Boyd, Yvonne Lee, Shannon Kang, David Lee, Sheng Li, R. David Britt, Michael J. Rust, Susan S. Golden, Andy LiWang", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/324.summary?rss=1", 
+        "title": "[Report] A protein fold switch joins the circadian oscillator to clock output in cyanobacteria"
+    }, 
+    {
+        "author": "Toshiya Nishimura", 
+        "date": "2015-07-17", 
+        "description": "Sex determination is an essential step in the commitment of a germ cell to a sperm or egg. However, the intrinsic factors that determine the sexual fate of vertebrate germ cells are unknown. Here, we show that foxl3, which is expressed in germ cells but not somatic cells in the gonad, is involved in sperm-egg fate decision in medaka fish. Adult XX medaka with disrupted foxl3 developed functional sperm in the expanded germinal epithelium of a histologically functional ovary. In chimeric medaka, mutant germ cells initiated spermatogenesis in female wild-type gonad. These results indicate that a germ cell\u2013intrinsic cue for the sperm-egg fate decision is present in medaka and that spermatogenesis can proceed in a female gonadal environment.\nAuthors: Toshiya Nishimura, Tetsuya Sato, Yasuhiro Yamamoto, Ikuko Watakabe, Yasuyuki Ohkawa, Mikita Suyama, Satoru Kobayashi, Minoru Tanaka", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/328.summary?rss=1", 
+        "title": "[Report] foxl3 is a germ cell\u2013intrinsic factor involved in sperm-egg fate decision in medaka"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-17", 
+        "description": "A weekly roundup of information on newly offered instrumentation, apparatus, and laboratory materials of potential interest to researchers.\n", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/333.1.summary?rss=1", 
+        "title": "[New Products] New Products"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-17", 
+        "description": "On this week's show: Synthetic therapists and a roundup of daily news stories.\n", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/333.2.summary?rss=1", 
+        "title": "[Podcast] Science Podcast: 17 July Show"
+    }, 
+    {
+        "author": "Vijaysree Venkatraman", 
+        "date": "2015-07-17", 
+        "description": "Author: Vijaysree Venkatraman", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/338.summary?rss=1", 
+        "title": "[Working Life] The space roboticist"
+    }, 
+    {
+        "author": "", 
+        "date": "2015-07-17", 
+        "description": "", 
+        "journal": "Science", 
+        "link": "http://www.sciencemag.org/content/349/6245/aac9659.summary?rss=1", 
+        "title": "[Errata] Erratum for the Report \u201cReaction of O2 with subsurface oxygen vacancies on TiO2 anatase (101)\u201d by M. Setv\u00edn, U. Aschauer, P. Scheiber, Y.-F. Li, W. Hou, M. Schmid, A. Selloni, U. Diebold"
+    }
+]

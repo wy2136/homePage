@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Wenchang Yang's Homepage 杨文昌</title>
+  <script src="./js/functions.js"></script>
+  <script>write_head()</script>
+</head>
+<body>
+
+<script>write_navbar(1,'about_me')</script>
+  
+<div class="container-fluid bg-color-title border-bottom">
+  <h3 class="text-center color-title">
+    About Me<br>
+    <small> Wenchang Yang</small>
+  </h3>
+</div>  <!-- container-->
+
+<div class="container" style="min-height:500px; margin-top:1em">
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <section>
+        <p>I am currently a postdoc in Prof. <a href="http://sites.uci.edu/magnusdottir/about-us/gudrun-magnusdottir/">Gudrun Magnusdottir</a>'s <a href="http://sites.uci.edu/magnusdottir/about-us/lab-members/">group</a> in <a href="http://www.ess.uci.edu">the department of Earth System Science</a> at <a href="http://www.uci.edu">UC Irvine</a>, with research interests covering East African hydroclimate variability and change, large-scale climate variability and dynamics, ITCZ, extratropical storm tracks, baroclinic wave and wave packets, monsoon circulation, etc.</p>
+        
+        <p>Before coming to UC Irvine, I received my B.S and M.S. from <a href="http://www.pku.edu.cn">Peking University</a> in China, supervised by Prof. <a href="http://www.phy.pku.edu.cn/personnel/das/bktan.xml">Benkui Tan</a>; and Ph.D. in atmospheric sciences from <a href="http://www.columbia.edu">Columbia University</a>, with the dissertation titled <a href="http://academiccommons.columbia.edu/catalog/ac:181305"><i>The Hydroclimate of East Africa: Seasonal cycle, Decadal Variability, and Human induced Climate Change</i></a></i>, supervised by Prof. <a href="http://www.ldeo.columbia.edu/res/div/ocp/people/seager/">Richard Seager</a> and Prof. <a href="http://www.ldeo.columbia.edu/user/mcane">Mark A. Cane</a>. My Ph.D. work also involved a lot of collaboration with Dr. <a href="http://iri.columbia.edu/contact/staff-directory/bradfield-lyon/">Bradfield Lyon</a> at <a href="http://iri.columbia.edu">IRI</a> of Columbia University. </p>
+                  
+        <p>A range of computer tools are being used in my research: Python and Matlab for computation and data analysis, LaTex for typesetting, Beamer for presentation. I also use HTML/CSS/Javascript to buid webpages. <a href="./reading.html">Here</a> is a useful webpage that retrieves the most recent publications from a collection of journals, and displays them according to topics.</p>
+        
+        <!-- <p>I server as a reviewer for a number of journals: <i>Journal of Climate, Journal of the Atmospheric Sciences, Nature Climate Change, Climate Dynamics, International Journal of Climatology, Geophysical Review Letters</i> and <i>Climate Research.</i></p> -->
+        <p></p>
+      </section>
+      
+      <!-- <section class="hidden">
+        <h3>Current Weather</h3>
+        <p id="googleMap" style="width:100%;height:200px;"></p>
+      </section> -->
+      
+      <section class="hidden">
+        <h4>Surface wind/TPW from <a href="http://earth.nullschool.net/#current/wind/surface/level/overlay=temp/orthographic=-120.0,34.0,300.0"> earth.nullschool.net</a></h4>
+        <iframe id="weatherMap" style="width:100%; height:240px" src="http://earth.nullschool.net/#current/wind/surface/level/overlay=total_precipitable_water/orthographic=-120.0,34.0,300.0"></iframe> 
+      </section>
+    </div>  <!-- col -->
+    
+    <div class="col-md-2"></div>
+  </div>  <!-- row -->
+</div>  <!-- container-->
+
+<script>write_footer()</script>
+
+<!-- 
+
+<script
+src="http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=weather">
+</script>
+<script>
+var myCenter=new google.maps.LatLng(33.643914,-117.844702);
+function initialize(){
+  var mapProp = {
+    center:myCenter,
+    zoom:1,
+    mapTypeId: 'satellite'
+  };
+
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+var weatherLayer = new google.maps.weather.WeatherLayer({
+    temperatureUnits: google.maps.weather.TemperatureUnit.CELSIUS
+});
+weatherLayer.setMap(map);
+
+var cloudLayer = new google.maps.weather.CloudLayer();
+cloudLayer.setMap(map);
+
+var marker=new google.maps.Marker({
+  position:myCenter,
+  });
+marker.setMap(map);
+
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+-->
+
+</body>
+</html>

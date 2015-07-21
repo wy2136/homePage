@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Journals | Wenchang Yang's Homepage 杨文昌</title>
+  <script src="./js/functions.js"></script>
+  <script>write_head(1)</script>
+</head>
+<body data-spy="scroll" data-target="#myScrollspy" data-offset="20">
+<script>write_navbar(1,'reading')</script>
+
+<div class="col-sm-12 text-center color-title bg-color-title border-bottom">
+  <h3>
+    RSS of Climate Journals<br>
+    <small>Last updated: <script>write_update_time()</script></small>
+  </h3>
+</div>
+
+<div class="container" style="min-height:600px;">
+  <div class="row">
+        
+    <nav class="col-sm-3 " id="myScrollspy">
+      <ul class="nav nav-pills nav-stacked">
+        <script>write_journal_nav_list()</script>
+      </ul>
+    </nav>
+    
+    <div class="col-sm-9 border-left">
+      <script>write_journal_rss_list()</script>
+    </div>  <!-- col -->   
+     
+  </div>  <!-- row -->
+</div>  <!-- container-->
+
+<script>write_footer(1)</script>
+<script>
+$(document).ready(function(){
+  $(".toggle-switch").click(function(){
+    $(this).nextUntil(".toggle-switch").filter(".description").toggle();
+  })
+})
+</script>
+</body>
+</html>

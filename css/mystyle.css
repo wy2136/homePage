@@ -1,0 +1,60 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  /**/
+}
+body {
+  font-size:15px;
+}
+
+a {
+    text-decoration:none;
+    color:#0064a4;
+}
+a:hover,
+a:focus {
+    color: /*#ffd200*/ chocolate;
+    text-decoration:none;
+}
+
+footer {
+  min-height:200px;
+  font-size:0.9em;
+  background-color:#F4F4F4;
+  border-top:1px solid #E7E7E7;
+}
+footer ul li a{
+  padding:0 1ex 0;
+  line-height:2em;
+}
+footer a {
+  color: gray;
+}
+
+.bg-color-nav{
+    background-color:#1b3d6d;
+}
+.bg-color-title{
+    background-color:/*lavender*/ /*#0064a4*/ #F4F4F4;
+}
+.bg-color-footer{
+    background-color:#F4F4F4;
+}
+.color-title{
+    color:/*#ffd200*/ /*#1b3d6d*/ chocolate;
+}
+.border-left{
+    border-left:1px solid lightgray;
+}
+.border-right{
+    border-right:1px solid lightgray;
+}
+.border-top{
+    border-top:1px solid lightgray;
+}
+.border-bottom{
+    border-bottom:1px solid lightgray;
+}
+.border-all{
+    border:1px solid lightgray;
+}

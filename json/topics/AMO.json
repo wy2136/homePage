@@ -1,0 +1,34 @@
+[
+    {
+        "author": "Jordan T. McLeod, Thomas L. Mote", 
+        "date": "2015-07-19", 
+        "description": "\n\nAtmospheric blocking commonly occurs over the high latitudes of the Northern Hemisphere, resulting from the development of persistent areas of high pressure that lead to warmer-than-average surface temperatures west of the high centre. While the variability and trends in anticyclonic circulation patterns (including blocking) over Greenland have been previously documented, an analysis of the most extreme blocking events within the observational record is lacking. In this study, a historical climatology of extreme Greenland blocking episodes (GBEs) from 1958 to 2013 is examined within the context of anomalous anticyclonic circulation patterns over the North Atlantic region during recent years. Based on a combination of the ERA-40 (1958\u20131978) and ERA-Interim (1979\u20132013) reanalysis data sets, the Greenland Blocking Index (GBI) is used to quantify 500 hPa geopotential height anomalies for the identification of extreme GBEs. The annual rate of extreme blocking days has doubled since 1958, reaching an average of approximately 20 days per year by 2013. The frequency and, to some extent, duration of extreme GBEs were unprecedentedly high from 2007 to 2013 compared to the 56-year period of record, with a majority of the increase occurring during the spring (MAM) and summer (JJA). A multiple linear regression analysis reveals that interannual variability in extreme blocking and the Atlantic Multidecadal Oscillation (AMO) are the two predominant drivers of surface meltwater production across the entire Greenland ice sheet (GrIS), but Arctic sea ice extent and North Atlantic cyclone activity can also influence the extent of summer melting over portions of the GrIS. Thus, in addition to the larger-scale atmospheric and oceanic variability, smaller-scale features such as extratropical cyclones can play a significant role in modulating GrIS surface melting each summer.\n", 
+        "journal": "International Journal of Climatology", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fjoc.4440", 
+        "title": "Linking interannual variability in extreme Greenland blocking episodes to the recent increase in summer melting across the Greenland ice sheet"
+    }, 
+    {
+        "author": "Mi-Kyung Sung, Soon-Il An, Baek-Min Kim, Jong-Seong Kug", 
+        "date": "2015-06-24", 
+        "description": "\n\nThe long-lasting cold surface conditions of North Atlantic, i.e., the negative phase of Atlantic Multidecadal Oscillation (AMO), can intensify the El Ni\u00f1o\u2013Southern Oscillation through the enhanced air-sea coupling under the increased central-to-eastern tropical Pacific mean sea surface temperature. However, the impact of warmer mean sea surface temperature (SST) is more efficient in the intensifying El Ni\u00f1o than La Ni\u00f1a, because of the nature of the exponential growth of atmospheric convection to SST change. Moreover, the farther eastward shift of the atmospheric convection during the negative AMO leads to the stronger El Ni\u00f1o due to the longer delayed negative feedback by oceanic waves. Therefore, the AMO mainly influences the El Ni\u00f1o intensity rather than La Ni\u00f1a intensity.", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064381", 
+        "title": "Asymmetric impact of Atlantic Multidecadal Oscillation on El Ni\u00f1o and La Ni\u00f1a characteristics"
+    }, 
+    {
+        "author": "Florian S\u00e9vellec et al", 
+        "date": "2015-04-13", 
+        "description": "Journal of Physical Oceanography, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Physical Oceanography", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-14-0094.1?af=R", 
+        "title": "Theoretical Investigation of the Atlantic Multidecadal Oscillation"
+    }, 
+    {
+        "author": "T. Yan, L. J. Pietrafesa, D. A. Dickey, P. T. Gayes, S. Bao", 
+        "date": "2014-09-30", 
+        "description": "\n\nStatistical models for the seasonal prediction of hurricane strikes on the Eastern Seaboard of the United States (ESUS) are developed with the application of the statistical software (SAS) generalized linear model (GENMOD) to perform a Poisson regression linked by a logarithmic function. Preseason climatic/oceanic signals of the El Nino South Oscillation (ENSO), the Atlantic Meridional Mode (AMM), the Atlantic Multi-decadal Oscillation (AMO), Sahel rainfall (20\u00b0\u201310\u00b0N, 20\u00b0W\u201310\u00b0E) and the North Atlantic sea surface temperature (SST) across a selected domain, all of which are closely associated with the dominant principal components of the North Atlantic Hurricane Track Density Function (HTDF), are applied as predictors.\nWhile using the Poisson regression without dividing the season into differing levels of activity types greatly degrades the model, classification of season types [based on accumulated cyclone energy (ACE)] before using the Poisson regression, can significantly improve the model performance. With this proposed new methodology, landfall counts in hyperactive and above-normal season type years can be predicted with 56.01 and 71.36% skill improvements respectively, compared with merely using climatology.\n", 
+        "journal": "International Journal of Climatology", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fjoc.4163", 
+        "title": "Seasonal prediction of landfalling hurricanes along Eastern Seaboard of the United States"
+    }
+]

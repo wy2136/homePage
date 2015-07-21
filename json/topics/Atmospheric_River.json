@@ -1,0 +1,42 @@
+[
+    {
+        "author": "Adrian J. Champion, Richard P. Allan, David A. Lavers", 
+        "date": "2015-07-17", 
+        "description": "\n\nExtreme rainfall events continue to be one of the largest natural hazards in the UK. In winter, heavy precipitation and floods have been linked with intense moisture transport events associated with atmospheric rivers (ARs), yet no large-scale atmospheric precursors have been linked to summer flooding in the UK. This study investigates the link between ARs and extreme rainfall from two perspectives: (1) Given an extreme rainfall event, is there an associated AR? (2) Given an AR, is there an associated extreme rainfall event? We identify extreme rainfall events using the UK Met Office daily rain gauge data set and link these to ARs using two different horizontal resolution atmospheric data sets (ERA-Interim and Twentieth Century Reanalysis). The results show that less than 35% of winter ARs and less than 15% of summer ARs are associated with an extreme rainfall event. Consistent with previous studies, at least 50% of extreme winter rainfall events are associated with an AR. However, less than 20% of the identified summer extreme rainfall events are associated with an AR. The dependence of the water vapor transport intensity threshold used to define an AR on the years included in the study, and on the length of the season, is also examined. Including a longer period (1900\u20132012) compared to previous studies (1979\u20132005) reduces the water vapor transport intensity threshold used to define an AR.\n", 
+        "journal": "Journal of Geophysical Research: Atmospheres", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014JD022863", 
+        "title": "Atmospheric rivers do not explain UK summer extreme rainfall"
+    }, 
+    {
+        "author": "Qianwen Luo et al", 
+        "date": "2015-06-25", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0006.1?af=R", 
+        "title": "Case study of moisture and heat budgets within atmospheric rivers"
+    }, 
+    {
+        "author": "Tracy M. Backes et al", 
+        "date": "2015-05-27", 
+        "description": "Journal of Hydrometeorology, Volume 16, Issue 3, Page 1029-1047, June 2015. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Hydrometeorology", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JHM-D-14-0077.1?af=R", 
+        "title": "A Climatology of the Vertical Structure of Water Vapor Transport to the Sierra Nevada in Cool Season Atmospheric River Precipitation Events"
+    }, 
+    {
+        "author": "Daniel L. Swain et al", 
+        "date": "2015-05-22", 
+        "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Monthly Weather Review", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/MWR-D-15-0079.1?af=R", 
+        "title": "Evaluation of non-hydrostatic simulations of Northeast Pacific atmospheric rivers and comparison to in-situ observations"
+    }, 
+    {
+        "author": "H. F. Dacre et al", 
+        "date": "2014-11-25", 
+        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00031.1?af=R", 
+        "title": "How do atmospheric rivers form?"
+    }
+]
