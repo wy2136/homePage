@@ -1,5 +1,13 @@
 [
     {
+        "author": "Yu-Chiao Liang, Jin-Yi Yu, Min-Hui Lo, Chunzai Wang", 
+        "date": "2015-07-28", 
+        "description": "\n\nThis study finds that the El Ni\u00f1o influences on the summer Great Plains low-level jet (GPLLJ) are different for the Central Pacific (CP) and Eastern Pacific (EP) types during their decaying phases. While the CP El Ni\u00f1o induces negative sea level pressure anomalies over the Gulf of Mexico to drive anomalous northerly winds weakening the GPLLJ, the EP El Ni\u00f1o intensifies the GPLLJ by inducing anomalous surface air temperature gradient between the northeastern and southwestern United States. The recent emerging CP El Ni\u00f1o can weaken the GPLLJ to lead to a drier environment in the central United States.\n", 
+        "journal": "Atmospheric Science Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fasl.590", 
+        "title": "The changing influence of El Ni\u00f1o on the Great Plains low-level jet"
+    }, 
+    {
         "author": "Victor Privalsky, Vladislav Yushkov", 
         "date": "2015-07-14", 
         "description": "\n\nMajor statistical characteristics\u00a0\u2013\u00a0trend rates, mean values, standard deviations, probability densities, autoregressive model orders, persistence criteria, and spectra\u00a0\u2013\u00a0of annual surface temperature over the contiguous United States from 1889 through 2005 are compared with respective characteristics of 47 time series generated within the CMIP5 historical experiment. The observed and most simulated time series are Gaussian. Most autoregressive orders, persistence criteria, and spectra of simulated time series are close to what is found in nature. Although the multi-model mean value is not biased, individual models can err by almost 3.5\u2009\u00b0C. In addition,\u2009the models exaggerate linear trend rates and temperature variance is overestimated.\n", 

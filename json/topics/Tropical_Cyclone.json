@@ -37,7 +37,7 @@
         "description": "\n\nTo incorporate the effects of tropical cyclone (TC) induced upper-ocean mixing and sea surface temperature (SST) cooling on TC intensification, a vertical average of temperature down to a fixed depth was proposed as a replacement for SST within the framework of air-sea coupled Potential Intensity (PI). However, the depth to which TC-induced mixing penetrates may vary substantially with ocean stratification and storm state. To account for these effects, here we develop a \u2018dynamic potential intensity\u2019 (DPI) based on considerations of stratified fluid turbulence. For the Argo period 2004\u20132013 and the three major TC basins of the Northern Hemisphere, we show that the DPI explains 11\u201332% of the variance in TC intensification, compared to 0\u201316%using previous methods. The improvement obtained using the DPI is particularly large in the eastern Pacific where the thermocline is shallow and ocean stratification effects are strong.\n", 
         "journal": "Geophysical Research Letters", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064822", 
-        "title": "Dynamic Potential Intensity: An improved representation of the ocean's impact on tropical cyclones 3"
+        "title": "Dynamic Potential Intensity: An improved representation of the ocean's impact on tropical cyclones"
     }, 
     {
         "author": "Sergio F. Abarca, Michael T. Montgomery, James C. McWilliams", 
@@ -206,14 +206,6 @@
         "journal": "Weather and Forecasting", 
         "link": "http://journals.ametsoc.org/doi/abs/10.1175/WAF-D-15-0036.1?af=R", 
         "title": "Diagnosis of Track Forecast Errors for Tropical Cyclone Rita (2005) Using GEFS Reforecasts"
-    }, 
-    {
-        "author": "Caroline Muller, Sandrine Bony", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe organization of convection is ubiquitous, but its physical understanding remains limited. One particular type of organization is the spatial self-aggregation of convection, taking the form of cloud clusters, or tropical cyclones in the presence of rotation. We show that several physical processes can give rise to self-aggregation and highlight the key features responsible for it, using idealized simulations. Longwave radiative feedbacks yield a \u201cradiative aggregation.\u201d In that case, sufficient spatial variability of radiative cooling rates yields a low-level circulation, which induces the upgradient energy transport and radiative-convective instability. Not only do vertically integrated radiative budgets matter but the vertical profile of cooling is also crucial. Convective aggregation is facilitated when downdrafts below clouds are weak (\u201cmoisture-memory aggregation\u201d), and this is sufficient to trigger aggregation in the absence of longwave radiative feedbacks. These results shed some light on the sensitivity of self-aggregation to various parameters, including resolution or domain size.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064260", 
-        "title": "What favors convective aggregation and why?"
     }, 
     {
         "author": "Xueyan Bi, Zhiqiu Gao, Yangang Liu, Feng Liu, Qingtao Song, Jian Huang, Huijun Huang, Weikang Mao, Chunxia Liu", 

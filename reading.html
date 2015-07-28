@@ -11,13 +11,17 @@
 
 <div class="container-fluid text-center color-title bg-color-title border-bottom">
   <h3 id="top">
-    What's New in Climate Journals by Topics<br>
-    <small>Last updated: <script>write_update_time()</script></small>
+    Recent Publications on Atmos/Ocean/Climate <br>
+    <small>by Topics</small><br>
+    <small>
+      Last updated: <script>write_update_time()</script>
+    </small>
   </h3>
 </div>
 
 <div class="container" style="min-height:600px;">
   <div class="row">
+    <!-- desktop version nav -->
     <nav class="col-sm-3 scrollspy text-right hidden-xs hidden-sm" id="myScrollspy" >
         <ul class="nav nav-pills nav-stacked">
         <script>write_reading_nav_by_topics()</script>
@@ -26,6 +30,7 @@
       </ul>
     </nav>
     
+    <!-- mobile version nav -->
     <nav class="col-sm-3 scrollspy text-left hidden-md hidden-lg" id="myScrollspy" >
         <ul class="nav nav-pills nav-stacked">
         <script>write_reading_nav_by_topics()</script>

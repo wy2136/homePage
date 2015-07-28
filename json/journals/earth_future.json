@@ -8,14 +8,6 @@
         "title": "The Global Land Rush and Climate Change"
     }, 
     {
-        "author": "Ben van der Pluijm", 
-        "date": "2015-07-21", 
-        "description": "", 
-        "journal": "Earth\u2019s Future", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015EF000307", 
-        "title": "Thank You Earth's Future Reviewers"
-    }, 
-    {
         "author": "Jiali Wang, Veerabhadra R. Kotamarthi", 
         "date": "2015-07-14", 
         "description": "\n\nThis study performs high-spatial-resolution (12\u2009km) Weather Research and Forecasting (WRF) simulations over a very large domain (7200\u2009km\u2009\u00d7\u20096180\u2009km, covering much of North America) to explore changes in mean and extreme precipitation in the mid and late 21st century under Representative Concentration Pathways 4.5 (RCP 4.5) and 8.5 (RCP 8.5). We evaluate WRF model performance for a historical simulation and future projections, applying the Community Climate System Model version 4 (CCSM4) as initial and boundary conditions with and without a bias correction. WRF simulations using boundary and initial conditions from both versions of CCSM4 show smaller biases versus evaluation data sets than does CCSM4 over western North America. WRF simulations also improve spatial details of precipitation over much of North America. However, driving the WRF with the bias-corrected CCSM4 does not always reduce the bias. WRF-projected changes in precipitation include decreasing intensity over the U.S. Southwest, increasing intensity over the eastern United Sates and most of Canada, and an increase in the number of days with heavy precipitation over much of North America. Projected precipitation changes are more evident in the late 21st century than the mid 21st century, and they are more evident under RCP 8.5 than RCP 4.5 in the late 21st century. Uncertainties in the projected changes in precipitation due to different warming scenarios are non-negligible. Differences in summer precipitation changes between WRF and CCSM4 are significant over most of the United States.\n", 
@@ -30,6 +22,14 @@
         "journal": "Earth\u2019s Future", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015EF000303", 
         "title": "From products to processes: Academic events to foster interdisciplinary and iterative dialogue in a changing climate"
+    }, 
+    {
+        "author": "Ben van der Pluijm", 
+        "date": "2015-07-27", 
+        "description": "", 
+        "journal": "Earth\u2019s Future", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015EF000307", 
+        "title": "Thank you Earth's Future reviewers"
     }, 
     {
         "author": "Jon D. Pelletier, A. Brad Murray, Jennifer L. Pierce, Paul R. Bierman, David D. Breshears, Benjamin T. Crosby, Michael Ellis, Efi Foufoula-Georgiou, Arjun M. Heimsath, Chris Houser, Nick Lancaster, Marco Marani, Dorothy J. Merritts, Laura J. Moore, Joel L. Pederson, Michael J. Poulos, Tammy M. Rittenour, Joel C. Rowland, Peter Ruggiero, Dylan J. Ward, Andrew D. Wickert, Elowyn M. Yager", 

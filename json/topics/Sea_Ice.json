@@ -8,6 +8,14 @@
         "title": "The reversibility of CO 2 induced climate change"
     }, 
     {
+        "author": "Eric D. Skyllingstad, Karen M. Shell, Lee Collins, Chris Polashenski", 
+        "date": "2015-07-27", 
+        "description": "\n\nA three-dimensional sea ice model is presented with resolved snow thickness variations and melt ponds. The model calculates heating from solar radiative transfer and simulates the formation and movement of brine/melt water through the ice system. Initialization for the model is based on observations of snow topography made during the summer melt seasons of 2009, 2010, and 2012 from a location off the coast of Barrow, AK. Experiments are conducted to examine the importance of snow properties and snow and ice thickness by comparing observed and modeled pond fraction and albedo. One key process simulated by the model is the formation of frozen layers in the ice as relatively warm fresh water grid cells freeze when cooled by adjacent, cold brine-filled grid cells. These layers prevent vertical drainage and lead to flooding of melt water commonly observed at the beginning of the melt season. Flooding persists until enough heat is absorbed to melt through the frozen layer. The resulting long-term melt pond coverage is sensitive to both the spatial variability of snow cover and the minimum snow depth. For thin snow cover, initial melting results in earlier, reduced flooding with a small change in pond fraction after drainage of the melt water. Deeper snow tends to generate a delayed, larger peak pond fraction before drainage.\n", 
+        "journal": "Journal of Geophysical Research: Oceans", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014JC010569", 
+        "title": "Simulation of the melt season using a resolved sea ice model with snow cover and melt ponds"
+    }, 
+    {
         "author": "Ed Hawkins, Steffen Tietsche, Jonathan J. Day, Nathanael Melia, Keith Haines, Sarah Keeley", 
         "date": "2015-07-27", 
         "description": "\n\nUsing lessons from idealised predictability experiments, we discuss some issues and perspectives on the design of operational seasonal to inter-annual Arctic sea-ice prediction systems. We first review the opportunities to use a hierarchy of different types of experiment to learn about the predictability of Arctic climate. We also examine key issues for ensemble system design, such as: measuring skill, the role of ensemble size and generation of ensemble members. When assessing the potential skill of a set of prediction experiments, using more than one metric is essential as different choices can significantly alter conclusions about the presence or lack of skill. We find that increasing both the number of hindcasts and ensemble size is important for reliably assessing the correlation and expected error in forecasts. For other metrics, such as dispersion, increasing ensemble size is most important. Probabilistic measures of skill can also provide useful information about the reliability of forecasts. In addition, various methods for generating the different ensemble members are tested. The range of techniques can produce surprisingly different ensemble spread characteristics. The lessons learnt should help inform the design of future operational prediction systems.\n", 
@@ -152,14 +160,6 @@
         "title": "Patterns of Asian Winter Climate Variability and Links to Arctic Sea Ice"
     }, 
     {
-        "author": "P. J. Langhorne, K. G. Hughes, A. J. Gough, I. J. Smith, M. J. M. Williams, N. J. Robinson, C. L. Stevens, W. Rack, D. Price, G. H. Leonard, A. R. Mahoney, C. Haas, T. G. Haskell", 
-        "date": "2015-07-14", 
-        "description": "\n\nAntarctic sea ice that has been affected by supercooled Ice Shelf Water (ISW) has a unique crystallographic structure and is called platelet ice. In this paper we synthesize platelet ice observations to construct a continent-wide map of the winter presence of ISW at the ocean surface. The observations demonstrate that, in some regions of coastal Antarctica, supercooled ISW drives a negative oceanic heat flux of \u221230\u2009Wm\u22122 that persists for several months during winter, significantly affecting sea ice thickness. In other regions, particularly where the thinning of ice shelves is believed to be greatest, platelet ice is not observed. Our new data set includes the longest ice-ocean record for Antarctica, which dates back to 1902 near the McMurdo Ice Shelf. These historical data indicate that, over the past 100\u2009years, any change in the volume of very cold surface outflow from this ice shelf is less than the uncertainties in the measurements.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064508", 
-        "title": "Observed platelet ice distributions in Antarctic sea ice: An index for ocean-ice shelf heat flux"
-    }, 
-    {
         "author": "L. N. Boisvert, D. L. Wu, C.-L. Shie", 
         "date": "2015-07-14", 
         "description": "\n\nThe vertical moisture flux (i.e. evaporation) plays an important role in the Arctic energy budget, the water-vapor feedback and Arctic amplification. It is one of the most uncertain variables, especially in this \u201cnew Arctic\u201d climate system, which is dominated by large ice-free ocean areas for a longer portion of the year. Moisture flux rates, produced using Atmospheric Infrared Sounder (AIRS) data, from the Arctic Ocean and surrounding seas were found to have increased between 2003-2013 by 7.2x10-4 g m-2s-1 per year (equivalent to 1.79 W m-2 per year in latent heat). This is a 7% increase in the average moisture flux each year and a 0.12% increase in the yearly global ocean latent heat flux, with some months increasing more than others. The largest increases seen are in the Arctic coastal seas during the spring and fall where there has been a reduction in sea ice cover, and an increase in sea surface temperatures. Increases in the moisture flux from the surface also correspond to increases in total atmospheric column water vapor and low-level clouds, especially in the central Arctic regions. Changes in the atmospheric water vapor in the surrounding seas (e.g. East Greenland) are most likely due to lower-latitude transport of moisture rather than from the surface. Yearly, the moisture flux from the surface supplies about 10% of the total column atmosphere water vapor.\n", 
@@ -294,14 +294,6 @@
         "journal": "Quarterly Journal of the Royal Meteorological Society", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fqj.2605", 
         "title": "Analysis of the slope of isentropic surfaces and its tendencies over the North Atlantic"
-    }, 
-    {
-        "author": "Eric D. Skyllingstad, Karen M. Shell, Lee Collins, Chris Polashenski", 
-        "date": "2015-06-16", 
-        "description": "\n\nA three-dimensional sea ice model is presented with resolved snow thickness variations and melt ponds. The model calculates heating from solar radiative transfer and simulates the formation and movement of brine/melt water through the ice system. Initialization for the model is based on observations of snow topography made during the summer melt seasons of 2009, 2010, and 2012 from a location off the coast of Barrow, AK. Experiments are conducted to examine the importance of snow properties and snow and ice thickness by comparing observed and modeled pond fraction and albedo.\nOne key process simulated by the model is the formation of frozen layers in the ice as relatively warm fresh water grid cells freeze when cooled by adjacent, cold brine-filled grid cells. These layers prevent vertical drainage and lead to flooding of melt water commonly observed at the beginning of the melt season. Flooding persists until enough heat is absorbed to melt through the frozen layer. The resulting long-term melt pond coverage is sensitive to both the spatial variability of snow cover and the minimum snow depth. For thin snow cover, initial melting results in earlier, reduced flooding with a small change in pond fraction after drainage of the melt water. Deeper snow tends to generate a delayed, larger peak pond fraction before drainage. This article is protected by copyright. All rights reserved.\n", 
-        "journal": "Journal of Geophysical Research: Oceans", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014JC010569", 
-        "title": "Simulation of the melt season using a resolved sea ice model with snow cover and melt ponds"
     }, 
     {
         "author": "Benjamin Holt, Michael P. Johnson, Dragana Perkovic-Martin, Ben Panzer", 

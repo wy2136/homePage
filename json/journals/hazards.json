@@ -1,5 +1,13 @@
 [
     {
+        "author": "G. Fontana, A. Toreti, A. Ceglar, and G. De Sanctis", 
+        "date": "2015-07-28", 
+        "description": "<b>Early heat waves over Italy and their impacts on durum wheat yields</b><br /><br />Natural Hazards and Earth System Science, 15, 1631-1637, 2015<br /><br />Author(s): G. Fontana, A. Toreti, A. Ceglar, and G. De Sanctis<br /><br />In the last decades the Euro-Mediterranean region has experienced an\nincrease in extreme temperature events such as heat waves. These extreme\nweather conditions can strongly affect arable crop growth and final yields.\nHere, early heat waves over Italy from 1995 to 2013 are identified and\ncharacterised and their impact on durum wheat yields is investigated. As\nexpected, results confirm the impact of the 2003 heat wave and highlight a\nhigh percentage of concurrence of early heat waves and significant negative\nyield anomalies in 13 out of 39 durum wheat production areas. In\nsouth-eastern Italy (the most important area for durum wheat production),\nthe percentage of concurrent events exceeds 80 %.", 
+        "journal": "Natural Hazards and Earth System Science", 
+        "link": "http://www.nat-hazards-earth-syst-sci.net/15/1631/2015/", 
+        "title": "Early heat waves over Italy and their impacts on durum wheat yields"
+    }, 
+    {
         "author": "T. Sayama, Y. Tatebe, Y. Iwami, and S. Tanaka", 
         "date": "2015-07-24", 
         "description": "<b>Hydrologic sensitivity of flood runoff and inundation: 2011 Thailand floods in the Chao Phraya River basin</b><br /><br />Natural Hazards and Earth System Science, 15, 1617-1630, 2015<br /><br />Author(s): T. Sayama, Y. Tatebe, Y. Iwami, and S. Tanaka<br /><br />The Thailand floods in 2011 caused unprecedented economic damage in the Chao\nPhraya River basin. To diagnose the flood hazard characteristics, this study\nanalyses the hydrologic sensitivity of flood runoff and inundation to\nrainfall. The motivation is to address why the seemingly insignificant\nmonsoon rainfall, or 1.2 times more rainfall than for past large floods,\nincluding the ones in 1995 and 2006, resulted in such devastating flooding.\nTo quantify the hydrologic sensitivity, this study simulated long-term\nrainfall\u2013runoff and inundation for the entire river basin\n(160 000 km<sup>2</sup>). The simulation suggested that the flood inundation\nvolume was 1.6 times more in 2011 than for the past flood events. Furthermore, the elasticity index suggested\nthat a 1 % increase in rainfall causes a 2.3 % increase in runoff and\na 4.2 % increase in flood inundation. This study highlights the\nimportance of sensitivity quantification for a better understanding of flood\nhazard characteristics; the presented basin-wide rainfall\u2013runoff\u2013inundation\nsimulation was an effective approach to analyse the sensitivity of flood\nrunoff and inundation at the river basin scale.", 
@@ -150,13 +158,5 @@
         "journal": "Natural Hazards and Earth System Science", 
         "link": "http://www.nat-hazards-earth-syst-sci.net/15/1381/2015/", 
         "title": "Exploring the link between drought indicators and impacts"
-    }, 
-    {
-        "author": "F. Romano, I. Molinari, S. Lorito, and A. Piatanesi", 
-        "date": "2015-06-26", 
-        "description": "<b>Source of the 6 February 2013 <i>M</i><sub>w</sub> = 8.0 Santa Cruz Islands Tsunami</b><br /><br />Natural Hazards and Earth System Science, 15, 1371-1379, 2015<br /><br />Author(s): F. Romano, I. Molinari, S. Lorito, and A. Piatanesi<br /><br />On 6 February 2013 an <i>M</i><sub>w</sub> = 8.0 subduction earthquake occurred close to\nSanta Cruz Islands at the transition between the Solomon and the New\nHebrides Trench. The ensuing tsunami caused significant inundation on the\nclosest Nendo Island. The seismic source was studied with teleseismic\nbroadband P-wave inversion optimized with tsunami forward modelling at DART\nbuoys (Lay et al., 2013) and with inversion of teleseismic body and surface\nwaves (Hayes et al., 2014a). The two studies also use different hypocentres\nand different planar fault models and found quite different slip models. In\nparticular, Hayes et al. (2014a) argued for an aseismic slip patch SE from\nthe hypocentre. We here develop a 3-D model of the fault surface from\nseismicity analysis and retrieve the tsunami source by inverting DART and\ntide-gauge data. Our tsunami source model features a main slip patch (peak\nvalue of ~ 11 m) SE of the hypocentre and reaching the\ntrench. The rake direction is consistent with the progressively more oblique\nplate convergence towards the Solomon trench. The tsunami source partially\noverlaps the hypothesized aseismic slip area, which then might have slipped coseismically.", 
-        "journal": "Natural Hazards and Earth System Science", 
-        "link": "http://www.nat-hazards-earth-syst-sci.net/15/1371/2015/", 
-        "title": "Source of the 6 February 2013 <i>M</i><sub>w</sub> = 8.0 Santa Cruz Islands Tsunami"
     }
 ]

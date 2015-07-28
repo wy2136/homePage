@@ -56,6 +56,22 @@
         "title": "Are estimates of anthropogenic and natural influences on Australia\u2019s extreme 2010\u20132012 rainfall model-dependent?"
     }, 
     {
+        "author": "Yu-Chiao Liang, Jin-Yi Yu, Min-Hui Lo, Chunzai Wang", 
+        "date": "2015-07-28", 
+        "description": "\n\nThis study finds that the El Ni\u00f1o influences on the summer Great Plains low-level jet (GPLLJ) are different for the Central Pacific (CP) and Eastern Pacific (EP) types during their decaying phases. While the CP El Ni\u00f1o induces negative sea level pressure anomalies over the Gulf of Mexico to drive anomalous northerly winds weakening the GPLLJ, the EP El Ni\u00f1o intensifies the GPLLJ by inducing anomalous surface air temperature gradient between the northeastern and southwestern United States. The recent emerging CP El Ni\u00f1o can weaken the GPLLJ to lead to a drier environment in the central United States.\n", 
+        "journal": "Atmospheric Science Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fasl.590", 
+        "title": "The changing influence of El Ni\u00f1o on the Great Plains low-level jet"
+    }, 
+    {
+        "author": "Christopher Lucas, Hanh Nguyen", 
+        "date": "2015-07-27", 
+        "description": "\n\nRadiosonde-based tropical expansion rate estimates for six continental-centered regions of the globe are discussed. New results from the Northern Hemisphere are presented, complementing previous Southern Hemisphere (SH) results using an identical methodology. Expansion rates are largest over Asia and Australia-New Zealand (ANZ). Other regions show more modest rates of expansion, and there is no statistically significant expansion over North America. In the hemispheric average, expansion rates are slightly larger in the SH. This asymmetry, although not statistically significant, is consistent with ozone depletion acting as a codriver of tropical expansion since 1979. The picture of regional expansion here is different from that in other studies or that derived solely from reanalyses. The relationships between tropical expansion and modes of climate variability are explored using partial regression techniques. Interannually, a relationship is seen with the El Ni\u00f1o\u2013Southern Oscillation (ENSO) across most of the globe. Regionally, the Pacific Decadal Oscillation (PDO) has a significant impact over Asia, while the Southern Annular Mode (SAM) affects expansion over ANZ. Considering the longer-term changes in the climate variability indices since 1979, it suggests that the PDO may account for up to 50% of the observed tropical expansion over Asia, while SAM may account for 20\u201330% of the SH expansion, particularly over ANZ. Decadal changes in ENSO may account for a further 20\u201330% of the global and regional trends. Accounting for the effect of climate variability helps to reconcile the differences in observations and model-based simulations of tropical expansion.\n", 
+        "journal": "Journal of Geophysical Research: Atmospheres", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JD023130", 
+        "title": "Regional characteristics of tropical expansion and the role of climate variability"
+    }, 
+    {
         "author": "Nicola Maher, Shayne McGregor, Matthew H. England, Alexander Sen Gupta", 
         "date": "2015-07-25", 
         "description": "\n\nThe effects of large tropical volcanic eruptions on Indo-Pacific tropical variability are investigated using 122 historical ensemble members from the Coupled Model Intercomparison Project 5. Radiative forcing due to volcanic aerosols in the stratosphere is found to increase the likelihood of a model climatic response that projects onto both the El Ni\u00f1o\u2013Southern Oscillation and the Indian Ocean Dipole (IOD). Large eruptions are associated with co-occurring El Ni\u00f1o and positive IOD events in the ensemble means that peak 6\u201312\u00a0months after the volcanic forcing peaks, marking a significant increase in the likelihood of each event occurring in the Southern Hemisphere (SH) spring/summer posteruption. There is also an ensemble mean La Ni\u00f1a-like response in the third SH summer posteruption, which coincides with a significant increase in the likelihood of a La Ni\u00f1a occurring. Taken together with the initial cooling, this La Ni\u00f1a-like response may increase the persistence of the cool global average surface temperature anomaly after an eruption.\n", 
@@ -158,14 +174,6 @@
         "journal": "Quarterly Journal of the Royal Meteorological Society", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fqj.2633", 
         "title": "Waxing and Waning of Observed Extreme Annual Tropical Rainfall"
-    }, 
-    {
-        "author": "Seul-Hee Im, Soon-Il An, Seon Tae Kim, Fei-Fei Jin", 
-        "date": "2015-07-14", 
-        "description": "\n\nTo analyze El Ni\u00f1o-La Ni\u00f1a asymmetry, Bjerknes Stability Index analysis applied separately for El Ni\u00f1o and La Ni\u00f1a events. The growth rate of the El Ni\u00f1o is larger than that of the La Ni\u00f1a. Their difference is mainly due to an increased positive dynamical feedback. The enhanced sensitivity of the ocean's dynamic response to wind stress in El Ni\u00f1o is a primary cause for the increase in the positive dynamical feedbacks and is originated from the nonlinear response of atmospheric pattern to sea surface temperature (SST) anomalies, in particular the eastward shift of maximum wind loading and the equator-confined wind patch during El Ni\u00f1o. The sensitivity of the wind intensity to SST anomalies is larger during El Ni\u00f1o; however, its impact is not greater than others. Difference in the negative feedbacks is mainly attributed to the damping by shortwave feedback, with the latent heat flux feedback being a secondary contributor.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064853", 
-        "title": "Feedback processes responsible for El Ni\u00f1o-La Ni\u00f1a amplitude asymmetry"
     }, 
     {
         "author": "S. J. Sutanto, G. Hoffmann, J. Worden, R. A. Scheepmaker, I. Aben, T. R\u00f6ckmann", 
@@ -406,14 +414,6 @@
         "journal": "Quarterly Journal of the Royal Meteorological Society", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fqj.2528", 
         "title": "ERA-20CM: a twentieth-century atmospheric model ensemble"
-    }, 
-    {
-        "author": "J. Camp, M. Roberts, C. MacLachlan, E. Wallace, L. Hermanson, A. Brookshaw, A. Arribas, A. A. Scaife", 
-        "date": "2015-03-10", 
-        "description": "The variability and predictability of tropical storm activity in the Met Office fully coupled atmosphere\u2013ocean Global Seasonal Forecast System 5 (GloSea5) is assessed. GloSea5 is a high-resolution seasonal forecast system with an atmospheric horizontal grid of 0.83\u00b0\nlongitude \u00d7 0.55\u00b0 latitude (\u223c53\u2009km at 55\u00b0N) and 0.25\u00b0 in the global ocean. The performance of the system is assessed in terms of its ability to retrospectively predict the observed tropical storm climatology and its response to the El\u00a0Ni\u00f1o\u2013Southern Oscillation (ENSO). Results are compared to the predecessor system GloSea4 (\u223c120\u2009km atmospheric horizontal resolution) and observational analyses over the common period of the operational hindcast for both systems: 1996\u20132009. A supplementary assessment of GloSea5 for the period 1992\u20132013 is then performed to evaluate skill of tropical storm predictions in the Northern Hemisphere as well as landfall frequency along two regions, the US coast and the Caribbean, over a longer period. GloSea5 is able to reproduce key tropical storm characteristics, such as their geographical distribution, seasonal cycle and interannual variability, as well as spatial changes in storm track density with ENSO. GloSea5 shows statistically significant skill for predictions of tropical storm numbers and accumulated cyclone energy (ACE) index in the North Atlantic, western Pacific, Australian region and South Pacific. Statistically significant skill is also found for predictions of landfall frequency along the Caribbean coastline. Skill is similar using either the direct counting of landfalling storms in the model, or by inferring landfall rates from the Atlantic basin-wide storm count. We find no skill for predictions of landfall along the US coast. Results suggest the potential for operational seasonal tropical storm forecasts throughout the Tropics.\n", 
-        "journal": "Quarterly Journal of the Royal Meteorological Society", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fqj.2516", 
-        "title": "Seasonal forecasting of tropical storms using the Met Office GloSea5 seasonal forecast system"
     }, 
     {
         "author": "H. Athar", 
