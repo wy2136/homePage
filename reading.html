@@ -10,7 +10,7 @@
 <script>write_navbar(1,'reading')</script>
 
 <div class="container-fluid text-center color-title bg-color-title border-bottom">
-  <h3>
+  <h3 id="top">
     What's New in Climate Journals by Topics<br>
     <small>Last updated: <script>write_update_time()</script></small>
   </h3>
@@ -18,7 +18,15 @@
 
 <div class="container" style="min-height:600px;">
   <div class="row">
-    <nav class="col-sm-3 scrollspy text-right" id="myScrollspy" >
+    <nav class="col-sm-3 scrollspy text-right hidden-xs hidden-sm" id="myScrollspy" >
+        <ul class="nav nav-pills nav-stacked">
+        <script>write_reading_nav_by_topics()</script>
+        <li><a href="#people">People <span class="badge"><script>document.write(get_num_of_feeds_by_topics('byPeople'))</script></span></a></li>
+        <li><a href="./journals.html">All Journals</a></li>
+      </ul>
+    </nav>
+    
+    <nav class="col-sm-3 scrollspy text-left hidden-md hidden-lg" id="myScrollspy" >
         <ul class="nav nav-pills nav-stacked">
         <script>write_reading_nav_by_topics()</script>
         <li><a href="#people">People <span class="badge"><script>document.write(get_num_of_feeds_by_topics('byPeople'))</script></span></a></li>
@@ -45,6 +53,11 @@
     })
   })
 </script>
+  
+
+<div>
+  <a href="#top" class="btn btn-default btn-lg hidden-xs" style="position:fixed; bottom:1em; right:2ex">TOP</a>
+</div>
   
 </body>
 </html>
