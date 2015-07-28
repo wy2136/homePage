@@ -1,5 +1,21 @@
 [
     {
+        "author": "Ralph Alvin Petersen", 
+        "date": "2015-07-23", 
+        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00055.1?af=R", 
+        "title": "On the impact and benefits of AMDAR observations in operational forecasting - Part 1: A review of the impact of automated aircraft wind and temperature reports"
+    }, 
+    {
+        "author": "Marielle Gosset et al", 
+        "date": "2015-07-23", 
+        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-15-00164.1?af=R", 
+        "title": "Improving Rainfall Measurement in gauge poor regions thanks to mobile telecommunication networks."
+    }, 
+    {
         "author": "Rezaul Mahmood et al", 
         "date": "2015-07-10", 
         "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
@@ -448,14 +464,6 @@
         "title": "The Amazon Dense GNSS Meteorological Network: A New Approach for Examining Water Vapor and Deep Convection Interactions in the Tropics"
     }, 
     {
-        "author": "Thorwald H. M. Stein et al", 
-        "date": "2015-02-12", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00279.1?af=R", 
-        "title": "The DYMECS project: A statistical approach for the evaluation of convective storms in high-resolution NWP models"
-    }, 
-    {
         "author": "Faye E. Barthold et al", 
         "date": "2015-02-12", 
         "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
@@ -712,14 +720,6 @@
         "title": "JOYCE: J\u00fclich Observatory for Cloud Evolution"
     }, 
     {
-        "author": "Sebastian Limbach et al", 
-        "date": "2014-10-29", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00020.1?af=R", 
-        "title": "IWAL \u2013 an Interactive Weather Analysis Laboratory"
-    }, 
-    {
         "author": "James P. Kossin", 
         "date": "2014-10-29", 
         "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
@@ -736,14 +736,6 @@
         "title": "Challenges in quantifying changes in the global water cy cle"
     }, 
     {
-        "author": "Florian Rauser et al", 
-        "date": "2014-10-10", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00181.1?af=R", 
-        "title": "Rethinking the default construction of multi-model climate ensembles"
-    }, 
-    {
         "author": "Richard Anthes et al", 
         "date": "2014-10-10", 
         "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
@@ -752,107 +744,67 @@
         "title": "Cooperation on GPS-Meteorology between the United States and Cuba"
     }, 
     {
-        "author": "L. Bernardet et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "author": "Sebastian Limbach et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 903-909, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00093.1?af=R", 
-        "title": "Community Support and Transition of Research to Operations for the Hurricane Weather Research and Forecast (HWRF) Model"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00020.1?af=R", 
+        "title": "IWAL\u2013An Interactive Weather Analysis Laboratory"
     }, 
     {
-        "author": "Francesc Junyent et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "author": "Florian Rauser et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 911-919, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00150.1?af=R", 
-        "title": "Transformation of the CSU-CHILL radar facility to a dual-frequency, dual-polarization, Doppler system"
-    }, 
-    {
-        "author": "June) Wang et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00203.1?af=R", 
-        "title": "A Long-Term, High-quality, High Vertical Resolution GPS Dropsonde Dataset for Hurricane and Other Studies"
-    }, 
-    {
-        "author": "Kevin J.E. Walsh et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00242.1?af=R", 
-        "title": "Hurricanes and climate: the U.S. CLIVAR working group on hurricanes"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00181.1?af=R", 
+        "title": "Rethinking the Default Construction of Multimodel Climate Ensembles"
     }, 
     {
         "author": "Antonietta Capotondi et al", 
-        "date": "2014-09-22", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 921-938, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
         "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00117.1?af=R", 
-        "title": "Understanding ENSO diversity"
+        "title": "Understanding ENSO Diversity"
     }, 
     {
-        "author": "Geert Jan Van Oldenborgh et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 707-714, May 2015. \n\t\t<br/>\n\t", 
+        "author": "Thorwald H. M. Stein et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 939-951, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00036.1?af=R", 
-        "title": "Cold Extremes in North America vs. Mild Weather in Europe: The Winter of 2013\u201314 in the Context of a Warming World"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00279.1?af=R", 
+        "title": "The DYMECS Project: A Statistical Approach for the Evaluation of Convective Storms in High-Resolution NWP Models"
     }, 
     {
-        "author": "Jer\u00f4me Schalkwijk et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 715-723, May 2015. \n\t\t<br/>\n\t", 
+        "author": "L. Bernardet et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 953-960, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00114.1?af=R", 
-        "title": "Weather Forecasting Using GPU-Based Large-Eddy Simulations"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00093.1?af=R", 
+        "title": "Community Support and Transition of Research to Operations for the Hurricane Weather Research and Forecasting Model"
     }, 
     {
-        "author": "Andrew K. Dow et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 725-736, May 2015. \n\t\t<br/>\n\t", 
+        "author": "June) Wang et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 961-973, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00178.1?af=R", 
-        "title": "Harnessing the Environmental Data Flood: A Comparative Analysis of Hydrologic, Oceanographic, and Meteorological Informatics Platforms"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00203.1?af=R", 
+        "title": "A Long-Term, High-Quality, High-Vertical-Resolution GPS Dropsonde Dataset for Hurricane and Other Studies"
     }, 
     {
-        "author": "Wassila M. Thiaw et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 737-753, May 2015. \n\t\t<br/>\n\t", 
+        "author": "Francesc Junyent et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 975-996, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00274.1?af=R", 
-        "title": "NOAA\u2019s African Desk: Twenty Years of Developing Capacity in Weather and Climate Forecasting in Africa"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00150.1?af=R", 
+        "title": "Transformation of the CSU\u2013CHILL Radar Facility to a Dual-Frequency, Dual-Polarization Doppler System"
     }, 
     {
-        "author": "Walker S. Ashley et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 755-778, May 2015. \n\t\t<br/>\n\t", 
+        "author": "Kevin J. E. Walsh et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 997-1017, June 2015. \n\t\t<br/>\n\t", 
         "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00026.1?af=R", 
-        "title": "Driving Blind: Weather-Related Vision Hazards and Fatal Motor Vehicle Crashes"
-    }, 
-    {
-        "author": "S. I. Bohnenstengel et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 779-804, May 2015. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-12-00245.1?af=R", 
-        "title": "Meteorology, Air Quality, and Health in London: The ClearfLo Project"
-    }, 
-    {
-        "author": "M. J. Best et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page 805-819, May 2015. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00122.1?af=R", 
-        "title": "Key Conclusions of the First International Urban Land Surface Model Comparison Project"
-    }, 
-    {
-        "author": "T. De Groeve et al", 
-        "date": "2015-06-25", 
-        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 5, Page ES97-ES100, May 2015. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00147.1?af=R", 
-        "title": "Joining Forces in a Global Flood Partnership"
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00242.1?af=R", 
+        "title": "Hurricanes and Climate: The U.S. CLIVAR Working Group on Hurricanes"
     }
 ]

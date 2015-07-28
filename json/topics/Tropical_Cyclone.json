@@ -32,6 +32,54 @@
         "title": "Sensitivity of the warm core of tropical cyclones to solar radiation"
     }, 
     {
+        "author": "Karthik Balaguru, Gregory R. Foltz, L. Ruby Leung, Eric D'Asaro, Kerry A. Emanuel, Hailong Liu, Sarah E. Zedler", 
+        "date": "2015-07-24", 
+        "description": "\n\nTo incorporate the effects of tropical cyclone (TC) induced upper-ocean mixing and sea surface temperature (SST) cooling on TC intensification, a vertical average of temperature down to a fixed depth was proposed as a replacement for SST within the framework of air-sea coupled Potential Intensity (PI). However, the depth to which TC-induced mixing penetrates may vary substantially with ocean stratification and storm state. To account for these effects, here we develop a \u2018dynamic potential intensity\u2019 (DPI) based on considerations of stratified fluid turbulence. For the Argo period 2004\u20132013 and the three major TC basins of the Northern Hemisphere, we show that the DPI explains 11\u201332% of the variance in TC intensification, compared to 0\u201316%using previous methods. The improvement obtained using the DPI is particularly large in the eastern Pacific where the thermocline is shallow and ocean stratification effects are strong.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064822", 
+        "title": "Dynamic Potential Intensity: An improved representation of the ocean's impact on tropical cyclones 3"
+    }, 
+    {
+        "author": "Sergio F. Abarca, Michael T. Montgomery, James C. McWilliams", 
+        "date": "2015-07-23", 
+        "description": "\n\nThis work examines the azimuthally-averaged boundary layer structure of a numerically-simulated hurricane. We nominally define the hurricane boundary layer as the layer in which the effects of surface friction are associated with significant departures from gradient wind balance. The boundary layer in the intensifying primary and forming secondary eyewalls is found to be nonlinear. At larger radii, exterior to the eyewalls, Ekman-like balance as traditionally defined, is found to hold true. Where significant departures from Ekman-like balance are found, the departures are characterized by large vertical advection of horizontal velocity through the depth of the boundary layer. Shock-like structures are not found to be prominent in the azimuthally-averaged view of the vortex boundary layer, with the largest azimuthally-averaged radial gradients of the radial and tangential velocities being on the order of only a few meters per second per kilometer. Also, in the radial regions of the eyewalls, at the height where the averaged tangential wind is a maximum, the radial advection of radial velocity is an order of magnitude smaller than the agradient force per unit mass. Some physical implications of these findings are discussed. This article is protected by copyright. All rights reserved.\n", 
+        "journal": "Journal of Advances in Modeling Earth Systems", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015MS000457", 
+        "title": "The azimuthally averaged boundary layer structure of a numerically simulated major hurricane"
+    }, 
+    {
+        "author": "S.-M. Huang, Leo Oey", 
+        "date": "2015-07-22", 
+        "description": "\n\nThe rightward tendency (in northern hemisphere) of enhanced phytoplankton bloom often observed in the wake of a tropical cyclone has commonly been attributed to the rightward bias of mixing due to stronger wind and wind-current resonance. We demonstrated using a high-resolution biophysical model that vertical mixing alone resulted only in weak asymmetry after the passage of the storm. The enhanced bloom was caused instead by decreased turbulence due to re-stratification by sub-mesoscale recirculation cells preferentially produced on the right side, rightward shift of cool isotherms, and spin-up of a subsurface jet. We showed using a two-time scale asymptotic expansion that these slower evolving features were forced by resonance Reynolds stresses of the energetic and rapidly oscillating near-inertial internal waves. This article is protected by copyright. All rights reserved.\n", 
+        "journal": "Journal of Geophysical Research: Oceans", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JC010896", 
+        "title": "Right-side cooling and phytoplankton bloom in the wake of a tropical cyclone"
+    }, 
+    {
+        "author": "L. Bernardet et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 953-960, June 2015. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00093.1?af=R", 
+        "title": "Community Support and Transition of Research to Operations for the Hurricane Weather Research and Forecasting Model"
+    }, 
+    {
+        "author": "June) Wang et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 961-973, June 2015. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00203.1?af=R", 
+        "title": "A Long-Term, High-Quality, High-Vertical-Resolution GPS Dropsonde Dataset for Hurricane and Other Studies"
+    }, 
+    {
+        "author": "Kevin J. E. Walsh et al", 
+        "date": "2015-07-21", 
+        "description": "Bulletin of the American Meteorological Society, Volume 96, Issue 6, Page 997-1017, June 2015. \n\t\t<br/>\n\t", 
+        "journal": "Bulletin of the American Meteorological Society", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00242.1?af=R", 
+        "title": "Hurricanes and Climate: The U.S. CLIVAR Working Group on Hurricanes"
+    }, 
+    {
         "author": "Florian Pantillon, Jean-Pierre Chaboureau, Evelyne Richard", 
         "date": "2015-07-21", 
         "description": "\n\nOperational ensemble forecasts for the western Mediterranean exhibited high uncertainty while Hurricane Nadine was slowly moving over the eastern North Atlantic in September 2012. The forecasts showed a bifurcation in the track of Nadine \u2013 a significant fraction predicting its landfall over the Iberian Peninsula \u2013 and a high spread in the synoptic conditions downstream. The forecast uncertainty was a major issue for planning observations during the first special observation period (SOP1) of the Hydrological cycle in Mediterranean eXperiment (HyMeX). Clustering the ensemble forecast of the European Centre for Medium-Range Weather Forecasts reveals two scenarios for the interaction between Nadine and an Atlantic cutoff, which controls both the track of Nadine and the synoptic conditions downstream. The observed scenario of weak interaction is characterized by Nadine moving westward and the cutoff moving eastward. The cutoff then triggers precipitation over the C\u00e9vennes in southeastern France. The contrasting scenario of strong interaction is characterized by Nadine and the cutoff rotating around each other over the Atlantic. Nadine then either merges with the cutoff or makes landfall over the Iberian Peninsula. The interaction between Nadine and the cutoff mimics the vortex-vortex interaction previously observed between two tropical cyclones or two upper-level vortices. It differs from the usual interaction between a tropical cyclone and a larger trough during extratropical transition. A critical distance of about 1000\u2009km between Nadine and the cutoff distinguishes the cases of weak and strong interaction in the ensemble forecast. Shifting the initial position of Nadine in Meso-NH numerical experiments confirms the critical distance and suggests a bifurcation point in the relative position of Nadine and the cutoff. The high forecast sensitivity to the vortex-vortex interaction resulted in the lowest predictability over the Mediterranean during the whole HyMeX SOP1.\n", 
@@ -320,14 +368,6 @@
         "title": "The subtropical jet stream delivers the coup de grace to Hurricane Felicia (2009)"
     }, 
     {
-        "author": "Kevin E. Trenberth", 
-        "date": "2015-06-22", 
-        "description": "There is a tremendous desire to attribute causes to weather and climate events that is often challenging from a physical standpoint. Headlines attributing an event solely to either human-induced climate change or natural variability can be misleading when both are invariably in play. The conventional attribution framework struggles with dynamically driven extremes because of the small signal-to-noise ratios and often uncertain nature of the forced changes. Here, we suggest that a different framing is desirable, which asks why such extremes unfold the way they do. Specifically, we suggest that it is more useful to regard the extreme circulation regime or weather event as being largely unaffected by climate change, and question whether known changes in the climate system's thermodynamic state affected the impact of the particular event. Some examples briefly illustrated include 'snowmaggedon' in February 2010, superstorm Sandy in October 2012 and supertyphoon Haiyan in November 2013, and, in more detail, the Boulder floods of September 2013, all of which were influenced by high sea surface temperatures that had a discernible human component.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/iWM1N97F1D0/nclimate2657", 
-        "title": "Attribution of climate extreme events"
-    }, 
-    {
         "author": "Elizabeth R. Sanabia et al", 
         "date": "2015-06-22", 
         "description": "Monthly Weather Review, Ahead of Print. \n\t\t<br/>\n\t", 
@@ -342,14 +382,6 @@
         "journal": "Journal of Geophysical Research: Oceans", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JC010760", 
         "title": "Combined infragravity wave and sea-swell runup over fringing reefs by super typhoon Haiyan"
-    }, 
-    {
-        "author": "Juan Cuesta, Maxim Eremenko, Cyrille Flamant, Ga\u00eblle Dufour, Beno\u00eet Laurent, Gilles Bergametti, Michael H\u00f6pfner, Johannes Orphal, Daniel Zhou", 
-        "date": "2015-06-18", 
-        "description": "\n\nWe describe the daily evolution of the three-dimensional (3D) structure of a major dust outbreak initiated by an extratropical cyclone over East Asia in early March 2008, using new aerosol retrievals derived from satellite observations of IASI (Infrared Atmospheric Sounding Interferometer). A novel auto-adaptive Tikhonov-Philips-type approach called AEROIASI is used to retrieve vertical profiles of dust extinction coefficient at 10 \u00b5m for most cloud-free IASI pixels, both over land and ocean. The dust vertical distribution derived from AEROIASI is shown to agree remarkably well with along-track transects of CALIOP space-borne lidar vertical profiles (mean biases less than 110 m, correlation of 0.95 and precision of 260 m for mean altitudes of the dust layers). AEROIASI allows the daily characterization of the 3D transport pathways across East Asia of two dust plumes originating from the Gobi and North Chinese deserts. From AEROIASI retrievals, we provide evidence that (i) both dust plumes are transported over the Beijing region and the Yellow Sea as elevated layers above a shallow boundary layer, (ii) as they progress eastwards, the dust layers are lifted up by the ascending motions near the core of the extratropical cyclone and (iii) when being transported over the warm waters of the Japan Sea, turbulent mixing in the deep marine boundary layer leads to high dust concentrations down to the surface. AEROIASI observations and model simulations also show that the progression of the dust plumes across East Asia is tightly related to the advancing cold front of the extratropical cyclone.\n", 
-        "journal": "Journal of Geophysical Research: Atmospheres", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2014JD022406", 
-        "title": "Three-dimensional distribution of a major desert dust outbreak over East Asia in March 2008 derived from IASI satellite observations"
     }, 
     {
         "author": "Vijay Tallapragada et al", 
@@ -790,30 +822,6 @@
         "journal": "International Journal of Climatology", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fjoc.4163", 
         "title": "Seasonal prediction of landfalling hurricanes along Eastern Seaboard of the United States"
-    }, 
-    {
-        "author": "L. Bernardet et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00093.1?af=R", 
-        "title": "Community Support and Transition of Research to Operations for the Hurricane Weather Research and Forecast (HWRF) Model"
-    }, 
-    {
-        "author": "June) Wang et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00203.1?af=R", 
-        "title": "A Long-Term, High-quality, High Vertical Resolution GPS Dropsonde Dataset for Hurricane and Other Studies"
-    }, 
-    {
-        "author": "Kevin J.E. Walsh et al", 
-        "date": "2014-09-23", 
-        "description": "Bulletin of the American Meteorological Society, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Bulletin of the American Meteorological Society", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-13-00242.1?af=R", 
-        "title": "Hurricanes and climate: the U.S. CLIVAR working group on hurricanes"
     }, 
     {
         "author": "P. R. Shanas, V. Sanil Kumar", 

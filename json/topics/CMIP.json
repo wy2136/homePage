@@ -32,6 +32,38 @@
         "title": "A multi-proxy reconstruction of spatial and temporal variations in Asian summer temperatures over the last millennium"
     }, 
     {
+        "author": "J. B. Klemp, W. C. Skamarock, S.-H. Park", 
+        "date": "2015-07-26", 
+        "description": "\n\nIdealized simulations on a reduced-radius sphere can provide a useful vehicle for evaluating the behavior of nonhydrostatic processes in nonhydrostatic global atmospheric dynamical cores provided the simulated cases exhibit good agreement with corresponding flows in a Cartesian geometry, and for which there are known solutions. Idealized test cases on a reduced-radius sphere are presented here that focus on both dry and moist dynamics. The dry dynamics cases are variations of mountain-wave simulations designed for the Dynamical Core Model Intercomparison Project (DCMIP), and permit quantitative comparisons with linear analytic mountain-wave solutions in a Cartesian geometry. To evaluate moist dynamics, an idealized supercell thunderstorm is simulated that has strong correspondence to results obtained on a flat plane, and which can be numerically converged by specifying a constant physical diffusion. A simple Kessler-type routine for cloud microphysics is provided that can be readily implemented in atmospheric simulation models. Results for these test cases are evaluated for simulations with the Model for Prediction across scales (MPAS). They confirm close agreement with corresponding simulations in a Cartestian geometry; the mountain-wave results agree well with analytic mountain-wave solutions, and the simulated supercells are consistent with other idealized supercell simulation studies and exhibit convergent behavior.\n", 
+        "journal": "Journal of Advances in Modeling Earth Systems", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015MS000435", 
+        "title": "Idealized global nonhydrostatic atmospheric test cases on a reduced-radius sphere"
+    }, 
+    {
+        "author": "Nicola Maher, Shayne McGregor, Matthew H. England, Alexander Sen Gupta", 
+        "date": "2015-07-25", 
+        "description": "\n\nThe effects of large tropical volcanic eruptions on Indo-Pacific tropical variability are investigated using 122 historical ensemble members from the Coupled Model Intercomparison Project 5. Radiative forcing due to volcanic aerosols in the stratosphere is found to increase the likelihood of a model climatic response that projects onto both the El Ni\u00f1o\u2013Southern Oscillation and the Indian Ocean Dipole (IOD). Large eruptions are associated with co-occurring El Ni\u00f1o and positive IOD events in the ensemble means that peak 6\u201312\u00a0months after the volcanic forcing peaks, marking a significant increase in the likelihood of each event occurring in the Southern Hemisphere (SH) spring/summer posteruption. There is also an ensemble mean La Ni\u00f1a-like response in the third SH summer posteruption, which coincides with a significant increase in the likelihood of a La Ni\u00f1a occurring. Taken together with the initial cooling, this La Ni\u00f1a-like response may increase the persistence of the cool global average surface temperature anomaly after an eruption.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064751", 
+        "title": "Effects of volcanism on tropical variability"
+    }, 
+    {
+        "author": "Chuliang Xiao, Yaocun Zhang", 
+        "date": "2015-07-23", 
+        "description": "\n\nThe wintertime East Asian eddy-driven jet (EAEJ) responding to climate change in the 21st century is studied using model outputs from the Coupled Model Intercomparison Project phase 5 (CMIP5). Compared to the location displacement in oceanic eddy-driven jets, the magnitude change of synoptic-scale transient eddy activities, measured by eddy kinetic energy (EKE), is a more striking feature in EAEJ. An intensified EKE is projected unanimously by CMIP5 models, suggesting that potential strong winter storm events are likely to happen in East Asian midlatitude in a warming climate. The future change of EKE in EAEJ can be understood in terms of growing baroclinicity wave. The upper level EKE is highly correlated to the low-level static stability, Brunt-V\u00e4is\u00e4l\u00e4 frequency (BVF). CMIP5 models generally project an intensified upper evel EKE with a reduced low-level BVF (\u0394EKE\u2009\u221d\u2009\u2212\u0394BVF). Meanwhile, the enhancement of EKE is also constrained by its historical state (\u0394EKE\u2009\u221d\u2009\u2212EKE). Intermodel variabilities among CMIP5 models reveal a similar but weaker relationship between \u0394BVF (or EKE) and \u0394EKE, indicating relatively large model diversities and independencies among CMIP5 models.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064641", 
+        "title": "Projected changes of wintertime synoptic-scale transient eddy activities in the East Asian eddy-driven jet from CMIP5 experiments"
+    }, 
+    {
+        "author": "S. Fueglistaler, C. Radley, I. M. Held", 
+        "date": "2015-07-21", 
+        "description": "\n\nReconciling observations and simulations of tropical upper tropospheric temperature trends remains an important problem in climate science. Examining atmospheric models running over observed sea surface temperatures (SSTs), Flannaghan et al. (2014) show that this reconciliation is affected by the SST data set used and that a precipitation-weighted SST (PSST) is valuable in explaining this result. Here we show that even for Coupled Model Intercomparison Project Phase 5 Atmospheric Model Intercomparison Project (CMIP5 AMIP) simulations forced with identical SSTs, tropical upper tropospheric temperature trends across models (and between ensemble members) show a substantial spread (standard deviation \u223c10% of the average trend). About 60% of this spread between ensemble means, as well as deviations from the ensemble means, can be explained by PSST calculated from the time-evolving precipitation in each model run. Both PSST and atmospheric temperature trends show statistical evidence for systematic differences between models. We conclude that the response of precipitation patterns to changes in SST patterns is a significant source of uncertainty for tropical temperature trends.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064966", 
+        "title": "The distribution of precipitation and the spread in tropical upper tropospheric temperature trends in CMIP5/AMIP simulations"
+    }, 
+    {
         "author": "John O'Sullivan, Conor Sweeney, Paul Nolan, Emily Gleeson", 
         "date": "2015-07-19", 
         "description": "\n\nThere is a paucity of dynamically downscaled climate model output at a high resolution over Ireland, of temperature projections for the mid-21st century. This study aims to address this shortcoming. A preliminary investigation of global climate model (GCM) data and high-resolution regional climate model (RCM) data shows that the latter exhibits greater variability over Ireland by reducing the dominance of the surrounding seas on the climate signal. This motivates the subsequent dynamical downscaling and analysis of the temperature output from three high-resolution (4\u20137 km grid size) RCMs over Ireland. The three RCMs, driven by four GCMs from CMIP3 and CMIP5, were run under different Special Report on Emissions Scenarios (SRES) and representative concentration pathway (RCP) future scenarios. Projections of mean and extreme temperature changes are considered for the mid-century (2041\u20132060) and assessed relative to the control period of 1981\u20132000.\nAnalysis of the RCM data shows that annual mean temperatures are projected to rise between 0.4 and 1.8 \u00b0C above control levels by mid-century. On a seasonal basis, results differ by forcing scenario. Future summers have the largest projected warming under RCP 8.5, where the greatest warming is seen in the southeast of Ireland. The remaining two high emission scenarios (SRESs A1B and A2) project future winters to have the greatest warming, with almost uniform increases of 1.5\u20132 \u00b0C across the island.\nChanges in the bidecadal 5th and 95th percentile values of daily minimum and maximum temperatures, respectively, are also analysed. The greatest change in daily minimum temperature is projected for future winters (indicating fewer cold nights and frost days), a pattern that is consistent across all scenarios/forcings.\nAn investigation into the distribution of temperature under RCP 8.5 shows a strong summer increase compounded by increased variability, and a winter increase compounded by an increase in skewness.\n", 
@@ -62,14 +94,6 @@
         "journal": "Geophysical Research Letters", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064360", 
         "title": "Exploring the impact of CMIP5 model biases on the simulation of North Atlantic decadal variability"
-    }, 
-    {
-        "author": "Nicola Maher, Shayne McGregor, Matthew H. England, Alexander Sen Gupta", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe effects of large tropical volcanic eruptions on Indo-Pacific tropical variability are investigated using 122 historical ensemble members from CMIP5. Radiative forcing due to volcanic aerosols in the stratosphere is found to increase the likelihood of a model climatic response that projects onto both the El Ni\u00f1o-Southern Oscillation and the Indian Ocean Dipole (IOD) mode. Large eruptions are associated with co-occurring El Ni\u00f1o and positive IOD events in the ensemble means that peak 6\u201312 months after the volcanic forcing peaks, marking a significant increase in the likelihood of each event occurring in the Southern Hemisphere (SH) spring/summer post-eruption. There is also an ensemble mean La Ni\u00f1a-like response in the third SHsummer post-eruption, which coincides with a significant increase in the likelihood of a La Ni\u00f1a occurring. Taken together with the initial cooling, this La Ni\u00f1a-like response may increase the persistence of the cool global-average surface temperature anomaly after an eruption.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064751", 
-        "title": "Effects of volcanism on tropical variability"
     }, 
     {
         "author": "Peter O. Hopcroft, Paul J. Valdes", 
@@ -136,14 +160,6 @@
         "title": "Are CMIP5 Models Better than CMIP3 Models in Simulating Precipitation over East Asia?"
     }, 
     {
-        "author": "David A. Lavers, F. Martin Ralph, Duane E. Waliser, Alexander Gershunov, Michael D. Dettinger", 
-        "date": "2015-07-08", 
-        "description": "\n\nGlobal warming of the Earth's atmosphere is hypothesized to lead to an intensification of the global water cycle. To determine associated hydrological changes, most previous research has used precipitation. This study, however, investigates projected changes to global atmospheric water vapor transport (integrated vapor transport (IVT)), the key link between water source and sink regions. Using 22 global circulation models from the Climate Model Intercomparison Project Phase 5, we evaluate, globally, the mean, standard deviation, and the 95th percentiles of IVT from the historical simulations (1979\u20132005) and two emissions scenarios (2073\u20132099). Considering the more extreme emissions, multimodel mean IVT increases by 30\u201340% in the North Pacific and North Atlantic storm tracks and in the equatorial Pacific Ocean trade winds. An acceleration of the high-latitude IVT is also shown. Analysis of low-altitude moisture and winds suggests that these changes are mainly due to higher atmospheric water vapor content.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064672", 
-        "title": "Climate change intensification of horizontal water vapor transport in CMIP5"
-    }, 
-    {
         "author": "Qian Ma, Kaicun Wang, Martin Wild", 
         "date": "2015-07-08", 
         "description": "\n\nGround-based observations of surface incident solar radiation (Rs) have been used to evaluate simulations of global climate models. Existing studies have shown that biases in simulated clouds have a significant spatial pattern, which may be transferred to the simulated Rs. Therefore, the evaluation results of Rs simulations may depend on the locations of the ground-based observations. In this study, Rs simulations of 48 models participating in the fifth phase of the Coupled Model Intercomparison Project (CMIP5) were first evaluated with ground-based observations from different networks (446 stations in total) from 2000 to 2005. The global mean biases of the CMIP5 Rs simulations were found to vary from 4.8 to 11.9 W m\u22122 when Rs observations from different networks were used as reference data. To reduce the location impact on the evaluation results, CMIP5 simulated Rs were then evaluated with the latest satellite Rs retrieval at 1\u00b0\u00d71\u00b0 spatial resolution by the Clouds and the Earth's Radiant Energy System, Energy Balanced And Filled (CERES EBAF). It was found that the CMIP5 simulated multi-model mean Rs has a small bias of 2.6 W m\u22122 compared with CERES EBAF over the globe, 4.7 W m\u22122 and 1.7 W m\u22122 over land and oceans, respectively. CERES EBAF Rs was found to have a positive bias of 1.3 W m\u22122 compared with ground-based observations. After removing this bias of CERES EBAF Rs, global mean Rs was estimated to be 185 W m\u22122.\n", 
@@ -184,14 +200,6 @@
         "title": "Impacts of External Forcing on the Decadal Climate Variability in CMIP5 Simulations"
     }, 
     {
-        "author": "Jordan L. Thomas, Darryn W. Waugh, Anand Gnanadesikan", 
-        "date": "2015-07-07", 
-        "description": "\n\nChanges in the Southern Annular Mode (SAM), Southern Hemisphere (SH) westerly jet location, and magnitude are linked with changes in ocean circulation along with ocean heat and carbon uptake. Recent trends have been observed in these fields but not much is known about the natural variability. Here we aim to quantify the natural variability of the SH extratropical circulation by using Coupled Model Intercomparison Project Phase 5 (CMIP5) preindustrial control model runs and compare with the observed trends in SAM, jet magnitude, and jet location. We show that trends in SAM are due partly to external forcing but are not outside the natural variability as described by these models. Trends in jet location and magnitude, however, lie outside the unforced natural variability but can be explained by a combination of natural variability and the ensemble mean forced trend. These results indicate that trends in these three diagnostics cannot be used interchangeably.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064521", 
-        "title": "Southern Hemisphere extratropical circulation: Recent trends and natural variability"
-    }, 
-    {
         "author": "Leon D. Rotstayn et al", 
         "date": "2015-07-06", 
         "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
@@ -206,14 +214,6 @@
         "journal": "Journal of Hydrometeorology", 
         "link": "http://journals.ametsoc.org/doi/abs/10.1175/JHM-D-14-0206.1?af=R", 
         "title": "Intraseasonal versus Interannual Measures of Land-Atmosphere Coupling Strength in a Global Climate Model: GLACE-1 versus GLACE-CMIP5 Experiments in ACCESS1.3b"
-    }, 
-    {
-        "author": "Chuliang Xiao, Yaocun Zhang", 
-        "date": "2015-07-06", 
-        "description": "\n\nThe wintertime East Asian eddy-driven jet (EAEJ) responding to climate change in the 21st century is studied using model outputs from the Coupled Model Intercomparison Project phase 5 (CMIP5). Compared to the location displacement in oceanic eddy-driven jets, the magnitude change of synoptic-scale transient eddy activities, measured by eddy kinetic energy (EKE), is a more striking feature in EAEJ. An intensified EKE is projected unanimously by CMIP5 models, suggesting that potential strong winter storm events are likely to happen in East Asian midlatitude in a warming climate. The future change of EKE in EAEJ can be understood in terms of growing baroclinicity wave. The upper-level EKE is highly correlated to the low-level static stability, Brunt-V\u00e4is\u00e4l\u00e4 frequency (BVF). CMIP5 models generally project an intensified upper-level EKE with a reduced low-level BVF (\u0394EKE \u221d\u2013\u0394BVF). Meanwhile, the enhancement of EKE is also constrained by its historical state (\u0394EKE \u221d\u2013EKE). Intermodel variabilities among CMIP5 models reveal a similar but weaker relationship between \u0394BVF (or EKE) and \u0394EKE, indicating relatively large model diversities and independencies among CMIP5 models.", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064641", 
-        "title": "Projected changes of wintertime synoptic-scale transient eddy activities in the East Asian eddy-driven jet from CMIP5 experiments"
     }, 
     {
         "author": "Darren J. Pilcher, Sarah R. Brody, Leah Johnson, Benjamin Bronselaer", 
@@ -246,14 +246,6 @@
         "journal": "Reviews of Geophysics", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015RG000483", 
         "title": "Spatio-temporal patterns of terrestrial gross primary production: A review"
-    }, 
-    {
-        "author": "J. B. Klemp, W. C. Skamarock, S.-H. Park", 
-        "date": "2015-06-26", 
-        "description": "\n\nIdealized simulations on a reduced-radius sphere can provide a useful vehicle for evaluating the behavior of nonhydrostatic processes in nonhydrostatic global atmospheric dynamical cores provided the simulated cases exhibit good agreement with corresponding flows in a Cartesian geometry, and for which there are known solutions. Idealized test cases on a reduced-radius sphere are presented here that focus on both dry and moist dynamics. The dry dynamics cases are variations of mountain wave simulations designed for the Dynamical Core Model Intercomparison Project (DCMIP), and permit quantitative comparisons with linear analytic mountain-wave solutions in a Cartesian geometry. To evaluate moist dynamics, an idealized supercell thunderstorm is simulated that has strong correspondence to results obtained on a flat-plane, and which can be numerically converged by specifying a constant physical diffusion. A simple Kessler-type routine for cloud microphysics is provided that can be readily implemented in atmospheric simulation models. Results for these test cases are evaluated for simulations with the Model for Prediction across scales (MPAS). They confirm close agreement with corresponding simulations in a Cartestian geometry; the mountain wave results agree well with analytic mountain-wave solutions and the simulated supercells are consistent with other idealized supercell simulation studies and exhibit convergent behavior. This article is protected by copyright. All rights reserved.\n", 
-        "journal": "Journal of Advances in Modeling Earth Systems", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015MS000435", 
-        "title": "Idealized global nonhydrostatic atmospheric test cases on a reduced radius sphere"
     }, 
     {
         "author": "M. Biasutti and R. Seager", 

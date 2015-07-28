@@ -1,5 +1,13 @@
 [
     {
+        "author": "Wilson, A. M., Latimer, A. M., Silander, J. A.", 
+        "date": "2015-07-21", 
+        "description": "Conservation of biodiversity and natural resources in a changing climate requires understanding what controls ecosystem resilience to disturbance. This understanding is especially important in the fire-prone Mediterranean systems of the world. The fire frequency in these systems is sensitive to climate, and recent climate change has resulted in more frequent...", 
+        "journal": "PNAS - Environmental Sciences", 
+        "link": "http://www.pnas.org/content/112/29/9058.short?rss=1", 
+        "title": "Postfire regeneration in South African fynbos [Environmental Sciences]"
+    }, 
+    {
         "author": "Gu, B., Ju, X., Chang, J., Ge, Y., Vitousek, P. M.", 
         "date": "2015-07-14", 
         "description": "Reactive nitrogen (Nr) plays a central role in food production, and at the same time it can be an important pollutant with substantial effects on air and water quality, biological diversity, and human health. China now creates far more Nr than any other country. We developed a budget for Nr...", 
@@ -30,13 +38,5 @@
         "journal": "PNAS - Environmental Sciences", 
         "link": "http://www.pnas.org/content/112/27/8244.short?rss=1", 
         "title": "A century of sprawl in the United States [Environmental Sciences]"
-    }, 
-    {
-        "author": "Dadvand, P., Nieuwenhui&#x0237;sen, M. J., Esnaola, M., Forns, J., Basagana, X., Alvarez&ndash;Pedrerol, M., Rivas, I., Lopez&ndash;Vicente, M., De Castro Pascual, M., Su, J., Jerrett, M., Querol, X., Sunyer, J.", 
-        "date": "2015-06-30", 
-        "description": "Exposure to green space has been associated with better physical and mental health. Although this exposure could also influence cognitive development in children, available epidemiological evidence on such an impact is scarce. This study aimed to assess the association between exposure to green space and measures of cognitive development in...", 
-        "journal": "PNAS - Environmental Sciences", 
-        "link": "http://www.pnas.org/content/112/26/7937.short?rss=1", 
-        "title": "Green spaces and cognitive development in children [Environmental Sciences]"
     }
 ]

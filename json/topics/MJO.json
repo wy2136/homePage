@@ -24,6 +24,22 @@
         "title": "A spatial\u2013temporal projection model for extended-range forecast in the tropics"
     }, 
     {
+        "author": "Fisseha Berhane et al", 
+        "date": "2015-07-23", 
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Journal of Climate", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00510.1?af=R", 
+        "title": "The Madden-Julian Oscillation\u2019s influence on Spring Rainy Season Precipitation over Equatorial West Africa"
+    }, 
+    {
+        "author": "J. R. Ziemke, A. R. Douglass, L. D. Oman, S. E. Strahan, and B. N. Duncan", 
+        "date": "2015-07-22", 
+        "description": "<b>Tropospheric ozone variability in the tropics from ENSO to MJO and shorter timescales</b><br /><br />Atmospheric Chemistry and Physics, 15, 8037-8049, 2015<br /><br />Author(s): J. R. Ziemke, A. R. Douglass, L. D. Oman, S. E. Strahan, and B. N. Duncan<br /><br />Aura OMI and MLS measurements are combined to produce daily maps of\ntropospheric ozone beginning October 2004. We show that El Ni\u00f1o-Southern\nOscillation (ENSO) related inter-annual change in tropospheric ozone in the\ntropics is small in relation to combined intra-seasonal/Madden\u2013Julian\nOscillation (MJO) and shorter timescale variability by a factor of ~ 3\u201310\n(largest in the Atlantic). Outgoing longwave radiation (OLR), taken as a\nproxy for convection, suggests that convection is a dominant driver of\nlarge-scale variability of tropospheric ozone in the Pacific from\ninter-annual (e.g., ENSO) to weekly periods. We compare tropospheric ozone\nand OLR satellite observations with two simulations: (1) the Goddard Earth\nObserving System (GEOS) chemistry-climate model (CCM) that uses observed sea\nsurface temperatures and is otherwise free-running, and (2) the NASA Global\nModeling Initiative (GMI) chemical transport model (CTM) that is driven by\nModern Era Retrospective-Analysis for Research and Applications (MERRA)\nanalyses. It is shown that the CTM-simulated ozone accurately matches\nmeasurements for timescales from ENSO to intra-seasonal/MJO and even\n1\u20132-week periods. The CCM simulation reproduces ENSO variability but not\nshorter timescales. These analyses suggest that a model used to delineate\ntemporal and/or spatial properties of tropospheric ozone and convection in the\ntropics must reproduce both ENSO and non-ENSO variability.", 
+        "journal": "Atmospheric Chemistry and Physics", 
+        "link": "http://www.atmos-chem-phys.net/15/8037/2015/", 
+        "title": "Tropospheric ozone variability in the tropics from ENSO to MJO and shorter timescales"
+    }, 
+    {
         "author": "Walter M. Hannah, Eric D. Maloney, Michael S. Pritchard", 
         "date": "2015-07-14", 
         "description": "\n\nHindcast simulations of MJO events during the dynamics of the MJO (DYNAMO) field campaign are conducted with two models, one with conventional parameterization (CAM5) and a comparable model that utilizes superparameterization (SP-CAM). SP-CAM is shown to produce a qualitatively better reproduction of the fluctuations of precipitation and low-level zonal wind associated with the first two DYNAMO MJO events compared to CAM5. Interestingly, skill metrics using the real-time multivariate MJO index (RMM) suggest the opposite conclusion that CAM5 has more skill than SP-CAM. This inconsistency can be explained by a systematic increase of RMM amplitude with lead time, which results from a drift of the large-scale wind field in SP-CAM that projects strongly onto the RMM index. CAM5 hindcasts exhibit a contraction of the moisture distribution, in which extreme wet and dry conditions become less frequent with lead time. SP-CAM hindcasts better reproduce the observed moisture distribution, but also have stronger drift patterns of moisture budget terms, such as an increase in drying by meridional advection in SP-CAM. This advection tendency in SP-CAM appears to be associated with enhanced off-equatorial synoptic eddy activity with lead time. Systematic drift moisture tendencies in SP-CAM are of similar magnitude to intraseasonal moisture tendencies, and therefore are important for understanding MJO prediction skill.\n", 

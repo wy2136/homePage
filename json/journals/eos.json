@@ -1,5 +1,29 @@
 [
     {
+        "author": "Kate Wheeling", 
+        "date": "2015-07-27", 
+        "description": "Field experiments examine the effect of rising temperatures and drying soils on carbon dynamics in the Arctic.", 
+        "journal": "EOS", 
+        "link": "https://eos.org/research-spotlights/simulating-a-warmer-drier-arctic?utm_source=rss&utm_medium=rss&utm_content=simulating-a-warmer-drier-arctic", 
+        "title": "Simulating a Warmer, Drier Arctic"
+    }, 
+    {
+        "author": "Puneet Kollipara", 
+        "date": "2015-07-24", 
+        "description": "Basing forecasts on data that preserve variations over space yield more reliable predictions than using standard numerical measures of climatic cycles&#39; intensity.", 
+        "journal": "EOS", 
+        "link": "https://eos.org/research-spotlights/what-climate-information-is-most-useful-for-predicting-floods?utm_source=rss&utm_medium=rss&utm_content=what-climate-information-is-most-useful-for-predicting-floods", 
+        "title": "What Climate Information Is Most Useful for Predicting Floods?"
+    }, 
+    {
+        "author": "David Shultz", 
+        "date": "2015-07-24", 
+        "description": "Sediment cores show how phosphorus pollution in the 1950s led to current, inherited hypoxia in lakes in the Alps.", 
+        "journal": "EOS", 
+        "link": "https://eos.org/research-spotlights/past-phosphorus-runoff-causes-present-oxygen-depletion-in-lakes?utm_source=rss&utm_medium=rss&utm_content=past-phosphorus-runoff-causes-present-oxygen-depletion-in-lakes", 
+        "title": "Past Phosphorus Runoff Causes Present Oxygen Depletion in Lakes"
+    }, 
+    {
         "author": "David Shultz", 
         "date": "2015-07-20", 
         "description": "Hurricane Sandy moved a lot of debris, but where did it all end up?", 
@@ -54,29 +78,5 @@
         "journal": "EOS", 
         "link": "https://eos.org/research-spotlights/how-did-the-moon-get-its-shape?utm_source=rss&utm_medium=rss&utm_content=how-did-the-moon-get-its-shape", 
         "title": "How Did the Moon Get Its Shape?"
-    }, 
-    {
-        "author": "Terri Cook", 
-        "date": "2015-06-22", 
-        "description": "New satellite data highlight the important role African dust plays in maintaining the rain forest&#39;s long-term health.", 
-        "journal": "EOS", 
-        "link": "https://eos.org/research-spotlights/amazon-rain-forest-nourished-by-african-dust?utm_source=rss&utm_medium=rss&utm_content=amazon-rain-forest-nourished-by-african-dust", 
-        "title": "Amazon Rain Forest Nourished by African Dust"
-    }, 
-    {
-        "author": "Mark Zastrow", 
-        "date": "2015-06-17", 
-        "description": "At the edge of Earth&#39;s magnetic field, satellites have found X-shaped fields and fast-moving \"islands\" of magnetism that could shed light on the physics of solar storms.", 
-        "journal": "EOS", 
-        "link": "https://eos.org/research-spotlights/x-marks-the-spot-of-magnetic-islands-in-space?utm_source=rss&utm_medium=rss&utm_content=x-marks-the-spot-of-magnetic-islands-in-space", 
-        "title": "X Marks the Spot of Magnetic Islands in Space"
-    }, 
-    {
-        "author": "Puneet Kollipara", 
-        "date": "2015-06-10", 
-        "description": "Long-period oscillations in rainfall make even long records less useful for predicting future extremes.", 
-        "journal": "EOS", 
-        "link": "https://eos.org/research-spotlights/rainfall-fluctuations-hinder-projections-of-future-extremes?utm_source=rss&utm_medium=rss&utm_content=rainfall-fluctuations-hinder-projections-of-future-extremes", 
-        "title": "Rainfall Fluctuations Hinder Projections of Future Extremes"
     }
 ]

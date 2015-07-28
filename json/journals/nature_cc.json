@@ -152,14 +152,6 @@
         "title": "Rethinking forest carbon assessments to account for policy institutions"
     }, 
     {
-        "author": "Kevin E. Trenberth", 
-        "date": "2015-06-22", 
-        "description": "There is a tremendous desire to attribute causes to weather and climate events that is often challenging from a physical standpoint. Headlines attributing an event solely to either human-induced climate change or natural variability can be misleading when both are invariably in play. The conventional attribution framework struggles with dynamically driven extremes because of the small signal-to-noise ratios and often uncertain nature of the forced changes. Here, we suggest that a different framing is desirable, which asks why such extremes unfold the way they do. Specifically, we suggest that it is more useful to regard the extreme circulation regime or weather event as being largely unaffected by climate change, and question whether known changes in the climate system's thermodynamic state affected the impact of the particular event. Some examples briefly illustrated include 'snowmaggedon' in February 2010, superstorm Sandy in October 2012 and supertyphoon Haiyan in November 2013, and, in more detail, the Boulder floods of September 2013, all of which were influenced by high sea surface temperatures that had a discernible human component.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/iWM1N97F1D0/nclimate2657", 
-        "title": "Attribution of climate extreme events"
-    }, 
-    {
         "author": "Felix Ebeling", 
         "date": "2015-06-15", 
         "description": "Consumers in Germany are much more likely to purchase expensive \u2018green\u2019 energy produced from renewable resources if they have to actively opt out if they do not want it. In absence of such a \u2018nudge\u2019, behaviour depends more on political allegiance.", 
@@ -176,99 +168,11 @@
         "title": "Growth responses of a green alga to multiple environmental drivers"
     }, 
     {
-        "author": "Gwenn M. M. Hennon", 
-        "date": "2015-06-15", 
-        "description": "Carbon fixation by marine diatoms, which dominate ocean primary productivity, is energetically expensive. Now genetic analysis shows that elevated CO2 causes downregulation of these mechanisms, resulting in metabolic rearrangement and energy savings.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/TbgMwtxgN7k/nclimate2683", 
-        "title": "Diatom acclimation to elevated CO2 via cAMP signalling and coordinated gene expression"
-    }, 
-    {
-        "author": "Jodi N. Young", 
-        "date": "2015-06-15", 
-        "description": "Diatoms are important primary producers in the ocean, however their response to rising CO 2  is uncertain. Now research shows how diatoms regulate their metabolism in response to changing CO 2 .", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/ibLKx_V5d7k/nclimate2691", 
-        "title": "Biological oceanography: The CO2 switch in diatoms"
-    }, 
-    {
         "author": "Mattias Hjerpe", 
         "date": "2015-06-15", 
         "description": "Survey data shows that policymakers are starting to seriously consider alternative climate governance forums to the United Nations Framework Convention on Climate Change.", 
         "journal": "Nature: Climate Change", 
         "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/OV0TYmHYW1Y/nlcimate2684", 
         "title": "Views on alternative forums for effectively tackling climate change"
-    }, 
-    {
-        "author": "G. J. S. Hollin", 
-        "date": "2015-06-08", 
-        "description": "Analysis of an IPCC press conference shows that certain terms hold different meanings for scientific and public audiences, highlighting the difficulty of balancing scientific credibility with public dialogue.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/n_h2a11kmzY/nclimate2672", 
-        "title": "Tension between scientific certainty and meaning complicates communication of IPCC reports"
-    }, 
-    {
-        "author": "Colin Walch", 
-        "date": "2015-06-08", 
-        "description": "The third UN World Conference on Disaster Risk Reduction ended with an agreement lacking ambition. The conference showed that better communication between the scientific community and decision-makers is needed to develop informed frameworks.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/CahbNB2QYzI/nclimate2680", 
-        "title": "Expertise and policy-making in disaster risk reduction"
-    }, 
-    {
-        "author": "Endre Tvinnereim", 
-        "date": "2015-06-01", 
-        "description": "Automated text analysis shows that Norwegians emphasize themes around weather and ice, the future, consumption and attribution when responding to survey questions about climate change, with greater concern for societal aspects than UK or US citizens.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/QX1H6ynYeDU/nclimate2663", 
-        "title": "Explaining topic prevalence in answers to open-ended survey questions about climate\u00a0change"
-    }, 
-    {
-        "author": "Buwen Dong", 
-        "date": "2015-06-01", 
-        "description": "Higher atmospheric greenhouse gases are shown to have driven the recovery of Sahelian rainfall since the 1980s. This study discounts the role of sea surface temperature changes that had previously been jointly credited as drivers of the recovery.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/rZb_NUPGVHs/nclimate2664", 
-        "title": "Dominant role of greenhouse-gas forcing in the recovery of Sahel rainfall"
-    }, 
-    {
-        "author": "Lynda Hamaoui-Laguel", 
-        "date": "2015-05-25", 
-        "description": "Common ragweed is an invasive plant in Europe, and many people are allergic to its pollen. Modelling results indicate that airborne pollen concentrations are likely to increase in Europe over coming decades, at least in part owing to climate change.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/KT1WHYAMiYE/nclimate2652", 
-        "title": "Effects of climate change and seed dispersal on airborne ragweed pollen loads in Europe"
-    }, 
-    {
-        "author": "Lester Kwiatkowski", 
-        "date": "2015-05-25", 
-        "description": "Widespread severe coral bleaching and degradation is projected to occur by 2050 due to global warming. But the risk of global bleaching could be reduced through climate engineering using stratospheric aerosol-based solar radiation management.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/A7QujPwlhHA/nclimate2655", 
-        "title": "Coral bleaching under unconventional scenarios of climate warming and ocean acidification"
-    }, 
-    {
-        "author": "Lorien Jasny", 
-        "date": "2015-05-25", 
-        "description": "Empirical analysis of climate change debates in the US Congress shows that policymakers are most likely to seek out experts confirming their existing views. That information then gets disseminated among like-minded individuals in \u2018echo chambers\u2019.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/37W1f1C8ZBg/nclimate2666", 
-        "title": "An empirical examination of echo chambers in US climate policy networks"
-    }, 
-    {
-        "author": "Matthew D. Bartos", 
-        "date": "2015-05-18", 
-        "description": "Power providers do not account for climate change in their development plans. But 46% of power stations in the western United States are vulnerable to long-term changes in streamflow, air temperature, water temperature, humidity and air density.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/viTkCVcGieU/nclimate2648", 
-        "title": "Impacts of climate change on electric power supply in the Western United States"
-    }, 
-    {
-        "author": "Paul R. Elsen", 
-        "date": "2015-05-18", 
-        "description": "Surface area does not decrease monotonically with elevation for two-thirds of mountain ranges. Consequently many mountain species might not experience reduced habitat area as they move upslope under climate change.", 
-        "journal": "Nature: Climate Change", 
-        "link": "http://feeds.nature.com/~r/nclimate/rss/aop/~3/vuNMIuDAusA/nclimate2656", 
-        "title": "Global mountain topography and the fate of montane species under climate change"
     }
 ]

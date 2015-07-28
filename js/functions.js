@@ -77,6 +77,11 @@ function write_navbar(self_depth,active_item){
         s2 = convert2depth('<li class="active"><a href="./about_me.html">',self_depth);
         s = s.replace(s1,s2)
     }
+    else if (active_item=='programming'){
+            s1 = convert2depth('<li><a href="./programming.html">',self_depth);
+            s2 = convert2depth('<li class="active"><a href="./programming.html">',self_depth);
+            s = s.replace(s1,s2)
+        }
     document.write(s)   
 }
 function write_footer(self_depth){
@@ -117,7 +122,7 @@ function write_publications(){
         var page = publications[i].page;
         var url = publications[i].url;
         var dburl = publications[i].dburl;
-        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + author + ' (' + year +'): <span class="text-capitalize">' + title + '</span>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + '. <a href="' + url + '"><span class="glyphicon glyphicon-link"></span></a>&nbsp;&nbsp;<a href="'+dburl+'"><span class="glyphicon glyphicon-download-alt"></span></a>';
+        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + author + ' (' + year +'): <span class="text-capitalize">' + title + '</span>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + '. <a href="' + url + '"><span class="glyphicon glyphicon-new-window"></span></a>&nbsp;&nbsp;<a href="'+dburl+'"><span class="glyphicon glyphicon-download-alt"></span></a>';
         document.write(bibString);
         document.write('</li>');
     	}

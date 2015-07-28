@@ -1,27 +1,115 @@
 [
     {
+        "author": "Jeffrey L. Benovic", 
+        "date": "2015-07-22", 
+        "description": "The first crystal structure of a G-protein-coupled receptor in complex with an arrestin protein provides insight into how the signalling pathways activated by these receptors are switched off through desensitization.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/39sQl1v4FuU/nature14637", 
+        "title": "Structural biology: Arresting developments in receptor signalling"
+    }, 
+    {
+        "author": "Paul L. E. Bodelier", 
+        "date": "2015-07-22", 
+        "description": "A genetically modified rice with more starch in its grains also provides fewer nutrients for methane-producing soil microbes. This dual benefit might help to meet the urgent need for globally sustainable food production.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/fHMi3FyDL6Y/nature14633", 
+        "title": "Sustainability: Bypassing the methane cycle"
+    }, 
+    {
+        "author": "J. Fielding Hejtmancik", 
+        "date": "2015-07-22", 
+        "description": "Mutations underlying hereditary cataracts in two families impair the function of an enzyme that synthesizes the lens molecule lanosterol. The finding may lead to non-surgical prevention and treatment of cataracts.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/KeEfy04oG4E/nature14629", 
+        "title": "Ophthalmology: Cataracts dissolved"
+    }, 
+    {
+        "author": "Sharanya Sivanand", 
+        "date": "2015-07-22", 
+        "description": "Overexpression of the enzyme cytidine deaminase allows the incorporation of abnormally modified nucleotides into DNA, leading to cell death. This discovery might point the way to treating some cancers.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ELd_XwrqHxo/nature14638", 
+        "title": "Molecular biology: Salvaging the genome"
+    }, 
+    {
+        "author": "Eric Durand", 
+        "date": "2015-07-22", 
+        "description": "The assembly, architecture and role of the bacterial type VI secretion system (T6SS) membrane core complex is presented.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/aKYOhfQggY4/nature14667", 
+        "title": "Biogenesis and structure of a type VI secretion membrane core complex"
+    }, 
+    {
+        "author": "Yanyong Kang", 
+        "date": "2015-07-22", 
+        "description": "G protein-coupled receptors are a large family of signalling proteins that mediate cellular responses primarily via G proteins or arrestins, and they are targets of one-third of the current clinically used drugs; here, an active form of human rhodopsin bound to a pre-activated form of the mouse visual arrestin-1 is determined, revealing unique structural features that may constitute essential elements for arrestin-biased signalling.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ux0eChNNwqc/nature14656", 
+        "title": "Crystal structure of rhodopsin bound to arrestin by femtosecond X-ray laser"
+    }, 
+    {
+        "author": "Jintao Liu", 
+        "date": "2015-07-22", 
+        "description": "The emergence of long-range metabolic co-dependence within a biofilm drives oscillations in growth that resolve a social conflict between cooperation and competition, thereby increasing community-level fitness against chemical attack.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/qDPHmraREE4/nature14660", 
+        "title": "Metabolic co-dependence gives rise to collective oscillations within biofilms"
+    }, 
+    {
+        "author": "Xose S. Puente", 
+        "date": "2015-07-22", 
+        "description": "Genomic approaches in more than 500 patients are used to extend the number of chronic lymphocytic leukaemia (CLL) driver alterations, and also identify novel recurrent mutations in non-coding regions, including an enhancer of PAX5 and the 3\u2032 untranslated region of NOTCH1, which lead to aberrant splicing events, increased NOTCH1 protein stability and activity, and an adverse clinical outcome.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/uJz3dB6_I_E/nature14666", 
+        "title": "Non-coding recurrent mutations in chronic lymphocytic leukaemia"
+    }, 
+    {
+        "author": "Liana Hie", 
+        "date": "2015-07-22", 
+        "description": "Amides are common functional groups that have been studied for more than a century. They are the key building blocks of proteins and are present in a broad range of other natural and synthetic compounds. Amides are known to be poor electrophiles, which is typically attributed to the resonance stability of the amide bond. Although amides can readily be cleaved by enzymes such as proteases, it is difficult to selectively break the carbon\u2013nitrogen bond of an amide using synthetic chemistry. Here we demonstrate that amide carbon\u2013nitrogen bonds can be activated and cleaved using nickel catalysts. We use this methodology to convert amides to esters, which is a challenging and underdeveloped transformation. The reaction methodology proceeds under exceptionally mild reaction conditions, and avoids the use of a large excess of an alcohol nucleophile. Density functional theory calculations provide insight into the thermodynamics and catalytic cycle of the amide-to-ester transformation. Our results provide a way to harness amide functional groups as synthetic building blocks and are expected to lead to the further use of amides in the construction of carbon\u2013heteroatom or carbon\u2013carbon bonds using non-precious-metal catalysis.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/q8ozbmby6Pw/nature14615", 
+        "title": "Conversion of amides to esters by the nickel-catalysed activation of amide C\u2013N bonds"
+    }, 
+    {
+        "author": "J. Su", 
+        "date": "2015-07-22", 
+        "description": "Atmospheric methane is the second most important greenhouse gas after carbon dioxide, and is responsible for about 20% of the global warming effect since pre-industrial times. Rice paddies are the largest anthropogenic methane source and produce 7\u201317% of atmospheric methane. Warm waterlogged soil and exuded nutrients from rice roots provide ideal conditions for methanogenesis in paddies with annual methane emissions of 25\u2013100-million tonnes. This scenario will be exacerbated by an expansion in rice cultivation needed to meet the escalating demand for food in the coming decades. There is an urgent need to establish sustainable technologies for increasing rice production while reducing methane fluxes from rice paddies. However, ongoing efforts for methane mitigation in rice paddies are mainly based on farming practices and measures that are difficult to implement. Despite proposed strategies to increase rice productivity and reduce methane emissions, no high-starch low-methane-emission rice has been developed. Here we show that the addition of a single transcription factor gene, barley SUSIBA2 (refs 7, 8), conferred a shift of carbon flux to SUSIBA2 rice, favouring the allocation of photosynthates to aboveground biomass over allocation to roots. The altered allocation resulted in an increased biomass and starch content in the seeds and stems, and suppressed methanogenesis, possibly through a reduction in root exudates. Three-year field trials in China demonstrated that the cultivation of SUSIBA2 rice was associated with a significant reduction in methane emissions and a decrease in rhizospheric methanogen levels. SUSIBA2 rice offers a sustainable means of providing increased starch content for food production while reducing greenhouse gas emissions from rice cultivation. Approaches to increase rice productivity and reduce methane emissions as seen in SUSIBA2 rice may be particularly beneficial in a future climate with rising temperatures resulting in increased methane emissions from paddies.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/fsY7T9ySJlM/nature14673", 
+        "title": "Expression of barley SUSIBA2 transcription factor yields high-starch low-methane rice"
+    }, 
+    {
+        "author": "Melania Zauri", 
+        "date": "2015-07-22", 
+        "description": "Cells require nucleotides to support DNA replication and repair damaged DNA. In addition to de novo synthesis, cells recycle nucleotides from the DNA of dying cells or from cellular material ingested through the diet. Salvaged nucleosides come with the complication that they can contain epigenetic modifications. Because epigenetic inheritance of DNA methylation mainly relies on copying of the modification pattern from parental strands, random incorporation of pre-modified bases during replication could have profound implications for epigenome fidelity and yield adverse cellular phenotypes. Although the salvage mechanism of 5-methyl-2\u2032deoxycytidine (5mdC) has been investigated before, it remains unknown how cells deal with the recently identified oxidized forms of 5mdC: 5-hydroxymethyl-2\u2032deoxycytidine (5hmdC), 5-formy-2\u2032deoxycytidine (5fdC) and 5-carboxyl-2\u2032deoxycytidine (5cadC). Here we show that enzymes of the nucleotide salvage pathway display substrate selectivity, effectively protecting newly synthesized DNA from the incorporation of epigenetically modified forms of cytosine. Thus, cell lines and animals can tolerate high doses of these modified cytidines without any deleterious effects on physiology. Notably, by screening cancer cell lines for growth defects after exposure to 5hmdC, we unexpectedly identify a subset of cell lines in which 5hmdC or 5fdC administration leads to cell lethality. Using genomic approaches, we show that the susceptible cell lines overexpress cytidine deaminase (CDA). CDA converts 5hmdC and 5fdC into variants of uridine that are incorporated into DNA, resulting in accumulation of DNA damage, and ultimately, cell death. Our observations extend current knowledge of the nucleotide salvage pathway by revealing the metabolism of oxidized epigenetic bases, and suggest a new therapeutic option for cancers, such as pancreatic cancer, that have CDA overexpression and are resistant to treatment with other cytidine analogues.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/75o4MPDr-JA/nature14948", 
+        "title": "CDA directs metabolism of epigenetic nucleosides revealing a therapeutic window in cancer"
+    }, 
+    {
+        "author": "Ling Zhao", 
+        "date": "2015-07-22", 
+        "description": "The human lens is comprised largely of crystallin proteins assembled into a highly ordered, interactive macro-structure essential for lens transparency and refractive index. Any disruption of intra- or inter-protein interactions will alter this delicate structure, exposing hydrophobic surfaces, with consequent protein aggregation and cataract formation. Cataracts are the most common cause of blindness worldwide, affecting tens of millions of people, and currently the only treatment is surgical removal of cataractous lenses. The precise mechanisms by which lens proteins both prevent aggregation and maintain lens transparency are largely unknown. Lanosterol is an amphipathic molecule enriched in the lens. It is synthesized by lanosterol synthase (LSS) in a key cyclization reaction of a cholesterol synthesis pathway. Here we identify two distinct homozygous LSS missense mutations (W581R and G588S) in two families with extensive congenital cataracts. Both of these mutations affect highly conserved amino acid residues and impair key catalytic functions of LSS. Engineered expression of wild-type, but not mutant, LSS prevents intracellular protein aggregation of various cataract-causing mutant crystallins. Treatment by lanosterol, but not cholesterol, significantly decreased preformed protein aggregates both in vitro and in cell-transfection experiments. We further show that lanosterol treatment could reduce cataract severity and increase transparency in dissected rabbit cataractous lenses in vitro and cataract severity in vivo in dogs. Our study identifies lanosterol as a key molecule in the prevention of lens protein aggregation and points to a novel strategy for cataract prevention and treatment.", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Ga4hmTT0TAA/nature14650", 
+        "title": "Lanosterol reverses protein aggregation in cataracts"
+    }, 
+    {
+        "author": "Candice E. Paulsen", 
+        "date": "2015-07-22", 
+        "description": "", 
+        "journal": "Nature", 
+        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ZwX-davFYsc/nature14871", 
+        "title": "Structure of the TRPA1 ion channel suggests regulatory mechanisms"
+    }, 
+    {
         "author": "Xiaowen Wang", 
         "date": "2015-07-20", 
         "description": "Mitochondria are multifunctional organelles whose dysfunction leads to neuromuscular degeneration and ageing. The multi-functionality poses a great challenge for understanding the mechanisms by which mitochondrial dysfunction causes specific pathologies. Among the leading mitochondrial mediators of cell death are energy depletion, free radical production, defects in iron\u2013sulfur cluster biosynthesis, the release of pro-apoptotic and non-cell-autonomous signalling molecules, and altered stress signalling. Here we identify a new pathway of mitochondria-mediated cell death in yeast. This pathway was named mitochondrial precursor over-accumulation stress (mPOS), and is characterized by aberrant accumulation of mitochondrial precursors in the cytosol. mPOS can be triggered by clinically relevant mitochondrial damage that is not limited to the core machineries of protein import. We also discover a large network of genes that suppress mPOS, by modulating ribosomal biogenesis, messenger RNA decapping, transcript-specific translation, protein chaperoning and turnover. In response to mPOS, several ribosome-associated proteins were upregulated, including Gis2 and Nog2, which promote cap-independent translation and inhibit the nuclear export of the 60S ribosomal subunit, respectively. Gis2 and Nog2 upregulation promotes cell survival, which may be part of a feedback loop that attenuates mPOS. Our data indicate that mitochondrial dysfunction contributes directly to cytosolic proteostatic stress, and provide an explanation for the association between these two hallmarks of degenerative diseases and ageing. The results are relevant to understanding diseases (for example, spinocerebellar ataxia, amyotrophic lateral sclerosis and myotonic dystrophy) that involve mutations within the anti-degenerative network.", 
         "journal": "Nature", 
         "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/cFcvw-gz3rY/nature14859", 
         "title": "A cytosolic network suppressing mitochondria-mediated proteostatic stress and cell death"
-    }, 
-    {
-        "author": "Stephen M. Beverley", 
-        "date": "2015-07-15", 
-        "description": "Study of the diarrhoea-causing pathogen Cryptosporidium has been hindered by a lack of genetic-modification and culture tools. A description of genome editing and propagation methods for the parasite changes this picture.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/waRANeTKNhM/nature14636", 
-        "title": "Parasitology: CRISPR for Cryptosporidium"
-    }, 
-    {
-        "author": "Michael Lynch", 
-        "date": "2015-07-15", 
-        "description": "DNA-sequence analysis suggests that genetic mutations arise at elevated rates in genomes harbouring high levels of heterozygosity \u2014 the state in which the two copies of a genetic region contain sequence differences.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/1exNjCIm3oU/nature14634", 
-        "title": "Genetics: Feedforward loop for diversity"
     }, 
     {
         "author": "Patrick F. Sullivan", 
@@ -38,22 +126,6 @@
         "journal": "Nature", 
         "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ql9iZBTLUAQ/nature14655", 
         "title": "Molecular basis of ligand recognition and transport by glucose transporters"
-    }, 
-    {
-        "author": "Asami Kondo", 
-        "date": "2015-07-15", 
-        "description": "Here the cis form of tau protein, which disrupts axonal microtubules and transport, spreads to other neurons, and leads to apoptosis in vitro and in vivo, is found to be produced by neurons immediately after traumatic brain injury (TBI); treating TBI mice with cis antibody blocks early production of cis tau, prevents tauopathy and spread and restores brain structural and functional outcomes, and may be further developed to treat TBI and to prevent neurodegeneration after injury.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/CGRCt0pAJ9M/nature14658", 
-        "title": "Antibody against early driver of neurodegeneration cis P-tau blocks brain injury and tauopathy"
-    }, 
-    {
-        "author": "Emilio Kropff", 
-        "date": "2015-07-15", 
-        "description": "On the basis of neural firing rates a specific class of neuron is identified in the medial entorhinal cortex that linearly encodes information on running speed in a context-independent manner and that is distinct from other functionally specific entorhinal neurons.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/GG5RQcQ_n-0/nature14622", 
-        "title": "Speed cells in the medial entorhinal cortex"
     }, 
     {
         "author": "", 
@@ -78,22 +150,6 @@
         "journal": "Nature", 
         "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/ffAezuvSvZM/nature14546", 
         "title": "Metabolic rescue in pluripotent cells from patients with mtDNA disease"
-    }, 
-    {
-        "author": "Sumiti Vinayak", 
-        "date": "2015-07-15", 
-        "description": "Recent studies into the global causes of severe diarrhoea in young children have identified the protozoan parasite Cryptosporidium as the second most important diarrhoeal pathogen after rotavirus. Diarrhoeal disease is estimated to be responsible for 10.5% of overall child mortality. Cryptosporidium is also an opportunistic pathogen in the contexts of human immunodeficiency virus (HIV)-caused AIDS and organ transplantation. There is no vaccine and only a single approved drug that provides no benefit for those in gravest danger: malnourished children and immunocompromised patients. Cryptosporidiosis drug and vaccine development is limited by the poor tractability of the parasite, which includes a lack of systems for continuous culture, facile animal models, and molecular genetic tools. Here we describe an experimental framework to genetically modify this important human pathogen. We established and optimized transfection of C. parvum sporozoites in tissue culture. To isolate stable transgenics we developed a mouse model that delivers sporozoites directly into the intestine, a Cryptosporidium clustered regularly interspaced short palindromic repeat (CRISPR)/Cas9 system, and in vivo selection for aminoglycoside resistance. We derived reporter parasites suitable for in vitro and in vivo drug screening, and we evaluated the basis of drug susceptibility by gene knockout. We anticipate that the ability to genetically engineer this parasite will be transformative for Cryptosporidium research. Genetic reporters will provide quantitative correlates for disease, cure and protection, and the role of parasite genes in these processes is now open to rigorous investigation.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/j11LIUzxpvk/nature14651", 
-        "title": "Genetic modification of the diarrhoeal pathogen Cryptosporidium parvum"
-    }, 
-    {
-        "author": "Sihai Yang", 
-        "date": "2015-07-15", 
-        "description": "Mutation rates vary within genomes, but the causes of this remain unclear. As many prior inferences rely on methods that assume an absence of selection, potentially leading to artefactual results, we call mutation events directly using a parent\u2013offspring sequencing strategy focusing on Arabidopsis and using rice and honey bee for replication. Here we show that mutation rates are higher in heterozygotes and in proximity to crossover events. A correlation between recombination rate and intraspecific diversity is in part owing to a higher mutation rate in domains of high recombination/diversity. Implicating diversity per se as a cause, we find an \u223c3.5-fold higher mutation rate in heterozygotes than in homozygotes, with mutations occurring in closer proximity to heterozygous sites than expected by chance. In a genome that is a patchwork of heterozygous and homozygous domains, mutations occur disproportionately more often in the heterozygous domains. If segregating mutations predispose to a higher local mutation rate, clusters of genes dominantly under purifying selection (more commonly homozygous) and under balancing selection (more commonly heterozygous), might have low and high mutation rates, respectively. Our results are consistent with this, there being a ten times higher mutation rate in pathogen resistance genes, expected to be under positive or balancing selection. Consequently, we do not necessarily need to evoke extremely weak selection on the mutation rate to explain why mutational hot and cold spots might correspond to regions under positive/balancing and purifying selection, respectively.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/3Sso_sLgLLE/nature14649", 
-        "title": "Parent\u2013progeny sequencing indicates higher mutation rates in heterozygotes"
     }, 
     {
         "author": "Jieqi Wang", 
@@ -206,22 +262,6 @@
         "journal": "Nature", 
         "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/uK00mJIgwyA/nature14568", 
         "title": "Live imaging RNAi screen reveals genes essential for meiosis in mammalian oocytes"
-    }, 
-    {
-        "author": "Alphonse C. Sterling", 
-        "date": "2015-07-06", 
-        "description": "Solar X-ray jets are thought to be made by a burst of reconnection of closed magnetic field at the base of a jet with ambient open field. In the accepted version of the \u2018emerging-flux\u2019 model, such a reconnection occurs at a plasma current sheet between the open field and the emerging closed field, and also forms a localized X-ray brightening that is usually observed at the edge of the jet\u2019s base. Here we report high-resolution X-ray and extreme-ultraviolet observations of 20 randomly selected X-ray jets that form in coronal holes at the Sun\u2019s poles. In each jet, contrary to the emerging-flux model, a miniature version of the filament eruptions that initiate coronal mass ejections drives the jet-producing reconnection. The X-ray bright point occurs by reconnection of the \u2018legs\u2019 of the minifilament-carrying erupting closed field, analogous to the formation of solar flares in larger-scale eruptions. Previous observations have found that some jets are driven by base-field eruptions, but only one such study, of only one jet, provisionally questioned the emerging-flux model. Our observations support the view that solar filament eruptions are formed by a fundamental explosive magnetic process that occurs on a vast range of scales, from the biggest mass ejections and flare eruptions down to X-ray jets, and perhaps even down to smaller jets that may power coronal heating. A similar scenario has previously been suggested, but was inferred from different observations and based on a different origin of the erupting minifilament.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/DO704b_rnzg/nature14556", 
-        "title": "Small-scale filament eruptions as the driver of X-ray jets in solar coronal holes"
-    }, 
-    {
-        "author": "Peter K. Joshi", 
-        "date": "2015-07-01", 
-        "description": "Homozygosity has long been associated with rare, often devastating, Mendelian disorders, and Darwin was one of the first to recognize that inbreeding reduces evolutionary fitness. However, the effect of the more distant parental relatedness that is common in modern human populations is less well understood. Genomic data now allow us to investigate the effects of homozygosity on traits of public health importance by observing contiguous homozygous segments (runs of homozygosity), which are inferred to be homozygous along their complete length. Given the low levels of genome-wide homozygosity prevalent in most human populations, information is required on very large numbers of people to provide sufficient power. Here we use runs of homozygosity to study 16 health-related quantitative traits in 354,224 individuals from 102 cohorts, and find statistically significant associations between summed runs\u00a0of homozygosity and four complex traits: height, forced expiratory lung volume in one second, general cognitive ability and educational attainment (P < 1 \u00d7 10\u2212300, 2.1 \u00d7 10\u22126, 2.5 \u00d7 10\u221210 and 1.8 \u00d7 10\u221210, respectively). In each case, increased homozygosity was associated with decreased trait value, equivalent to the offspring of first cousins being 1.2 cm shorter and having 10 months\u2019 less education. Similar effect sizes were found across four continental groups and populations with different degrees of genome-wide homozygosity, providing evidence that homozygosity, rather than confounding, directly contributes to phenotypic variance. Contrary to earlier reports in substantially smaller samples, no evidence was seen of an influence of genome-wide homozygosity on blood pressure and low density lipoprotein cholesterol, or ten other cardio-metabolic traits. Since directional dominance is predicted for traits under directional evolutionary selection, this study provides evidence that increased stature and cognitive function have been positively selected in human evolution, whereas many important risk factors for late-onset complex diseases may not have been.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/DaN3tGVWqEk/nature14618", 
-        "title": "Directional dominance on stature and cognition in\u00a0diverse human populations"
     }, 
     {
         "author": "Flaviano Morone", 
@@ -344,22 +384,6 @@
         "title": "An early modern human from Romania with a recent Neanderthal ancestor"
     }, 
     {
-        "author": "Benjamin P. Kleinstiver", 
-        "date": "2015-06-22", 
-        "description": "Although CRISPR-Cas9 nucleases are widely used for genome editing, the range of sequences that Cas9 can recognize is constrained by the need for a specific protospacer adjacent motif (PAM). As a result, it can often be difficult to target double-stranded breaks (DSBs) with the precision that is necessary for various genome-editing applications. The ability to engineer Cas9 derivatives with purposefully altered PAM specificities would address this limitation. Here we show that the commonly used Streptococcus pyogenes Cas9 (SpCas9) can be modified to recognize alternative PAM sequences using structural information, bacterial selection-based directed evolution, and combinatorial design. These altered PAM specificity variants enable robust editing of endogenous gene sites in zebrafish and human cells not currently targetable by wild-type SpCas9, and their genome-wide specificities are comparable to wild-type SpCas9 as judged by GUIDE-seq analysis. In addition, we identify and characterize another SpCas9 variant that exhibits improved specificity in human cells, possessing better discrimination against off-target sites with non-canonical NAG and NGA PAMs and/or mismatched spacers. We also find that two smaller-size Cas9 orthologues, Streptococcus thermophilus Cas9 (St1Cas9) and Staphylococcus aureus Cas9 (SaCas9), function efficiently in the bacterial selection systems and in human cells, suggesting that our engineering strategies could be extended to Cas9s from other species. Our findings provide broadly useful SpCas9 variants and, more importantly, establish the feasibility of engineering a wide range of Cas9s with altered and improved PAM specificities.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/WvhTFQZ0PqE/nature14592", 
-        "title": "Engineered CRISPR-Cas9 nucleases with altered PAM specificities"
-    }, 
-    {
-        "author": "Mian Zhou", 
-        "date": "2015-06-22", 
-        "description": "Recent studies have shown that in addition to the transcriptional circadian clock, many organisms, including Arabidopsis, have a circadian redox rhythm driven by the organism\u2019s metabolic activities. It has been hypothesized that the redox rhythm is linked to the circadian clock, but the mechanism and the biological significance of this link have only begun to be investigated. Here we report that the master immune regulator NPR1 (non-expressor of pathogenesis-related gene 1) of Arabidopsis is a sensor of the plant\u2019s redox state and regulates transcription of core circadian clock genes even in the absence of pathogen challenge. Surprisingly, acute perturbation in the redox status triggered by the immune signal salicylic acid does not compromise the circadian clock but rather leads to its reinforcement. Mathematical modelling and subsequent experiments show that NPR1 reinforces the circadian clock without changing the period by regulating both the morning and the evening clock genes. This balanced network architecture helps plants gate their immune responses towards the morning and minimize costs on growth at night. Our study demonstrates how a sensitive redox rhythm interacts with a robust circadian clock to ensure proper responsiveness to environmental stimuli without compromising fitness of the organism.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/6PNquJOEryM/nature14449", 
-        "title": "Redox rhythm reinforces the circadian clock to gate immune response"
-    }, 
-    {
         "author": "Herve Rhinn", 
         "date": "2015-06-17", 
         "description": "", 
@@ -374,14 +398,6 @@
         "journal": "Nature", 
         "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/g-O1_mMe1R4/nature14538", 
         "title": "Addendum"
-    }, 
-    {
-        "author": "Jason D. Buenrostro", 
-        "date": "2015-06-17", 
-        "description": "Cell-to-cell variation is a universal feature of life that affects a wide range of biological phenomena, from developmental plasticity to tumour heterogeneity. Although recent advances have improved our ability to document cellular phenotypic variation, the fundamental mechanisms that generate variability from identical DNA sequences remain elusive. Here we reveal the landscape and principles of mammalian DNA regulatory variation by developing a robust method for mapping the accessible genome of individual cells by assay for transposase-accessible chromatin using sequencing (ATAC-seq) integrated into a programmable microfluidics platform. Single-cell ATAC-seq (scATAC-seq) maps from hundreds of single cells in aggregate closely resemble accessibility profiles from tens of millions of cells and provide insights into cell-to-cell variation. Accessibility variance is systematically associated with specific trans-factors and cis-elements, and we discover combinations of trans-factors associated with either induction or suppression of cell-to-cell variability. We further identify sets of trans-factors associated with cell-type-specific accessibility variance across eight cell types. Targeted perturbations of cell cycle or transcription factor signalling evoke stimulus-specific changes in this observed variability. The pattern of accessibility variation in cis across the genome recapitulates chromosome compartmentsde novo, linking single-cell accessibility variation to three-dimensional genome organization. Single-cell analysis of DNA accessibility provides new insight into cellular variation of the \u2018regulome\u2019.", 
-        "journal": "Nature", 
-        "link": "http://feeds.nature.com/~r/nature/rss/aop/~3/Jp8WkO-O6rU/nature14590", 
-        "title": "Single-cell chromatin accessibility reveals principles of regulatory variation"
     }, 
     {
         "author": "Miles W. Carroll", 

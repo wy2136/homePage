@@ -1,5 +1,141 @@
 [
     {
+        "author": "Christian L. E. Franzke", 
+        "date": "2015-07-27", 
+        "description": "\n\nEcosystems and societies are highly vulnerable to extreme temperatures and to changes in the range of temperatures at local scales. Here I will show how trends in warm and cold extremes have evolved over the last 6 decades in Europe on local scales. Comparing the slopes of two extreme quantiles demonstrates that there are significant disparities in trends of cold and warm temperature extremes at many locations in Europe. At some locations the range of extreme cold and hot temperatures increases while at other locations it decreases. These results suggest that at some locations both warm and cold extremes intensify which seems to be contradictory to the prevailing view of global warming in which both cold and warm temperatures are expected to increase.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065011", 
+        "title": "Local Trend Disparities Of European Minimum And Maximum Temperature Extremes"
+    }, 
+    {
+        "author": "Frans-Jan W. Parmentier, Wenxin Zhang, Yanjiao Mi, Xudong Zhu, Jacobus Huissteden, Daniel J. Hayes, Qianlai Zhuang, Torben R. Christensen, A. David McGuire", 
+        "date": "2015-07-25", 
+        "description": "\n\nThe Arctic is rapidly transitioning towards a seasonal sea ice-free state, perhaps one of the most apparent examples of climate change in the world. This dramatic change has numerous consequences, including a large increase in air temperatures, which in turn may affect terrestrial methane emissions. Nonetheless, terrestrial and marine environments are seldom jointly analyzed. By comparing satellite observations of Arctic sea ice concentrations to methane emissions simulated by three process-based biogeochemical models, this study shows that rising wetland methane emissions are associated with sea ice retreat. Our analyses indicate that simulated high-latitude emissions for 2005-2010 were, on average, 1.7 Tg CH4 yr-1 higher compared to 1981-1990 due to a sea ice-induced, autumn-focused, warming. Since these results suggest a continued rise in methane emissions with future sea ice decline, observation programs need to include measurements during the autumn to further investigate the impact of this spatial connection on terrestrial methane emissions.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065013", 
+        "title": "Rising methane emissions from northern wetlands associated with sea ice decline"
+    }, 
+    {
+        "author": "Malte Thoma, Richard J. Greatbatch, Christopher Kadow, Ruediger Gerdes", 
+        "date": "2015-07-24", 
+        "description": "\n\nWe use surface air temperature to evaluate the decadal-forecast skill of the fully-coupled MPI-ESM initialized using only surface wind stress applied to the ocean component of the model (Modini: Model initialization by partially coupled spin-up). Our analysis shows that the greenhouse gas forcing alone results in a significant forecast skill on the 2\u20135 and 6\u20139 year range even for uninitialised hindcasts. For the first forecast year, the forecast skill of Modini is generally comparable with previous initialisation procedures applied to MPI-ESM. But only Modini is able to generate a significant skill (correlation) in the tropical Pacific for a 2\u20135 year (and to a lesser extent for a 6\u20139 year) hindcast. Modini is also better able to capture the observed hiatus in global warming in hindcast mode than the other methods. Finally, we present forecasts for 2015 and, the average of years 2016\u20132019 and 2020\u20132024, predicting an end to the hiatus.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064833", 
+        "title": "Decadal hindcasts initialised using observed surface wind stress: Evaluation and Prediction out to 2024"
+    }, 
+    {
+        "author": "K. Hori, C.A. Jones, R.J. Teed", 
+        "date": "2015-07-24", 
+        "description": "\n\nThe westward drift component of the secular variation is likely to be a signal of waves riding on a background mean flow. By separating the wave and mean flow contributions, we can infer the strength of the \u2018hidden\u2019 azimuthal part of the magnetic field within the core. We explore the origin of the westward drift commonly seen in dynamo simulations, and show that it propagates at the speed of the slow magnetic Rossby waves with respect to a mean zonal flow. Our results indicate that such waves could be excited in the Earth's core and that wave propagation may indeed play some role in the longitudinal drift, particularly at higher latitudes where the wave component is relatively strong, the equatorial westward drift being dominated by the mean flow. We discuss a potential inference of the rms toroidal field strength within the Earth's core from the observed drift rate.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064733", 
+        "title": "Slow magnetic Rossby waves in the Earth's core"
+    }, 
+    {
+        "author": "S. Urbani, D. Trippanera, M. Porreca, C. Kissel, V. Acocella", 
+        "date": "2015-07-24", 
+        "description": "\n\nRecent rifting episodes highlight the role of magmatic systems with propagating dikes on crustal spreading. However, our knowledge of magmatic systems is usually limited to surface observations and geophysical data. Eastern Iceland allows direct access to extinct and eroded deeper magmatic systems. Here we collected field structural and AMS (Anisotropy of Magnetic Susceptibility) data on 187 and 19 dikes respectively in the 10-12 Ma old Alftafjordur magmatic system. At a paleodepth of ~1.5 km, the extension due to diking is at least 1-2 orders of magnitude larger than that induced by regional tectonics, confirming magmatism as the key mechanism for crustal spreading. This magma-induced extension, inferred from the aspect ratio of the magmatic system, was of ~8 mm/yr, lower than the present one. AMS data suggest that most of dikes have geometrically normal fabric, at least at the margins, consistent with prevalent sub-vertical magma flow and propagation.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065087", 
+        "title": "Anatomy of an extinct magmatic system along a divergent plate boundary: Alftafjordur, Iceland"
+    }, 
+    {
+        "author": "Sheng Dai, Jongho Cha, Eilis Rosenbaum, Wu Zhang, Yongkoo Seol", 
+        "date": "2015-07-24", 
+        "description": "\n\nCurrent database on the thermal properties of hydrate-bearing sediments remains limited and has not been able to capture their consequential changes during gas production where vigorous phase changes occur in this unsaturated system. This study uses the transient plane source (TPS) technique to measure the thermal conductivity of methane hydrate-bearing sediments with various hydrate/water/gas saturations. We propose a simplified method to obtain thermal properties from single-sided TPS signatures. Results reveal that both volume fraction and distribution of the pore constituents govern the thermal conductivity of unsaturated specimens. Thermal conductivity hysteresis is observed due to water redistribution and fabric change caused by hydrate formation and dissociation. Measured thermal conductivity increase evidently when hydrate saturation Sh > 30-40%, shifting upward from the geometric mean model prediction to a Pythagorean mixing model. These observations envisage a significant drop in sediment thermal conductivity when residual hydrate/water saturation falls below ~40%, hindering further gas production.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064492", 
+        "title": "Thermal conductivity measurements in unsaturated hydrate-bearing sediments"
+    }, 
+    {
+        "author": "J. D. Carrillo-S\u00e1nchez, J. M. C. Plane, W. Feng, D. Nesvorn\u00fd, D. Janches", 
+        "date": "2015-07-24", 
+        "description": "\n\nThe size and velocity distribution of cosmic dust particles entering the Earth's atmosphere is uncertain. Here we show that the relative concentrations of metal atoms in the upper mesosphere, and the surface accretion rate of cosmic spherules, provide sensitive probes of this distribution. Three cosmic dust models are selected as case studies: two are astronomical models, the first constrained by infra-red observations of the Zodiacal Dust Cloud, and the second by radar observations of meteor head echoes; the third model is based on measurements made with a space-borne dust detector. For each model, a Monte Carlo sampling method combined with a chemical ablation model is used to predict the ablation rates of Na, K, Fe, Mg and Ca above 60 km, and cosmic spherule production rate. It appears that a significant fraction of the cosmic dust consists of small (<5 \u00b5g) and slow (<15 km s-1) particles.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065149", 
+        "title": "On the size and velocity distribution of cosmic dust particles entering the atmosphere"
+    }, 
+    {
+        "author": "Karthik Balaguru, Gregory R. Foltz, L. Ruby Leung, Eric D'Asaro, Kerry A. Emanuel, Hailong Liu, Sarah E. Zedler", 
+        "date": "2015-07-24", 
+        "description": "\n\nTo incorporate the effects of tropical cyclone (TC) induced upper-ocean mixing and sea surface temperature (SST) cooling on TC intensification, a vertical average of temperature down to a fixed depth was proposed as a replacement for SST within the framework of air-sea coupled Potential Intensity (PI). However, the depth to which TC-induced mixing penetrates may vary substantially with ocean stratification and storm state. To account for these effects, here we develop a \u2018dynamic potential intensity\u2019 (DPI) based on considerations of stratified fluid turbulence. For the Argo period 2004\u20132013 and the three major TC basins of the Northern Hemisphere, we show that the DPI explains 11\u201332% of the variance in TC intensification, compared to 0\u201316%using previous methods. The improvement obtained using the DPI is particularly large in the eastern Pacific where the thermocline is shallow and ocean stratification effects are strong.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064822", 
+        "title": "Dynamic Potential Intensity: An improved representation of the ocean's impact on tropical cyclones 3"
+    }, 
+    {
+        "author": "Seokhyeon Kim, Robert M. Parinussa, Yi. Y. Liu, Fiona M. Johnson, Ashish Sharma", 
+        "date": "2015-07-23", 
+        "description": "\n\nA method for combining two microwave satellite soil moisture products by maximizing the temporal correlation with a reference dataset has been developed. The method was applied to two global soil moisture datasets, Japan Aerospace Exploration Agency (JAXA) and Land Parameter Retrieval Model (LPRM), retrieved from the Advanced Microwave Scanning Radiometer 2 (AMSR2) observations for the period 2012\u20132014. A global comparison revealed superior results of the combined product compared to the individual products against the reference dataset of ERA-Interim volumetric water content. The global mean temporal correlation coefficient of the combined product with this reference was 0.52 which outperforms the individual JAXA (0.35) as well as the LPRM (0.45) product. Additionally, the performance was evaluated against in-situ observations from the International Soil Moisture Network (ISMN). The combined dataset showed a significant improvement in temporal correlation coefficients in the validation compared to JAXA and minor improvements for the LPRM product.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064981", 
+        "title": "A framework for combining multiple soil moisture retrievals based on maximizing temporal correlation"
+    }, 
+    {
+        "author": "J.W. Kean, J.A. Coe, V. Coviello, J.B. Smith, S.W. McCoy, M. Arattano", 
+        "date": "2015-07-22", 
+        "description": "\n\nDebris flows generate seismic waves as they travel downslope and can become more dangerous as they entrain sediment along their path. We present field observations that show a systematic relation between the magnitude of seismic waves and the amount of erodible sediment beneath the flow. Specifically, we observe that a debris flow traveling along a channel filled initially with sediment 0.34-m thick generates about two orders of magnitude less spectral power than a similar-sized flow over the same channel without sediment fill. We adapt a model from fluvial seismology to explain this observation and then invert it to estimate the level of bed sediment (and rate of entrainment) beneath a passing series of surges. Our estimates compare favorably with previous direct measurements of entrainment rates at the site, suggesting the approach may be a new indirect way to obtain rare field constraints needed to test models of debris-flow entrainment.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064811", 
+        "title": "Estimating rates of debris-flow entrainment from ground vibrations"
+    }, 
+    {
+        "author": "Yan Li, Yu-Gang Wang, R.A. Houghton, Li-Song Tang", 
+        "date": "2015-07-22", 
+        "description": "\n\nFor decades, global carbon budget accounting has identified a 'missing' or \u2018residual' terrestrial sink; i.e. carbon dioxide (CO2) released by anthropogenic activities does not match changes observed in the atmosphere and ocean. We discovered a potentially large carbon sink in the most unlikely place on earth, irrigated saline/alkaline arid land. When cultivating and irrigating arid/saline lands in arid zones, salts are leached downwards. Simultaneously, dissolved inorganic carbon is washed down into the huge saline aquifers underneath vast deserts, forming a large carbon sink or pool. This finding points to a direct, rapid link between the biological and geochemical carbon cycles in arid lands which may alter the overall spatial pattern of the global carbon budget.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064222", 
+        "title": "Hidden carbon sink beneath desert"
+    }, 
+    {
+        "author": "Kenneth A. Macpherson, Natalia A. Ruppert", 
+        "date": "2015-07-22", 
+        "description": "\n\nThe June 23, 2014 Mw=7.9 earthquake that struck the Rat islands region of Alaska was a rare intermediate-depth event followed by a vigorous aftershock sequence. The earthquake's location within a regional network has allowed us to study it in rich detail. Double-difference relocations of aftershocks and static stress modeling reveal some intriguing features; most aftershocks are not located on the mainshock rupture plane, but are concentrated in the adjacent Wadati-Benioff zone in areas of increased stress. Further, a secondary plane of seismicity aligns well with a moderately dipping nodal plane reported by the Global Centroid Moment Tensor Project, and the separation of these locations and the mainshock hypocenter from the slab indicates that the mainshock ruptured into the oceanic mantle.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065023", 
+        "title": "Evidence of Wadati-Benioff zone triggering following the Mw 7.9 Little Sitkin, Alaska intermediate depth earthquake of June 23, 2014"
+    }, 
+    {
+        "author": "Jeffrey J. Love, E. Joshua Rigler, Antti Pulkkinen, Pete Riley", 
+        "date": "2015-07-22", 
+        "description": "\n\nAn examination is made of the hypothesis that the statistics of magnetic-storm-maximum intensities are the realization of a log-normal stochastic process. Weighted least-squares and maximum-likelihood methods are used to fit log-normal functions to \u2212Dst storm-time maxima for years 1957-2012; bootstrap analysis is used to established confidence limits on forecasts. Both methods provide fits that are reasonably consistent with the data; both methods also provide fits that are superior to those that can be made with a power-law function. In general, the maximum-likelihood method provides forecasts having tighter confidence intervals than those provided by weighted least-squares. From extrapolation of maximum-likelihood fits: a magnetic storm with intensity exceeding that of the 1859 Carrington event, \u2212Dst\u2265850\u00a0nT, occurs about 1.13 times per century and a wide 95% confidence interval of [0.42,2.41] times per century; a 100-yr magnetic storm is identified as having a \u2212Dst\u2265880\u00a0nT (greater than Carrington) but a wide 95% confidence interval of [490,1187] nT.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064842", 
+        "title": "On the log-normality of historical magnetic-storm intensity statistics: Implications for extreme-event probabilities"
+    }, 
+    {
+        "author": "A. Saiz-Lopez, S. Baidar, C.A. Cuevas, T.K. Koenig, R.P. Fernandez, B. Dix, D.E. Kinnison, J.-F. Lamarque, X. Rodriguez-Lloveras, T. L. Campos, R. Volkamer", 
+        "date": "2015-07-22", 
+        "description": "\n\nWe report a new estimation of the injection of iodine into the stratosphere based on novel daytime (SZA < 45\u00b0) aircraft observations in the tropical tropopause layer and a global atmospheric model with the most recent knowledge about iodine photochemistry. The results indicate that significant levels of total reactive iodine (0.25-0.7 pptv), between 2 and 5 times larger than the accepted upper limits, can be injected into the stratosphere via tropical convective outflow. At these iodine levels, modelled iodine catalytic cycles account for up to 30% of the contemporary ozone loss in the tropical lower stratosphere and can exert a stratospheric ozone depletion potential equivalent or even larger than that of very short-lived bromocarbons. Therefore, we suggest that iodine sources and chemistry need to be considered in assessments of the historical and future evolution of the stratospheric ozone layer.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064796", 
+        "title": "Injection of iodine to the stratosphere"
+    }, 
+    {
+        "author": "Hee-Jeong Kim, Larry Lyons, Victor Pinto, Chih-Ping Wang, Kyung-Chan Kim", 
+        "date": "2015-07-22", 
+        "description": "\n\nWe find evidence that magnetic storms are not only unnecessary for geosynchronous relativistic electron enhancements but also not directly relevant to the electron enhancements even if the enhancements are accompanied by magnetic storms. What is crucial for electron enhancements at geosynchronous orbit are sustained south-oriented or north-south fluctuating IMF Bz that drives sufficiently large substorm activity and small solar wind density Nsw that likely leads to low loss rate of relativistic electrons to the ionosphere and/or to the magnetopause for an extended time period. Specifically, almost all the abrupt, large electron increases in our data set took place under the condition of average AE > 235 nT and average Nsw \u2264 5 cm-3. Examination of detailed time profiles clearly shows that electron flux starts to increase quite immediately with arrival of the right IMF and solar wind conditions, regardless of a magnetic storm, leaving the accompanied magnetic storms merely co-incident.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065192", 
+        "title": "Re-visit of relationship between geosynchronous relativistic electron enhancements and magnetic storms"
+    }, 
+    {
+        "author": "Juan J. Hidalgo, Marco Dentz, Yoar Cabeza, Jesus Carrera", 
+        "date": "2015-07-21", 
+        "description": "\n\nWe study the fundamental problem of mixing and chemical reactions under a Rayleigh-Taylor-type hydrodynamic instability in a miscible two fluid system. The dense fluid mixture, which is generated at the fluid-fluid interface, leads to the onset of a convective fingering instability and triggers a fast chemical dissolution reaction. Contrary to intuition, the dissolution pattern does not map out the finger geometry. Instead, it displays a dome-like, hierarchical structure that follows the path of the ascending fluid interface and the regions of maximum mixing. These mixing and reaction hot spots coincide with the flow stagnation points, at which the interfacial mixing layer is compressed and deformed. We show that the deformation of the boundary layer around the stagnation points controls the evolution of the global scalar dissipation and reaction rates and shapes the structure of the reacted zones. The persistent compression of the mixing layer explains the independence of the mixing rate from the Rayleigh number when convection dominates.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065036", 
+        "title": "Dissolution Patterns and Mixing Dynamics in Unstable Reactive Flow"
+    }, 
+    {
+        "author": "A. Gilbert, C. Vincent, O. Gagliardini, J. Krug, E. Berthier", 
+        "date": "2015-07-21", 
+        "description": "\n\nHigh elevation glaciers covered by cold firn are undergoing substantial warming in response to on-going climate change. This warming is affecting the ice/rock interface temperature, the primary driver of avalanching glacier instability on steep slopes. Prediction of future potential instability therefore requires appropriate modeling of the thermal evolution of these glaciers. Application of a state-of-the-art model to a glacier in the French Alps (Taconnaz) has provided the first evaluation of the temperature evolution of a cold hanging glacier through this century. Our observations and three-dimensional modeling of the glacier response (velocity, thickness, temperature, density, water content) to climate change indicate that Taconnaz Glacier will become temperate and potentially unstable over a large area by the end of the 21st century. The risk induced by this glacier hazard is high for the populated region below and makes observation and modeling of such glaciers a priority.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064838", 
+        "title": "Assessment of thermal change in cold avalanching glaciers in relation to climate warming"
+    }, 
+    {
         "author": "Jan T. M. Lenaerts, Dewi Le Bars, Leo Kampenhout, Miren Vizcaino, Ellyn M. Enderlin, Michiel R. Broeke", 
         "date": "2015-07-21", 
         "description": "\n\nHere we present a long-term (1850-2200) best estimate of Greenland ice sheet (GrIS) freshwater runoff that improves spatial detail of runoff locations and temporal resolution. Ice discharge is taken from observations since 2000 and assumed constant in time. Surface meltwater runoff is retrieved from regional climate model output for the recent past, and parameterised for the future based on significant correlations between runoff and mid-tropospheric (500 hPa) summer temperature changes over theGrIS. The simplicity of this approach enables assimilation of meltwater runoff into coupled climate models, which is demonstrated here in a case study with the medium-resolution (1\u2218) Community Earth System Model (CESM). The model results suggest that the decrease in Atlantic Meridional Overturning Circulation (AMOC) is dominated by warming of the surface ocean, and enhanced GrIS freshwater forcing leads to a slightly enhanced (-1.2 Sv (Sverdrup) in the 21st century) weakening of the AMOC.\n", 
@@ -224,14 +360,6 @@
         "title": "Interseismic Coupling on the Main Himalayan Thrust"
     }, 
     {
-        "author": "Nicola Maher, Shayne McGregor, Matthew H. England, Alexander Sen Gupta", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe effects of large tropical volcanic eruptions on Indo-Pacific tropical variability are investigated using 122 historical ensemble members from CMIP5. Radiative forcing due to volcanic aerosols in the stratosphere is found to increase the likelihood of a model climatic response that projects onto both the El Ni\u00f1o-Southern Oscillation and the Indian Ocean Dipole (IOD) mode. Large eruptions are associated with co-occurring El Ni\u00f1o and positive IOD events in the ensemble means that peak 6\u201312 months after the volcanic forcing peaks, marking a significant increase in the likelihood of each event occurring in the Southern Hemisphere (SH) spring/summer post-eruption. There is also an ensemble mean La Ni\u00f1a-like response in the third SHsummer post-eruption, which coincides with a significant increase in the likelihood of a La Ni\u00f1a occurring. Taken together with the initial cooling, this La Ni\u00f1a-like response may increase the persistence of the cool global-average surface temperature anomaly after an eruption.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064751", 
-        "title": "Effects of volcanism on tropical variability"
-    }, 
-    {
         "author": "L. Bopp, M. L\u00e9vy, L. Resplandy, J.B. Sall\u00e9e", 
         "date": "2015-07-14", 
         "description": "\n\nThe oceanic uptake of anthropogenic carbon is tightly coupled to carbon subduction, i.e. the physical carbon transfer from the well-ventilated surface ocean to its interior. Despite their importance, pathways of anthropogenic carbon subduction are poorly understood. Here we use an ocean carbon cycle model to quantify the mechanisms controlling this subduction. Over the last decade, 90% of the oceanic anthropogenic carbon is subducted at the base of the seasonally-varying mixed layer. Vertical diffusion is the primary mechanism of this subduction (contributing 65% of total subduction), despite very low local fluxes. In contrast, advection drives the spatial patterns of subduction, with high positive and negative local fluxes. Our results suggestthat vertical diffusion could have a leading role in anthropogenic carbon subduction, which highlights the need for an accurate estimate of vertical diffusion intensity in the upper ocean to further constrain estimates of the future evolution of carbon uptake.\n", 
@@ -264,14 +392,6 @@
         "title": "Rainfall thresholds for the precipitation of carbonate and evaporite minerals in modern lakes in northern China"
     }, 
     {
-        "author": "Fabrice Lambert, Alessandro Tagliabue, Gary Shaffer, Frank Lamy, Gisela Winckler, Laura Farias, Laura Gallardo, Ricardo De Pol-Holz", 
-        "date": "2015-07-14", 
-        "description": "\n\nMineral dust aerosols play a major role in present and past climates. To date, we rely on climate models for estimates of dust fluxes to calculate the impact of air-borne micronutrients on biogeochemical cycles. Here we provide a new global dust flux dataset for Holocene and Last Glacial Maximum (LGM) conditions based on observational data. A comparison with dust flux simulations highlights regional differences between observations and models. By forcing a biogeochemical model with our new dataset and using this model's results to guide a millennial-scale Earth System Model simulation, we calculate the impact of enhanced glacial oceanic iron deposition on the LGM-Holocene carbon cycle. On centennial timescales, the higher LGM dust deposition result in a weak reduction of <10 ppm in atmospheric CO2 due to enhanced efficiency of the biological pump. This is followed by a further ~10 ppm reduction over millennial timescales due to greater carbon burial and carbonate compensation.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064250", 
-        "title": "Dust fluxes and iron fertilization in Holocene and Last Glacial Maximum climates"
-    }, 
-    {
         "author": "Jan Vinogradov, Matthew D. Jackson", 
         "date": "2015-07-14", 
         "description": "\n\nWe report measurements of the zeta potential of natural sandstones saturated with NaCl electrolytes of varying ionic strength at temperatures up to 150\u00b0C. The zeta potential is always negative, but decreases in magnitude with increasing temperature at low ionic strength (0.01 M) and is independent of temperature at high ionic strength (0.5 M). The pH also decreases with increasing temperature at low ionic strength, but remains constant at high ionic strength. The temperature dependence of the zeta potential can be explained by the temperature dependence of the pH. Our findings are consistent with published models of the zeta potential, so long as the temperature dependence of the pH at low ionic strength is accounted for, and can explain the hitherto contradictory results reported in previous studies.\n", 
@@ -296,38 +416,6 @@
         "title": "Fragmentation and boosting of rock falls and rock avalanches"
     }, 
     {
-        "author": "Michael G. Jacox, Steven J. Bograd, Elliott L. Hazen, Jerome Fiechter", 
-        "date": "2015-07-14", 
-        "description": "\n\nA regional ocean model is used to evaluate the roles of wind, surface heat flux, and basin-scale climate variability in regulating the upwelled nitrate supply in the California Current. A strong positive trend in nitrate flux from 1980 to 2010 was driven almost entirely by enhanced equatorward winds, negating a weak negative trend associated with increased surface heat flux. Increased upwelling and nitrate flux are consistent with cooler surface temperatures and higher phytoplankton concentrations observed over the same period. Changes in remote ocean forcing, resulting primarily from basin-scale climate variability (e.g., ENSO, PDO), drive considerable interannual fluctuations and may dominate the ecosystem response on interannual to decadal timescales. However, comparison with previously published findings suggests that local wind intensification persists through changing basin-scale climate regimes. Understanding the different timescales of variability in forcing mechanisms, and their interactions with each other, is necessary to distinguish transient ecosystem impacts from secular trends.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065147", 
-        "title": "Sensitivity of the California Current Nutrient Supply to Wind, Heat, and Remote Ocean Forcing"
-    }, 
-    {
-        "author": "J. P. Younger, I. M. Reid, R. A. Vincent, D. J. Murphy", 
-        "date": "2015-07-07", 
-        "description": "\n\nA new technique for determining the height of a constant density surface at altitudes of 78\u201385\u2009km is presented. The first results are derived from a decade of observations by a meteor radar located at Davis Station in Antarctica and are compared with observations from the Microwave Limb Sounder instrument aboard the Aura satellite. The density of the neutral atmosphere in the mesosphere/lower thermosphere region around 70\u2013110\u2009km is an essential parameter for interpreting airglow derived atmospheric temperatures, planning atmospheric entry maneuvers of returning spacecraft, and understanding the response of climate to different stimuli. This region is not well characterized however, due to inaccessibility combined with a lack of consistent strong atmospheric radar scattering mechanisms. Recent advances in the analysis of detection records from high performance meteor radars provide new opportunities to obtain atmospheric density estimates at high time resolutions in the MLT region using the durations and heights of faint radar echoes from meteor trails. Previous studies have indicated that the expected increase in underdense meteor radar echo decay times with decreasing altitude is reversed in the lower part of the meteor ablation region due to the neutralization of meteor plasma. The height at which the gradient of meteor echo decay times reverses is found to occur at a fixed atmospheric density. Thus, the gradient reversal height of meteor radar diffusion coefficient profiles can be used to infer the height of a constant density level, enabling the observation of mesospheric density variations using meteor radar.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065066", 
-        "title": "A method for estimating the height of a mesospheric density level using meteor radar"
-    }, 
-    {
-        "author": "Jiabin Liu, Keyu Fa, Yuqing Zhang, Bin Wu, Shugao Qin, Xin Jia", 
-        "date": "2015-07-07", 
-        "description": "\n\nDeserts may show strong downward CO2 fluxes and thus could be a significant carbon sink. However, this hypothesis has been strongly challenged because of the failure to determine both the reliability of flux measurements and the exact location of fixed carbon. In this study, we added 13CO2 to natural (unsterilized) soil in the Mu Us Desert in northern China and quantified the partitioning of added 13CO2 into soil solid and vapor phases. Results show that natural desert soil absorbed 13CO2 at a mean rate of 0.28 g m\u22122d\u22121. Of the absorbed 13CO2, 7.1% was released over a 48-h period after 13CO2 feeding, 72.8% was stored in the soil solid phase, 0.0007% was found in the vapor phase, while 20.0% of the absorbed 13CO2 was undetected. These results indicate that undisturbed desert soils can absorb CO2 from the atmosphere, with the majority of fixed carbon conserved in the soil solid phase.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064689", 
-        "title": "Abiotic CO2 uptake from the atmosphere by semi-arid desert soil and its partitioning into soil phases"
-    }, 
-    {
-        "author": "Sanjiv K. Tiwari, David A. Falconer, Ronald L. Moore, P. Venkatakrishnan, Amy R. Winebarger, Igor G. Khazanov", 
-        "date": "2015-07-07", 
-        "description": "\n\nWe show that the speed of the fastest coronal mass ejections (CMEs) that an active region (AR) can produce can be predicted from a vector magnetogram of the AR. This is shown by logarithmic plots of CME speed (from the SOHO LASCO CME catalog) versus each of ten AR-integrated magnetic parameters (AR magnetic flux, three different AR magnetic-twist parameters, and six AR free-magnetic-energy proxies) measured from the vertical and horizontal field components of vector magnetograms (from the Solar Dynamics Observatory's Helioseismic and Magnetic Imager) of the source ARs of 189 CMEs. These plots show: (1) the speed of the fastest CMEs that an AR can produce increases with each of these whole-AR magnetic parameters, and (2) that one of the AR magnetic-twist parameters and the corresponding free-magnetic-energy proxy each determine the CME-speed upper-limit line somewhat better than any of the other eight whole-AR magnetic parameters.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064865", 
-        "title": "Near-Sun Speed of CMEs and the Magnetic Non-potentiality of their Source Active Regions"
-    }, 
-    {
         "author": "Chiung-Wen June Chang, Wan-Ling Tseng, Huang-Hsiung Hsu, Noel Keenlyside, Ben-Jei Tsuang", 
         "date": "2015-07-07", 
         "description": "\n\nGlobal warming's impact on the Madden-Julian Oscillation (MJO) is assessed using one of the few models capable in reproducing its key features. In a warmer climate predicted for the end of the century, the MJO increases in amplitude (by ~30%) and frequency, showing a more circumglobal propagation tendency. The MJO spatial extent becomes enhanced, deeper and more zonally extended but meridionally confined. A stronger vertical tilting structure in diabatic heating, moisture and convergence fields is seen. Our findings indicate that these changes result from an intensification of the frictional-wave CISK mechanism via the coupling of dynamical and thermodynamic response to the warming. The warming and moistening of the mean state contribute to the enhanced deep convective heating, driving a stronger forced Kelvin wave-like perturbation. This reinforces the frictional low-level convergence, leading to larger shallow convective heating, and therefore to a faster development and enhancement of the deep convection in the MJO.", 
@@ -344,44 +432,12 @@
         "title": "The influence of coral reefs and climate change on wave-driven flooding of tropical coastlines."
     }, 
     {
-        "author": "Chuliang Xiao, Yaocun Zhang", 
-        "date": "2015-07-06", 
-        "description": "\n\nThe wintertime East Asian eddy-driven jet (EAEJ) responding to climate change in the 21st century is studied using model outputs from the Coupled Model Intercomparison Project phase 5 (CMIP5). Compared to the location displacement in oceanic eddy-driven jets, the magnitude change of synoptic-scale transient eddy activities, measured by eddy kinetic energy (EKE), is a more striking feature in EAEJ. An intensified EKE is projected unanimously by CMIP5 models, suggesting that potential strong winter storm events are likely to happen in East Asian midlatitude in a warming climate. The future change of EKE in EAEJ can be understood in terms of growing baroclinicity wave. The upper-level EKE is highly correlated to the low-level static stability, Brunt-V\u00e4is\u00e4l\u00e4 frequency (BVF). CMIP5 models generally project an intensified upper-level EKE with a reduced low-level BVF (\u0394EKE \u221d\u2013\u0394BVF). Meanwhile, the enhancement of EKE is also constrained by its historical state (\u0394EKE \u221d\u2013EKE). Intermodel variabilities among CMIP5 models reveal a similar but weaker relationship between \u0394BVF (or EKE) and \u0394EKE, indicating relatively large model diversities and independencies among CMIP5 models.", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064641", 
-        "title": "Projected changes of wintertime synoptic-scale transient eddy activities in the East Asian eddy-driven jet from CMIP5 experiments"
-    }, 
-    {
-        "author": "Nicholas J. Elst, Bruce E. Shaw", 
-        "date": "2015-07-06", 
-        "description": "\n\nAftershocks may be driven by stress concentrations left by the mainshock rupture, or by elastic stress transfer to adjacent fault sections or strands. Aftershocks that occur within the initial rupture may be limited in size, because the scale of the stress concentrations should be smaller than the primary rupture itself. On the other hand, aftershocks that occur on adjacent fault segments outside the primary rupture should have no such size limitation. Here we use high-precision double-difference relocated earthquake catalogs to demonstrate that larger aftershocks occur farther away than smaller aftershocks, when measured from the centroid of early aftershock activity \u2013 a proxy for the initial rupture. Aftershocks as large or larger than the initiating event nucleate almost exclusively in the outer regions of the aftershock zone. This observation is interpreted as a signature of elastic rebound in the earthquake catalog, and can be used to improve forecasting of large aftershocks.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064734", 
-        "title": "Larger aftershocks happen farther away: non-separability of magnitude and spatial distributions of aftershocks."
-    }, 
-    {
         "author": "Johannes M\u00fclmenst\u00e4dt, Odran Sourdeval, Julien Delano\u00eb, Johannes Quaas", 
         "date": "2015-07-05", 
         "description": "\n\nA climatology of thermodynamic phase of precipitating cloud is presented derived from global, land and ocean, retrievals from Cloudsat, CALIPSO, and MODIS. Like precipitation rate, precipitation frequency is dominated by warm rain, defined as rain produced via the liquid phase only, over the tropical oceans outside the ITCZ and by cold rain, produced via the ice phase, over the midlatitude oceans and continents. Warm rain is very infrequent over the continents, with significant warm rain found only in onshore flow in the tropics, and over India, China, and Indochina. Comparison of the properties of precipitating and non-precipitating warm clouds shows that the scarcity of warm rain over land can be explained by smaller effective radii in continental clouds that delay the onset of precipitation. The results highlight the importance of ice-phase processes for the global hydrological cycle and may lead to an improved parameterization of precipitation in general circulation models.\n", 
         "journal": "Geophysical Research Letters", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064604", 
         "title": "Frequency of occurrence of rain from liquid-, mixed- and ice-phase clouds derived from A\u2013Train satellite retrievals"
-    }, 
-    {
-        "author": "Nestor G. Cerpa, Rodolfo Araya, Muriel Gerbault, Riad Hassani", 
-        "date": "2015-07-04", 
-        "description": "\n\nSlab dip controls the state of stress in an overriding plate and affects mountain building. Analog and numerical models have shown variations in tectonic regime induced by slab folding over the 660 km depth discontinuity zone in orthogonal convergence. Here, using a three-dimensional model of oblique subduction (30\u00b0) and accounting for free top surfaces, we show how slab folding generates an along-strike slab dip segmentation, inducing variations in topography of the overriding plate.When the subducting plate begins to curve forward, the elevation height rises inland and varies along the trench from 5 km to 2 km. The Andes are a suitable natural zone to compare our results with because of its linear margin and well-constrained plates kinematics. Thus, we provide a new explanation to the general decrease in elevation from the Central to Southern Andes, but which still remains to be combined with other 3D mechanisms to explain the actual Andean topography.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064047", 
-        "title": "Relationship between slab dip and topography segmentation in an oblique subduction zone: Insights from numerical modeling"
-    }, 
-    {
-        "author": "R. A. Marshall, C. L. Silva, V. P. Pasko", 
-        "date": "2015-07-04", 
-        "description": "\n\nWe present evidence of ionospheric optical signatures of lightning, known as elves, which sometimes occur in pairs separated in time by ~80\u2013160 \u03bcs. We demonstrate that these \u201celve doublets\u201d are the ionospheric signature of Compact Intracloud Discharges (CIDs), which are extremely powerful, compact discharges that are thought to occur near the tops of thunderclouds. In this paper, using simple geometric calculations and full electromagnetic simulations, we show that CIDs from altitudes 14\u201322 km explain the time delay observed in elve doublets, consistent with typical CID altitudes. Furthermore, we show that the relative brightness of the first and second elves in the doublet is likely related to the orientation of the CID, andangles of 5\u00b0\u201320\u00b0 with respect to the vertical are consistent with the observed brightness ratios.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064862", 
-        "title": "Elve Doublets and Compact Intracloud Discharges"
     }, 
     {
         "author": "Roberta Tozzi, Michael Pezzopane, Paola De Michelis, Mirko Piersanti", 
@@ -408,52 +464,12 @@
         "title": "Ionospheric disturbances in the vicinity of the Chelyabinsk meteoroid explosive disruption as inferred from dense GPS observations"
     }, 
     {
-        "author": "A.O. Langford, R.B. Pierce, P.J. Schultz", 
-        "date": "2015-07-03", 
-        "description": "\n\nThe Santa Ana winds of southern California have long been associated with wildland fires that can adversely affect air quality and lead to loss of life and property. These katabatic winds are driven primarily by thermal gradients, but can be exacerbated by northerly flow associated with upper level troughs passing through the western U.S. In this paper, we show that the fire danger associated with the passage of upper level troughs can be further increased by the formation of deep tropopause folds that transport extremely dry ozone-rich air from the upper troposphere and lower stratosphere to the surface. Stratospheric intrusions can thus increase surface ozone both directly through transport, and indirectly through their influence on wildland fires. We illustrate this situation with the example of the Springs fire, which burned nearly 25,000 acres in Ventura County during May 2013.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064964", 
-        "title": "Stratospheric intrusions, the Santa Ana winds, and wildland fires in southern California"
-    }, 
-    {
-        "author": "Yiming Luo, J\u00f6rg Lippold", 
-        "date": "2015-07-03", 
-        "description": "\n\nThe distributions of 230Th and 231Pa in the Arctic Ocean are not well understood (Hoffmann et al., 2013). In order to examine the Arctic 231Pa/230Th system, and therefore to shed light on the future use of Arctic sedimentary 231Pa/230Th, we developed a 2D scavenging model modified from an Atlantic model (Luo et al., 2010). Tuned with reasonable parameters that are consistent with Eurasian Basin geographic settings, the model can reproduce most of the features of the 230Th and 231Pa water column profiles as well as the sedimentary 231Pa/230Th distribution patterns, and suggests the sedimentary 231Pa/230Th in the Eurasian Basin is mainly controlled by the deep water circulation. In our attempt to reproduce the sedimentary 231Pa/230Th patterns during the Last Glacial, we found that circulation strength in the Eurasian Basin at shallower depths may have been stronger than today.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064671", 
-        "title": "Controls on 231Pa and 230Th in the Arctic Ocean"
-    }, 
-    {
-        "author": "Max R. McGillen, Fran\u00e7ois Bernard, Eric L. Fleming, James B. Burkholder", 
-        "date": "2015-07-03", 
-        "description": "\n\nHCFC-133a (CF3CH2Cl), an ozone depleting substance, is primarily removed from the atmosphere by gas-phase reaction with OH radicals and by UV photolysis. The rate coefficient, k, for the OH + HCFC-133a reaction was measured between 233-397 K and is given by k(T)=(9.32\u00b10.8)\u00d710-13exp(-(1296\u00b128)/T), where k(296K) was measured to be (1.10\u00b10.02)\u00d710-14 (cm3 molecule-1 s-1) (2\u03c3 precision uncertainty). The HCFC-133a UV absorption spectrum was measured between 184.95\u2013240 nm at 213\u2013323K and a spectrum parameterization is presented. The HCFC-133a atmospheric loss processes, lifetime, ozone depletion potential, and uncertainties were evaluated using a 2D atmospheric model. The global annually averaged steady-state lifetime and ODP were determined to be 4.45 (4.04\u20134.90) years and 0.017 (\u00b10.001), respectively, where the ranges are based solely on the 2\u03c3 uncertainty in the photochemical parameters. The infrared absorption spectrum of HCFC-133a was measured and its global warming potential determined to be 380 on the 100-year time-horizon.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064939", 
-        "title": "HCFC-133a (CF3CH2Cl): OH Rate Coefficient, UV and Infrared Absorption Spectra, and Atmospheric Implications"
-    }, 
-    {
-        "author": "Chao-Song Huang", 
-        "date": "2015-07-03", 
-        "description": "\n\nPenetration electric field can be very strong during magnetic storms. However, the variation of penetration electric field with local time (LT) has not been well understood. The Communication/Navigation Outage Forecasting System (C/NOFS) satellite measures the plasma drift/electric field over all local times within ~100 min. In this paper, we present the first nearly-simultaneous observations of the dependence of penetration electric field on local time. The meridional ion drift measured by C/NOFS during the main phase of five magnetic storms in 2012 is analyzed. The storm-time ion drift shows a large enhancement around 1900 LT, a relatively small enhancement during daytime, and a deep decrease in the post-midnight sector with a peak around 0500 LT. The observed storm-time variation of the meridional ion drift with local time represents the variation of the penetration electric field. The averaged ion drifts are in remarkable agreement with recent simulations.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064674", 
-        "title": "Storm-to-storm main-phase repeatability of the local time variation of disturbed low-latitude vertical ion drifts"
-    }, 
-    {
         "author": "Katia Lamer, Pavlos Kollias", 
         "date": "2015-07-02", 
         "description": "\n\nComprehensive observations of shallow convection at the Atmospheric Radiation Measurement Southern Great Plains site are carefully analyzed to study the macrophysical and dynamical properties of active and forced cumuli separately and investigate their relationship to the sub-cloud layer turbulent structure. Clearly, active clouds possess stronger dynamics and greater horizontal extent than their forced counterpart. As previously reported, upper-level stability and relative humidity do control the predominance of active clouds. While cloud cover remains difficult to associate to mixed-layer parameters (small correlation coefficients), mixed-layer top vertical velocity skewness and coherent updraft fraction most significantly correlate to cumuli cloud cover and especially the portion attributed to active clouds; both of which are not currently considered in shallow cloudiness parameterizations. This study also points to several factors that continue to limit our ability to adequately sample shallow cumuli and suggests that forward models will be necessary to bridge observations and model outputs.\n", 
         "journal": "Geophysical Research Letters", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064534", 
         "title": "Observations of Fair-weather Cumuli over Land: Dynamical Factors Controlling Cloud Size and Cover"
-    }, 
-    {
-        "author": "Reddy L. N. Yatavelli, Claudia Mohr, Harald Stark, Douglas A. Day, Samantha L. Thompson, Felipe D. Lopez-Hilfiker, Pedro. Campuzano-Jost, Brett. B. Palm, Alexander L. Vogel, Thorsten Hoffmann, Liine Heikkinen, Mikko \u00c4ij\u00e4l\u00e4, Nga L. Ng, Joel R. Kimmel, Manjula R. Canagaratna, Mikael Ehn, Heikki Junninen, Michael J. Cubison, Tuukka Pet\u00e4j\u00e4, Markku Kulmala, John T. Jayne, Douglas R. Worsnop, Jose L. Jimenez", 
-        "date": "2015-07-02", 
-        "description": "\n\nUsing chemical ionization mass spectrometry to detect particle-phase acids (acid-CIMS) and aerosol mass spectrometry (AMS) measurements from Colorado, USA, and two studies in Hyyti\u00e4l\u00e4, Finland, we quantify the fraction of organic aerosol (OA) mass that is composed of molecules with acid functional groups (facid). Molecules containing one or more carboxylic acid functionality contributed approximately 29% (45-51%) of the OA mass in Colorado (Finland). Organic acid mass concentration correlates well with AMS m/z 44 (primarily CO2+), a commonly used marker for highly oxidized aerosol. Using the average empirical relationship between AMS m/z 44 and organic acids in these three studies, together with m/z 44 data from 29 continental northern hemispheric (NH) AMS datasets, we estimate that molecules containing carboxylic acid functionality constitute on average 28% (range 10-50%) of NH continental OA mass with typically higher values at rural/remote sites and during summer and lower values at urban sites and during winter.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064650", 
-        "title": "Estimating the contribution of organic acids to northern hemispheric continental organic aerosol"
     }, 
     {
         "author": "J. S. Halekas, J. P. McFadden, J. E. P. Connerney, J. R. Espley, D. A. Brain, D. L. Mitchell, D. E. Larson, Y. Harada, T. Hara, S. Ruhunusiri, B. M. Jakosky", 
@@ -464,20 +480,204 @@
         "title": "Time-dispersed ion signatures observed in the Martian magnetosphere by MAVEN"
     }, 
     {
-        "author": "Eva Enkelmann, Peter O. Koons, Terry L. Pavlis, Bernard Hallet, Adam Barker, Julie Elliott, John I. Garver, Sean P.S. Gulick, Rachel M. Headley, Gary L. Pavlis, Kenneth D. Ridgway, Natalia Ruppert, Harm Avendonk", 
-        "date": "2015-07-01", 
-        "description": "\n\nInvestigations of tectonic and surface processes have shown a clear relationship between climate-influenced erosion and long-term exhumation of rocks. Numerical models suggest most orogens are in a transient state, but observational evidence of a spatial shift in mountain building processes due to tectonic-climate interaction are missing. New thermochronology data synthesized with geophysical, and surface process data elucidating the evolving interplay of erosion and tectonics of the colliding Yakutat microplate with North America. Focused deformation and rock exhumation occurred in the apex of the colliding plate corner from > 4 to 2 Ma and shifted southward after the 2.6 Ma climate change. The present exhumation maximum coincides with the largest modern shortening rates, highest concentration of seismicity and the greatest erosive potential. We infer that the high sedimentation caused rheological modification and the emergence of the southern St. Elias, intercepting orographic precipitation and shifting focused erosion and exhumation to the south.\n", 
+        "author": "Nicola Maher, Shayne McGregor, Matthew H. England, Alexander Sen Gupta", 
+        "date": "2015-07-25", 
+        "description": "\n\nThe effects of large tropical volcanic eruptions on Indo-Pacific tropical variability are investigated using 122 historical ensemble members from the Coupled Model Intercomparison Project 5. Radiative forcing due to volcanic aerosols in the stratosphere is found to increase the likelihood of a model climatic response that projects onto both the El Ni\u00f1o\u2013Southern Oscillation and the Indian Ocean Dipole (IOD). Large eruptions are associated with co-occurring El Ni\u00f1o and positive IOD events in the ensemble means that peak 6\u201312\u00a0months after the volcanic forcing peaks, marking a significant increase in the likelihood of each event occurring in the Southern Hemisphere (SH) spring/summer posteruption. There is also an ensemble mean La Ni\u00f1a-like response in the third SH summer posteruption, which coincides with a significant increase in the likelihood of a La Ni\u00f1a occurring. Taken together with the initial cooling, this La Ni\u00f1a-like response may increase the persistence of the cool global average surface temperature anomaly after an eruption.\n", 
         "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064727", 
-        "title": "Cooperation of tectonic and surface processes produces Earth's highest coastal mountains"
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064751", 
+        "title": "Effects of volcanism on tropical variability"
+    }, 
+    {
+        "author": "R. A. Marshall, C. L. Silva, V. P. Pasko", 
+        "date": "2015-07-25", 
+        "description": "\n\nWe present evidence of ionospheric optical signatures of lightning, known as elves, which sometimes occur in pairs separated in time by \u223c80\u2013160\u00a0\u03bcs. We demonstrate that these \u201celve doublets\u201d are the ionospheric signature of compact intracloud discharges (CIDs), which are extremely powerful, compact discharges that are thought to occur near the tops of thunderclouds. In this paper, using simple geometric calculations and full electromagnetic simulations, we show that CIDs from altitudes 14\u201322\u00a0km explain the time delay observed in elve doublets, consistent with typical CID altitudes. Furthermore, we show that the relative brightness of the first and second elves in the doublet is likely related to the orientation of the CID, and angles of 5\u00b0\u2013 20\u00b0 with respect to the vertical are consistent with the observed brightness ratios.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064862", 
+        "title": "Elve doublets and compact intracloud discharges"
+    }, 
+    {
+        "author": "J. P. Younger, I. M. Reid, R. A. Vincent, D. J. Murphy", 
+        "date": "2015-07-24", 
+        "description": "\n\nA new technique for determining the height of a constant density surface at altitudes of 78\u201385\u00a0km is presented. The first results are derived from a decade of observations by a meteor radar located at Davis Station in Antarctica and are compared with observations from the Microwave Limb Sounder instrument aboard the Aura satellite. The density of the neutral atmosphere in the mesosphere/lower thermosphere region around 70\u2013110\u00a0km is an essential parameter for interpreting airglow-derived atmospheric temperatures, planning atmospheric entry maneuvers of returning spacecraft, and understanding the response of climate to different stimuli. This region is not well characterized, however, due to inaccessibility combined with a lack of consistent strong atmospheric radar scattering mechanisms. Recent advances in the analysis of detection records from high-performance meteor radars provide new opportunities to obtain atmospheric density estimates at high time resolutions in the MLT region using the durations and heights of faint radar echoes from meteor trails. Previous studies have indicated that the expected increase in underdense meteor radar echo decay times with decreasing altitude is reversed in the lower part of the meteor ablation region due to the neutralization of meteor plasma. The height at which the gradient of meteor echo decay times reverses is found to occur at a fixed atmospheric density. Thus, the gradient reversal height of meteor radar diffusion coefficient profiles can be used to infer the height of a constant density level, enabling the observation of mesospheric density variations using meteor radar.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065066", 
+        "title": "A method for estimating the height of a mesospheric density level using meteor radar"
+    }, 
+    {
+        "author": "Michael G. Jacox, Steven J. Bograd, Elliott L. Hazen, Jerome Fiechter", 
+        "date": "2015-07-24", 
+        "description": "\n\nA regional ocean model is used to evaluate the roles of wind, surface heat flux, and basin-scale climate variability in regulating the upwelled nitrate supply in the California Current. A strong positive trend in nitrate flux from 1980 to 2010 was driven almost entirely by enhanced equatorward winds, negating a weak negative trend associated with increased surface heat flux. Increased upwelling and nitrate flux are consistent with cooler surface temperatures and higher phytoplankton concentrations observed over the same period. Changes in remote ocean forcing, resulting primarily from basin-scale climate variability (e.g., El Ni\u00f1o\u2013Southern Oscillation and Pacific Decadal Oscillation), drive considerable interannual fluctuations and may dominate the ecosystem response on interannual to decadal time scales. However, comparison with previously published findings suggests that local wind intensification persists through changing basin-scale climate regimes. Understanding the different time scales of variability in forcing mechanisms, and their interactions with each other, is necessary to distinguish transient ecosystem impacts from secular trends.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL065147", 
+        "title": "Sensitivity of the California Current nutrient supply to wind, heat, and remote ocean forcing"
+    }, 
+    {
+        "author": "Fabrice Lambert, Alessandro Tagliabue, Gary Shaffer, Frank Lamy, Gisela Winckler, Laura Farias, Laura Gallardo, Ricardo De Pol-Holz", 
+        "date": "2015-07-24", 
+        "description": "\n\nMineral dust aerosols play a major role in present and past climates. To date, we rely on climate models for estimates of dust fluxes to calculate the impact of airborne micronutrients on biogeochemical cycles. Here we provide a new global dust flux data set for Holocene and Last Glacial Maximum (LGM) conditions based on observational data. A comparison with dust flux simulations highlights regional differences between observations and models. By forcing a biogeochemical model with our new data set and using this model's results to guide a millennial-scale Earth System Model simulation, we calculate the impact of enhanced glacial oceanic iron deposition on the LGM-Holocene carbon cycle. On centennial timescales, the higher LGM dust deposition results in a weak reduction of <10\u2009ppm in atmospheric CO2 due to enhanced efficiency of the biological pump. This is followed by a further ~10\u2009ppm reduction over millennial timescales due to greater carbon burial and carbonate compensation.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064250", 
+        "title": "Dust fluxes and iron fertilization in Holocene and Last Glacial Maximum climates"
+    }, 
+    {
+        "author": "Lijun Chang, Lucy M. Flesch, Chun-Yung Wang, Zhifeng Ding", 
+        "date": "2015-07-24", 
+        "description": "\n\nWe present 59 new SKS/SKKS and combine them with 69 previously published data to infer the mantle deformation field in SE Tibet. The dense set of anisotropy measurements in the eastern Himalayan syntaxis (EHS) are oriented along a NE-SW azimuth and rotate clockwise in the surround regions. We use GPS measurements and geologic data to determine a continuous surface deformation field that is then used to predict shear wave spitting directions at each station. Comparison of splitting observations with predictions yields an average misfit of 11.7\u00b0 illustrating that deformation is vertically coherent, consistent with previous studies. Within the central EHS in areas directly surrounding the Namche-Barwa metamorphic massif, the average misfit of 11 stations increases to 60.8\u00b0, and vertical coherence is no longer present. The complexity of the mantle anisotropy and surface observations argues for local alteration of the strain fields here associated with recent rapid exhumation of the Indian crust.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064568", 
+        "title": "Vertical coherence of deformation in lithosphere in the eastern Himalayan syntaxis using GPS, Quaternary fault slip rates, and shear wave splitting data"
+    }, 
+    {
+        "author": "A. O. Langford, R. B. Pierce, P. J. Schultz", 
+        "date": "2015-07-23", 
+        "description": "\n\nThe Santa Ana winds of Southern California have long been associated with wildland fires that can adversely affect air quality and lead to loss of life and property. These katabatic winds are driven primarily by thermal gradients but can be exacerbated by northerly flow associated with upper level troughs passing through the western U.S. In this paper, we show that the fire danger associated with the passage of upper level troughs can be further increased by the formation of deep tropopause folds that transport extremely dry ozone-rich air from the upper troposphere and lower stratosphere to the surface. Stratospheric intrusions can thus increase surface ozone both directly through transport and indirectly through their influence on wildland fires. We illustrate this situation with the example of the Springs Fire, which burned nearly 25,000 acres in Ventura County during May 2013.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064964", 
+        "title": "Stratospheric intrusions, the Santa Ana winds, and wildland fires in Southern California"
     }, 
     {
         "author": "Stavros Dimitrakoudis, Ian R. Mann, Georgios Balasis, Constantinos Papadimitriou, Anastasios Anastasiadis, Ioannis A. Daglis", 
-        "date": "2015-07-01", 
-        "description": "\n\nUltra-low frequency (ULF) waves can contribute to the transport, acceleration and loss of electrons in the radiation belts through inward and outward diffusion. However, the most appropriate parameters to use to specify the ULF wave diffusion rates are unknown. Empirical representations of diffusion coefficients often use Kp; however, specifications using ULF wave power offer an improved physics-based approach. We use 11 years of ground-based magnetometer array measurements to statistically parameterise the ULF wave power with Kp, solar wind speed, solar wind dynamic pressure and Dst. We find Kp is the best single parameter to specify the statistical ULF wave power driving radial diffusion. Significantly, remarkable high energy tails exist in the ULF wave power distributions when expressed as a function of Dst. Two parameter ULF wave power specifications using Dst as well as Kp provide a better statistical representation of storm-time radial diffusion than any single variable alone.\n", 
+        "date": "2015-07-23", 
+        "description": "\n\nUltralow frequency (ULF) waves can contribute to the transport, acceleration, and loss of electrons in the radiation belts through inward and outward diffusion. However, the most appropriate parameters to use to specify the ULF wave diffusion rates are unknown. Empirical representations of diffusion coefficients often use Kp; however, specifications using ULF wave power offer an improved physics-based approach. We use 11\u00a0years of ground-based magnetometer array measurements to statistically parameterize the ULF wave power with Kp, solar wind speed, solar wind dynamic pressure, and Dst. We find that Kp is the best single parameter to specify the statistical ULF wave power driving radial diffusion. Significantly, remarkable high energy tails exist in the ULF wave power distributions when expressed as a function of Dst. Two-parameter ULF wave power specifications using Dst as well as Kp provide a better statistical representation of storm-time radial diffusion than any single variable alone.\n", 
         "journal": "Geophysical Research Letters", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064707", 
         "title": "Accurately specifying storm-time ULF wave radial diffusion in the radiation belts"
+    }, 
+    {
+        "author": "Reddy L. N. Yatavelli, Claudia Mohr, Harald Stark, Douglas A. Day, Samantha L. Thompson, Felipe D. Lopez-Hilfiker, Pedro Campuzano-Jost, Brett B. Palm, Alexander L. Vogel, Thorsten Hoffmann, Liine Heikkinen, Mikko \u00c4ij\u00e4l\u00e4, Nga L. Ng, Joel R. Kimmel, Manjula R. Canagaratna, Mikael Ehn, Heikki Junninen, Michael J. Cubison, Tuukka Pet\u00e4j\u00e4, Markku Kulmala, John T. Jayne, Douglas R. Worsnop, Jose L. Jimenez", 
+        "date": "2015-07-23", 
+        "description": "\n\nUsing chemical ionization mass spectrometry to detect particle-phase acids and aerosol mass spectrometry (AMS) measurements from Colorado, USA, and two studies in Hyyti\u00e4l\u00e4, Finland, we quantify the fraction of organic aerosol (OA) mass that is composed of molecules with acid functional groups (facid). Molecules containing one or more carboxylic acid functionality contributed approximately 29% (45\u201351%) of the OA mass in Colorado (Finland). Organic acid mass concentration correlates well with AMS m/z 44 (primarily CO2+), a commonly used marker for highly oxidized aerosol. Using the average empirical relationship between AMS m/z 44 and organic acids in these three studies, together with m/z 44 data from 29 continental northern hemispheric (NH) AMS data sets, we estimate that molecules containing carboxylic acid functionality constitute on average 28% (range 10\u201350%) of NH continental OA mass with typically higher values at rural/remote sites and during summer and lower values at urban sites and during winter.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064650", 
+        "title": "Estimating the contribution of organic acids to northern hemispheric continental organic aerosol"
+    }, 
+    {
+        "author": "Thomas E. Barchyn, Chris H. Hugenholtz", 
+        "date": "2015-07-23", 
+        "description": "\n\nYardangs are enigmatic wind-parallel ridges sculpted by aeolian processes that are found extensively in arid environments on Earth and Mars. No general theory exists to explain the long-term evolution of yardangs, curtailing modeling of landscape evolution and dynamics of suspended sediment release. We present a hypothesis of yardang evolution using relative rates of sediment flux, interyardang corridor downcutting, yardang denudation, substrate erodibility, and substrate clast content. To develop and sustain yardangs, corridor downcutting must exceed yardang vertical denudation and deflation. However, erosion of substrate yields considerable quantities of sediment that shelters corridors, slowing downcutting. We model the evolution of yardangs through various combinations of rates and substrate compositions, demonstrating the life span, suspended sediment release, and resulting landscape evolution. We find that yardangs have a distinct and predictable evolution, with inevitable demise and unexpectedly dynamic and autogenic erosion rates driven by subtle differences in substrate clast composition.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064477", 
+        "title": "Yardang evolution from maturity to demise"
+    }, 
+    {
+        "author": "David R. Shelly, Taka'aki Taira, Stephanie G. Prejean, David P. Hill, Douglas S. Dreger", 
+        "date": "2015-07-23", 
+        "description": "\n\nFaulting and fluid transport in the subsurface are highly coupled processes, which may manifest seismically as earthquake swarms. A swarm in February 2014 beneath densely monitored Mammoth Mountain, California, provides an opportunity to witness these interactions in high resolution. Toward this goal, we employ massive waveform-correlation-based event detection and relative relocation, which quadruples the swarm catalog to more than 6000 earthquakes and produces high-precision locations even for very small events. The swarm's main seismic zone forms a distributed fracture mesh, with individual faults activated in short earthquake bursts. The largest event of the sequence, M 3.1, apparently acted as a fault valve and was followed by a distinct wave of earthquakes propagating ~1\u2009km westward from the updip edge of rupture, 1\u20132\u2009h later. Late in the swarm, multiple small, shallower subsidiary faults activated with pronounced hypocenter migration, suggesting that a broader fluid pressure pulse propagated through the subsurface.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064325", 
+        "title": "Fluid-faulting interactions: Fracture-mesh and fault-valve behavior in the February 2014 Mammoth Mountain, California, earthquake swarm"
+    }, 
+    {
+        "author": "Catherine A. M\u00e9riaux, Jo\u00e3o C. Duarte, Wouter P. Schellart, Anne-Sophie M\u00e9riaux", 
+        "date": "2015-07-23", 
+        "description": "\n\nThe interaction between mantle plumes and subducting slabs is well accepted, but the influence of slabs on plumes has more often been portrayed than the reverse. Here we present three-dimensional upper mantle laboratory models in which a compositional plume rises underneath a subducting plate. Slab/plume buoyancy flux ratios ranged between 7 and 18. The models exhibit a two-way interaction. While the plume conduit increasingly tilts away from the trench as a result of slab rollback-induced toroidal mantle flow, the slab subduction rate decreases as a function of the amount of plume buoyancy opposing that of the slab, which gets subducted beneath the slab. We propose that our models apply to the Hainan/Manila system and explain the recently imaged tilt of the Hainan plume by the Manila slab-induced mantle return flow. The Hainan plume could lessen the Manila subduction rate from 8\u2009Ma into the future.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064313", 
+        "title": "A two-way interaction between the Hainan plume and the Manila subduction zone"
+    }, 
+    {
+        "author": "C. F. Larsen, E. Burgess, A. A. Arendt, S. O'Neel, A. J. Johnson, C. Kienholz", 
+        "date": "2015-07-23", 
+        "description": "\n\nMountain glaciers comprise a small and widely distributed fraction of the world's terrestrial ice, yet their rapid losses presently drive a large percentage of the cryosphere's contribution to sea level rise. Regional mass balance assessments are challenging over large glacier populations due to remote and rugged geography, variable response of individual glaciers to climate change, and episodic calving losses from tidewater glaciers. In Alaska, we use airborne altimetry from 116 glaciers to estimate a regional mass balance of \u221275\u2009\u00b1\u200911\u2009Gt\u2009yr\u22121 (1994\u20132013). Our glacier sample is spatially well distributed, yet pervasive variability in mass balances obscures geospatial and climatic relationships. However, for the first time, these data allow the partitioning of regional mass balance by glacier type. We find that tidewater glaciers are losing mass at substantially slower rates than other glaciers in Alaska and collectively contribute to only 6% of the regional mass loss.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064349", 
+        "title": "Surface melt dominates Alaska glacier mass balance"
+    }, 
+    {
+        "author": "Long Chen, Yanxu Zhang, Daniel J. Jacob, Anne L. Soerensen, Jenny A. Fisher, Hannah M. Horowitz, Elizabeth S. Corbitt, Xuejun Wang", 
+        "date": "2015-07-23", 
+        "description": "\n\nAtmospheric mercury (Hg) in the Arctic shows much weaker or insignificant annual declines relative to northern midlatitudes over the past decade (2000\u20132009) but with strong seasonality in trends. We use a global ocean-atmosphere model of Hg (GEOS-Chem) to simulate these observed trends and determine the driving environmental variables. The atmospheric decline at northern midlatitudes can largely be explained by decreasing North Atlantic oceanic evasion. The midlatitude atmospheric signal propagates to the Arctic but is countered by rapid Arctic warming and declining sea ice, which suppresses deposition and promotes oceanic evasion over the Arctic Ocean. The resulting simulation implies a decline of Hg in the Arctic surface ocean that we estimate to be \u22120.67%\u2009yr\u22121 over the study period. Rapid Arctic warming and declining sea ice are projected for future decades and would drive a sustained decline in Arctic Ocean Hg, potentially alleviating the methylmercury exposure risk for northern populations.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064051", 
+        "title": "A decline in Arctic Ocean mercury suggested by differences in decadal trends of atmospheric mercury between the Arctic and northern midlatitudes"
+    }, 
+    {
+        "author": "Chuliang Xiao, Yaocun Zhang", 
+        "date": "2015-07-23", 
+        "description": "\n\nThe wintertime East Asian eddy-driven jet (EAEJ) responding to climate change in the 21st century is studied using model outputs from the Coupled Model Intercomparison Project phase 5 (CMIP5). Compared to the location displacement in oceanic eddy-driven jets, the magnitude change of synoptic-scale transient eddy activities, measured by eddy kinetic energy (EKE), is a more striking feature in EAEJ. An intensified EKE is projected unanimously by CMIP5 models, suggesting that potential strong winter storm events are likely to happen in East Asian midlatitude in a warming climate. The future change of EKE in EAEJ can be understood in terms of growing baroclinicity wave. The upper level EKE is highly correlated to the low-level static stability, Brunt-V\u00e4is\u00e4l\u00e4 frequency (BVF). CMIP5 models generally project an intensified upper evel EKE with a reduced low-level BVF (\u0394EKE\u2009\u221d\u2009\u2212\u0394BVF). Meanwhile, the enhancement of EKE is also constrained by its historical state (\u0394EKE\u2009\u221d\u2009\u2212EKE). Intermodel variabilities among CMIP5 models reveal a similar but weaker relationship between \u0394BVF (or EKE) and \u0394EKE, indicating relatively large model diversities and independencies among CMIP5 models.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064641", 
+        "title": "Projected changes of wintertime synoptic-scale transient eddy activities in the East Asian eddy-driven jet from CMIP5 experiments"
+    }, 
+    {
+        "author": "Max R. McGillen, Fran\u00e7ois Bernard, Eric L. Fleming, James B. Burkholder", 
+        "date": "2015-07-23", 
+        "description": "\n\nHCFC-133a (CF3CH2Cl), an ozone-depleting substance, is primarily removed from the atmosphere by gas-phase reaction with OH radicals and by UV photolysis. The rate coefficient, k, for the OH\u2009+\u2009HCFC-133a reaction was measured between 233 and 379\u2009K and is given by k(T)\u2009=\u2009(9.32\u2009\u00b1\u20090.8)\u2009\u00d7\u200910\u221213\u2009exp(\u2212(1296\u2009\u00b1\u200928)/T), where k(296\u2009K) was measured to be (1.10\u2009\u00b1\u20090.02)\u2009\u00d7\u200910\u221214 (cm3\u2009molecule\u22121\u2009s\u22121) (2\u03c3 precision uncertainty). The HCFC-133a UV absorption spectrum was measured between 184.95 and 240\u2009nm at 213\u2013323\u2009K, and a spectrum parameterization is presented. The HCFC-133a atmospheric loss processes, lifetime, ozone depletion potential, and uncertainties were evaluated using a 2-D atmospheric model. The global annually averaged steady state lifetime and ozone depletion potential (ODP) were determined to be 4.45 (4.04\u20134.90)\u2009years and 0.017 (\u00b10.001), respectively, where the ranges are based solely on the 2\u03c3 uncertainty in the kinetic and photochemical parameters. The infrared absorption spectrum of HCFC-133a was measured, and its global warming potential was determined to be 380 on the 100\u2009year time horizon.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064939", 
+        "title": "HCFC-133a (CF3CH2Cl): OH rate coefficient, UV and infrared absorption spectra, and atmospheric implications"
+    }, 
+    {
+        "author": "Chao-Song Huang", 
+        "date": "2015-07-22", 
+        "description": "\n\nPenetration electric field can be very strong during magnetic storms. However, the variation of penetration electric field with local time (LT) has not been well understood. The Communication/Navigation Outage Forecasting System (C/NOFS) satellite measures the plasma drift/electric field over all local times within ~100\u2009min. In this paper, we present the first nearly simultaneous observations of the dependence of penetration electric field on local time. The meridional ion drift measured by C/NOFS during the main phase of five magnetic storms in 2012 is analyzed. The storm time ion drift shows a large enhancement around 1900\u2009LT, a relatively small enhancement during daytime, and a deep decrease in the postmidnight sector with a peak around 0500\u2009LT. The observed storm time variation of the meridional ion drift with local time represents the variation of the penetration electric field. The averaged ion drifts are in remarkable agreement with recent simulations.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064674", 
+        "title": "Storm-to-storm main phase repeatability of the local time variation of disturbed low-latitude vertical ion drifts"
+    }, 
+    {
+        "author": "Nestor G. Cerpa, Rodolfo Araya, Muriel Gerbault, Riad Hassani", 
+        "date": "2015-07-22", 
+        "description": "\n\nSlab dip controls the state of stress in an overriding plate and affects mountain building. Analog and numerical models have shown variations in tectonic regime induced by slab folding over the 660\u00a0km depth discontinuity zone in orthogonal convergence. Here using a three-dimensional model of oblique subduction (30\u00b0) and accounting for free top surfaces, we show how slab folding generates an along-strike slab dip segmentation, inducing variations in topography of the overriding plate. When the subducting plate begins to curve forward, the elevation height rises inland and varies along the trench from 5\u00a0km to 2\u00a0km. The Andes are a suitable natural zone to compare our results with because of its linear margin and well-constrained plates kinematics. Thus, we provide a new explanation to the general decrease in elevation from the central to southern Andes, which still remains to be combined with other 3-D mechanisms to explain the actual Andean topography.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064047", 
+        "title": "Relationship between slab dip and topography segmentation in an oblique subduction zone: Insights from numerical modeling"
+    }, 
+    {
+        "author": "Sanjiv K. Tiwari, David A. Falconer, Ronald L. Moore, P. Venkatakrishnan, Amy R. Winebarger, Igor G. Khazanov", 
+        "date": "2015-07-22", 
+        "description": "\n\nWe show that the speed of the fastest coronal mass ejections (CMEs) that an active region (AR) can produce can be predicted from a vector magnetogram of the AR. This is shown by logarithmic plots of CME speed (from the SOHO Large Angle and Spectrometric Coronagraph CME catalog) versus each of ten AR-integrated magnetic parameters (AR magnetic flux, three different AR magnetic-twist parameters, and six AR free-magnetic-energy proxies) measured from the vertical and horizontal field components of vector magnetograms (from the Solar Dynamics Observatory's Helioseismic and Magnetic Imager) of the source ARs of 189 CMEs. These plots show the following: (1) the speed of the fastest CMEs that an AR can produce increases with each of these whole-AR magnetic parameters and (2) that one of the AR magnetic-twist parameters and the corresponding free-magnetic-energy proxy each determine the CME-speed upper limit line somewhat better than any of the other eight whole-AR magnetic parameters.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064865", 
+        "title": "Near-Sun speed of CMEs and the magnetic nonpotentiality of their source active regions"
+    }, 
+    {
+        "author": "S. Fueglistaler, C. Radley, I. M. Held", 
+        "date": "2015-07-21", 
+        "description": "\n\nReconciling observations and simulations of tropical upper tropospheric temperature trends remains an important problem in climate science. Examining atmospheric models running over observed sea surface temperatures (SSTs), Flannaghan et al. (2014) show that this reconciliation is affected by the SST data set used and that a precipitation-weighted SST (PSST) is valuable in explaining this result. Here we show that even for Coupled Model Intercomparison Project Phase 5 Atmospheric Model Intercomparison Project (CMIP5 AMIP) simulations forced with identical SSTs, tropical upper tropospheric temperature trends across models (and between ensemble members) show a substantial spread (standard deviation \u223c10% of the average trend). About 60% of this spread between ensemble means, as well as deviations from the ensemble means, can be explained by PSST calculated from the time-evolving precipitation in each model run. Both PSST and atmospheric temperature trends show statistical evidence for systematic differences between models. We conclude that the response of precipitation patterns to changes in SST patterns is a significant source of uncertainty for tropical temperature trends.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064966", 
+        "title": "The distribution of precipitation and the spread in tropical upper tropospheric temperature trends in CMIP5/AMIP simulations"
+    }, 
+    {
+        "author": "Xiaoyong Long, Junfeng Ji, William Balsam, Vidal Barr\u00f3n, Jos\u00e9 Torrent", 
+        "date": "2015-07-21", 
+        "description": "\n\nSoil magnetism depends on the mineral composition and grain size distribution of magnetic particles. The accumulation of magnetic particles with different grain sizes has been found in the laboratory to precede the formation of hematite (Hm), which competes with goethite (Gt) in natural systems. To explore changes in the correlation between magnetic particles and Hm during pedogenesis, we focus on three representative red Ferrasol profiles with comparable total concentrations of iron oxides but different Hm/(Hm\u2009+\u2009Gt) ratios, from 0.14 to 0.74. Superparamagnetic particles and single-domain particles commonly become enriched as the concentration of Hm increases in the profiles. However, the accumulation rates of the particles decrease with Hm/(Hm\u2009+\u2009Gt) along the profiles. We attributed these changes to the simultaneous grain growth of pedogenic magnetic particles and their partial transformation into Hm once a large amount of pedogenic magnetic particles have accumulated in hematitic soils.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064678", 
+        "title": "Grain growth and transformation of pedogenic magnetic particles in red Ferralsols"
+    }, 
+    {
+        "author": "Jiabin Liu, Keyu Fa, Yuqing Zhang, Bin Wu, Shugao Qin, Xin Jia", 
+        "date": "2015-07-21", 
+        "description": "\n\nDeserts may show strong downward CO2 fluxes and thus could be a significant carbon sink. However, this hypothesis has been strongly challenged because of the failure to determine both the reliability of flux measurements and the exact location of fixed carbon. In this study, we added 13CO2 to natural (unsterilized) soil in the Mu Us Desert in northern China and quantified the partitioning of added 13CO2 into soil solid and vapor phases. Results show that natural desert soil absorbed 13CO2 at a mean rate of 0.28\u2009g\u2009m\u22122\u2009d\u22121. Of the absorbed 13CO2, 7.1% was released over a 48\u2009h period after 13CO2 feeding, 72.8% was stored in the soil solid phase, 0.0007% was found in the vapor phase, while 20.0% of the absorbed 13CO2 was undetected. These results indicate that undisturbed desert soils can absorb CO2 from the atmosphere, with the majority of fixed carbon conserved in the soil solid phase.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064689", 
+        "title": "Abiotic CO2 uptake from the atmosphere by semiarid desert soil and its partitioning into soil phases"
+    }, 
+    {
+        "author": "Nicholas J. Elst, Bruce E. Shaw", 
+        "date": "2015-07-21", 
+        "description": "\n\nAftershocks may be driven by stress concentrations left by the main shock rupture or by elastic stress transfer to adjacent fault sections or strands. Aftershocks that occur within the initial rupture may be limited in size, because the scale of the stress concentrations should be smaller than the primary rupture itself. On the other hand, aftershocks that occur on adjacent fault segments outside the primary rupture may have no such size limitation. Here we use high-precision double-difference relocated earthquake catalogs to demonstrate that larger aftershocks occur farther away than smaller aftershocks, when measured from the centroid of early aftershock activity\u2014a proxy for the initial rupture. Aftershocks as large as or larger than the initiating event nucleate almost exclusively in the outer regions of the aftershock zone. This observation is interpreted as a signature of elastic rebound in the earthquake catalog and can be used to improve forecasting of large aftershocks.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064734", 
+        "title": "Larger aftershocks happen farther away: Nonseparability of magnitude and spatial distributions of aftershocks"
+    }, 
+    {
+        "author": "Yiming Luo, J\u00f6rg Lippold", 
+        "date": "2015-07-21", 
+        "description": "\n\nThe distributions of 230Th and 231Pa in the Arctic Ocean are not well understood. In order to examine the Arctic 231Pa/230Th system and therefore to shed light on the future use of Arctic sedimentary 231Pa/230Th, we developed a 2-D scavenging model modified from an Atlantic model. Tuned with reasonable parameters that are consistent with Eurasian Basin geographic settings, the model can reproduce most of the features of the 230Th and 231Pa water column profiles as well as the sedimentary 231Pa/230Th distribution patterns and suggests that the sedimentary 231Pa/230Th in the Eurasian Basin is mainly controlled by the deep water circulation. In our attempt to reproduce the sedimentary 231Pa/230Th patterns during the last glacial, we found that circulation strength in the Eurasian Basin at shallower depths may have been stronger than today.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064671", 
+        "title": "Controls on 231Pa and 230Th in the Arctic Ocean"
+    }, 
+    {
+        "author": "T. Kobashi, J. E. Box, B. M. Vinther, K. Goto-Azuma, T. Blunier, J. W. C. White, T. Nakaegawa, C. S. Andresen", 
+        "date": "2015-07-21", 
+        "description": "\n\nThe abrupt Northern Hemispheric warming at the end of the twentieth century has been attributed to an enhanced greenhouse effect. Yet Greenland and surrounding subpolar North Atlantic remained anomalously cold in 1970s to early 1990s. Here we reconstructed robust Greenland temperature records (North Greenland Ice Core Project and Greenland Ice Sheet Project 2) over the past 2100\u2009years using argon and nitrogen isotopes in air trapped within ice cores and show that this cold anomaly was part of a recursive pattern of antiphase Greenland temperature responses to solar variability with a possible multidecadal lag. We hypothesize that high solar activity during the modern solar maximum (approximately 1950s\u20131980s) resulted in a cooling over Greenland and surrounding subpolar North Atlantic through the slowdown of Atlantic Meridional Overturning Circulation with atmospheric feedback processes.\n", 
+        "journal": "Geophysical Research Letters", 
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064764", 
+        "title": "Modern solar maximum forced late twentieth century Greenland cooling"
     }, 
     {
         "author": "Natalie Kramer, Ellen Wohl", 
@@ -758,206 +958,6 @@
         "journal": "Geophysical Research Letters", 
         "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064155", 
         "title": "Fractal patterns in riverbed morphology produce fractal scaling of water storage times"
-    }, 
-    {
-        "author": "Manoochehr Shirzaei, Maxwell L. Rudolph, Michael Manga", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe Lusi mud eruption, in East Java, Indonesia, began in May 2006 and continues to the present. Previous analyses of surface deformation data suggested an exponential decay of the pressure in the mud source but did not constrain the location, geometry, and evolution of the possible source(s) of the erupting mud and fluids. To map the surface deformation, we employ multitemporal interferometric synthetic aperture radar and analyze a well-populated L-band data set acquired by the Advanced Land Observing Satellite (ALOS) between May 2006 and April 2011. We then apply a time-dependent inverse modeling scheme. Volume changes occur in two regions beneath Lusi, at 0.3\u20132.0\u2009km and 3.5\u20134.75\u2009km depth. The cumulative volume change within the shallow source is ~2\u20133 times larger than that of the deep source. The observation and model suggest that a shallow source plays a key role by supplying the erupting mud, but that additional fluids do ascend from depths >4\u2009km on eruptive timescales.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064576", 
-        "title": "Deep and shallow sources for the Lusi mud eruption revealed by surface deformation"
-    }, 
-    {
-        "author": "Jamey R. Szalay, Mih\u00e1ly Hor\u00e1nyi", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe Lunar Dust Experiment (LDEX) on board the Lunar Atmosphere and Dust Environment Explorer mission was designed to make in situ dust measurements while orbiting the Moon. Particles with radii a >\u223c 0.3\u03bcm were detected as single impacts. LDEX was also capable of measuring the collective signal generated from dust impacts with sizes below its single-particle detection threshold. A putative population of electrostatically lofted grains above the lunar terminator with radii of approximately 0.1\u2009\u03bcm has been suggested to exist since the Apollo era. LDEX performed the first search with an in situ dust detector for such a population. Here we present the results of the LDEX observations taken over the lunar terminator and report that within LDEX's detection limits, we found no evidence of electrostatically lofted grains in the altitude range of 3\u2013250\u2009km above the lunar terminator.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064324", 
-        "title": "The search for electrostatically lofted grains above the Moon with the Lunar Dust Experiment"
-    }, 
-    {
-        "author": "H. S. Kuyuk, S. Colombelli, A. Zollo, R. M. Allen, M. O. Erdik", 
-        "date": "2015-07-14", 
-        "description": "\n\nEarthquake early warning studies are shifting real-time seismology in earthquake science. They provide methods to rapidly assess earthquakes to predict damaging ground shaking. Preventing false alarms from these systems is key. Here we developed a simple, robust algorithm, Authorizing GRound shaking for Earthquake Early warning Systems (AGREEs), to reduce falsely issued alarms. This is a network threshold-based algorithm, which differs from existing approaches based on apparent velocity of P and S waves. AGREEs is designed to function as an external module to support existing earthquake early warning systems (EEWSs) and filters out the false events, by evaluating actual shaking near the epicenter. Our retrospective analyses of the 2009 L'Aquila and 2012 Emilia earthquakes show that AGREEs could help an EEWS by confirming the epicentral intensity. Furthermore, AGREEs is able to effectively identify three false events due to a storm, a teleseismic earthquake, and broken sensors in Irpinia Seismic Network, Italy.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL063881", 
-        "title": "Automatic earthquake confirmation for early warning system"
-    }, 
-    {
-        "author": "Thomas S. Bianchi, Daniel C. O. Thornton, Shari A. Yvon-Lewis, Gary M. King, Timothy I. Eglinton, Michael R. Shields, Nicholas D. Ward, Jason Curtis", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe role of priming processes in the remineralization of terrestrially derived dissolved organic carbon (TDOC) in aquatic systems has been overlooked. We provide evidence for TDOC priming using a lab-based microcosm experiment in which TDOC was primed by the addition of 13C-labeled algal dissolved organic carbon (ADOC) or a 13C-labeled disaccharide (trehalose). The rate of TDOC remineralization to carbon dioxide (CO2) occurred 4.1\u2009\u00b1\u20090.9 and 1.5\u2009\u00b1\u20090.3 times more rapidly with the addition of trehalose and ADOC, respectively, relative to experiments with TDOC as the sole carbon source over the course of a 301\u2009h incubation period. Results from these controlled experiments provide fundamental evidence for the occurrence of priming of TDOC by ADOC and a simple disaccharide. We suggest that priming effects on TDOC should be considered in carbon budgets for large-river deltas, estuaries, lakes, hydroelectric reservoirs, and continental shelves.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064765", 
-        "title": "Positive priming of terrestrially derived dissolved organic matter in a freshwater microcosm system"
-    }, 
-    {
-        "author": "V. S. Semenov, D. I. Kubyshkina, M. V. Kubyshkina, I. V. Kubyshkin, N. Partamies", 
-        "date": "2015-07-14", 
-        "description": "\n\nThere is a point of view that solar wind factors, which break the magnetotail symmetry, are more effective in triggering the magnetospheric substorm. To clarify the question we use a database of substorm onsets and found the evident dependence of the substorm probability on the solar wind flow direction jumps (asymmetric factor), while distribution of the substorm occurrence on the solar wind number density jumps (symmetric factor) is homogeneous. The theoretical interpretation is based on the extension of the existing symmetric Kan model for a bent current sheet. Allowing the model tilt angle to vary in time, we found that the induced electric field penetrates to the central region of the bent current sheet. If the solar wind direction jump increases the bending, then induced electric field thins the current sheet and thus stimulates the reconnection. In the opposite case the current sheet thickens. We claim that this effect is sufficient (provides twice or more thinning of the current sheet in 10\u2009min).\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064806", 
-        "title": "On the correlation between the fast solar wind flow changes and substorm occurrence"
-    }, 
-    {
-        "author": "Shun-Rong Zhang, Philip J. Erickson, John C. Foster, John M. Holt, Anthea J. Coster, Jonathan J. Makela, John Noto, John W. Meriwether, Brian J. Harding, Juanita Riccobono, Robert B. Kerr", 
-        "date": "2015-07-14", 
-        "description": "\n\nWe report a significant poleward surge in thermospheric winds at subauroral and midlatitudes following the 17\u201318 March 2015 great geomagnetic storm. This premidnight surge is preceded by strong westward winds. These disturbances were observed over three sites with geodetic latitudes 35\u201342\u00b0N in the American sector by Fabry-Perot interferometers at 630\u2009nm wavelength. Prior to the wind disturbances, subauroral polarization streams (SAPS) were measured by the Millstone Hill incoherent scatter radar between 20 and 02\u2009UT. We identify the observed neutral wind variations as driven by SAPS, through a scenario where strong ion flows cause a westward neutral wind, subsequently establishing a poleward wind surge due to the poleward Coriolis force on that westward wind. These regional disturbances appear to have prevented the well-known storm time equatorward wind surge from propagating into low latitudes, with the consequence that the classic disturbance dynamo mechanism failed to occur.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064836", 
-        "title": "Thermospheric poleward wind surge at midlatitudes during great storm intervals"
-    }, 
-    {
-        "author": "Wancang Zhao, Youbin Sun, William Balsam, Lin Zeng, Huayu Lu, Khureldavaa Otgonbayar, Junfeng Ji", 
-        "date": "2015-07-14", 
-        "description": "\n\nHf-Nd-Sr isotopic fingerprinting has been employed as a powerful method for distinguishing dust sources. However, the Hf and Sr isotopic compositions of dust are highly dependent on particle size to accurately identify dust provenance. Here we compare the Hf-Nd-Sr isotopic compositions of clay-sized fractions from dust sources (the Mongolian Plateau) to sinks (Beijing and Greenland). Our results document that clay-sized Hf-Nd-Sr isotopic compositions of Mongolian dust are controlled by two isotopic/geochemical provinces: Southern Mongolian Gobi (SMG) and Northern Mongolian Plateau (NMP). Our data indicate that the SMG is potentially an important dust source to the loess in Beijing and Hulun Buir and could be a contributing source of dust to Greenland, whereas the NMP contributes little dust to the Chinese loess and the Greenland. Furthermore, we demonstrate that the deserts of northwest China are one of the main dust contributors to Beijing and Greenland, but not to Hulun Buir.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064357", 
-        "title": "Clay-sized Hf-Nd-Sr isotopic composition of Mongolian dust as a fingerprint for regional to hemispherical transport"
-    }, 
-    {
-        "author": "Hui Ding, Richard J. Greatbatch, Mojib Latif, Wonsun Park", 
-        "date": "2015-07-14", 
-        "description": "\n\nWe examine the impact of sea surface temperature (SST) bias on interannual variability during boreal summer over the equatorial Atlantic using two suites of partially coupled model (PCM) experiments with and without surface heat flux correction. In the experiments, surface wind stress anomalies are specified from observations while the thermodynamic coupling between the atmospheric and oceanic components is still active as in the fully coupled model. The results show that the PCM can capture around 50% of the observed variability associated with the Atlantic Ni\u00f1o from 1958 to 2013, but only when the bias is substantially reduced using heat flux correction, with no skill otherwise. We further show that ocean dynamics explain a large part of the SST variability in the eastern equatorial Atlantic in both observations (50\u201360%) and the PCM experiments (50\u201370%) with heat flux correction, implying that the seasonal predictability potential may be higher than currently thought.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064799", 
-        "title": "The impact of sea surface temperature bias on equatorial Atlantic interannual variability in partially coupled model experiments"
-    }, 
-    {
-        "author": "Joaqu\u00edn Jim\u00e9nez-Mart\u00ednez, Pietro de Anna, Herv\u00e9 Tabuteau, R\u00e9gis Turuban, Tanguy Le Borgne, Yves M\u00e9heust", 
-        "date": "2015-07-14", 
-        "description": "\n\nPorous media in which different fluid phases coexist are common in nature (e.g., vadose zone and gas-oil reservoirs). In partially saturated porous media, the intricate spatial distributions of the wetting and nonwetting phases causes their flow to be focused onto preferential paths. Using a novel 2-D experimental setup allowing pore-scale measurement of concentration fields in a controlled unsaturated flow, we highlight mechanisms by which mixing of an invading fluid with the resident fluid is significantly enhanced when decreasing saturation. The mean scalar dissipation rate is observed to decrease slowly in time, while under saturated conditions it decays rapidly. This slow decrease is due to sustained longitudinal solute fingering, which causes concentration gradients to remain predominantly transverse to the average flow. Consequently, the effective reactivity is found to be much larger than under saturated conditions. These results provide new insights into the role that multiphase flows play on mixing/reaction in porous media.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064513", 
-        "title": "Pore-scale mechanisms for the enhancement of mixing in unsaturated porous media and implications for chemical reactions"
-    }, 
-    {
-        "author": "Michael P. Stockinger, Andreas L\u00fccke, Jeffrey J. McDonnell, Bernd Diekkr\u00fcger, Harry Vereecken, Heye R. Bogena", 
-        "date": "2015-07-08", 
-        "description": "\n\nPrevious studies of streamwater transit time distributions (TTDs) used isotope tracer information from open precipitation (OP) as inputs to lumped watershed models that simulate the stream isotopic composition to estimate TTD. However, in forested catchments passage of rainfall through the canopy will alter the tracer signature of throughfall (TF) via interception. Here we test the effect of using TF instead of OP on TTD estimates. We sampled a 0.39\u2009km2 catchment (W\u00fcstebach, Germany) for a 19\u2009month period using weekly precipitation and stream isotope data to evaluate changes in stream isotope simulation and TTDs. We found that TF had different effects on TTDs for \u03b418O and \u03b42H, with TF leading to up to 4\u2009months shorter transit times. TTDs converged for both isotopes only when using TF. TF improved the stream isotope simulations. These results demonstrate the importance of canopy-induced isotope tracer changes in estimating streamwater TTDs in forested catchments.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064622", 
-        "title": "Interception effects on stable isotope driven streamwater transit time estimates"
-    }, 
-    {
-        "author": "Wei Xu, Sebastien Celestin, Victor P. Pasko", 
-        "date": "2015-07-08", 
-        "description": "\n\nBoth natural cloud-to-ground and rocket-triggered lightning flashes have been found to be associated with intense and brief bursts of X-ray emissions. Using a full energy Monte Carlo model combined with an optical emission model, we quantify the optical emissions induced by the strong acceleration of thermal runaway electrons in the highly inhomogeneous electric field produced by stepping lightning leaders. The results demonstrate that this acceleration process is accompanied with not only high-energy X-ray emissions but also detectable levels of optical emissions. The fluorescence beam exhibits a conical shape and appears to be larger than the streamer zone associated with the lightning leader. Moreover, we emphasize that the size of the fluorescence beam largely depends on the electrical properties of the associated lightning leader and the intensity ratio between emissions from the second positive band system of N2 and the first negative band system of N\n2+ reflects the intrinsic difference in the energetics of electrons involved. Therefore, corresponding measurements compared to modeling results can provide useful information for understanding of the stepping mechanism of lightning leaders and associated X-ray production processes.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064419", 
-        "title": "Optical emissions associated with energetic electrons produced by stepping leaders in cloud-to-ground lightning discharges"
-    }, 
-    {
-        "author": "David A. Lavers, F. Martin Ralph, Duane E. Waliser, Alexander Gershunov, Michael D. Dettinger", 
-        "date": "2015-07-08", 
-        "description": "\n\nGlobal warming of the Earth's atmosphere is hypothesized to lead to an intensification of the global water cycle. To determine associated hydrological changes, most previous research has used precipitation. This study, however, investigates projected changes to global atmospheric water vapor transport (integrated vapor transport (IVT)), the key link between water source and sink regions. Using 22 global circulation models from the Climate Model Intercomparison Project Phase 5, we evaluate, globally, the mean, standard deviation, and the 95th percentiles of IVT from the historical simulations (1979\u20132005) and two emissions scenarios (2073\u20132099). Considering the more extreme emissions, multimodel mean IVT increases by 30\u201340% in the North Pacific and North Atlantic storm tracks and in the equatorial Pacific Ocean trade winds. An acceleration of the high-latitude IVT is also shown. Analysis of low-altitude moisture and winds suggests that these changes are mainly due to higher atmospheric water vapor content.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064672", 
-        "title": "Climate change intensification of horizontal water vapor transport in CMIP5"
-    }, 
-    {
-        "author": "Ingrid H. Onarheim, Tor Eldevik, Marius \u00c5rthun, Randi B. Ingvaldsen, Lars H. Smedsrud", 
-        "date": "2015-07-08", 
-        "description": "\n\nA main concern of present climate change is the Arctic sea ice cover. In wintertime, its observed variability is largely carried by the Barents Sea. Here we propose and evaluate a simple quantitative and prognostic framework based on first principles and rooted in observations to predict the annual mean Barents Sea ice cover, which variance is carried by the winter ice (96%). By using observed ocean heat transport and sea ice area, the proposed framework appears skillful and explains 50% of the observed sea ice variance up to 2\u2009years in advance. The qualitative prediction of increase versus decrease in ice cover is correct 88% of the time. Model imperfections can largely be diagnosed from simultaneous meridional winds. The framework and skill are supported by a 60\u2009year simulation from a regional ice-ocean model. We particularly predict that the winter sea ice cover for 2016 will be slightly less than 2015.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064359", 
-        "title": "Skillful prediction of Barents Sea ice cover"
-    }, 
-    {
-        "author": "M. Strumik, V. Roytershteyn, H. Karimabadi, K. Stasiewicz, M. Grzesiak, D. Przepi\u00f3rka", 
-        "date": "2015-07-08", 
-        "description": "\n\nWe discuss mechanisms of the generation of ultralow frequency (ULF) upstream waves in the terrestrial foreshock that are essential for the acceleration of ions in space plasmas. The analysis is based on global hybrid kinetic simulations of the magnetosphere that provide realistic environment for the growth of the ULF waves in a quasi-radial configuration of the interplanetary magnetic field. We focus on a long-debated problem of the generation mechanism of oblique and parallel ULF waves and provide quantitative arguments in favor of the ion/ion cyclotron resonant instability. We also show that parallel propagating waves are predominantly generated in this configuration, but geometrical effects related to the phase space density in wave vector space lead to apparent predominance of obliquely propagating waves. Correspondence between the results outlined above and previously published experimental claims is thoroughly discussed and our results are shown to be consistent with spacecraft measurements.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064915", 
-        "title": "Identification of the dominant ULF wave mode and generation mechanism for obliquely propagating waves in the Earth's foreshock"
-    }, 
-    {
-        "author": "Paolo A. C. Galli, Edoardo Peronace", 
-        "date": "2015-07-07", 
-        "description": "\n\nThe Calabrian Arc is the epicentral region of one third of the strongest earthquakes of Italy (Mw\u2009\u2265\u20097.0). These are confined within a narrow peninsula which is the emerging portion of a slab-related accretionary wedge, and all occurred in the past four centuries. Therefore, here more than anywhere in Italy, historical seismicity alone is not sufficient for seismic hazard assessment. We carried out geological and paleoseismological studies in southern Calabria that allowed characterizing the seismogenic behavior of the Cittanova fault which was responsible for one of the most catastrophic earthquakes to ever occur in Europe, the Mw 7.0 5 February 1783 event. We have found out conclusive evidence for four Holocene earthquakes prior to 1783, with a recurrence time longer (~3.2\u2009kyr) than the other Apennine faults (0.3\u20132.4\u2009kyr). We have also estimated a robust slip rate for the late Upper Pleistocene (0.6\u2009mm/yr) and an extension rate (0.4\u2009mm/yr) that could reflect the residual back-arc opening of the Tyrrhenian Basin.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064062", 
-        "title": "Low slip rates and multimillennial return times for Mw 7 earthquake faults in southern Calabria (Italy)"
-    }, 
-    {
-        "author": "Som Dutt, Anil K. Gupta, Steven C. Clemens, Hai Cheng, Raj K. Singh, Gayatri Kathayat, R. Lawrence Edwards", 
-        "date": "2015-07-07", 
-        "description": "\n\nSpeleothem proxy records from northeastern (NE) India reflect seasonal changes in Indian summer monsoon strength as well as moisture source and transport paths. We have analyzed a new speleothem record from Mawmluh Cave, Meghalaya, India, in order to better understand these processes. The data show a strong wet phase 33,500\u201332,500\u2009years B.P. followed by a weak/dry phase from 26,000 to 23,500\u2009years B.P. and a very weak phase from 17,000 to 15,000\u2009years B.P. The record suggests abrupt increase in strength during the B\u00f8lling-Aller\u00f8d and early Holocene periods and pronounced weakening during the Heinrich and Younger Dryas cold events. We infer that these changes in monsoon strength are driven by changes in temperature gradients which drive changes in winds and moisture transport into northeast India.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064015", 
-        "title": "Abrupt changes in Indian summer monsoon strength during 33,800 to 5500\u2009years B.P."
-    }, 
-    {
-        "author": "Lei Geng, Maria C. Zatko, Becky Alexander, T. J. Fudge, Andrew J. Schauer, Lee T. Murray, Loretta J. Mickley", 
-        "date": "2015-07-07", 
-        "description": "\n\nRecords of ice core nitrate and its isotopes hold the potential to assess past atmospheric conditions regarding NOx and oxidant levels. However, relating such records to past atmospheric conditions requires a site-specific understanding of the postdepositional processing of snow nitrate. We report \u03b415N(NO3\u2212) records from the Greenland Ice Sheet Project 2 (GISP2) ice core over major climate transitions. Model calculations and comparison with records of parameters influencing UV-driven postdepositional processing of snow nitrate suggest that the observed variability in GISP2 \u03b415N(NO3\u2212) over major climate transitions is primarily driven by changes in the degree of postdepositional loss of snow nitrate. Estimates of the fractional loss of snow nitrate is (16\u201323)% in the Holocene and (45\u201353)% in the glacial period, suggesting a (41\u2009\u00b1\u200932)% lower nitrate depositional flux to Greenland during the glacial period relative to the Holocene.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064218", 
-        "title": "Effects of postdepositional processing on nitrogen isotopes of nitrate in the Greenland Ice Sheet Project 2 ice core"
-    }, 
-    {
-        "author": "Julie A. Vano, John B. Kim, David E. Rupp, Philip W. Mote", 
-        "date": "2015-07-07", 
-        "description": "\n\nClimate impact studies often require the selection of a small number of climate scenarios. Ideally, a subset would have simulations that both (1) appropriately represent the range of possible futures for the variable/s most important to the impact under investigation and (2) come from global climate models (GCMs) that provide plausible results for future climate in the region of interest. We demonstrate an approach to select a subset of GCMs that incorporates both concepts and provides insights into the range of climate impacts. To represent how an ecosystem process responds to projected future changes, we methodically sample, using a simple sensitivity analysis, how an ecosystem variable responds locally to projected regional temperature and precipitation changes. We illustrate our approach in the Pacific Northwest, focusing on (a) changes in streamflow magnitudes in critical seasons for water management and (b) changes in annual vegetation carbon.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL063208", 
-        "title": "Selecting climate change scenarios using impact-relevant sensitivities"
-    }, 
-    {
-        "author": "E. K. Montgomery-Brown, C. W. Wicks, P. F. Cervelli, J. O. Langbein, J. L. Svarc, D. R. Shelly, D. P. Hill, M. Lisowski", 
-        "date": "2015-07-07", 
-        "description": "\n\nSlow inflation began at Long Valley Caldera in late 2011, coinciding with renewed swarm seismicity. Ongoing deformation is concentrated within the caldera. We analyze this deformation using a combination of GPS and InSAR (TerraSAR-X) data processed with a persistent scatterer technique. The extension rate of the dome-crossing baseline during this episode (CA99 to KRAC) is 1\u2009cm/yr, similar to past inflation episodes (1990\u20131995 and 2002\u20132003), and about a tenth of the peak rate observed during the 1997 unrest. The current deformation is well modeled by the inflation of a prolate spheroidal magma reservoir \u223c7\u2009km beneath the resurgent dome, with a volume change of \u223c6\u2009\u00d7\u2009106\u2009m3/yr from 2011.7 through the end of 2014. The current data cannot resolve a second source, which was required to model the 1997 episode. This source appears to be in the same region as previous inflation episodes, suggesting a persistent reservoir.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064338", 
-        "title": "Renewed inflation of Long Valley Caldera, California (2011 to 2014)"
-    }, 
-    {
-        "author": "Akarsh Asoka, Vimal Mishra", 
-        "date": "2015-07-07", 
-        "description": "\n\nPrediction of vegetation anomalies at regional scales is essential for management of food and water resources. Forecast of vegetation anomalies at 1\u20133\u2009months lead time can help in decision making. Here we show that normalized difference vegetation index (NDVI) along with other hydroclimatic variables (soil moisture and sea surface temperature) can be effectively used to predict vegetation anomalies in India. The spatiotemporal analysis of NDVI showed significant greening over the region during the period of 1982\u20132013. The root-zone soil moisture showed a positive correlation with NDVI, whereas the El Ni\u00f1o\u2013Southern Oscillation index (Nino 3.4) is negatively correlated in most of the regions. We extended this relationship to develop a model to predict NDVI in 1 to 3\u2009months lead time. The predicted vegetation anomalies compare well with observations, which can be effectively utilized in early warning and better planning in water resources and agricultural sectors in India.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL063991", 
-        "title": "Prediction of vegetation anomalies to improve food security and water management in India"
-    }, 
-    {
-        "author": "F. S. Rodrigues, M. J. Nicolls, M. A. Milla, J. M. Smith, R. H. Varney, A. Str\u00f8mme, C. Martinis, J. F. Arratia", 
-        "date": "2015-07-07", 
-        "description": "\n\nA new, 14-panel Advanced Modular Incoherent Scatter Radar (AMISR-14) system was recently deployed at the Jicamarca Radio Observatory. We present results of the first coherent backscatter radar observations of equatorial spread F(ESF) irregularities made with the system. Colocation with the 50\u2009MHz Jicamarca Unattended Long-term studies of the Ionosphere and Atmosphere (JULIA) radar allowed unique simultaneous observations of meter and submeter irregularities. Observations from both systems produced similar Range-Time-Intensity maps during bottom-type and bottomside ESF events. We were also able to use the electronic beam steering capability of AMISR-14 to \u201cimage\u201d scattering structures in the magnetic equatorial plane and track their appearance, evolution, and decay with a much larger field of view than previously possible at Jicamarca. The results suggest zonal variations in the instability conditions leading to irregularities and demonstrate the dynamic behavior of F region scattering structures as they evolve and drift across the radar beams.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064574", 
-        "title": "AMISR-14: Observations of equatorial spread F"
-    }, 
-    {
-        "author": "Giuseppe Foti, Christine Gommenginger, Philip Jales, Martin Unwin, Andrew Shaw, Colette Robertson, Josep Rosell\u00f3", 
-        "date": "2015-07-07", 
-        "description": "\n\nFirst results are presented for ocean surface wind speed retrieval from reflected GPS signals measured by the low Earth orbiting UK TechDemoSat-1 satellite (TDS-1). Launched in July 2014, TDS-1 provides the first new spaceborne Global Navigation Satellite System-Reflectometry (GNSS-R) data since the pioneering UK-Disaster Monitoring Mission (UK-DMC) experiment in 2003. Examples of onboard-processed delay-Doppler maps reveal excellent data quality for winds up to 27.9\u2009m/s. Collocated Advanced Scatterometer (ASCAT) winds are used to develop and evaluate a wind speed algorithm based on signal-to-noise ratio (SNR) and the bistatic radar equation. For SNRs greater than 3\u2009dB, wind speed is retrieved without bias and a precision around 2.2\u2009m/s between 3 and 18\u2009m/s even without calibration. Exploiting lower SNR signals, however, requires good knowledge of the antenna beam, platform attitude, and instrument gain setting. This study demonstrates the capabilities of low-cost, low-mass, and low-power GNSS-R receivers ahead of their launch on the NASA Cyclone GNSS (CYGNSS) constellation in 2016.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064204", 
-        "title": "Spaceborne GNSS reflectometry for ocean winds: First results from the UK TechDemoSat-1 mission"
-    }, 
-    {
-        "author": "Jordan L. Thomas, Darryn W. Waugh, Anand Gnanadesikan", 
-        "date": "2015-07-07", 
-        "description": "\n\nChanges in the Southern Annular Mode (SAM), Southern Hemisphere (SH) westerly jet location, and magnitude are linked with changes in ocean circulation along with ocean heat and carbon uptake. Recent trends have been observed in these fields but not much is known about the natural variability. Here we aim to quantify the natural variability of the SH extratropical circulation by using Coupled Model Intercomparison Project Phase 5 (CMIP5) preindustrial control model runs and compare with the observed trends in SAM, jet magnitude, and jet location. We show that trends in SAM are due partly to external forcing but are not outside the natural variability as described by these models. Trends in jet location and magnitude, however, lie outside the unforced natural variability but can be explained by a combination of natural variability and the ensemble mean forced trend. These results indicate that trends in these three diagnostics cannot be used interchangeably.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064521", 
-        "title": "Southern Hemisphere extratropical circulation: Recent trends and natural variability"
-    }, 
-    {
-        "author": "Simon Wing, Donald H. Fairfield, Jay R. Johnson, Shin-I. Ohtani", 
-        "date": "2015-07-07", 
-        "description": "\n\nThe Johns Hopkins University Applied Physics Laboratory open-field line particle precipitation model predicts downward field-aligned electric field to maintain charge quasi-neutrality. Previous studies confirmed the existence of such electric fields. However, the present study shows that upward field-aligned electric field can be found within upward field-aligned current (FAC) region. In the upward FAC region, upward electric field that accelerates electron downward is seen with the occurrence rates of 82%\u201396%. In contrast, the occurrence rates in the downward FAC regions are 3%\u201311%. Polar rain electrons located in the upward FAC region adjacent to closed field lines often show a ramping up of energy with increasing latitude before reaching a plateau. This plateau may be attributed to the magnetosheath electrons that progressively have higher antisunward velocity and lower density with increasing distance from the subsolar point before they asymptotically reach the solar wind values.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064229", 
-        "title": "On the field-aligned electric field in the polar cap"
-    }, 
-    {
-        "author": "J. De Rydt, G. H. Gudmundsson, H. Rott, J. L. Bamber", 
-        "date": "2015-07-07", 
-        "description": "\n\nFollowing the disintegration of the Larsen B Ice Shelf, Antarctic Peninsula, in 2002, regular surveillance of its \u223c20 tributary glaciers has revealed a response which is varied and complex in both space and time. The major outlets have accelerated and thinned, smaller glaciers have shown little or no change, and glaciers flowing into the remnant Scar Inlet Ice Shelf have responded with delay. In this study we present the first areawide numerical analysis of glacier dynamics before and immediately after the collapse of the ice shelf, combining new data sets and a state-of-the-art numerical ice flow model. We simulate the loss of buttressing at the grounding line and find a good qualitative agreement between modeled changes in glacier flow and observations. Through this study, we seek to improve confidence in our numerical models and their ability to capture the complex mechanical coupling between floating ice shelves and grounded ice.\n", 
-        "journal": "Geophysical Research Letters", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064355", 
-        "title": "Modeling the instantaneous response of glaciers after the collapse of the Larsen B Ice Shelf"
     }, 
     {
         "author": "", 
