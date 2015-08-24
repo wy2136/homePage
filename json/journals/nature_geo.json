@@ -1,106 +1,146 @@
 [
     {
-        "author": "Jeffrey Evans", 
-        "date": "2015-07-13", 
-        "description": "Antarctic Ice Sheet change during the last glacial cycle is unclear. The timing of moraine development in the Ross basin suggests that the ice sheet reached maximum thickness under the warming temperatures of the last termination.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/kbCOyTxoiL4/ngeo2494", 
-        "title": "Cryosphere: Antarctic ice growth and retreat"
-    }, 
+        "author": "Philip Allen",
+        "date": "2015-08-24",
+        "description": "Evidence for a Neoproterozoic Snowball Earth in the sedimentary record has been controversial. A weathered horizon preserved in sedimentary rocks from Svalbard may provide a rare signature of prolonged global glaciation.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/XJwAvmsG9OQ/ngeo2504",
+        "title": "Palaeoclimate: Snowball climate conundrum"
+    },
     {
-        "author": "Friederike E. L. Otto", 
-        "date": "2015-07-13", 
-        "description": "Anthropogenic climate change alters the risk of some extreme weather events. High-resolution computer simulations suggest that Black Sea warming made the devastating 2012 Krymsk flood possible \u2014 a virtually impossible event just 30 years ago.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/RWAU22eF0EU/ngeo2484", 
-        "title": "Climate change: Attribution of extreme weather"
-    }, 
+        "author": "Bruno Scaillet",
+        "date": "2015-08-24",
+        "description": "The Moon was once thought to be depleted in volatile elements. Analyses of the carbon contents of lunar volcanic glasses reveal that carbon monoxide degassing could have produced the fire-fountain eruptions from which these glasses were formed.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/1Y9Tz2YeDwY/ngeo2530",
+        "title": "Planetary science: Carbon in the Moon"
+    },
     {
-        "author": "A. M. Jellinek", 
-        "date": "2015-07-20", 
-        "description": "Earth's composition differs from its meteoritic precursors. An evaluation of the evidence suggests that some material could have been lost to space during collisions, which may explain Earth's unusual plate tectonic regime and habitable climate.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/EOuq6ozXBsw/ngeo2488", 
-        "title": "Connections between the bulk composition, geodynamics and habitability of Earth"
-    }, 
+        "author": "Aur\u00e9lien Crida",
+        "date": "2015-08-17",
+        "description": "Saturn's F ring is chaperoned on both sides by the tiny moons Prometheus and Pandora. Numerical simulations show that this celestial ballet can result from the collision of two aggregates that evolved out of Saturn's main rings.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/UG-Gyal729Q/ngeo2512",
+        "title": "Planetary science: Shepherds of Saturn's ring"
+    },
     {
-        "author": "S. Pfahl", 
-        "date": "2015-07-20", 
-        "description": "Atmospheric blocking can contribute to extreme weather events. A Lagrangian approach applied to reanalysis data shows that a large fraction of air masses are heated before entering a blocking system, pointing to a role for latent heating.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/eZA0tY-CfNM/ngeo2487", 
-        "title": "Importance of latent heat release in ascending air streams for atmospheric blocking"
-    }, 
+        "author": "Jeff Peakall",
+        "date": "2015-08-17",
+        "description": "Braided channels are rare on ocean floors, but abundant on land. Experiments and theory suggest that deeper flows and rapid overbank deposition restrict braiding in underwater rivers relative to their terrestrial counterparts.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/qKUXrQ5-x9A/ngeo2509",
+        "title": "Geomorphology: Undersea river patterns"
+    },
     {
-        "author": "Brenda L. Hall", 
-        "date": "2015-07-13", 
-        "description": "Ice-shelf grounding lines off the coast of Antarctica have retreated over the past 20,000 years. Precise dating of moraines suggests the timing of retreat in the Ross Sea was controlled by the interplay between accumulation and ocean forcing.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/xMNigTrQt6Y/ngeo2478", 
-        "title": "Accumulation and marine forcing of ice dynamics in the western Ross Sea during the last\u00a0deglaciation"
-    }, 
+        "author": "Ruth M. Doherty",
+        "date": "2015-08-10",
+        "description": "Tropospheric ozone is generated from precursor pollutants, but can be blown far afield. Satellite observations show rising ozone levels over China \u2014 and almost stable levels over western North America despite stricter regulations.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/1AWkq8D46gU/ngeo2497",
+        "title": "Atmospheric chemistry: Ozone pollution from near and far"
+    },
     {
-        "author": "Edmund P. Meredith", 
-        "date": "2015-07-13", 
-        "description": "An extreme rainfall event occurred near the Black Sea town of Krymsk in July 2012. Simulations with a high-resolution weather forecasting model reveal that Black Sea surface warming has led to convective precipitation, which can bring strong rains.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/x0WUo5QjP9g/ngeo2483", 
-        "title": "Crucial role of Black Sea warming in amplifying the 2012 Krymsk precipitation extreme"
-    }, 
+        "author": "Helen V. McGregor",
+        "date": "2015-08-17",
+        "description": "Sea surface temperatures have varied over the past 2,000 years. A synthesis of surface-temperature reconstructions shows ocean surface cooling from AD1 to 1800, with much of the trend from 800 to 1800 driven by volcanic eruptions.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/Hwlio9PZHGQ/ngeo2510",
+        "title": "Robust global ocean cooling trend for the pre-industrial Common Era"
+    },
     {
-        "author": "V. Sautter", 
-        "date": "2015-07-13", 
-        "description": "NASA\u2019s Curiosity rover detected light-toned rocks along its traverse on Mars. Geochemical data suggest that the rocks represent a diversity of silica-rich magmatic rock types that may be analogous to Earth\u2019s early continental crust.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/ncdxMgLmrAQ/ngeo2474", 
-        "title": "In situ evidence for continental crust on early Mars"
-    }, 
+        "author": "Christopher Davies",
+        "date": "2015-08-24",
+        "description": "The material properties of the Earth\u2019s core have been better constrained by recent technical and computational advances. The properties imply that the core was once hot, but is cooling quickly, and the inner core is young.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/-UdVU-09FUg/ngeo2492",
+        "title": "Constraints from material properties on the dynamics and evolution of Earth\u2019s core"
+    },
     {
-        "author": "Marie B\u011bhounkov\u00e1", 
-        "date": "2015-07-06", 
-        "description": "Water plume eruptions on Saturn\u2019s icy moon Enceladus are delayed relative to the peak tidal stresses. Simulations suggest the delay can be explained by the moon\u2019s interior structure and the presence of a subsurface ocean.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/E963y68aesM/ngeo2475", 
-        "title": "Timing of water plume eruptions on Enceladus explained by interior viscosity structure"
-    }, 
+        "author": "Douglas I. Benn",
+        "date": "2015-08-24",
+        "description": "The presence of dynamic ice sheets during Snowball Earth glaciations is controversial. Geological evidence and ice sheet modelling suggest that ice sheets may have responded to orbital forcing when pCO2 reached a certain threshold.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/PA9yKmcdT4k/ngeo2502",
+        "title": "Orbitally forced ice sheet fluctuations during the Marinoan Snowball Earth glaciation"
+    },
     {
-        "author": "Alessandra C. Leri", 
-        "date": "2015-07-06", 
-        "description": "Chloride is abundant in oceans, but is relatively unreactive. Spectroscopic imaging reveals the presence of a chloride sink in organochlorine compounds that can be produced abiotically or by phytoplankton.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/wpqLP41RNKE/ngeo2481", 
-        "title": "A marine sink for chlorine in natural organic\u00a0matter"
-    }, 
+        "author": "Diane T. Wetzel",
+        "date": "2015-08-24",
+        "description": "The volatile-rich eruptions required to produce the lunar volcanic glasses are at odds with a volatile-poor Moon. Analyses of the glasses suggest that there was enough of the volatile element carbon in the parent magmas to drive the eruptions.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/zZaTCklJL5I/ngeo2511",
+        "title": "Carbon content and degassing history of the lunar volcanic glasses"
+    },
     {
-        "author": "Stefano Poli", 
-        "date": "2015-06-29", 
-        "description": "Carbon is recycled via Earth\u2019s mantle at subduction zones. Laboratory experiments show that in the presence of water, carbon-rich liquids can form from the subducted crust at low temperatures, providing a supply of CO2 to surface volcanoes.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/aQkrfRnmKiA/ngeo2464", 
-        "title": "Carbon mobilized at shallow depths in subduction zones by carbonatitic liquids"
-    }, 
+        "author": "Brady Z. Foreman",
+        "date": "2015-08-17",
+        "description": "Braided channels are rare in submarine environments, yet common in fluvial systems. Laboratory experiments suggest that the formation mechanisms are the same, but submarine channels are typically not wide enough to promote braiding.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/thGLWAOCEi4/ngeo2505",
+        "title": "Braiding of submarine channels controlled by aspect ratio similar to rivers"
+    },
     {
-        "author": "Alberto V. Borges", 
-        "date": "2015-07-20", 
-        "description": "Inland waters are important sources of greenhouse gases. Measurements over eight years suggest that African inland waters are a substantial source of greenhouse gases, equivalent to a quarter of the global land and ocean carbon sink.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/LeLGO3tZxsI/ngeo2486", 
-        "title": "Globally significant greenhouse-gas emissions from African inland waters"
-    }, 
+        "author": "Ryuki Hyodo",
+        "date": "2015-08-17",
+        "description": "Lying beyond Saturn\u2019s main rings, the F ring is shepherded by two small satellites. Simulations suggest that this enigmatic configuration can result from the partial disruption of satellites in collisions at the edge of the main ring system.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/0dJS5cYFAF8/ngeo2508",
+        "title": "Saturn\u2019s F ring and shepherd satellites a natural outcome of satellite system formation"
+    },
     {
-        "author": "Rachel L. Tilling", 
-        "date": "2015-07-20", 
-        "description": "Changes in Arctic sea ice volume are difficult to quantify. Five years of satellite data reveal a reduction in autumn sea ice volume in 2010\u20132012, but a sharp increase in 2013 and 2014, suggesting that ice volume can recover quickly.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/UPAh1UG0HxE/ngeo2489", 
-        "title": "Increased Arctic sea ice volume after anomalously low melting in 2013"
-    }, 
+        "author": "E. R. Hotchkiss",
+        "date": "2015-08-10",
+        "description": "Rivers and streams are key sources of CO2. Estimated emissions and aquatic productivity from across the US show that small streams predominantly emit CO2 produced in soils, but the contribution from aquatic metabolism increases with river size.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/bZx5WhVqP2c/ngeo2507",
+        "title": "Sources of and processes controlling CO2 emissions change with the size of streams and\u00a0rivers"
+    },
     {
-        "author": "Samuel H. Doyle", 
-        "date": "2015-07-13", 
-        "description": "The frequency of extreme rainfall events over Greenland is predicted to increase as the climate warms. Observations from western Greenland suggest that intense late-summer rainfall in 2011 led to widespread ice-flow acceleration and runoff.", 
-        "journal": "Nature: Geoscience", 
-        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/u2FrS5pQcjw/ngeo2482", 
-        "title": "Amplified melt and flow of the Greenland ice sheet driven by late-summer cyclonic rainfall"
+        "author": "Willem W. Verstraeten",
+        "date": "2015-08-10",
+        "description": "Tropospheric levels of ozone and its precursors have risen in Asia since 2000. Satellite observations and chemistry\u2013transport simulations suggest that transport of these pollutants to North America partly offsets benefits from stricter regulation.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/NPzipmdGZHQ/ngeo2493",
+        "title": "Rapid increases in tropospheric ozone production and export from China"
+    },
+    {
+        "author": "Jean-Philippe Avouac",
+        "date": "2015-08-06",
+        "description": "Faults are unlocked by earthquakes. Analysis of seismic data from the 2015 Nepal earthquake shows that only part of the Main Himalayan Thrust fault was unzipped by the quake, leaving much of the fault locked and ready to slip in a future event.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/D-Ia-yZGc-o/ngeo2518",
+        "title": "Lower edge of locked Main Himalayan Thrust unzipped by the 2015 Gorkha earthquake"
+    },
+    {
+        "author": "Jacqueline E. Reber",
+        "date": "2015-08-03",
+        "description": "Plate tectonic motions cause faults to slip during earthquakes and through creep. Laboratory shear experiments on semi-brittle rock-analogue materials suggest that such slip could occur via growth of a series of fractures.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/CoWYt9rVLWI/ngeo2496",
+        "title": "Experimental demonstration of a semi-brittle origin for crustal strain transients"
+    },
+    {
+        "author": "Richard J. Arculus",
+        "date": "2015-08-24",
+        "description": "How plate tectonic subduction is initiated is unclear. Analysis of sediments and rock cores taken from the Izu\u2013Bonin\u2013Mariana subduction zone trench suggests subduction started spontaneously in this region around 50 million years ago.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/Qd6BtpWnvVw/ngeo2515",
+        "title": "A record of spontaneous subduction initiation in the Izu\u2013Bonin\u2013Mariana arc"
+    },
+    {
+        "author": "Daniel Farinotti",
+        "date": "2015-08-17",
+        "description": "Long-term changes of the mountain glaciers in the Tien Shan, Central Asia, are not well constrained. Remote sensing data and glaciological models reveal a 27% decline of glacier mass from 1961 to 2012, linked to increased summer melting.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/7mPEVZ914O4/ngeo2513",
+        "title": "Substantial glacier mass loss in the Tien Shan over the past 50 years"
+    },
+    {
+        "author": "Hubertus Fischer",
+        "date": "2015-08-10",
+        "description": "Ammonium levels in Greenland ice cores track changes in soil emissions and wildfires, primarily in North America. Ice-core ammonium records show abrupt increases in wildfire activity during brief warmings in the last glacial period.",
+        "journal": "Nature: Geoscience",
+        "link": "http://feeds.nature.com/~r/ngeo/rss/aop/~3/ROdiXANnwPo/ngeo2495",
+        "title": "Millennial changes in North American wildfire and soil activity over the last glacial cycle"
     }
 ]

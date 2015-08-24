@@ -29,7 +29,7 @@
     </div>  <!-- row-->
     
     <div class="row">
-      <img src="./img/yang_photo.jpg" class="img-circle" width="240px" style="margin-top:0em">
+      <img src="./img/yang_blue.jpg" class="img-circle" width="240px" style="margin-top:0em">
     </div>  <!--row -->
     
     <div class="row">
@@ -50,7 +50,7 @@
       <a href="./research.html" class="btn btn-default btn-lg">Research</a>
       <a href="./publications.html" class="btn btn-default btn-lg">Publications</a>
       <a href="./reading.html" class="btn btn-default btn-lg">Reading</a>
-      <a href="./programming.html" class="btn btn-default btn-lg">Programming</a>
+      <a href="./programming.html" class="btn btn-default btn-lg">Python</a>
     </div>  <!--row -->
     
     <p></p>
@@ -59,13 +59,7 @@
       <a href="https://www.researchgate.net/profile/Wenchang_Yang" class="btn btn-default btn-lg">ResearchGate</a>
       <a href="https://github.com/wy2136" class="btn btn-default btn-lg">GitHub</a>
     </div>  <!--row -->
-    
-    <p></p>
-    <div class="row">
-      <a href="./weather.html" class="btn btn-default btn-lg">Weather</a>
-    </div>  <!--row -->
-    
-    <p></p>
+
     <h3 class="row">
       <small><a href="https://www.google.com/maps/place/Croul+Hall,+University+of+California+Irvine,+Irvine,+CA+92617/ @33.6437039,-117.84467,17z/data=!3m1!4b1!4m2!3m1!1s0x80dcde1046bd4355:0x13395bc7d752014a"><span class="glyphicon glyphicon-map-marker"></span> 2101F Croul Hall, Irvine, CA 92697
       </a></small><br>
@@ -75,9 +69,21 @@
     </h3>
   </div>  <!-- container-->
 
-<div class="row text-center" style="color:gray; margin:1em">
-  <script>write_copyright()</script>
+<div id="myCaret" class="row text-center" style="color:gray; margin:1em">
+  <script>write_copyright()</script><b class="caret"></b>
 </div>
+
+<div id="footerHided" style="display: none">
+  <script>write_footer()</script>
+</div>
+
+<script>
+  $(document).ready(function(){
+    $("#myCaret").click(function(){
+      $("#footerHided").toggle();
+    })
+  })
+</script>
 
 </body>
 </html>

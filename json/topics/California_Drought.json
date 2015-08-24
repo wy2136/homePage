@@ -1,18 +1,34 @@
 [
     {
-        "author": "Richard Seager et al", 
-        "date": "2015-07-16", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00860.1?af=R", 
-        "title": "Causes of the 2011 to 2014 California drought"
-    }, 
+        "author": "Scott M. Robeson",
+        "date": "2015-08-22",
+        "description": "\n\nSpatially weighted averages of Palmer Drought Severity Index (PDSI) over central and southern California show that the 1\u2009year 2014 drought was not as severe as previously reported, but it still is the most severe in the 1895\u20132014 instrumental record. Using the typical adjustment procedure that matches the mean and standard deviation of tree ring PDSI values to those of instrumental data shows over 10 droughts from 800 to 2006 that were more severe than the 1\u2009year 2014 drought, with the 2014 drought having a return period of 140\u2013180\u2009years. Quantile mapping allows for a closer correspondence between instrumental and tree ring PDSI probability distributions and produces return periods of 700\u2013900\u2009years for the 1\u2009year 2014 drought. Associated cumulative 3 and 4\u2009year droughts, however, are estimated to be much more severe. The 2012\u20132014 drought is nearly a 10,000\u2009year event, while the 2012\u20132015 drought has an almost incalculable return period and is completely without precedent.\n",
+        "journal": "Geophysical Research Letters",
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064593",
+        "title": "Revisiting the recent California drought as an extreme value"
+    },
     {
-        "author": "Ali Mehran, Omid Mazdiyasni, Amir AghaKouchak", 
-        "date": "2015-07-16", 
-        "description": "\n\nSocioeconomic drought broadly refers to conditions whereby the water supply cannot satisfy the demand. Most previous studies describe droughts based on large scale meteorological/hydrologic conditions, ignoring the demand and local resilience to cope with climate variability. Reservoirs provide resilience against climatic extremes and play a key role in water supply and demand management. Here, we outline a unique multivariate approach as a measure of socioeconomic drought, termed Multivariate Standardized Reliability and Resilience Index (MSRRI). The model combines information on the inflow and reservoir storage relative to the demand. MSRRI combines: (I) a \u201ctop-down\u201d approach that focuses on processes/phenomena that cannot be simply controlled or altered by decision makers, such as climate change and variability, and (II) a \u201cbottom-up\u201d methodology that represents the local resilience and societal capacity to respond or adapt to droughts. MSRRI is based on a nonparametric multivariate distribution function that links Inflow-Demand Reliability (IDR) indicator to Water Storage Resilience (WSR) indicator. These indicators are used to assess socioeconomic drought during the Australian Millennium Drought (1998\u20132010) and the 2011\u20132014 California Drought. The results show that MSRRI is superior to univariate indices because it captures both early onset and persistence of water stress over time. The suggested framework can be applied to both individual reservoirs and a group of reservoirs in a region, and it is consistent with the currently available standardized drought indicators. MSRRI provides complementary information on socioeconomic drought development and recovery based on reservoir storage and demand that cannot be achieved from the commonly used drought indicators.", 
-        "journal": "Journal of Geophysical Research: Atmospheres", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JD023147", 
-        "title": "A Hybrid Framework for Assessing Socioeconomic Drought: Linking Climate Variability, Local Resilience, and Demand"
+        "author": "A. Park Williams, Richard Seager, John T. Abatzoglou, Benjamin I. Cook, Jason E. Smerdon, Edward R. Cook",
+        "date": "2015-08-20",
+        "description": "\n\nA suite of climate datasets and multiple representations of atmospheric moisture demand are used to calculate many estimates of the self-calibrated Palmer Drought Severity Index, a proxy for near-surface soil moisture, across California from 1901\u20132014 at high spatial resolution. Based on the ensemble of calculations, California drought conditions were record-breaking in 2014, but probably not record-breaking in 2012\u20132014, contrary to prior findings. Regionally, the 2012\u20132014 drought was record-breaking in the agriculturally important southern Central Valley and highly populated coastal areas. Contributions of individual climate variables to recent drought are also examined, including the temperature component associated with anthropogenic warming. Precipitation is the primary driver of drought variability but anthropogenic warming is estimated to have accounted for 8\u201327% of the observed drought anomaly in 2012\u20132014 and 5\u201318% in 2014. Although natural variability dominates, anthropogenic warming has substantially increased the overall likelihood of extreme California droughts.\n",
+        "journal": "Geophysical Research Letters",
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015GL064924",
+        "title": "Contribution of anthropogenic warming to California drought during 2012\u20132014"
+    },
+    {
+        "author": "Ali Mehran, Omid Mazdiyasni, Amir AghaKouchak",
+        "date": "2015-08-10",
+        "description": "\n\nSocioeconomic drought broadly refers to conditions whereby the water supply cannot satisfy the demand. Most previous studies describe droughts based on large-scale meteorological/hydrologic conditions, ignoring the demand and local resilience to cope with climate variability. Reservoirs provide resilience against climatic extremes and play a key role in water supply and demand management. Here we outline a unique multivariate approach as a measure of socioeconomic drought, termed Multivariate Standardized Reliability and Resilience Index (MSRRI). The model combines information on the inflow and reservoir storage relative to the demand. MSRRI combines (I) a \u201ctop-down\u201d approach that focuses on processes/phenomena that cannot be simply controlled or altered by decision makers, such as climate change and variability, and (II) a \u201cbottom-up\u201d methodology that represents the local resilience and societal capacity to respond or adapt to droughts. MSRRI is based on a nonparametric multivariate distribution function that links inflow-demand reliability indicator to water storage resilience indicator. These indicators are used to assess socioeconomic drought during the Australian Millennium drought (1998\u20132010) and the 2011\u20132014 California drought. The results show that MSRRI is superior to univariate indices because it captures both early onset and persistence of water stress over time. The suggested framework can be applied to both individual reservoirs and a group of reservoirs in a region, and it is consistent with the currently available standardized drought indicators. MSRRI provides complementary information on socioeconomic drought development and recovery based on reservoir storage and demand that cannot be achieved from the commonly used drought indicators.\n",
+        "journal": "Journal of Geophysical Research: Atmospheres",
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JD023147",
+        "title": "A hybrid framework for assessing socioeconomic drought: Linking climate variability, local resilience, and demand"
+    },
+    {
+        "author": "Richard Seager et al",
+        "date": "2015-07-16",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00860.1?af=R",
+        "title": "Causes of the 2011 to 2014 California drought"
     }
 ]

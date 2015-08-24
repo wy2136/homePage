@@ -11,18 +11,32 @@ import datetime
 import os
 import time
 import requests
+# import urllib2
+# req = urllib2.Request(journal['url_rss'], headers={'User-Agent' : "Magic Browser"})
+# r = urllib2.urlopen(req)
+# dom = etree.XML(r.read())
 
-# functions to be used by other higher level functions
 def load_json(json_file,**kwargs):
-    '''load json file.'''
     with open(json_file) as f:
         json_var = json.load(f,**kwargs)
     return json_var
 def get_html_text_from_url(url):
-    '''Get the html text given the url.'''
     return requests.get(url).text
+def find_abstract(url):
+    abstract = 'No description.'
+    s = get_html_text_from_url(url)
+    if s is not None:
+        doc = html.document_fromstring(s)
+    p = doc.find('.//p[@class="last"]')
+    if p is not None:
+        abstract = p.text
+    return abstract
+def description_is_none(s):
+    if ', Ahead of Print.' in s:
+        return True
+    else:
+        return False
 def get_month(Xxx):
-    '''Transform alphabetic-form month into digit form, e.g. 'Jan' to '01'. '''
     d = {'Jan':'01',
         'Feb':'02',
         'Mar':'03',
@@ -38,7 +52,6 @@ def get_month(Xxx):
         }
     return d[Xxx]
 def update_date(date_old):
-    '''Normalize the date format as yyyy-mm-dd. '''
     ds = date_old.split()
     if len(ds)>1:
         dd = ds[1]
@@ -52,14 +65,79 @@ def update_date(date_old):
     date_new = '-'.join([yyyy,mm,dd])
     return date_new
 # 
+# use this function only once
+def save_journals_to_json(dir_home):
+    journals = {'jc': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=clim',
+                'jas': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=atsc',
+                'bams': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=bams',
+                'grl': 'http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007',
+                'jgr-a': 'http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-8996',
+                'nature': 'http://feeds.nature.com/nature/rss/aop',
+                'nature-cc': 'http://feeds.nature.com/nclimate/rss/aop',
+                'nature-geo': 'http://feeds.nature.com/ngeo/rss/aop',
+                'science': 'http://www.sciencemag.org/rss/current.xml',
+                'qjrms': 'http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1477-870X',
+                'ijc':'http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-0088',
+                'pnas-e': 'http://www.pnas.org/rss/Environmental_Sciences.xml',
+                'climdyn':'http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=382&channel-name=Climate+Dynamics',
+                'tellus-a': 'http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1600-0870',
+                'acp':'http://www.atmos-chem-phys.net/xml/rss2_0.xml',
+                'biogeo':'http://www.biogeosciences.net/xml/rss2_0.xml',
+                'cp':'http://www.clim-past.net/xml/rss2_0.xml',
+                'hydrology':'http://www.hydrol-earth-syst-sci.net/xml/rss2_0.xml',
+                'hazards':'http://www.nat-hazards-earth-syst-sci.net/xml/rss2_0.xml',
+                'model':'http://www.geosci-model-dev.net/xml/rss2_0.xml',
+                'wires':'http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1757-7799',
+                'climatic':'http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10584&channel-name=Climatic+Change',
+                'hydrometeorology': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=hydr',
+                'asl': 'http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1530-261X',
+                'aas': 'http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=376&channel-name=Advances+in+Atmospheric+Sciences',
+            'jpo': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=phoc',
+            'mwr': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=mwre',
+            'wcs': 'http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=wcas'
+            }
+    journalLongNames = {'jc':'Journal of Climate',
+                        'jas':'Journal of the Atmospheric Science',
+                        'bams': 'Bulletin of the American Meteorological Society',
+                        'grl': 'Geophysical Research Letters',
+                        'jgr-a':'Journal of Geophysical Research: Atmospheres',
+                        'nature':'Nature',
+                        'nature-cc':'Nature: Climate Change',
+                        'nature-geo':'Nature: Geoscience',
+                        'science':'Science',
+                        'qjrms':'Quarterly Journal of the Royal Meteorological Society',
+                        'ijc': 'International Journal of Climatology',
+                        'pnas-e':'PNAS - Environmental Sciences',
+                        'climdyn':'Climate Dynamics',
+                        'tellus-a':'Tellus: Atmosphere',
+                        'acp':'Atmospheric Chemistry and Physics',
+                        'biogeo':'Biogeosciences',
+                        'cp':'Climate of the Past',
+                        'hydrology':'Hydrology and Earth System Sciences',
+                        'hazards':'Natural Hazards and Earth System Science',
+                        'model':'Geoscientific Model Development',
+                        'wires': 'WIREs Climate Change',
+                        'climatic': 'Climatic Change',
+                        'hydrometeorology': 'Journal of Hydrometeorology',
+                        'asl': 'Atmospheric Science Letters',
+                        'aas': 'Advances in Atmospheric Sciences',
+                        'jpo': 'Journal of Physical Oceanography',
+                        'mwr': 'Monthly Weather Review',
+                        'wcs': 'Weather, Climate and Society'
+                    }
+
+    journal_list = [{'name_short':key, 'name_long': journalLongNames[key], 'url_rss': journals[key]}
+        for key in sorted(journals.keys())]
+    with open(dir_home + 'json/journals.json','w') as f:
+        json.dump(journal_list,f,indent=4,sort_keys=True)
+# 
 # retrive rss feeds from the web, and save them into json files
 def load_journals(dir_home):
-    '''load journals as a list of dictionary from json/journals.json'''
+    # load journals as a list of dictionary from json/journals.json
     with open(dir_home + 'json/journals.json') as f:
         journals = json.load(f)
     return journals
 def retrieve_rss_to_json(dir_home):
-    '''For each journal, download the rss feeds and save to a json file.'''
     # load journals as a list of dictionary from json/journals.json
     journals = load_journals(dir_home)
     N = len(journals)
@@ -153,7 +231,6 @@ def retrieve_rss_to_json(dir_home):
             + journal['name_short'] + '.json','w') as f_journal:
             json.dump(feeds,f_journal,indent=4,sort_keys=True)
 def gen_updatetime_json(dir_home):
-    '''Record the date and time when all the json file are generated.'''
     with open(dir_home + 'json/journals/update_time.json','w') as f_json:
         dt = {}
         dt['datetime'] = datetime.datetime.now().strftime('%b %d,  %Y %H:%M  ')\
@@ -162,18 +239,16 @@ def gen_updatetime_json(dir_home):
 # 
 # filter feeds according to topics or relevant people
 def load_feeds(journal,dir_home):
-    '''load feeds from a journal as a list of dictionaries. '''
+    # return feeds from a journal (a dict)
     with open(dir_home + 'json/journals/' 
         + journal['name_short'] + '.json') as f_feeds:
         feeds = json.load(f_feeds)
     return feeds
 def load_people(dir_home):
-    '''load people's names as a list of strings. '''
     with open(dir_home + 'json/people.json') as f:
         people = json.load(f)
     return people
 def name_in_author_list(name,author_list):
-    '''Condition whether a given name is in our author list.'''
     s = name.split()
     if len(s)==2:
         name_formats = [
@@ -194,7 +269,6 @@ def name_in_author_list(name,author_list):
     else:
         return False
 def people_in_feed(people,feed):
-    '''Condition if the feed includes one or more persons of interest.'''
     author_list = feed['author'].replace(', and ',', ').replace(' et al','').split(', ')
     if len(author_list)>4:
         author_list = author_list[0:1]
@@ -205,7 +279,7 @@ def people_in_feed(people,feed):
             break
     return L
 def load_topics(dir_home):
-    '''load topics from json/topics/'''
+    # load topics from json/topics/
     with open(dir_home + 'json/topics.json') as f:
         topics = json.load(f)
     return topics
@@ -238,6 +312,8 @@ def gen_reading_json(dir_home):
                     if topicIsRelevant:
                         break
                 if topicIsRelevant:
+                    # if description_is_none(feed['description']):
+                    #                     feed['description'] = find_abstract(feed['link'])
                     feeds_by_topic[topic['name']].append(feed)
             if people_in_feed(people,feed):
                 feeds_of_authors_of_interest.append(feed)
@@ -251,106 +327,6 @@ def gen_reading_json(dir_home):
         feeds_sorted = sorted(feeds_of_authors_of_interest,
             key=lambda feed: feed['date'], reverse=True)
         json.dump(feeds_sorted,f_json,indent=4,sort_keys=True)
-# 
-# test functions
-def test_journal(journal_short_name, dir_home='/Users/yang/Dropbox/Public/wyang_ess_uci/'):
-    # get the tested journal
-    journals = load_journals(dir_home)
-    journal = [
-        journal for journal in journals 
-            if journal['name_short'] == journal_short_name
-    ][0]
-    print(journal['name_long'])
-    print(journal['url_rss'])
-    print('\n')
-    
-    r = requests.get(journal['url_rss'])
-    if r.ok is False:
-        print ('\tFailed to connect to the server!')
-        return
-    # read the rss feeds into dom
-    dom = etree.XML(r.content)
-    # parse the dom into items
-    items = dom.xpath('//item')
-    if len(items)==0:
-        items = dom.findall('{http://purl.org/rss/1.0/}item')
-    feeds = []
-    for item in items:
-        # parse relevant information from each item
-        # author
-        authors = item.xpath('author/text()')
-        if len(authors)>0:
-            author = authors[0]
-            author = author[author.find('(')+1:]
-        else:
-            author = item.find('{http://purl.org/dc/elements/1.1/}creator')
-            if author is None or author.text is None:
-                author = ''
-            else:
-                author = author.text
-        # title
-        titles = item.xpath('title/text()')
-        if len(titles)>0:
-            title = titles[0]
-        else:
-            title = item.find('{http://purl.org/rss/1.0/}title')
-            if title is None or title.text is None:
-                title = ''
-            else:
-                title = title.text
-        # link
-        links = item.xpath('link/text()')
-        if len(links)>0:
-            link = links[0]
-        else:
-            link = item.find('{http://purl.org/rss/1.0/}link')
-            if link is None or link.text is None:
-                link = ''
-            else:
-                link = link.text
-        # date
-        dates = item.xpath('pubDate/text()')
-        if len(dates)>0:
-            date = dates[0]
-        else:
-            date = item.find('{http://purl.org/dc/elements/1.1/}date')
-            if date is None or date.text is None:
-                date = ''
-            else:
-                date = date.text 
-        date = update_date(date)
-        # description
-        descriptions = item.xpath('description/text()')
-        if len(descriptions)>0:
-            description = descriptions[0]
-        else:
-            description = item.find('{http://purl.org/rss/1.0/}description')
-            if description is None or description.text is None:
-                description = ''
-            else:
-                description = description.text
-        # in case the author is empty but included in the description
-        if author=='' and 'Author(s): ' in description:
-            i = description.find('Author(s): ')
-            authorText = description[i+11:]
-            j = authorText.find('<br')
-            author = authorText[:j]
-        
-        # save the item into a dict
-        feed = {
-            'author': author,
-            'title': title,
-            'link': link,
-            'description': description,
-            'date': date,
-            'journal': journal['name_long'],
-            }
-        print(title)
-        print('\t', date)
-        print('\t', author)
-        print('\n')
-    
-    
 # 
 def main():
     start = time.time()
@@ -372,6 +348,7 @@ def main():
     print( end - start,'s')
     start = end
 
+     
     # sync to web server
     os.system('rsync -av --progress ' + dir_home + 'json/journals/ '
         + 'wenchay@home.ps.uci.edu:~/public_html/json/journals/ ')

@@ -1,18 +1,10 @@
 [
     {
-        "author": "L. N. Boisvert, D. L. Wu, C.-L. Shie", 
-        "date": "2015-07-14", 
-        "description": "\n\nThe vertical moisture flux (i.e. evaporation) plays an important role in the Arctic energy budget, the water-vapor feedback and Arctic amplification. It is one of the most uncertain variables, especially in this \u201cnew Arctic\u201d climate system, which is dominated by large ice-free ocean areas for a longer portion of the year. Moisture flux rates, produced using Atmospheric Infrared Sounder (AIRS) data, from the Arctic Ocean and surrounding seas were found to have increased between 2003-2013 by 7.2x10-4 g m-2s-1 per year (equivalent to 1.79 W m-2 per year in latent heat). This is a 7% increase in the average moisture flux each year and a 0.12% increase in the yearly global ocean latent heat flux, with some months increasing more than others. The largest increases seen are in the Arctic coastal seas during the spring and fall where there has been a reduction in sea ice cover, and an increase in sea surface temperatures. Increases in the moisture flux from the surface also correspond to increases in total atmospheric column water vapor and low-level clouds, especially in the central Arctic regions. Changes in the atmospheric water vapor in the surrounding seas (e.g. East Greenland) are most likely due to lower-latitude transport of moisture rather than from the surface. Yearly, the moisture flux from the surface supplies about 10% of the total column atmosphere water vapor.\n", 
-        "journal": "Journal of Geophysical Research: Atmospheres", 
-        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JD023258", 
-        "title": "Increasing evaporation amounts seen in the Arctic between 2003-2013 from AIRS data"
-    }, 
-    {
-        "author": "Elizabeth A. Barnes et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5254-5271, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00589.1?af=R", 
-        "title": "CMIP5 Projections of Arctic Amplification, of the North American/North Atlantic Circulation, and of Their Relationship"
+        "author": "L. N. Boisvert, D. L. Wu, C.-L. Shie",
+        "date": "2015-07-29",
+        "description": "\n\nThe vertical moisture flux (i.e., evaporation) plays an important role in the Arctic energy budget, the water vapor feedback, and Arctic amplification. It is one of the most uncertain variables, especially in this \u201cnew Arctic\u201d climate system, which is dominated by large ice-free ocean areas for a longer portion of the year. Moisture flux rates, produced using Atmospheric Infrared Sounder (AIRS) data, from the Arctic Ocean and surrounding seas were found to have increased between 2003 and 2013 by 7.2\u2009\u00d7\u200910\u22124\u2009g\u2009m\u22122\u2009s\u22121 per year (equivalent to 1.79\u2009W\u2009m\u22122 per year in latent heat). This is a 7% increase in the average moisture flux each year and a 0.12% increase in the yearly global ocean latent heat flux, with some months increasing more than others. The largest increases seen are in the Arctic coastal seas during the spring and fall where there has been a reduction in sea ice cover and an increase in sea surface temperatures. Increases in the moisture flux from the surface also correspond to increases in total atmospheric column water vapor and low-level clouds, especially in the central Arctic regions. Changes in the atmospheric water vapor in the surrounding seas (e.g., East Greenland) are most likely due to lower latitude transport of moisture rather than from the surface. Yearly, the moisture flux from the surface supplies about 10% of the total column atmosphere water vapor.",
+        "journal": "Journal of Geophysical Research: Atmospheres",
+        "link": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F2015JD023258",
+        "title": "Increasing evaporation amounts seen in the Arctic between 2003 and 2013 from AIRS data"
     }
 ]

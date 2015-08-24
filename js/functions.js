@@ -158,7 +158,7 @@ function write_feeds(feeds_name,self_depth){
         var description = feeds[i].description;
         var journal = feeds[i].journal
         var feedString = '<div><span class="label label-default">' + (N-i).toString() + '</span> <a target="_blank" href="' + url + '" class="text-capitalize">' + title + '</a></div> \
-        <div class="text-muted "><i>' + journal + '</i>; ' + date + '</div>\
+        <div class="text-muted "><i>' + journal + '</i><span class="pull-right">' + date + '</span></div>\
         <div class="toggle-switch border-bottom" style="cursor:pointer;">' + author + ' <span class="pull-right"><b class="caret"></b></span></div>'
         document.write(feedString);
         document.write('<div class="description" style="display:none;">' + description + '</div>')
@@ -286,8 +286,8 @@ function write_feeds_by_topics(topic_name,self_depth){
         var url = feeds[i].link;
         var description = feeds[i].description;
         var journal = feeds[i].journal
-        var feedString = '<div><span class="label label-default">' + (N-i).toString() + '</span> <a target="_blank" href="' + url + '" class="text-capitalize">' + title + '</a></div> \
-        <div class="text-muted "><i>' + journal + '</i>;  ' + date + '</div>\
+        var feedString = '<div><span class="label label-default">' + (N-i).toString() + '</span> <a target="_blank" href="' + url + '" class="">' + title + '</a></div> \
+        <div class="text-muted "><i>' + journal + '</i><span class="pull-right">' + date + '</span></div>\
         <div class="toggle-switch border-bottom"  style="cursor:pointer">' + author + '<span class="pull-right"><b class="caret"></b></span></div>'
         document.write(feedString);
         document.write('<div class="description" style="display:none;">' + description + '</div>')

@@ -188,5 +188,60 @@
         "name_long": "WIREs Climate Change", 
         "name_short": "wires", 
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1757-7799"
+    },
+    {
+        "name_long": "Agricultural and Forest Meteorology", 
+        "name_short": "afm", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/01681923"
+    },
+    {
+        "name_long": "Atmospheric Environment", 
+        "name_short": "atmos_env", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/13522310"
+    },
+    {
+        "name_long": "Atmospheric Research", 
+        "name_short": "atmos_research", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/01698095"
+    },
+    {
+        "name_long": "Dynamics of Atmospheres and Oceans", 
+        "name_short": "dyn_atm_ocean", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/03770265"
+    },
+    {
+        "name_long": "Earth-Science Reviews", 
+        "name_short": "es_review", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00128252"
+    },
+    {
+        "name_long": "Global and Planetary Change",
+        "name_short": "gpc",
+        "url_rss": "http://rss.sciencedirect.com/publication/science/09218181"
+    },
+    {
+        "name_long": "Journal of Hydrology", 
+        "name_short": "j_hydro", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00221694"
+    },
+    {
+        "name_long": "Quaternary Research", 
+        "name_short": "quat_research", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00335894"
+    },
+    {
+        "name_long": "Quaternary Science Reviews", 
+        "name_short": "quat_reviews", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/02773791"
+    },
+    {
+        "name_long": "Remote Sensing of Environment", 
+        "name_short": "remote_sense_env", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00344257"
+    },
+    {
+        "name_long": "Weather and Climate Extremes", 
+        "name_short": "extreme", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/22120947"
     }
 ]

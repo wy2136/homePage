@@ -1,1250 +1,1330 @@
 [
     {
-        "author": "Christopher G. Fletcher et al", 
-        "date": "2015-07-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00839.1?af=R", 
+        "author": "Xichen Li et al",
+        "date": "2015-08-21",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0113.1?af=R",
+        "title": "Rossby waves mediate impacts of tropical oceans on West Antarctic atmospheric circulation in austral winter"
+    },
+    {
+        "author": "Ben Kravitz et al",
+        "date": "2015-08-19",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00663.1?af=R",
+        "title": "A new method of comparing forcing agents in climate models"
+    },
+    {
+        "author": "Hyo-Seok Park et al",
+        "date": "2015-08-19",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0133.1?af=R",
+        "title": "The effect of mid-latitude transient eddies on monsoonal southerlies over East China"
+    },
+    {
+        "author": "Robert J. Allen et al",
+        "date": "2015-08-19",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0148.1?af=R",
+        "title": "Interhemispheric Aerosol Radiative Forcing and Tropical Precipitation Shifts During the Late 20th Century"
+    },
+    {
+        "author": "Changhyun Yoo et al",
+        "date": "2015-08-18",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0022.1?af=R",
+        "title": "Boreal winter MJO teleconnection in the Community Atmosphere Model version 5 with the Unified Convection parameterization"
+    },
+    {
+        "author": "Jieshun Zhu et al",
+        "date": "2015-08-18",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0067.1?af=R",
+        "title": "Seasonality in Prediction Skill and Predictable Pattern of Tropical Indian Ocean SST"
+    },
+    {
+        "author": "Jennifer L Catto et al",
+        "date": "2015-08-18",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0171.1?af=R",
+        "title": "Global relationship between fronts and warm conveyor belts and the impact on extreme precipitation"
+    },
+    {
+        "author": "Kerry Emanuel",
+        "date": "2015-08-18",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0401.1?af=R",
+        "title": "Effect of Upper Ocean Evolution on Projected Trends in Tropical Cyclone Activity"
+    },
+    {
+        "author": "F. R\u00fcthrich et al",
+        "date": "2015-08-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00698.1?af=R",
+        "title": "Lake Related Cloud-Dynamics on the Tibetan Plateau: Spatial Patterns and Interannual Variability"
+    },
+    {
+        "author": "Stephen Baxter et al",
+        "date": "2015-08-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00726.1?af=R",
+        "title": "Key Role of North Pacific Oscillation/West Pacific Pattern in Generating the Extreme 2013-2014 North American Winter"
+    },
+    {
+        "author": "Xiaojie Zhu et al",
+        "date": "2015-08-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00765.1?af=R",
+        "title": "Projection of Summer Precipitation Over the Southeastern U.S. in the Super-Parameterized CCSM4"
+    },
+    {
+        "author": "Felicity S. Graham et al",
+        "date": "2015-08-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00812.1?af=R",
+        "title": "Reassessing Conceptual Models of ENSO"
+    },
+    {
+        "author": "Cathryn Birch et al",
+        "date": "2015-08-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00850.1?af=R",
+        "title": "Sea breeze dynamics and convection initiation: the influence of convective parameterisation in weather and climate model biases"
+    },
+    {
+        "author": "Yuanlong Li et al",
+        "date": "2015-08-14",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0252.1?af=R",
+        "title": "Decadal Sea Level Variations in the Indian Ocean Investigated with HYCOM: Roles of Climate Modes, Ocean Internal Variability, and Stochastic Wind Forcing"
+    },
+    {
+        "author": "Baird Langenbrunner et al",
+        "date": "2015-08-13",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00800.1?af=R",
+        "title": "Patterns of precipitation change and climatological uncertainty among CMIP5 models, with a focus on the midlatitude Pacific storm track"
+    },
+    {
+        "author": "Michael P. Byrne et al",
+        "date": "2015-08-13",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0369.1?af=R",
+        "title": "The response of precipitation minus evapotranspiration to climate warming: Why the \u201cwet-get-wetter, dry-get-drier\u201d scaling does not hold over land"
+    },
+    {
+        "author": "\u00c1. G. Mu\u00f1oz et al",
+        "date": "2015-08-12",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00693.1?af=R",
+        "title": "Cross\u2013Time Scale Interactions and Rainfall Extreme Events in Southeast South America for the Austral Summer. Part I: Potential Predictors"
+    },
+    {
+        "author": "Xin Li et al",
+        "date": "2015-08-12",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0123.1?af=R",
+        "title": "The relationship between contiguous El Ni\u00f1o and La Ni\u00f1a revealed by the self-organizing maps"
+    },
+    {
+        "author": "Kristoffer Rypdal et al",
+        "date": "2015-08-12",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0183.1?af=R",
+        "title": "Spatiotemporal Long-Range Persistence in Earth\u2019s Temperature Field: Analysis of Stochastic-Diffusive Energy Balance Models"
+    },
+    {
+        "author": "Ting Liu et al",
+        "date": "2015-08-11",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00704.1?af=R",
+        "title": "Influence of the Boreal Autumn SAM on Winter Precipitation over Land in the Northern Hemisphere"
+    },
+    {
+        "author": "Michael Previdi et al",
+        "date": "2015-08-11",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0027.1?af=R",
+        "title": "How Well Do the CMIP5 Models Simulate the Antarctic Atmospheric Energy Budget?"
+    },
+    {
+        "author": "Andreas Groth et al",
+        "date": "2015-08-11",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0100.1?af=R",
+        "title": "Monte Carlo SSA revisited: Detecting oscillator clusters in multivariate data sets"
+    },
+    {
+        "author": "Clara Orbe et al",
+        "date": "2015-08-11",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0296.1?af=R",
+        "title": "Air-Mass Origin in the Arctic. Part II: Response to Increases in Greenhouse Gases"
+    },
+    {
+        "author": "Cheng Tao et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00448.1?af=R",
+        "title": "Distributions of Shallow to Very Deep Precipitation/Convection in Rapidly Intensifying Tropical Cyclones"
+    },
+    {
+        "author": "Liping Zhang et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00647.1?af=R",
+        "title": "Analysis of the characteristics and mechanisms of the Pacific Decadal Oscillation in a suite of coupled models from the Geophysical Fluid Dynamics Laboratory"
+    },
+    {
+        "author": "M. Roth et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00685.1?af=R",
+        "title": "Trends in moderate rainfall extremes: A regional monotone regression approach"
+    },
+    {
+        "author": "H. Nguyen et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0139.1?af=R",
+        "title": "Expansion of the Southern Hemisphere Hadley Cell in response to greenhouse gas forcing"
+    },
+    {
+        "author": "Martin Tingley et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0208.1?af=R",
+        "title": "On Discriminating between GCM Forcing Configurations Using Bayesian Reconstructions of Late-Holocene Temperatures"
+    },
+    {
+        "author": "H. Murakami et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0216.1?af=R",
+        "title": "Simulation and Prediction of Category 4 and 5 Hurricanes in the High-Resolution GFDL HiFLOR Coupled Climate Model"
+    },
+    {
+        "author": "Niklas Boers et al",
+        "date": "2015-08-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0137.1?af=R",
+        "title": "Propagation of Strong Rainfall Events from Southeastern South America to the Central Andes"
+    },
+    {
+        "author": "L. R. Mudryk et al",
+        "date": "2015-08-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0229.1?af=R",
+        "title": "Characterization of Northern Hemisphere Snow Water Equivalent Datasets, 1981\u20132010"
+    },
+    {
+        "author": "Jan D. Zika et al",
+        "date": "2015-08-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0273.1?af=R",
+        "title": "Maintenance and broadening of the ocean\u2019s salinity distribution by the water cycle"
+    },
+    {
+        "author": "K. J. Tory et al",
+        "date": "2015-08-06",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00637.1?af=R",
+        "title": "Sea surface temperature thresholds for tropical cyclone formation"
+    },
+    {
+        "author": "Christopher F. O\u2019Connor et al",
+        "date": "2015-08-05",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00638.1?af=R",
+        "title": "VARIABILITY OF HAWAIIAN WINTER RAINFALL DURING LA NI\u00d1A EVENTS SINCE 1956"
+    },
+    {
+        "author": "XUAN JI et al",
+        "date": "2015-08-05",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00716.1?af=R",
+        "title": "El Ni\u00f1o\u2013Southern Oscillation Sea Level Pressure Anomalies in the Western Pacific: Why Are They There?"
+    },
+    {
+        "author": "Maud Comboul et al",
+        "date": "2015-08-05",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00802.1?af=R",
+        "title": "Paleoclimate Sampling as a Sensor Placement Problem"
+    },
+    {
+        "author": "Camilla W. Stjern et al",
+        "date": "2015-08-05",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00837.1?af=R",
+        "title": "Contrasting Influences of Recent Aerosol Changes on Clouds and Precipitation in Europe and East Asia"
+    },
+    {
+        "author": "Jan Melchior van Wessem et al",
+        "date": "2015-08-05",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0060.1?af=R",
+        "title": "Temperature and Wind Climate of the Antarctic Peninsula as Simulated by a High-Resolution Regional Atmospheric Climate Model"
+    },
+    {
+        "author": "Lantao Sun et al",
+        "date": "2015-08-05",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0169.1?af=R",
+        "title": "Mechanisms of Stratospheric and Tropospheric Circulation Response to Projected Arctic Sea Ice Loss"
+    },
+    {
+        "author": "FANG WANG et al",
+        "date": "2015-08-04",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00427.1?af=R",
+        "title": "A New Estimation of Urbanization\u2019s Contribution to the Warming Trend in China"
+    },
+    {
+        "author": "Francisco J Exp\u00f3sito et al",
+        "date": "2015-08-04",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0030.1?af=R",
+        "title": "High-resolution future projections of temperature and precipitation in Canary Islands"
+    },
+    {
+        "author": "C. Seethala et al",
+        "date": "2015-08-04",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0120.1?af=R",
+        "title": "How has subtropical stratocumulus and associated meteorology changed since the 1980s?"
+    },
+    {
+        "author": "Yun Yang et al",
+        "date": "2015-08-03",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0078.1?af=R",
+        "title": "Seasonality and Predictability of the Indian Ocean Dipole Mode: ENSO Forcing and Internal Variability"
+    },
+    {
+        "author": "Matthew B. Menary et al",
+        "date": "2015-08-03",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0106.1?af=R",
+        "title": "A mechanism of internal decadal variability in a high resolution coupled climate model"
+    },
+    {
+        "author": "Brandon O. Wolding et al",
+        "date": "2015-07-31",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00689.1?af=R",
+        "title": "Objective Diagnostics and the Madden-Julian Oscillation. Part II: Application to Moist Static Energy and Moisture Budgets"
+    },
+    {
+        "author": "Hannah Kleppin et al",
+        "date": "2015-07-31",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00728.1?af=R",
+        "title": "Stochastic Atmospheric Forcing as a Cause of Greenland Climate Transitions"
+    },
+    {
+        "author": "Damien Irving et al",
+        "date": "2015-07-31",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0287.1?af=R",
+        "title": "A novel approach to diagnosing Southern Hemisphere planetary wave activity and its influence on regional climate variability"
+    },
+    {
+        "author": "Iuliia Polkova et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00811.1?af=R",
+        "title": "Predictive skill for regional interannual steric sea level and mechanisms for predictability"
+    },
+    {
+        "author": "Claude Frankignoul et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0007.1?af=R",
+        "title": "Wintertime Atmospheric Response to North Atlantic Ocean Circulation Variability in a Climate Model"
+    },
+    {
+        "author": "Elinor R. Martin et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0145.1?af=R",
+        "title": "Representation of African Easterly Waves in CMIP5 Models"
+    },
+    {
+        "author": "Mathew Barlow et al",
+        "date": "2015-07-29",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00692.1?af=R",
+        "title": "A Review of Drought in the Middle East and Southwest Asia"
+    },
+    {
+        "author": "Sara A. Rauscher et al",
+        "date": "2015-07-29",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00528.1?af=R",
+        "title": "Sea surface temperature warming patterns and future vegetation change"
+    },
+    {
+        "author": "Thomas R. Knutson et al",
+        "date": "2015-07-29",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0129.1?af=R",
+        "title": "Global Projections of Intense Tropical Cyclone Activity for the Late Twenty-First Century from Dynamical Downscaling of CMIP5/RCP4.5 Scenarios"
+    },
+    {
+        "author": "Gen Li et al",
+        "date": "2015-07-29",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0168.1?af=R",
+        "title": "An Intermodel Approach to Identify the Source of Excessive Equatorial Pacific Cold Tongue in CMIP5 Models and Uncertainty in Observational Datasets"
+    },
+    {
+        "author": "James E. Overland et al",
+        "date": "2015-07-29",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0395.1?af=R",
+        "title": "Increased Variability in the Early Winter Subarctic North American Atmospheric Circulation"
+    },
+    {
+        "author": "Takeshi Doi et al",
+        "date": "2015-07-28",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0112.1?af=R",
+        "title": "Predictability of the California Ni\u00f1o/Ni\u00f1a"
+    },
+    {
+        "author": "Jie He et al",
+        "date": "2015-07-28",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0205.1?af=R",
+        "title": "Anthropogenic Weakening of the Tropical Circulation: The Relative Roles of Direct CO2 Forcing and Sea Surface Temperature Change"
+    },
+    {
+        "author": "Yoo-Geun Ham et al",
+        "date": "2015-07-27",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00721.1?af=R",
+        "title": "Changes in Independency between Two Types of El Ni\u00f1o Events under Greenhouse Warming Scenario in CMIP5 Models"
+    },
+    {
+        "author": "Sihan Li et al",
+        "date": "2015-07-27",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00808.1?af=R",
+        "title": "Evaluation of a regional climate modeling effort for the western United States using a superensemble from weather@home"
+    },
+    {
+        "author": "Kuan-Man Xu et al",
+        "date": "2015-07-27",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00836.1?af=R",
+        "title": "Cloud Object Analysis of CERES Aqua Observations of Tropical and Subtropical Cloud Regimes. Part I: Four-year Climatology"
+    },
+    {
+        "author": "Larry W. O\u2019Neill et al",
+        "date": "2015-07-27",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0119.1?af=R",
+        "title": "Estimation of Time-Averaged Surface Divergence and Vorticity from Satellite Ocean Vector Winds"
+    },
+    {
+        "author": "Philip J. Klotzbach et al",
+        "date": "2015-07-27",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0188.1?af=R",
+        "title": "Extremely Intense Hurricanes: Revisiting Webster et al. (2005) after 10 Years"
+    },
+    {
+        "author": "Christopher G. Fletcher et al",
+        "date": "2015-07-24",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00839.1?af=R",
         "title": "The Dynamical Influence of Separate Teleconnections from the Pacific and Indian Oceans on the Northern Annular Mode"
-    }, 
+    },
     {
-        "author": "David K. Hutchinson et al", 
-        "date": "2015-07-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0014.1?af=R", 
+        "author": "David K. Hutchinson et al",
+        "date": "2015-07-24",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0014.1?af=R",
         "title": "Interhemispheric Asymmetry of Warming in an Eddy Permitting Coupled Sector Model"
-    }, 
+    },
     {
-        "author": "Theodore W. Letcher et al", 
-        "date": "2015-07-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0166.1?af=R", 
+        "author": "Theodore W. Letcher et al",
+        "date": "2015-07-24",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0166.1?af=R",
         "title": "Characterization of the Simulated Regional Snow Albedo Feedback Using a Regional Climate Model over Complex Terrain"
-    }, 
+    },
     {
-        "author": "Fisseha Berhane et al", 
-        "date": "2015-07-23", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00510.1?af=R", 
+        "author": "Fisseha Berhane et al",
+        "date": "2015-07-23",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00510.1?af=R",
         "title": "The Madden-Julian Oscillation\u2019s influence on Spring Rainy Season Precipitation over Equatorial West Africa"
-    }, 
+    },
     {
-        "author": "Andrew Hoell et al", 
-        "date": "2015-07-23", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00757.1?af=R", 
+        "author": "Andrew Hoell et al",
+        "date": "2015-07-23",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00757.1?af=R",
         "title": "The Forcing of Monthly Precipitation Variability over Southwest Asia During the Boreal Cold Season"
-    }, 
+    },
     {
-        "author": "Caroline R. Holmes et al", 
-        "date": "2015-07-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00735.1?af=R", 
+        "author": "Caroline R. Holmes et al",
+        "date": "2015-07-22",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00735.1?af=R",
         "title": "Robust Future Changes in Temperature Variability under Greenhouse Gas Forcing and the Relationship with Thermal Advection"
-    }, 
+    },
     {
-        "author": "Alex J. Cannon et al", 
-        "date": "2015-07-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00754.1?af=R", 
+        "author": "Alex J. Cannon et al",
+        "date": "2015-07-22",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00754.1?af=R",
         "title": "Bias Correction of GCM Precipitation by Quantile Mapping: How Well Do Methods Preserve Changes in Quantiles and Extremes?"
-    }, 
+    },
     {
-        "author": "Daehyun Kim et al", 
-        "date": "2015-07-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00767.1?af=R", 
+        "author": "Daehyun Kim et al",
+        "date": "2015-07-22",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00767.1?af=R",
         "title": "Role of Longwave Cloud\u2013Radiation Feedback in the Simulation of the Madden\u2013Julian Oscillation"
-    }, 
+    },
     {
-        "author": "Timothy DelSole et al", 
-        "date": "2015-07-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0049.1?af=R", 
+        "author": "Timothy DelSole et al",
+        "date": "2015-07-22",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0049.1?af=R",
         "title": "Laplacian Eigenfunctions for Climate Analysis"
-    }, 
+    },
     {
-        "author": "Noah Knowles", 
-        "date": "2015-07-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0051.1?af=R", 
+        "author": "Noah Knowles",
+        "date": "2015-07-22",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0051.1?af=R",
         "title": "Trends in Snow Cover and Related Quantities at Weather Stations in the Conterminous U.S."
-    }, 
+    },
     {
-        "author": "Jonathan Jalbert et al", 
-        "date": "2015-07-21", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00360.1?af=R", 
+        "author": "Jonathan Jalbert et al",
+        "date": "2015-07-21",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00360.1?af=R",
         "title": "Canadian RCM Projected Transient Changes to Precipitation Occurrence, Intensity, and Return Level over North America"
-    }, 
+    },
     {
-        "author": "Mario Trottini et al", 
-        "date": "2015-07-21", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0009.1?af=R", 
+        "author": "Mario Trottini et al",
+        "date": "2015-07-21",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0009.1?af=R",
         "title": "On the Use of Running Trends as Summary Statistics for Univariate Time Series and Time Series Association"
-    }, 
+    },
     {
-        "author": "Benjamin A. Schenkel et al", 
-        "date": "2015-07-17", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00780.1?af=R", 
+        "author": "Benjamin A. Schenkel et al",
+        "date": "2015-07-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00780.1?af=R",
         "title": "An examination of the thermodynamic impacts of western North Pacific tropical cyclones on their tropical tropospheric environment"
-    }, 
+    },
     {
-        "author": "Renguang Wu et al", 
-        "date": "2015-07-17", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0136.1?af=R", 
+        "author": "Renguang Wu et al",
+        "date": "2015-07-17",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0136.1?af=R",
         "title": "Air-sea relationship associated with precipitation anomaly change and mean precipitation anomaly over the South China Sea and the Arabian Sea during the spring-to-summer transition"
-    }, 
+    },
     {
-        "author": "Toby R. Ault et al", 
-        "date": "2015-07-16", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00736.1?af=R", 
+        "author": "Toby R. Ault et al",
+        "date": "2015-07-16",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00736.1?af=R",
         "title": "Trends and natural variability of spring onset in the coterminous United States as evaluated by a new gridded dataset of spring indices"
-    }, 
+    },
     {
-        "author": "Richard Seager et al", 
-        "date": "2015-07-16", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00860.1?af=R", 
+        "author": "Richard Seager et al",
+        "date": "2015-07-16",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00860.1?af=R",
         "title": "Causes of the 2011 to 2014 California drought"
-    }, 
+    },
     {
-        "author": "Kyle R. Clem et al", 
-        "date": "2015-07-16", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0125.1?af=R", 
+        "author": "Kyle R. Clem et al",
+        "date": "2015-07-16",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0125.1?af=R",
         "title": "Austral spring Southern Hemisphere circulation and temperature changes and links to the SPCZ"
-    }, 
+    },
     {
-        "author": "Xiuquan Wang et al", 
-        "date": "2015-07-16", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0185.1?af=R", 
+        "author": "Xiuquan Wang et al",
+        "date": "2015-07-16",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0185.1?af=R",
         "title": "Ensemble projections of regional climatic changes over Ontario, Canada"
-    }, 
+    },
     {
-        "author": "Bingyi Wu et al", 
-        "date": "2015-07-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00274.1?af=R", 
+        "author": "Bingyi Wu et al",
+        "date": "2015-07-15",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00274.1?af=R",
         "title": "Patterns of Asian Winter Climate Variability and Links to Arctic Sea Ice"
-    }, 
+    },
     {
-        "author": "XIUZHEN LI et al", 
-        "date": "2015-07-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00403.1?af=R", 
+        "author": "XIUZHEN LI et al",
+        "date": "2015-07-15",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00403.1?af=R",
         "title": "Assessment of Regional Drought Trend and Risk over China: A Drought Climate Division Perspective"
-    }, 
+    },
     {
-        "author": "Patrick Martineau et al", 
-        "date": "2015-07-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00478.1?af=R", 
+        "author": "Patrick Martineau et al",
+        "date": "2015-07-15",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00478.1?af=R",
         "title": "Onset of circulation anomalies during stratospheric vortex weakening events: the role of planetary-scale waves"
-    }, 
+    },
     {
-        "author": "Qing Yan et al", 
-        "date": "2015-07-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0054.1?af=R", 
+        "author": "Qing Yan et al",
+        "date": "2015-07-15",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0054.1?af=R",
         "title": "Tropical Cyclone Genesis Factors in a Simulation of the Last Two Millennia: Results from Community Earth System Model"
-    }, 
+    },
     {
-        "author": "Matthew D. Thomas et al", 
-        "date": "2015-07-14", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00631.1?af=R", 
+        "author": "Matthew D. Thomas et al",
+        "date": "2015-07-14",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00631.1?af=R",
         "title": "A Lagrangian Method to Isolate the Impacts of Mixed Layer Subduction on the Meridional Overturning Circulation in a Numerical Model"
-    }, 
+    },
     {
-        "author": "Hae-li Park et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00502.1?af=R", 
+        "author": "Hae-li Park et al",
+        "date": "2015-07-13",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00502.1?af=R",
         "title": "Development of a Dynamics-Based Statistical Prediction Model for the Changma Onset"
-    }, 
+    },
     {
-        "author": "Xuejuan Ren et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00682.1?af=R", 
+        "author": "Xuejuan Ren et al",
+        "date": "2015-07-13",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00682.1?af=R",
         "title": "Characteristics and Mechanisms of the Subseasonal Eastward Extension of the South Asian High"
-    }, 
+    },
     {
-        "author": "Martin Bergemann et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0098.1?af=R", 
+        "author": "Martin Bergemann et al",
+        "date": "2015-07-13",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0098.1?af=R",
         "title": "Global Detection and Analysis of Coastline-Associated Rainfall Using an Objective Pattern Recognition Technique"
-    }, 
+    },
     {
-        "author": "Fei Zheng et al", 
-        "date": "2015-07-10", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00515.1?af=R", 
+        "author": "Fei Zheng et al",
+        "date": "2015-07-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00515.1?af=R",
         "title": "Cross-seasonal Influence of the December-February Southern Hemisphere Annular Mode on March-May Meridional Circulation and Precipitation"
-    }, 
+    },
     {
-        "author": "Fei Zheng et al", 
-        "date": "2015-07-10", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0170.1?af=R", 
+        "author": "Fei Zheng et al",
+        "date": "2015-07-10",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0170.1?af=R",
         "title": "Relative Importance of the Austral Summer and Autumn SAM in Modulating Southern Hemisphere Extratropical Autumn SST"
-    }, 
+    },
     {
-        "author": "Jacola Roman et al", 
-        "date": "2015-07-09", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00679.1?af=R", 
+        "author": "Jacola Roman et al",
+        "date": "2015-07-09",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00679.1?af=R",
         "title": "Predicted Changes in the Frequency of Extreme Precipitable Water Vapor Events"
-    }, 
+    },
     {
-        "author": "Hiroshi G. Takahashi et al", 
-        "date": "2015-07-09", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00763.1?af=R", 
+        "author": "Hiroshi G. Takahashi et al",
+        "date": "2015-07-09",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00763.1?af=R",
         "title": "An oceanic impact of the Kuroshio on surface air temperature on the Pacific coast of Japan in summer: Regional H2O greenhouse gas effect"
-    }, 
+    },
     {
-        "author": "Froila M. Palmeiro et al", 
-        "date": "2015-07-09", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0004.1?af=R", 
+        "author": "Froila M. Palmeiro et al",
+        "date": "2015-07-09",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0004.1?af=R",
         "title": "Comparing Sudden Stratospheric Warming Definitions in Reanalysis Data"
-    }, 
+    },
     {
-        "author": "ZHIQING XIE et al", 
-        "date": "2015-07-08", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00649.1?af=R", 
+        "author": "ZHIQING XIE et al",
+        "date": "2015-07-08",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00649.1?af=R",
         "title": "Zonal Extension and Retraction of the Subtropical Westerly Jet Stream and Evolution of Precipitation over East Asia and the Western Pacific"
-    }, 
+    },
     {
-        "author": "M. Rodell et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00555.1?af=R", 
+        "author": "M. Rodell et al",
+        "date": "2015-07-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00555.1?af=R",
         "title": "The Observed State of the Water Cycle in the Early 21st Century"
-    }, 
+    },
     {
-        "author": "Tristan S. L\u2019Ecuyer et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00556.1?af=R", 
+        "author": "Tristan S. L\u2019Ecuyer et al",
+        "date": "2015-07-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00556.1?af=R",
         "title": "The Observed State of the Energy Budget in the Early 21st Century"
-    }, 
+    },
     {
-        "author": "Keith J. Harding et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00657.1?af=R", 
+        "author": "Keith J. Harding et al",
+        "date": "2015-07-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00657.1?af=R",
         "title": "The Relationship between the Pacific-North American Teleconnection Pattern, the Great Plains Low-Level Jet, and North Central U.S. Heavy Rainfall Events"
-    }, 
+    },
     {
-        "author": "Bradford S. Barrett et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0092.1?af=R", 
+        "author": "Bradford S. Barrett et al",
+        "date": "2015-07-07",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0092.1?af=R",
         "title": "The influence of MJO on the intraseasonal variability of Northern Hemisphere spring snow depth"
-    }, 
+    },
     {
-        "author": "Shao-Yi Lee et al", 
-        "date": "2015-07-06", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00609.1?af=R", 
+        "author": "Shao-Yi Lee et al",
+        "date": "2015-07-06",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00609.1?af=R",
         "title": "The Response of the South Asian Summer Monsoon to Temporal and Spatial Variations in Absorbing Aerosol Radiative Forcing"
-    }, 
+    },
     {
-        "author": "Leon D. Rotstayn et al", 
-        "date": "2015-07-06", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00712.1?af=R", 
+        "author": "Leon D. Rotstayn et al",
+        "date": "2015-07-06",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00712.1?af=R",
         "title": "Why does aerosol forcing control historical global-mean surface temperature change in CMIP5 models?"
-    }, 
+    },
     {
-        "author": "Yali Yang et al", 
-        "date": "2015-07-06", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0057.1?af=R", 
+        "author": "Yali Yang et al",
+        "date": "2015-07-06",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0057.1?af=R",
         "title": "Interdecadal difference of interannual variability characteristics of SCS SST associated with ENSO"
-    }, 
+    },
     {
-        "author": "Catherine M. Naud et al", 
-        "date": "2015-07-02", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0052.1?af=R", 
+        "author": "Catherine M. Naud et al",
+        "date": "2015-07-02",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0052.1?af=R",
         "title": "A CloudSat-CALIPSO View of Cloud and Precipitation Properties across Cold Fronts over the Global Ocean"
-    }, 
+    },
     {
-        "author": "Muhammad Adnan Abid et al", 
-        "date": "2015-07-01", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00497.1?af=R", 
+        "author": "Muhammad Adnan Abid et al",
+        "date": "2015-07-01",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00497.1?af=R",
         "title": "Contribution of Synoptic Transients to the Potential Predictability of PNA Circulation Anomalies: El Ni\u00f1o vs La Ni\u00f1a"
-    }, 
+    },
     {
-        "author": "Jian Lu et al", 
-        "date": "2015-07-01", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00761.1?af=R", 
+        "author": "Jian Lu et al",
+        "date": "2015-07-01",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00761.1?af=R",
         "title": "Towards the dynamical convergence on the jet stream in aquaplanet AGCMs"
-    }, 
+    },
     {
-        "author": "Ying Li et al", 
-        "date": "2015-06-29", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00825.1?af=R", 
+        "author": "Ying Li et al",
+        "date": "2015-06-29",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00825.1?af=R",
         "title": "The influence of atmospheric cloud radiative effects on the large-scale atmospheric circulation"
-    }, 
+    },
     {
-        "author": "Martin Hanel et al", 
-        "date": "2015-06-26", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00775.1?af=R", 
+        "author": "Martin Hanel et al",
+        "date": "2015-06-26",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00775.1?af=R",
         "title": "Assessment of the sources of variation in changes of precipitation characteristics over the Rhine basin using a linear mixed-effects model"
-    }, 
+    },
     {
-        "author": "Jeffrey D. O. Strong et al", 
-        "date": "2015-06-26", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00797.1?af=R", 
+        "author": "Jeffrey D. O. Strong et al",
+        "date": "2015-06-26",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00797.1?af=R",
         "title": "The Response of the Tropical Atlantic and West African Climate to Saharan Dust in a Fully Coupled GCM"
-    }, 
+    },
     {
-        "author": "Liang Wu et al", 
-        "date": "2015-06-26", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00806.1?af=R", 
+        "author": "Liang Wu et al",
+        "date": "2015-06-26",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00806.1?af=R",
         "title": "Influence of the monsoon trough on westward-propagating tropical waves over the western North Pacific. Part I: Observations"
-    }, 
+    },
     {
-        "author": "Shuangmei Ma et al", 
-        "date": "2015-06-25", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0011.1?af=R", 
+        "author": "Shuangmei Ma et al",
+        "date": "2015-06-25",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0011.1?af=R",
         "title": "Observed Changes in the Distributions of Daily Precipitation Frequency and Amount over China from 1960-2013"
-    }, 
+    },
     {
-        "author": "Yonghong Yao et al", 
-        "date": "2015-06-25", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0033.1?af=R", 
-        "title": "Subseasonal variability of precipitation in China during boreal winter"
-    }, 
-    {
-        "author": "Darryn W. Waugh et al", 
-        "date": "2015-06-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0138.1?af=R", 
-        "title": "Drivers of the recent tropical expansion in the Southern Hemisphere: Changing SSTs or ozone depletion?"
-    }, 
-    {
-        "author": "Larry K. Berg et al", 
-        "date": "2015-06-23", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00719.1?af=R", 
+        "author": "Larry K. Berg et al",
+        "date": "2015-06-23",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00719.1?af=R",
         "title": "The Low-Level Jet over the Southern Great Plains Determined from Observations and Reanalyses and Its Impact on Moisture Transport"
-    }, 
+    },
     {
-        "author": "Jinghua Chen et al", 
-        "date": "2015-06-23", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00859.1?af=R", 
+        "author": "Jinghua Chen et al",
+        "date": "2015-06-23",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00859.1?af=R",
         "title": "Characteristics of Heat Sources and Clouds over East China and Tibetan Plateau in Boreal Summer"
-    }, 
+    },
     {
-        "author": "Kerry H. Cook et al", 
-        "date": "2015-06-19", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00230.1?af=R", 
-        "title": "Detection and Analysis of an Amplified Warming of the Sahara Desert"
-    }, 
-    {
-        "author": "Hyo-Seok Park et al", 
-        "date": "2015-06-19", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00773.1?af=R", 
-        "title": "The Impact of Arctic Winter Infrared Radiation on Early Summer Sea Ice"
-    }, 
-    {
-        "author": "Charles Jones et al", 
-        "date": "2015-06-12", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0149.1?af=R", 
-        "title": "The Madden-Julian Oscillation and boreal winter forecast skill:an analysis of NCEP CFSv2 reforecasts"
-    }, 
-    {
-        "author": "Steven C. Hardiman et al", 
-        "date": "2015-06-11", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0075.1?af=R", 
-        "title": "Processes controlling tropical tropopause temperature and stratospheric water vapor in climate models"
-    }, 
-    {
-        "author": "Melissa S. Bukovsky et al", 
-        "date": "2015-06-08", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00695.1?af=R", 
+        "author": "Melissa S. Bukovsky et al",
+        "date": "2015-06-08",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00695.1?af=R",
         "title": "Towards Assessing NARCCAP Regional Climate Model Credibility for the North American Monsoon: Future Climate Simulations"
-    }, 
+    },
     {
-        "author": "Frank J. Wentz", 
-        "date": "2015-06-08", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0155.1?af=R", 
+        "author": "Frank J. Wentz",
+        "date": "2015-06-08",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0155.1?af=R",
         "title": "A 17-Year Climate Record of Environmental Parameters Derived from the Tropical Rainfall Measuring Mission (TRMM) Microwave Imager"
-    }, 
+    },
     {
-        "author": "Christian Kerkhoff et al", 
-        "date": "2015-06-03", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00606.1?af=R", 
-        "title": "A Bayesian Hierarchical Model for Heterogeneous RCM-GCM Multi-Model Ensembles"
-    }, 
-    {
-        "author": "Susmitha Joseph et al", 
-        "date": "2015-06-03", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00842.1?af=R", 
-        "title": "Development and evaluation of an objective criterion for the real-time prediction of Indian summer monsoon onset in a coupled model framework"
-    }, 
-    {
-        "author": "SONG Fengfei et al", 
-        "date": "2015-05-28", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00783.1?af=R", 
+        "author": "SONG Fengfei et al",
+        "date": "2015-05-28",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00783.1?af=R",
         "title": "The crucial role of internal variability in modulating the decadal variation of the East Asian summer monsoon-ENSO relationship during the 20th century"
-    }, 
+    },
     {
-        "author": "Daniel J. Cecil et al", 
-        "date": "2015-05-28", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0124.1?af=R", 
-        "title": "TRMM-LIS Climatology of Thunderstorm Occurrence and Conditional Lightning Flash Rates"
-    }, 
-    {
-        "author": "Xiaolan L. Wang et al", 
-        "date": "2015-05-28", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0190.1?af=R", 
+        "author": "Xiaolan L. Wang et al",
+        "date": "2015-05-28",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0190.1?af=R",
         "title": "Historical changes in the Beaufort-Chukchi-Bering Seas surface winds and waves, 1971-2013"
-    }, 
+    },
     {
-        "author": "Yuanyuan Guo et al", 
-        "date": "2015-05-27", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00674.1?af=R", 
-        "title": "Impact of Tropical Pacific Precipitation Anomaly on the East Asian Upper-tropospheric Westerly Jet during the Boreal Winter"
-    }, 
-    {
-        "author": "Ping Huang", 
-        "date": "2015-05-27", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0055.1?af=R", 
-        "title": "Seasonal changes in tropical SST and the surface energy budget under global warming projected by CMIP5 models"
-    }, 
-    {
-        "author": "Sen Zhao et al", 
-        "date": "2015-05-26", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00425.1?af=R", 
+        "author": "Sen Zhao et al",
+        "date": "2015-05-26",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00425.1?af=R",
         "title": "Dynamics of an interhemispheric teleconnection across the critical latitude through a southerly duct during boreal winter"
-    }, 
+    },
     {
-        "author": "Leighton A. Regayre et al", 
-        "date": "2015-05-26", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0127.1?af=R", 
+        "author": "Leighton A. Regayre et al",
+        "date": "2015-05-26",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0127.1?af=R",
         "title": "The climatic importance of uncertainties in regional aerosol-cloud radiative forcings over recent decades"
-    }, 
+    },
     {
-        "author": "Mouhamadou Bamba Sylla et al", 
-        "date": "2015-05-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00854.1?af=R", 
-        "title": "Projected Changes in the Annual Cycle of High Intensity Precipitation Events over West Africa for the Late 21st Century"
-    }, 
-    {
-        "author": "HUIJUN WANG et al", 
-        "date": "2015-05-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0202.1?af=R", 
+        "author": "HUIJUN WANG et al",
+        "date": "2015-05-22",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0202.1?af=R",
         "title": "The North China/Northeastern Asia Severe Summer Drought in 2014"
-    }, 
+    },
     {
-        "author": "David W. J. Thompson et al", 
-        "date": "2015-05-21", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00830.1?af=R", 
-        "title": "Quantifying the role of internal climate variability in future climate trends"
-    }, 
-    {
-        "author": "Nathaniel B. Miller et al", 
-        "date": "2015-05-21", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0076.1?af=R", 
-        "title": "Cloud radiative forcing at Summit, Greenland"
-    }, 
-    {
-        "author": "Samuel J. Levang et al", 
-        "date": "2015-05-21", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0143.1?af=R", 
-        "title": "Centennial changes of the global water cycle in CMIP5 models"
-    }, 
-    {
-        "author": "Kimberly Smith et al", 
-        "date": "2015-05-20", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00488.1?af=R", 
-        "title": "Connectivity between historical Great Basin precipitation and Pacific Ocean variability: A CMIP5 model evaluation"
-    }, 
-    {
-        "author": "Kyong-Hwan Seo et al", 
-        "date": "2015-05-20", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00526.1?af=R", 
-        "title": "Northern East Asian Monsoon Precipitation Revealed by Air Mass Variability and Its Prediction"
-    }, 
-    {
-        "author": "Neil F. Tandon et al", 
-        "date": "2015-05-20", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00664.1?af=R", 
-        "title": "Does External Forcing Interfere with the AMOC\u2019s Influence on North Atlantic Sea Surface Temperature?"
-    }, 
-    {
-        "author": "Enrico Scoccimarro et al", 
-        "date": "2015-05-19", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00779.1?af=R", 
-        "title": "Projected changes in intense precipitation over Europe at the daily and sub-daily time scales"
-    }, 
-    {
-        "author": "Anthony D. Del Genio et al", 
-        "date": "2015-05-19", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00832.1?af=R", 
-        "title": "Constraints on Cumulus Parameterization from Simulations of Observed MJO Events"
-    }, 
-    {
-        "author": "Dehai Luo et al", 
-        "date": "2015-05-19", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0184.1?af=R", 
-        "title": "The Positive North Atlantic Oscillation with Downstream Blocking and the Middle East Snowstorm: The Large-Scale Environment"
-    }, 
-    {
-        "author": "Michael Veres et al", 
-        "date": "2015-05-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00413.1?af=R", 
-        "title": "Atmospheric Responses to North Atlantic SST Anomalies in Idealized Experiments. Part I: Northern Hemispheric Circulation"
-    }, 
-    {
-        "author": "Giuseppe Zappa et al", 
-        "date": "2015-05-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00823.1?af=R", 
-        "title": "Improving climate change detection through optimal seasonal averaging: the case of the North Atlantic jet and European precipitation"
-    }, 
-    {
-        "author": "Andrew M. Chiodi et al", 
-        "date": "2015-05-14", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00387.1?af=R", 
-        "title": "Global seasonal precipitation anomalies robustly associated with El Ni\u00f1o and La Ni\u00f1a events - an OLR perspective"
-    }, 
-    {
-        "author": "Shannon R. Davis et al", 
-        "date": "2015-05-14", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00635.1?af=R", 
-        "title": "The Tokar Gap Jet: Regional Circulation, Diurnal Variability and Moisture Transport based on Numerical Simulations"
-    }, 
-    {
-        "author": "John G. Dwyer et al", 
-        "date": "2015-05-14", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00686.1?af=R", 
-        "title": "Projected 21st century changes in the length of the tropical cyclone season"
-    }, 
-    {
-        "author": "James Overland et al", 
-        "date": "2015-05-14", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00822.1?af=R", 
+        "author": "James Overland et al",
+        "date": "2015-05-14",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00822.1?af=R",
         "title": "The Melting Arctic and Mid-latitude Weather Patterns: Are They Connected?"
-    }, 
+    },
     {
-        "author": "F. Krikken et al", 
-        "date": "2015-05-13", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0002.1?af=R", 
-        "title": "Arctic energy budget in relation to sea-ice variability on monthly to annual time scales"
-    }, 
-    {
-        "author": "J. Mauro Vargas-Hern\u00e1ndez et al", 
-        "date": "2015-05-12", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00700.1?af=R", 
-        "title": "Decadal characterization of Indo-Pacific Ocean subsurface temperature modes in SODA reanalysis"
-    }, 
-    {
-        "author": "Anna C. Fitch", 
-        "date": "2015-05-08", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00245.1?af=R", 
-        "title": "Climate Impacts of Large-scale Wind Farms as Parameterized in a Global Climate Model"
-    }, 
-    {
-        "author": "Edgar L Andreas et al", 
-        "date": "2015-05-08", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00768.1?af=R", 
-        "title": "Spatial Variability of Surface-Level State Variables over Arctic Sea Ice"
-    }, 
-    {
-        "author": "Hanjun Kim et al", 
-        "date": "2015-05-06", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0037.1?af=R", 
-        "title": "Sensitivity of the climate response to the altitude of black carbon in the northern subtropics in an aquaplanet GCM"
-    }, 
-    {
-        "author": "Sarah M. Kang et al", 
-        "date": "2015-05-06", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0079.1?af=R", 
-        "title": "Seasonal dependence of the effect of Arctic greening on tropical precipitation"
-    }, 
-    {
-        "author": "Michael S. Dinniman et al", 
-        "date": "2015-05-01", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00374.1?af=R", 
-        "title": "The effect of atmospheric forcing resolution on delivery of ocean heat to the Antarctic floating ice shelves"
-    }, 
-    {
-        "author": "Donald M. Lafleur et al", 
-        "date": "2015-05-01", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00744.1?af=R", 
-        "title": "Some climatological aspects of the Madden-Julian Oscillation (MJO)"
-    }, 
-    {
-        "author": "I. G. Watterson", 
-        "date": "2015-04-30", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00702.1?af=R", 
-        "title": "Improved simulation of regional climate by global models with higher resolution: skill scores correlated with grid length"
-    }, 
-    {
-        "author": "Jason M. English et al", 
-        "date": "2015-04-30", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00801.1?af=R", 
-        "title": "Arctic Radiative Fluxes: Present-day biases and future projections in CMIP5 models"
-    }, 
-    {
-        "author": "Matt J. Fischer", 
-        "date": "2015-04-29", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00713.1?af=R", 
-        "title": "Predictable components in Australian daily temperature data"
-    }, 
-    {
-        "author": "Shannon Mason et al", 
-        "date": "2015-04-28", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00846.1?af=R", 
-        "title": "A hybrid cloud regime methodology used to evaluate Southern Ocean cloud and shortwave radiation errors in ACCESS"
-    }, 
-    {
-        "author": "Neil Berg et al", 
-        "date": "2015-04-27", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00624.1?af=R", 
-        "title": "Increased Interannual Precipitation Extremes over California Under Climate Change"
-    }, 
-    {
-        "author": "Dan-Qing Huang et al", 
-        "date": "2015-04-27", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00641.1?af=R", 
-        "title": "The Impact of the East Asian Subtropical Jet and Polar Front Jet on the Frequency of Spring Persistent Rainfall over Southern China in 1997-2011"
-    }, 
-    {
-        "author": "Wei Mei et al", 
-        "date": "2015-04-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00651.1?af=R", 
-        "title": "Tropical cyclone-induced ocean response: A comparative study of the South China Sea and tropical Northwest Pacific"
-    }, 
-    {
-        "author": "Yao Ha et al", 
-        "date": "2015-04-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00769.1?af=R", 
-        "title": "Decadal Change in Tropical Cyclone Activity over South China Sea around 2002/2003"
-    }, 
-    {
-        "author": "Naiming Yuan et al", 
-        "date": "2015-04-22", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00733.1?af=R", 
-        "title": "On the long-term climate memory in the surface air temperature records over Antarctica: A non-negligible factor for trend evaluation"
-    }, 
-    {
-        "author": "Cheng Qian et al", 
-        "date": "2015-04-15", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00821.1?af=R", 
-        "title": "Human influences on changes in the temperature seasonality in mid-to-high latitude land areas"
-    }, 
-    {
-        "author": "Feili Li et al", 
-        "date": "2014-10-24", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00670.1?af=R", 
+        "author": "Feili Li et al",
+        "date": "2014-10-24",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00670.1?af=R",
         "title": "Climate signals in the mid to high latitude North Atlantic from altimeter observations"
-    }, 
+    },
     {
-        "author": "Hua Su et al", 
-        "date": "2014-04-14", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00185.1?af=R", 
+        "author": "Hua Su et al",
+        "date": "2014-04-14",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00185.1?af=R",
         "title": "On the spatial gradient of soil moisture-precipitation feedback strength in the 2011 April drought in the Southern Great Plains"
-    }, 
+    },
     {
-        "author": "Simon Blessing et al", 
-        "date": "2008-02-01", 
-        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI1990.1?af=R", 
+        "author": "Simon Blessing et al",
+        "date": "2008-02-01",
+        "description": "Journal of Climate, Ahead of Print. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI1990.1?af=R",
         "title": "Interpreting the atmospheric circulation trend during the last half of the 20th century: Application of an adjoint model"
-    }, 
+    },
     {
-        "author": "Mitchell Bushuk et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5477-5509, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00354.1?af=R", 
-        "title": "Arctic Sea Ice Reemergence: The Role of Large-Scale Oceanic and Atmospheric Variability"
-    }, 
+        "author": "Neil F. Tandon et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6309-6323, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00664.1?af=R",
+        "title": "Does External Forcing Interfere with the AMOC\u2019s Influence on North Atlantic Sea Surface Temperature?"
+    },
     {
-        "author": "Fei Li et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5510-5522, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00629.1?af=R", 
-        "title": "Extratropical Ocean Warming and Winter Arctic Sea Ice Cover since the 1990s"
-    }, 
+        "author": "Neil Berg et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6324-6334, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00624.1?af=R",
+        "title": "Increased Interannual Precipitation Extremes over California under Climate Change"
+    },
     {
-        "author": "Zhenxia Long et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5523-5548, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00522.1?af=R", 
-        "title": "Scenario Changes of Atlantic Water in the Arctic Ocean"
-    }, 
+        "author": "F. Krikken et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6335-6350, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0002.1?af=R",
+        "title": "Arctic Energy Budget in Relation to Sea Ice Variability on Monthly-to-Annual Time Scales"
+    },
     {
-        "author": "Koichi Sakaguchi et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5549-5574, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00729.1?af=R", 
-        "title": "Exploring a Multiresolution Approach Using AMIP Simulations"
-    }, 
+        "author": "Hanjun Kim et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6351-6359, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0037.1?af=R",
+        "title": "Sensitivity of the Climate Response to the Altitude of Black Carbon in the Northern Subtropics in an Aquaplanet GCM"
+    },
     {
-        "author": "Martin W. Jury et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5575-5582, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00430.1?af=R", 
-        "title": "Evaluation of CMIP5 Models in the Context of Dynamical Downscaling over Europe"
-    }, 
+        "author": "Edgar L Andreas et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6360-6380, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00768.1?af=R",
+        "title": "Spatial Variability of Surface-Level State Variables over Arctic Sea Ice"
+    },
     {
-        "author": "Jacob Scheff et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5583-5600, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00480.1?af=R", 
-        "title": "Terrestrial Aridity and Its Response to Greenhouse Warming across CMIP5 Climate Models"
-    }, 
+        "author": "Giuseppe Zappa et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6381-6397, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00823.1?af=R",
+        "title": "Improving Climate Change Detection through Optimal Seasonal Averaging: The Case of the North Atlantic Jet and European Precipitation"
+    },
     {
-        "author": "Shoji Kusunoki et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5601-5621, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00585.1?af=R", 
-        "title": "Are CMIP5 Models Better than CMIP3 Models in Simulating Precipitation over East Asia?"
-    }, 
+        "author": "Dehai Luo et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6398-6418, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0184.1?af=R",
+        "title": "The Positive North Atlantic Oscillation with Downstream Blocking and Middle East Snowstorms: The Large-Scale Environment"
+    },
     {
-        "author": "Ben Yang et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5622-5644, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00655.1?af=R", 
-        "title": "Parametric Sensitivity Analysis for the Asian Summer Monsoon Precipitation Simulation in the Beijing Climate Center AGCM, Version 2.1"
-    }, 
+        "author": "Anthony D. Del Genio et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6419-6442, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00832.1?af=R",
+        "title": "Constraints on Cumulus Parameterization from Simulations of Observed MJO Events"
+    },
     {
-        "author": "Dzung Nguyen-Le et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5645-5666, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00373.1?af=R", 
-        "title": "Onset of the Rainy Seasons in the Eastern Indochina Peninsula"
-    }, 
+        "author": "David W. J. Thompson et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6443-6456, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00830.1?af=R",
+        "title": "Quantifying the Role of Internal Climate Variability in Future Climate Trends"
+    },
     {
-        "author": "Nicholas Leonardo et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5667-5682, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00518.1?af=R", 
-        "title": "Impact of the Hawaiian High on Interannual Variations of Winter Precipitation over California"
-    }, 
+        "author": "Yuanyuan Guo et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6457-6474, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00674.1?af=R",
+        "title": "Impact of Tropical Pacific Precipitation Anomaly on the East Asian Upper-Tropospheric Westerly Jet during the Boreal Winter"
+    },
     {
-        "author": "Boksoon Myoung et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5683-5698, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00521.1?af=R", 
-        "title": "On the Relationship between the North Atlantic Oscillation and Early Warm Season Temperatures in the Southwestern United States"
-    }, 
+        "author": "Mouhamadou Bamba Sylla et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6475-6488, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00854.1?af=R",
+        "title": "Projected Changes in the Annual Cycle of High-Intensity Precipitation Events over West Africa for the Late Twenty-First Century"
+    },
     {
-        "author": "Margit Pattanty\u00fas-\u00c1brah\u00e1m et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5699-5715, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00814.1?af=R", 
-        "title": "Temperature Trends over Germany from Homogenized Radiosonde Data"
-    }, 
+        "author": "Samuel J. Levang et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6489-6502, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0143.1?af=R",
+        "title": "Centennial Changes of the Global Water Cycle in CMIP5 Models"
+    },
     {
-        "author": "Jing Li et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5716-5736, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00537.1?af=R", 
-        "title": "An Intercomparison of the Spatiotemporal Variability of Satellite- and Ground-Based Cloud Datasets Using Spectral Analysis Techniques"
-    }, 
+        "author": "Ping Huang",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6503-6515, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0055.1?af=R",
+        "title": "Seasonal Changes in Tropical SST and the Surface Energy Budget under Global Warming Projected by CMIP5 Models"
+    },
     {
-        "author": "Anning Cheng et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5737-5762, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00776.1?af=R", 
-        "title": "Improved Low-Cloud Simulation from the Community Atmosphere Model with an Advanced Third-Order Turbulence Closure"
-    }, 
+        "author": "Steven C. Hardiman et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6516-6535, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0075.1?af=R",
+        "title": "Processes Controlling Tropical Tropopause Temperature and Stratospheric Water Vapor in Climate Models"
+    },
     {
-        "author": "Ji-Hyun Oh et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5763-5782, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00570.1?af=R", 
-        "title": "Convective Momentum Transport Associated with the Madden\u2013Julian Oscillation Based on a Reanalysis Dataset"
-    }, 
+        "author": "Daniel J. Cecil et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6536-6547, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0124.1?af=R",
+        "title": "TRMM LIS Climatology of Thunderstorm Occurrence and Conditional Lightning Flash Rates"
+    },
     {
-        "author": "Benkui Tan et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5783-5794, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00568.1?af=R", 
-        "title": "The Linkage between the Eastern Pacific Teleconnection Pattern and Convective Heating over the Tropical Western Pacific"
-    }, 
+        "author": "Yonghong Yao et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6548-6559, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0033.1?af=R",
+        "title": "Subseasonal Variability of Precipitation in China during Boreal Winter"
+    },
     {
-        "author": "Wenjun Zhang et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5795-5812, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00724.1?af=R", 
-        "title": "The Annual-Cycle Modulation of Meridional Asymmetry in ENSO\u2019s Atmospheric Response and Its Dependence on ENSO Zonal Structure"
-    }, 
+        "author": "Kerry H. Cook et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6560-6580, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00230.1?af=R",
+        "title": "Detection and Analysis of an Amplified Warming of the Sahara Desert"
+    },
     {
-        "author": "Joseph A. Santanello et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5813-5829, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00680.1?af=R", 
-        "title": "Quantifying the Land\u2013Atmosphere Coupling Behavior in Modern Reanalysis Products over the U.S. Southern Great Plains"
-    }, 
+        "author": "Darryn W. Waugh et al",
+        "date": "2015-08-10",
+        "description": "Journal of Climate, Volume 28, Issue 16, Page 6581-6586, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0138.1?af=R",
+        "title": "Drivers of the Recent Tropical Expansion in the Southern Hemisphere: Changing SSTs or Ozone Depletion?"
+    },
     {
-        "author": "Ruidan Chen et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5830-5844, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00818.1?af=R", 
-        "title": "Comparisons of the Circulation Anomalies Associated with Extreme Heat in Different Regions of Eastern China"
-    }, 
+        "author": "Shannon R. Davis et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5885-5907, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00635.1?af=R",
+        "title": "The Tokar Gap Jet: Regional Circulation, Diurnal Variability, and Moisture Transport Based on Numerical Simulations"
+    },
     {
-        "author": "Yutian Wu et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5845-5856, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0040.1?af=R", 
-        "title": "Contrasting Short- and Long-Term Projections of the Hydrological Cycle in the Southern Extratropics"
-    }, 
+        "author": "Cheng Qian et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5908-5921, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00821.1?af=R",
+        "title": "Human Influences on Changes in the Temperature Seasonality in Mid- to High-Latitude Land Areas"
+    },
     {
-        "author": "Sung-Ho Woo et al", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5857-5872, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00790.1?af=R", 
-        "title": "Temperature Variation over East Asia during the Lifecycle of Weak Stratospheric Polar Vortex"
-    }, 
+        "author": "Naiming Yuan et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5922-5934, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00733.1?af=R",
+        "title": "On the Long-Term Climate Memory in the Surface Air Temperature Records over Antarctica: A Nonnegligible Factor for Trend Evaluation"
+    },
     {
-        "author": "Stefano Pierini", 
-        "date": "2015-07-13", 
-        "description": "Journal of Climate, Volume 28, Issue 14, Page 5873-5881, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0023.1?af=R", 
-        "title": "A Comparative Analysis of Kuroshio Extension Indices from a Modeling Perspective"
-    }, 
+        "author": "Yao Ha et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5935-5951, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00769.1?af=R",
+        "title": "Decadal Change in Tropical Cyclone Activity over the South China Sea around 2002/03"
+    },
     {
-        "author": "Jules B. Kajtar et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5017-5029, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00114.1?af=R", 
-        "title": "Indo-Pacific Climate Interactions in the Absence of an Indonesian Throughflow"
-    }, 
+        "author": "Wei Mei et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5952-5968, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00651.1?af=R",
+        "title": "Tropical Cyclone\u2013Induced Ocean Response: A Comparative Study of the South China Sea and Tropical Northwest Pacific"
+    },
     {
-        "author": "Hyo-Seok Park et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5030-5040, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0074.1?af=R", 
-        "title": "The Impact of Poleward Moisture and Sensible Heat Flux on Arctic Winter Sea Ice Variability"
-    }, 
+        "author": "Matt J. Fischer",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5969-5984, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00713.1?af=R",
+        "title": "Predictable Components in Australian Daily Temperature Data"
+    },
     {
-        "author": "Pengfei Xue et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5041-5062, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00189.1?af=R", 
-        "title": "Estimation of the Heat and Water Budgets of the Persian (Arabian) Gulf Using a Regional Climate Model"
-    }, 
+        "author": "I. G. Watterson",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 5985-6000, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00702.1?af=R",
+        "title": "Improved Simulation of Regional Climate by Global Models with Higher Resolution: Skill Scores Correlated with Grid Length"
+    },
     {
-        "author": "Shuangwen Sun et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5063-5076, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00580.1?af=R", 
-        "title": "A Triggering Mechanism for the Indian Ocean Dipoles Independent of ENSO"
-    }, 
+        "author": "Shannon Mason et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6001-6018, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00846.1?af=R",
+        "title": "A Hybrid Cloud Regime Methodology Used to Evaluate Southern Ocean Cloud and Shortwave Radiation Errors in ACCESS"
+    },
     {
-        "author": "Stephen S. Leroy et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5077-5090, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00444.1?af=R", 
-        "title": "Prioritizing Data for Improving the Multidecadal Predictive Capability of Atmospheric Models"
-    }, 
+        "author": "Jason M. English et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6019-6038, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00801.1?af=R",
+        "title": "Arctic Radiative Fluxes: Present-Day Biases and Future Projections in CMIP5 Models"
+    },
     {
-        "author": "Philip Sura et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5091-5114, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00572.1?af=R", 
-        "title": "Perspectives of Non-Gaussianity in Atmospheric Synoptic and Low-Frequency Variability"
-    }, 
+        "author": "Donald M. Lafleur et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6039-6053, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00744.1?af=R",
+        "title": "Some Climatological Aspects of the Madden\u2013Julian Oscillation (MJO)"
+    },
     {
-        "author": "Robert C. Wills et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5115-5133, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00573.1?af=R", 
-        "title": "Stationary Eddies and the Zonal Asymmetry of Net Precipitation and Ocean Freshwater Forcing"
-    }, 
+        "author": "Dan-Qing Huang et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6054-6066, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00641.1?af=R",
+        "title": "The Impact of the East Asian Subtropical Jet and Polar Front Jet on the Frequency of Spring Persistent Rainfall over Southern China in 1997\u20132011"
+    },
     {
-        "author": "Ronald van Haren et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5134-5149, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00279.1?af=R", 
-        "title": "Resolution Dependence of European Precipitation in a State-of-the-Art Atmospheric General Circulation Model"
-    }, 
+        "author": "Michael S. Dinniman et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6067-6085, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00374.1?af=R",
+        "title": "The Effect of Atmospheric Forcing Resolution on Delivery of Ocean Heat to the Antarctic Floating Ice Shelves"
+    },
     {
-        "author": "Benjamin M. Sanderson et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5150-5170, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00361.1?af=R", 
-        "title": "Addressing Interdependency in a Multimodel Ensemble by Interpolation of Model Properties"
-    }, 
+        "author": "Sarah M. Kang et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6086-6095, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0079.1?af=R",
+        "title": "Seasonal Dependence of the Effect of Arctic Greening on Tropical Precipitation"
+    },
     {
-        "author": "Benjamin M. Sanderson et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5171-5194, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00362.1?af=R", 
-        "title": "A Representative Democracy to Reduce Interdependency in a Multimodel Ensemble"
-    }, 
+        "author": "Kimberly Smith et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6096-6112, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00488.1?af=R",
+        "title": "Connectivity between Historical Great Basin Precipitation and Pacific Ocean Variability: A CMIP5 Model Evaluation"
+    },
     {
-        "author": "J. Garc\u00eda-Serrano et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5195-5216, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00472.1?af=R", 
-        "title": "On the Predictability of the Winter Euro-Atlantic Climate: Lagged Influence of Autumn Arctic Sea Ice"
-    }, 
+        "author": "J. Mauro Vargas-Hern\u00e1ndez et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6113-6132, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00700.1?af=R",
+        "title": "Decadal Characterization of Indo-Pacific Ocean Subsurface Temperature Modes in SODA Reanalysis"
+    },
     {
-        "author": "Lifen Jiang et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5217-5232, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00270.1?af=R", 
-        "title": "Scale-Dependent Performance of CMIP5 Earth System Models in Simulating Terrestrial Vegetation Carbon"
-    }, 
+        "author": "Andrew M. Chiodi et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6133-6159, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00387.1?af=R",
+        "title": "Global Seasonal Precipitation Anomalies Robustly Associated with El Ni\u00f1o and La Ni\u00f1a Events\u2014An OLR Perspective"
+    },
     {
-        "author": "Gunilla Svensson et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5233-5253, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00596.1?af=R", 
-        "title": "Evaluation of Near-Surface Variables and the Vertical Structure of the Boundary Layer in CMIP5 Models"
-    }, 
+        "author": "Anna C. Fitch",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6160-6180, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00245.1?af=R",
+        "title": "Climate Impacts of Large-Scale Wind Farms as Parameterized in a Global Climate Model"
+    },
     {
-        "author": "Elizabeth A. Barnes et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5254-5271, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00589.1?af=R", 
-        "title": "CMIP5 Projections of Arctic Amplification, of the North American/North Atlantic Circulation, and of Their Relationship"
-    }, 
+        "author": "John G. Dwyer et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6181-6192, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00686.1?af=R",
+        "title": "Projected Twenty-First-Century Changes in the Length of the Tropical Cyclone Season"
+    },
     {
-        "author": "Ulf B\u00fcntgen et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5272-5288, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00673.1?af=R", 
-        "title": "Tree-Ring Amplification of the Early Nineteenth-Century Summer Cooling in Central Europe"
-    }, 
+        "author": "Enrico Scoccimarro et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6193-6203, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00779.1?af=R",
+        "title": "Projected Changes in Intense Precipitation over Europe at the Daily and Subdaily Time Scales"
+    },
     {
-        "author": "Jianglin Wang et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5289-5304, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00738.1?af=R", 
-        "title": "A Millennial Summer Temperature Reconstruction for the Eastern Tibetan Plateau from Tree-Ring Width"
-    }, 
+        "author": "Michael Veres et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6204-6220, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00413.1?af=R",
+        "title": "Atmospheric Responses to North Atlantic SST Anomalies in Idealized Experiments. Part I: Northern Hemispheric Circulation"
+    },
     {
-        "author": "V. Praveen et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5305-5324, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00415.1?af=R", 
-        "title": "On the Relationship between Mean Monsoon Precipitation and Low Pressure Systems in Climate Model Simulations"
-    }, 
+        "author": "Kyong-Hwam Seo et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6221-6233, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00526.1?af=R",
+        "title": "Northern East Asian Monsoon Precipitation Revealed by Airmass Variability and Its Prediction"
+    },
     {
-        "author": "Kenneth P. Bowman et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5325-5334, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00804.1?af=R", 
-        "title": "The Diurnal Cycle of Precipitation in Tropical Cyclones"
-    }, 
+        "author": "Susmitha Joseph et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6234-6248, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00842.1?af=R",
+        "title": "Development and Evaluation of an Objective Criterion for the Real-Time Prediction of Indian Summer Monsoon Onset in a Coupled Model Framework"
+    },
     {
-        "author": "Christopher J. Conrad et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5335-5350, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00481.1?af=R", 
-        "title": "Climate-Driven Variability in the Southern Ocean Carbonate System"
-    }, 
+        "author": "Christian Kerkhoff et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6249-6266, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00606.1?af=R",
+        "title": "A Bayesian Hierarchical Model for Heterogeneous RCM\u2013GCM Multimodel Ensembles"
+    },
     {
-        "author": "Baoqiang Xiang et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5351-5364, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0102.1?af=R", 
-        "title": "The 3\u20134-Week MJO Prediction Skill in a GFDL Coupled Model"
-    }, 
+        "author": "Nathaniel B. Miller et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6267-6280, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0076.1?af=R",
+        "title": "Cloud Radiative Forcing at Summit, Greenland"
+    },
     {
-        "author": "Erik W. Kolstad et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5365-5374, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0053.1?af=R", 
-        "title": "Intraseasonal Persistence of European Surface Temperatures"
-    }, 
+        "author": "Hyo-Seok Park et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6281-6296, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00773.1?af=R",
+        "title": "The Impact of Arctic Winter Infrared Radiation on Early Summer Sea Ice"
+    },
     {
-        "author": "Cristina Pe\u00f1a-Ortiz et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5375-5388, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00429.1?af=R", 
-        "title": "Multidecadal Variability of the Summer Length in Europe"
-    }, 
-    {
-        "author": "Yi Song et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5389-5405, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00492.1?af=R", 
-        "title": "Impacts of External Forcing on the Decadal Climate Variability in CMIP5 Simulations"
-    }, 
-    {
-        "author": "Liguang Wu et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5406-5413, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00618.1?af=R", 
-        "title": "Has the Western Pacific Subtropical High Extended Westward since the Late 1970s?"
-    }, 
-    {
-        "author": "Shakeel Asharaf et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5414-5429, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00233.1?af=R", 
-        "title": "Indian Summer Monsoon Rainfall Processes in Climate Change Scenarios"
-    }, 
-    {
-        "author": "Huopo Chen et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5430-5447, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00707.1?af=R", 
-        "title": "Changes in Drought Characteristics over China Using the Standardized Precipitation Evapotranspiration Index"
-    }, 
-    {
-        "author": "Sergey Malyshev et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5448-5469, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00586.1?af=R", 
-        "title": "Contrasting Local versus Regional Effects of Land-Use-Change-Induced Heterogeneity on Historical Climate: Analysis with the GFDL Earth System Model"
-    }, 
-    {
-        "author": "Anthony D. Del Genio et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5471-5473, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0293.1?af=R", 
-        "title": "Erratum: CORRIGENDUM"
-    }, 
-    {
-        "author": "Steven B. Feldstein et al", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5474-5474, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0294.1?af=R", 
-        "title": "Erratum: CORRIGENDUM"
-    }, 
-    {
-        "author": "Amy Solomon", 
-        "date": "2015-07-07", 
-        "description": "Journal of Climate, Volume 28, Issue 13, Page 5475-5475, July 2015. \n\t\t<br/>\n\t", 
-        "journal": "Journal of Climate", 
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0295.1?af=R", 
-        "title": "Erratum: CORRIGENDUM"
+        "author": "Charles Jones et al",
+        "date": "2015-07-30",
+        "description": "Journal of Climate, Volume 28, Issue 15, Page 6297-6307, August 2015. \n\t\t<br/>\n\t",
+        "journal": "Journal of Climate",
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0149.1?af=R",
+        "title": "The Madden\u2013Julian Oscillation and Boreal Winter Forecast Skill: An Analysis of NCEP CFSv2 Reforecasts"
     }
 ]

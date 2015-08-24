@@ -1,530 +1,562 @@
 [
     {
-        "author": "Alan I. Leshner", 
-        "date": "2015-07-24", 
-        "description": "All available evidence suggests that over 60% of new Ph.D.s in science in the United States will not have careers in academic research, yet graduate training in science has followed the same basic format for almost 100 years, heavily focused on producing academic researchers. Given that so many students will not join that community, the system is failing to meet the needs of the majority of its students. Many academic, governmental, and professional leaders and organizations have lamented this disconnect and have suggested worthwhile adjustments, but most of these have been minor changes in graduate course offerings. It is time for the scientific and education communities to take a more fundamental look at how graduate education in science is structured and consider, given the current environment, whether a major reconfiguration of the entire system is needed.\nAuthor: Alan I. Leshner", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/349.summary?rss=1", 
-        "title": "[Editorial] Rethinking graduate education"
-    }, 
+        "author": "Ariel E. Lugo",
+        "date": "2015-08-21",
+        "description": "Human activity has had enormous effects on the species composition of floras and faunas, creating new ecological biomes worldwide. A principal challenge in forestry research and conservation is how to deal with these novel ecosystems. Most attention to this phenomenon is centered on the negative effects of species introductions and the need to stem the tide of species invasion. However, we need to scientifically understand new ecosystems and learn to recognize adaptive species combinations that will function sustainably in changing environmental conditions.\nAuthor: Ariel E. Lugo",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/771.summary?rss=1",
+        "title": "[Editorial] Forestry in the Anthropocene"
+    },
     {
-        "author": "", 
-        "date": "2015-07-24", 
-        "description": "In science news around the world, Chile and the Canary Islands are selected to share the world's largest and most powerful gamma-ray observatory, the new Joep Lange Institute opens in Amsterdam this year to honor the HIV researcher killed in last year's attack on a Malaysia Airlines flight, Nigeria hits an important milestone with its last known case of wild polio occurring a year ago, the five nations ringing the Arctic Ocean sign a declaration to prevent unregulated commercial fishing in its waters, and more. Also, scientists hope to limit damage done to vegetable crops by releasing genetically altered diamondback moths.\n", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/350.summary?rss=1", 
+        "author": "",
+        "date": "2015-08-21",
+        "description": "In science news around the world, an animal advocacy group uses crowdsourcing and public records requests to huntfor violations of National Institutes of Health animal research rules; a Global Food Security report warns that climate change will increase weather-related crop disasters; patient advocates and scientists join forces to call for more research into myalgic encephalomyelitis, or chronic fatigue syndrome; and climatologists with the National Oceanic and Atmospheric Administration are forecasting a \"Godzilla El Ni\u00f1o\" for the winter of 2015 to 2016. Also, scientists link gut microbes to a debilitating eye disease. And new evidence supports the existence of the \"exercise\" hormone irisin in humans.  \n",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/772.summary?rss=1",
         "title": "[In Brief] This week's section"
-    }, 
+    },
     {
-        "author": "Eric Hand", 
-        "date": "2015-07-24", 
-        "description": "On 14 July, NASA's New Horizons spacecraft flew past Pluto, the first reconnaissance of a body in the Kuiper belt, the zone of icy objects beyond the orbit of Neptune. With the flyby complete and the data trickling home, mission scientists focused on a new challenge: making sense of an unexpectedly complex and dynamic world. Pluto contains ice mountains and smooth, crater-free plains\u2014features suggestive of active geological processes. But mission scientists are debating whether these are the result of an atmosphere that shapes the landscape from above, or residual heat in Pluto's interior that could be driving fresh flows of ice onto the surface.\nAuthor: Eric Hand", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/352.summary?rss=1", 
-        "title": "[In Depth] Scientists ponder an improbably active Pluto"
-    }, 
+        "author": "Michael Balter",
+        "date": "2015-08-21",
+        "description": "Between about 850 C.E. and 1250 C.E., Chaco Canyon in northwestern New Mexico's San Juan Basin was at the center of a vast and sophisticated Pueblo culture. Today, the park is at the center of anoil and gas boom that archaeologists, environmentalists, and Native American activists say threatens a broader landscape filled with hundreds of Chacoan sites. Earlier this month, Chaco experts presented a plan to slow down the granting of drilling leases close to the park. They are also preparing a white paper arguing that the widest possible region around Chaco Canyon should be protected from drilling. Meanwhile, environmental and Native American groups have gone to court to block 239 pending drilling permits in the Chaco area.\nAuthor: Michael Balter",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/774.summary?rss=1",
+        "title": "[In Depth] Big Archaeology fights Big Oil to preserve ancient landscape"
+    },
     {
-        "author": "Michael Balter", 
-        "date": "2015-07-24", 
-        "description": "Researchers still argue about how and when the first Americans settled in North and South America, and particularly about whether they came in one or multiple waves. Two new papers, one in Science and the other in Nature, attempt to shed light on this question, but they come to different conclusions: The Science team finds one wave, and the Nature team finds two. The two research groups do agree on one thing, however\u2014some of today's Native Americans have the genes of ancient people from Australia and Melanesia in the southwest Pacific Ocean. Knowing whether that mysterious genetic contribution came early, as the Nature team thinks, or much later, as the Science team concludes, may hold the key to remaining riddles about the peopling of the Americas.\nAuthor: Michael Balter", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/354.summary?rss=1", 
-        "title": "[In Depth] New mystery for Native American origins"
-    }, 
+        "author": "Tania Rabesandratana",
+        "date": "2015-08-21",
+        "description": "The Belgian government and the International Polar Foundation (IPF) are battling for control of Belgium's $21 research station in Antarctica, the Princess Elisabeth Antarctica. IPF, which built the station and has managed it since its 2009 inauguration, has been accused of misusing public funds. The government says it will run the station from now on, with the help of the Belgian army. But IPF is fighting back; the foundation says it remains in charge. The fight is creating uncertainty for scientists who are preparing for the 2015 to 2016 Antarctic research season.\nAuthor: Tania Rabesandratana",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/775.summary?rss=1",
+        "title": "[In Depth] War over Belgian polar station"
+    },
     {
-        "author": "Jon Cohen", 
-        "date": "2015-07-24", 
-        "description": "An 18-year-old woman in France who became infected with HIV as a baby went off antiretroviral drugs 12 years ago and the virus has yet to return to detectable levels on standard blood tests. The woman is not cured, stressed the Pasteur Institute's Asier S\u00e1ez-Ciri\u00f3n, who presented details about the case at an international AIDS conference taking place in Vancouver, Canada, this week: His group found HIV DNA in her blood cells and prodded them to make new copies of the virus. S\u00e1ez-Ciri\u00f3n has been following a small cohort of other so-called \"posttreatment controllers,\" but the other all became infected with the virus as adults. He noted that the woman, like other posttreatment controllers, was distinct from the 1% of people known as elite controllers who similarly maintain undetectable plasma levels of HIV without treatment. But the elite controllers, in contrast to posttreatment controllers, keep the virus in check from the earliest days of the infection and have an immune response in many cases that explains how they thwart the virus. The hope is that this new case can help clarify how posttreatment controllers keep the virus in check and then use this information to inform both cure and vaccine research.\nAuthor: Jon Cohen", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/355.summary?rss=1", 
-        "title": "[In Depth] Child fights HIV to a draw"
-    }, 
+        "author": "David Grimm",
+        "date": "2015-08-21",
+        "description": "No researchers have applied for required federal permits to conduct invasive research on chimpanzees living in the United States. That suggests that all U.S. biomedical research on chimps has stopped\u2014or is about to stop\u2014and it's unclear whether the work will ever start again. Research on chimpanzees has been waning since 2013, when the National Institutes of Health (NIH) announced that it would phase out most government-funded chimp research and retire the majority of its research chimps to sanctuaries. The most recent blow came in June, when the U.S. Fish and Wildlife Service stated that all chimpanzees in the United States\u2014including the more than 700 chimps used in research\u2014would be classified as endangered under the Endangered Species Act (ESA). Any labs that wished to continue invasive work on these animals would need to apply for an ESA permit, and the agency would grant permits only for work that enhances the survival of the species and benefits chimpanzees in the wild. By 17 August, however, not a single lab had applied for an ESA permit. And because the agency needs 90 days or more to review permit requests, no labs will have one by the time the rule goes into effect on 14 September. That means any ongoing projects must stop on that date. \"This is the beginning of the end of invasive chimpanzee research,\" says Stephen Ross, director of the Lester E. Fisher Center for the Study and Conservation of Apes at the Lincoln Park Zoo in Chicago, Illinois, who pushed for the FWS rule. Less clear, however, is whether researchers conducting behavioral studies or other non-invasive research involving chimpanzees will need to obtain a permit.\nAuthor: David Grimm",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/777.summary?rss=1",
+        "title": "[In Depth] New rules may end U.S. chimpanzee research"
+    },
     {
-        "author": "Richard Stone", 
-        "date": "2015-07-24", 
-        "description": "When Iran agreed last week to dismantle large chunks of its nuclear infrastructure, it won more than the promise of relief from crippling economic sanctions. If the agreement survives strong opposition in the U.S. Congress, Iran can expect a rapid expansion of scientific cooperation with Western powers. As its nuclear facilities are repurposed, scientists from Iran and abroad will team up in areas such as nuclear fusion, astrophysics, and radioisotopes for cancer therapy. Some scientific activity will take place at the Fordow uranium enrichment facility, which Iran will convert into an international nuclear, physics, and technology center. Russia will help reconfigure 348 centrifuges there to produce stable isotopes for industry. And Fordow may host a small linear accelerator for basic research in nuclear physics and astrophysics. Iran has agreed to invite proposals for collaborative projects at Fordow and hold an international workshop to review them.\nAuthor: Richard Stone", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/356.summary?rss=1", 
-        "title": "[In Depth] Iran nuclear deal holds \u2018goodies\u2019 for scientists"
-    }, 
+        "author": "Eli Kintisch",
+        "date": "2015-08-21",
+        "description": "This week, Royal Dutch Shell received the federal go-ahead to begin full-scale exploratory drilling in the Chukchi Sea off Northwest Alaska. Since 2010, the company has given more than $15 million to an environmental research program that is jointly managed by the firm's scientists, outside researchers, and representatives of the native Alaskan Inupiat villages that face the most acute potential environmental impacts from drilling. These studies have focused on ice movements, currents, and the behavior of whales and other animals. Participating scientists have lauded the work as important, but others want environmental research to be conducted by unbiased bodies instead of funded by industry.\nAuthor: Eli Kintisch",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/778.summary?rss=1",
+        "title": "[In Depth] As Arctic drilling starts, Shell-funded researchers keep watch"
+    },
     {
-        "author": "Daniel Clery", 
-        "date": "2015-07-24", 
-        "description": "Are we alone in the universe? Russian internet entrepreneur Yuri Milner wants to know\u2014and he's willing to pay for an answer. Milner has donated $100 million for a 10-year effort to detect signals from other civilizations in the universe, an effort that has drawn high-profile support from physicists and astronomers, including Stephen Hawking. The new project, dubbed \"Breakthrough Listen,\" will boost funding for such searches fivefold and will be 50 times as sensitive as previous efforts and cover 10 times more of the sky. In addition, the project will throw a lifeline to budget-strapped radio telescopes, and it will develop new technology to monitor 10 billion radio frequencies simultaneously.\nAuthor: Daniel Clery", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/357.summary?rss=1", 
-        "title": "[In Depth] Web billionaire bankrolls search for alien signals"
-    }, 
+        "author": "Jeffrey Mervis",
+        "date": "2015-08-21",
+        "description": "This column is the second in a new series that takes a fresh look at some of the numbers that shape policies affecting the scientific community. The first column reexamined a metric devised by the U.S. National Institutes of Health, called the Biomedical Research and Development Price Index, to track the cost of what's needed to carry out biomedical research. This column tackles the issue of government red tape, specifically, what portion of a grant is devoted to \"nonresearch\" activities. A closer look at the faculty surveys generating the data suggests there are flaws in the conventional wisdom that scientists are weighted down with a heavy administrative \"burden\" that interferes with their ability to carry out cutting-edge research.\nAuthor: Jeffrey Mervis",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/779.summary?rss=1",
+        "title": "[In Depth] Rethinking the time \u2018lost\u2019 to red tape"
+    },
     {
-        "author": "Elizabeth Culotta", 
-        "date": "2015-07-24", 
-        "description": "Powered by advances in sequencing technology, the field of ancient DNA has succeeded beyond all expectations, helping researchers to retrieve the entire genomes of Neandertals and other kinds of ancient humans and transforming the picture of human evolution. Researchers have also delved into the genomes of ancient animals\u2014the oldest so far is a 700,000-year-old horse. For years, the methods of extracting and analyzing degraded DNA molecules were so tricky that they remained the exotic province of a few high-profile labs. But now the techniques are spreading. As researchers from many fields realize just how much ancient DNA can tell them, the method is being applied to everything from the peopling of Europe to how plants and pathogens respond to climate change. The explosion of research is transforming the study of the past.\nAuthor: Elizabeth Culotta", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/358.summary?rss=1", 
-        "title": "[Feature] New life for old bones"
-    }, 
+        "author": "Jennifer Couzin-Frankel",
+        "date": "2015-08-21",
+        "description": "Since 2005, when internist Pieter Cohen of the Cambridge Health Alliance in Massachusetts found that his patients were being sickened by a Brazilian weight loss supplement containing antidepressants and thyroid hormones, he has become something of a mix of Indiana Jones and Sherlock Holmes of the supplement world. With chemist colleagues in the United States, Brazil, and Europe, he hunts for drugs illegally buried in supplements. Then he goes public. Ultimately, he hopes to inspire new regulations. So far, Cohen and his collaborators have identified three hidden stimulant drugs in supplements. The discoveries also highlight a broader problem, Cohen and others contend: a dysfunctional system for policing dietary supplements.\nAuthor: Jennifer Couzin-Frankel",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/780.summary?rss=1",
+        "title": "[Feature] The Supplement Sleuth"
+    },
     {
-        "author": "Ann Gibbons", 
-        "date": "2015-07-24", 
-        "description": "New breakthroughs in ancient DNA are causing a revolution in the study of human evolution. By sequencing ancient DNA from the fossils of human ancestors, researchers have recently discovered new types of ancient humans and revealed interbreeding between our ancestors and our archaic cousins, including Neandertals. They are exploring how that genetic legacy is shaping our health and appearance today. And now that investigators can sequence entire ancient populations, ancient DNA is revealing that humans on every continent are a complex mix of archaic and modern DNA. Ancient DNA is enabling researchers to answer questions they could not previously address. As a result, archaeologists, anthropologists, and population geneticists are now seeking collaborations with ancient DNA researchers.\nAuthor: Ann Gibbons", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/362.summary?rss=1", 
-        "title": "[Feature] Revolution in human evolution"
-    }, 
+        "author": "Boris Worm",
+        "date": "2015-08-21",
+        "description": "Modern humans evolved as cooperative hunter-gatherers whose cultural and technological evolution enabled them to slay prey much larger than themselves, across many species groups. One might think that those hunting skills have faded since the advent of agriculture and animal husbandry almost 10,000 years ago. Yet, as Darimont et al. show in a global analysis on page 858 of this issue (1), we are still the unique superpredator that we evolved to be. Analyzing an extensive database of 2135 exploited wild animal populations, the authors find that humans take up to 14 times as much adult prey biomass as do other predators. Our trophic dominance is most pronounced outside our own habitat, in the oceans (see the chart).\nAuthor: Boris Worm",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/784.abstract?rss=1",
+        "title": "[Perspective] A most unusual (super)predator"
+    },
     {
-        "author": "Elizabeth Pennisi", 
-        "date": "2015-07-24", 
-        "description": "For decades, scientists have debated why the so-called megafauna disappeared from the Arctic and much of the rest of the world. Now, ancient DNA data have entered the fray. By sequencing whatever DNA emerges (called eDNA) from even a thimbleful of ancient soil, researchers are reconstructing ancient ecosystems as far back as 700,000 years ago with astonishing clarity. In 2011, they documented that a decline in the big herbivores' favorite foods as the ice age thawed coincided with the animals' disappearance. And a paper this week shows that local extinctions were also tied to bursts of warming. Other eDNA data\u2014in this case from lake sediments\u2014are illuminating how the postglacial thaw transformed other landscapes too, such as temperate forests. Finally, eDNA from Antarctic ice cores promises to reveal what happened in the Southern Hemisphere many thousands of years ago.\nAuthor: Elizabeth Pennisi", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/367.summary?rss=1", 
-        "title": "[Feature] Lost worlds found"
-    }, 
+        "author": "J\u00f6rg Schmiedmayer",
+        "date": "2015-08-21",
+        "description": "In the past 17 years, a new picture of our cosmos has emerged based mainly on the energy-matter budget of the universe, as determined by the percent level by observation (1). A striking consequence is that regular matter built from the known particles of the standard model (e.g., quarks, leptons, neutrinos, and photons) accounts for only 4.9% of the total energy-matter density. Most of our universe consists of two components of unknown origin that are colloquially called dark matter (26.8%) and dark energy (68.3%). Two reports in this issue describe experimental efforts in the search for the proposed constituents. On page 849, Hamilton et al. (2) search for chameleon fields, one of the most prominent dark energy candidates, and on page 851, the XENON Collaboration (3) reports on their search for dark matter.\nAuthors: J\u00f6rg Schmiedmayer, Hartmut Abele",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/786.abstract?rss=1",
+        "title": "[Perspective] Probing the dark side"
+    },
     {
-        "author": "Elizabeth Pennisi", 
-        "date": "2015-07-24", 
-        "description": "From muddy cliffs in Canada's Yukon territory, where miners flush out gold-laden gravel, Beth Shapiro is netting a different sort of treasure: DNA from thousands of mammoth, bison, horse, and other mammal bones. The goal of this evolutionary biologist from the University of California, Santa Cruz, is to paint a picture of the animal community here during the past 80,000 years. Mining has exposed fossils and layers of volcanic ash, which have been dated with radiometric methods, so Shapiro can pin down the ages of fossils back to before 40,000 years ago, the limit of radiocarbon dating. And thanks to the ever-shrinking cost of sequencing, Shapiro can analyze hundreds of individuals per species to learn about important genetic changes. The project's first papers are expected next year.\nAuthor: Elizabeth Pennisi", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/369.summary?rss=1", 
-        "title": "[Feature] Prospecting for genetic gold"
-    }, 
+        "author": "Cara H. Haney",
+        "date": "2015-08-21",
+        "description": "Just as the number of petals in a flower or the number of limbs on an animal follow predictable rules, host-associated microbial communities (\u201cmicrobiomes\u201d) have predictable compositions. At the level of bacterial phylum, the structure of the host-associated microbiome is conserved across individuals of a species (1, 2). The consistency and predictability of host-associated microbiomes\u2014like many of the phenotypes of a particular multicellular organism\u2014suggest that they too may, in part, be under the regulation of a genetic blueprint. Indeed, evidence in animals shows that through production of broad-spectrum antimicrobials, the innate immune system shapes the composition of the gut microbiome (3, 4). On page 860 of this issue, Lebeis et al. (5) reveal a critical role of the plant hormone salicylic acid in determining the higher-order organization of the root-associated microbiome of the reference plant Arabidopsis thaliana.\nAuthors: Cara H. Haney, Frederick M. Ausubel",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/788.abstract?rss=1",
+        "title": "[Perspective] Plant microbiome blueprints"
+    },
     {
-        "author": "Lizzie Wade", 
-        "date": "2015-07-24", 
-        "description": "From muddy cliffs in Canada's Yukon territory, where miners flush out gold-laden gravel, Beth Shapiro is netting a different sort of treasure: DNA from thousands of mammoth, bison, horse, and other mammal bones. The goal of this evolutionary biologist from the University of California, Santa Cruz, is to paint a picture of the animal community here during the past 80,000 years. Mining has exposed fossils and layers of volcanic ash, which have been dated with radiometric methods, so Shapiro can pin down the ages of fossils back to before 40,000 years ago, the limit of radiocarbon dating. And thanks to the ever-shrinking cost of sequencing, Shapiro can analyze hundreds of individuals per species to learn about important genetic changes. The project's first papers are expected next year.\nAuthor: Lizzie Wade", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/370.summary?rss=1", 
-        "title": "[Feature] Breaking a tropical taboo"
-    }, 
+        "author": "Alessio Accardi",
+        "date": "2015-08-21",
+        "description": "How does membrane voltage control cellular proliferation? This is a key but poorly understood step in understanding how dysregulation of the electrical balance in a cell can lead to uncontrolled proliferation and, eventually, to tumor development. Although the phenomenon is well established (1\u20133), the underlying mechanisms have been unclear. On page 873 of this issue, Zhou et al. (4) show that persistent changes in the resting membrane potential (the voltage across the membrane of a cell), caused by the uncontrolled expression of ion channels, can cause negatively charged lipid in the inner membrane leaflet to cluster and attract the signaling protein K-Ras, enhancing its ability to promote cell proliferation.\nAuthor: Alessio Accardi",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/789.abstract?rss=1",
+        "title": "[Perspective] Lipids link ion channels and cancer"
+    },
     {
-        "author": "Robert F. Service", 
-        "date": "2015-07-24", 
-        "description": "Ancient DNA may be entering its golden age, but some researchers have their eyes on another molecule that may offer new view of the past: protein, which has some advantages over its more famous cousin. Tissues are full of protein, making analysis easier. Proteins also resist the ravages of time far better than fragile DNA and so have the potential to look further back in time\u2014researchers have identified 300 million year old proteins in fish fossils. Ancient proteins have already illuminated a few far-flung corners of past life, including identifying the family tree of strange, extinct South American mammals that flummoxed even Charles Darwin. The method appears particularly promising in archaeology, where it can reveal the diets and lifestyles of past cultures. Still, the technique has a long way to go before it reaches the maturity of paleogenetics, chiefly because methods to sequence amino acids lag behind DNA sequencing.\nAuthor: Robert F. Service", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/372.summary?rss=1", 
-        "title": "[Feature] Protein power"
-    }, 
+        "author": "Andrea L. Cox",
+        "date": "2015-08-21",
+        "description": "Hepatitis C virus (HCV) infection is a blood-borne disease that infects ~185 million people (~3% of the world's population) worldwide (1). It can result in severe liver disease and is the leading cause of liver cancer in many countries. Although directly acting antivirals (DAAs) that target the viral life cycle have created enormous optimism about controlling HCV infection, achieving that goal remains a substantial challenge. Both acute and chronic infections are largely asymptomatic, infection incidence is rising in the United States (2), and comprehensive screening programs are rare in the most highly endemic regions of the world. As a result, less than 5% of the world's HCV-infected population, and only 50% of the United States' HCV-infected population, are aware that they are infected (3, 4) (see the figure). Most of these individuals will not receive treatment and will remain at risk for transmitting the infection to others. Successful control of HCV infection will most likely require a combination of mass global screening to identify those with infection, treatment, and prevention. Prophylactic HCV vaccination would also go a long way to reducing harm for uninfected people who are at risk.\nAuthor: Andrea L. Cox",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/790.abstract?rss=1",
+        "title": "[Perspective] Global control of hepatitis C virus"
+    },
     {
-        "author": "Susan Evans", 
-        "date": "2015-07-24", 
-        "description": "A classic Gary Larson cartoon shows a robed and bearded figure rolling out clay strips, with the caption: \u201cGod makes the snake.\u201d Body elongation was certainly fundamental in the evolution of snakes from lizards, as was the shrinking and ultimately the loss of limb pairs (limb reduction). However, informative early fossils are rare, and many details of the transition remain unresolved. A remarkable fossil described on page 416 of this issue by Martill et al. (1) brings fresh perspective to the debate. The aptly named Tetrapodophis combines a snakelike body with fore- and hindlimbs bearing five well-developed digits (see the illustration).\nAuthor: Susan Evans", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/374.abstract?rss=1", 
-        "title": "[Perspective] Four legs too many?"
-    }, 
+        "author": "Crystal Boddie",
+        "date": "2015-08-21",
+        "description": "The U.S. government (USG) has taken steps intended to diminish the likelihood of misuse of research\u2014in one recent action, declaring a funding moratorium on gain-of-function studies on influenza until a risk-benefit analysis can be conducted (1). The analysis is expected to examine biosafety concerns, the potential for such research to produce a biological weapons agent, and the possibility that publication may lower barriers to bioweapons development (1). To analyze the security risks of biological research, however, it is first necessary to determine the likelihood that bioweapons will threaten national security and to what degree legitimate research is at risk of misuse. This type of assessment is fraught with uncertainty.\nAuthors: Crystal Boddie, Matthew Watson, Gary Ackerman, Gigi Kwik Gronvall",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/792.summary?rss=1",
+        "title": "[Policy Forum] Assessing the bioweapons threat"
+    },
     {
-        "author": "Julie A. Huber", 
-        "date": "2015-07-24", 
-        "description": "The global ocean is Earth's largest biome, which extends into the sediments and igneous crust below the oceans. The abundance of microbial life beneath the sea floor is at least comparable to that in the oceans (1), but this biome remains poorly understood. The ramifications of a massive buried biosphere are important on a global scale, with sub\u2013sea-floor microbes playing a crucial role in carbon sequestration, element cycles, and Earth's evolution, and likely encompassing staggering metabolic and genetic diversity. On page 420 of this issue, Inagaki et al. (2) report that even at almost 2.5 km beneath the sea floor, microbial life is not only present and compositionally distinct from that in shallower sediments, but also producing methane.\nAuthor: Julie A. Huber", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/376.abstract?rss=1", 
-        "title": "[Perspective] Making methane down deep"
-    }, 
+        "author": "Steven H. Strauss",
+        "date": "2015-08-21",
+        "description": "Intensive genetic modification is a longstanding practice in agriculture, and, for some species, in woody plant horticulture and forestry (1). Current regulatory systems for genetically engineered crops, in which recombinant DNA is used to asexually insert or modify DNA, were created decades ago with good intentions for caution and forethought. Likewise, forest certification systems were created to promote responsible forest management and sustainable practices. However, both systems are at odds with the need for rapid and innovative biotechnologies to help forests cope with growing pest epidemics and mounting abiotic stresses as a result of global travel and climate change. As the U.S. government recently initiated an update of the Coordinated Framework for the Regulation of Biotechnology (2), now is an opportune time to consider foundational changes.\nAuthors: Steven H. Strauss, Adam Costanza, Armand S\u00e9guin",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/794.summary?rss=1",
+        "title": "[Policy Forum] Genetically engineered trees: Paralysis from good intentions"
+    },
     {
-        "author": "David M. Sansom", 
-        "date": "2015-07-24", 
-        "description": "To prevent immune responses to our own bodies, a series of immune checkpoints exist. Cytotoxic T lymphocyte antigen\u20134 (CTLA-4) operates the earliest checkpoint controlling whether or not T cells respond to antigen. Manipulation of CTLA-4 has recently gained enormous attention in the field of tumor immunotherapy (1). However, in its day-to-day activities, CTLA-4 prevents autoimmune targeting of tissues (2), though the precise mechanism of action and critical controls influencing CTLA-4 function are still emerging. On page 436 in this issue, Lo et al. (3) provide evidence that an intracellular protein, lipopolysaccharide-responsive and beige-like anchor protein (LRBA) controls CTLA-4 expression and thereby influences immune self-tolerance.\nAuthor: David M. Sansom", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/377.abstract?rss=1", 
-        "title": "[Perspective] Moving CTLA-4 from the trash to recycling"
-    }, 
+        "author": "Valerie Thompson",
+        "date": "2015-08-21",
+        "description": "On 31 August 2015, PBS will offer viewers a glimpse into the remarkable recovery of the Monterey Bay National Marine Sanctuary, airing the first episode of a three-part series anchored in real time from the sanctuary's shores and seas. M. Sanjayan, a senior scientist at Conservation International and co-host of the program, offers a sneak peek of what viewers can expect to see in this Q&amp;A. \nAuthor: Valerie Thompson",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/796.summary?rss=1",
+        "title": "[Book Review] Hosting nature's \u201cSuper Bowl\u201d"
+    },
     {
-        "author": "Peter Strasser", 
-        "date": "2015-07-24", 
-        "description": "Around 360 BCE, in his work Timaeus, the Greek philosopher Plato elaborated on the four elements as the basic components of our cosmos: earth, water, air, and fire. He argued that each element consists of small, highly symmetric corpuscles\u2014the cube for earth, the tetrahedron for fire, the icosahedron for water, and the octahedron for air. The faces of the latter three corpuscles consist of equilateral triangles, which\u2014according to Plato\u2014allows air, water, and fire to interconvert. Plato would likely be thrilled to learn that, as recently confirmed by Huang et al. (1), nanoscale Pt-Ni octahedra are the catalytically most active known material for converting air (molecular oxygen) into water and fire (thermal energy). On page 412 of this issue, Zhang et al. (2) show that octahedral and cubic hollow shells of just a few atomic Pt layers are also versatile catalysts, with the octahedral shells particularly active for oxygen reduction. Such tiny metallic octahedra may one day become the building blocks of electrodes for electrochemical energy conversion.\nAuthor: Peter Strasser", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/379.abstract?rss=1", 
-        "title": "[Perspective] Catalysts by Platonic design"
-    }, 
+        "author": "Marc Fleurbaey",
+        "date": "2015-08-21",
+        "description": "When Anthony Atkinson publishes a book, we should pay attention, begins reviewer Marc Fleurbaey. According to Fleurbaey, Atkinson is the best expert on the topic of inequality, mastering the theory and the empirics as well as the relevant politics. In this timely tome, Atkinson offers concrete policy proposals intended to combat the growing disparity in economic equality, while systematically debunking the standard objections to actions against inequality.\nAuthor: Marc Fleurbaey",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/797.1.summary?rss=1",
+        "title": "[Book Review] Achieving equality"
+    },
     {
-        "author": "Elisa Izaurralde", 
-        "date": "2015-07-24", 
-        "description": "MicroRNAs (miRNAs) are small, ~22-nucleotide-long noncoding RNAs. They silence the expression of messenger RNAs (mRNAs) containing complementary sequences (1). The human genome encodes ~1500 miRNAs, each with the potential to bind hundreds of different mRNAs (1). miRNAs regulate many biological processes, and the dysregulation of their expression is linked to various human diseases, including cancer (1). To exert their repressive function, miRNAs associate with the Argonaute family of proteins (AGOs) to form the core of miRNA-induced silencing complexes (miRISCs) (1) (see the figure). In animals, miRISCs silence mRNA expression at two levels, by preventing protein production (translation) and inducing mRNA degradation. Over the past decade, progress has been made in our understanding of the mechanism by which miRISCs induce mRNA degradation, but the question of how miRISCs repress translation remains elusive.\nAuthor: Elisa Izaurralde", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/380.abstract?rss=1", 
-        "title": "[Perspective] Breakers and blockers\u2014miRNAs at work"
-    }, 
-    {
-        "author": "Tushar Ghosh", 
-        "date": "2015-07-24", 
-        "description": "For thousands of years, humankind has assembled polymeric fibers into textiles for protection against the environment and as an expression of cultural and social status (1). What began with fibers collected from nature (e.g., flax) is now made from a wide range of high-performance polymers that possess useful mechanical, thermal, and chemical properties. Despite these advances, electrically conducting fibers for the most part have remained elusive, with the exception of fibers based on inherently conducting polymers; to date, the electrical properties of conducting fibers deteriorate when repeatedly stretched and released. In a remarkable development, described on page 400 of this issue, Liu et al. (2) have made superelastic conducting fibers based on carbon nanotubes (CNTs) that can be stretched 1000% with almost no change in electrical conductivity, even after thousands of strain cycles.\nAuthor: Tushar Ghosh", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/382.abstract?rss=1", 
-        "title": "[Perspective] Stretch, wrap, and relax to smartness"
-    }, 
-    {
-        "author": "R. Alta Charo", 
-        "date": "2015-07-24", 
-        "description": "There is an infuriating, often confusing four-way stop intersection near my home. The city refuses to install traffic lights, because devices such as roundabouts, four-way stop signs, and flashing yellow lights, which require drivers to slow and scan before entering, can result in fewer accidents, as well as a faster and more even flow of traffic. There is a lesson to be learned here for regulation of new technologies. Clear, decisive rules are seductive. New drugs cannot be sold untold until proven safe. Food supplements are sold until proven unsafe. Although such clean demarcations can be reassuring, they do not work well for technologies whose applications cannot be presumed safe or unsafe.\nAuthor: R. Alta Charo", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/384.summary?rss=1", 
-        "title": "[Policy Forum] Yellow lights for emerging technologies"
-    }, 
-    {
-        "author": "Anthony S. Fauci", 
-        "date": "2015-07-24", 
-        "description": "In the face of a global pandemic, the search for an effective vaccine against the human immunodeficiency virus (HIV) remains an urgent priority. From the first HIV vaccine trials in the 1980s to the present, a tension has existed between the desire to move quickly to clinical trials to stem the spread of the epidemic and the view that research into HIV pathogenesis and host immunity were necessary predicates to and informative of vaccine design. Those advocating the first strategy\u2014an empirical (or inductive) approach\u2014argued that in vitro and animal studies were poorly predictive of the human response to HIV infection and that the only way to gauge vaccine efficacy was to test candidates in humans. Those advocating the second strategy\u2014a theoretical (or deductive) approach\u2014hoped to establish an understanding of the immune response to natural infection and to find ways to recapitulate and enhance that response through vaccination. Today, these approaches are coalescing into concomitant paths toward a safe and effective HIV vaccine.\nAuthors: Anthony S. Fauci, Hilary D. Marston", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/386.summary?rss=1", 
-        "title": "[Policy Forum] Toward an HIV vaccine: A scientific journey"
-    }, 
-    {
-        "author": "A. Rus Hoelzel", 
-        "date": "2015-07-24", 
-        "description": "In How to Clone a Mammoth, Beth Shapiro tackles to the topic of de-extinction, carefully considering the technological, ecological, and ethical challenges that such an endeavor would entail. Reviewer A. Rus Hoelzel recounts Shapiro's arguments (Can we? Should we?) and applauds the book as \"rich in anecdote and scientifically precise.\"\nAuthor: A. Rus Hoelzel", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/388.summary?rss=1", 
-        "title": "[Book Review] Raising the dead"
-    }, 
-    {
-        "author": "Sudhakaran Prabakaran", 
-        "date": "2015-07-24", 
-        "description": "In her book, The Lock and Key of Medicine, Lara Marks presents a compelling, well-researched account of the discovery of monoclonal anitbodies (Mabs) and the development of Mab-based treatments and therapies. Reviewer Sudhakaran Prabakaran retraces the hurtles and the victories experienced by the researchers who sought to bring Mabs from the bench to the market, praising Marks for offering a timely tribute that does \"great justice to the topic.\"\nAuthor: Sudhakaran Prabakaran", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/389.1.summary?rss=1", 
-        "title": "[Book Review] The quest for a magic bullet"
-    }, 
-    {
-        "author": "", 
-        "date": "2015-07-24", 
-        "description": "A listing of books received at Science during the week ending 17 July 2015.\n", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/389.2.summary?rss=1", 
+        "author": "",
+        "date": "2015-08-21",
+        "description": "A listing of books received at Science during the week ending 14 August 2015.\n",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/797.2.summary?rss=1",
         "title": "[Books et al.] Books Received"
-    }, 
+    },
     {
-        "author": "K. C. Kent Lloyd", 
-        "date": "2015-07-24", 
-        "description": "Authors: K. C. Kent Lloyd, Terry Meehan, Arthur Beaudet, Steve Murray, Karen Svenson, Colin McKerlie, David West, Iva Morse, Helen Parkinson, Steve Brown, Ann-Marie Mallon, Mark Moore", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/390.1.summary?rss=1", 
-        "title": "[Letter] Precision medicine: Look to the mice"
-    }, 
+        "author": "Conrad Feather",
+        "date": "2015-08-21",
+        "description": "Author: Conrad Feather",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/798.1.summary?rss=1",
+        "title": "[Letter] Isolated tribes: Contact misguided"
+    },
     {
-        "author": "Hillary S. Young", 
-        "date": "2015-07-24", 
-        "description": "Author: Hillary S. Young", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/390.2.summary?rss=1", 
-        "title": "[Letter] Sexism discussion misses the point"
-    }, 
+        "author": "John H. Bodley",
+        "date": "2015-08-21",
+        "description": "Author: John H. Bodley",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/798.2.summary?rss=1",
+        "title": "[Letter] Isolated tribes: Human rights first"
+    },
     {
-        "author": "Steven M. Wise", 
-        "date": "2015-07-24", 
-        "description": "Author: Steven M. Wise", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/391.1.summary?rss=1", 
-        "title": "[Letter] Chimpanzees deserve their freedom"
-    }, 
+        "author": "Farshid Vahedifard",
+        "date": "2015-08-21",
+        "description": "Authors: Farshid Vahedifard, Amir AghaKouchak, Joe D. Robinson",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/799.1.summary?rss=1",
+        "title": "[Letter] Drought threatens California's levees"
+    },
     {
-        "author": "Donna K. Ginther", 
-        "date": "2015-07-24", 
-        "description": "Leslie et al. (Reports, 16 January 2015, p. 262) concluded that \u201cexpectations of brilliance\u201d explained the gender makeup of academic disciplines. We reestimated their models after adding measures of disaggregated Graduate Record Examination scores by field. Our results indicated that female representation among Ph.D. recipients is associated with the field\u2019s mathematical content and that faculty beliefs about innate ability were irrelevant.\nAuthors: Donna K. Ginther, Shulamit Kahn", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/391.2.summary?rss=1", 
-        "title": "[Technical Comment] Comment on \u201cExpectations of brilliance underlie gender distributions across academic disciplines\u201d"
-    }, 
+        "author": "Peter K. Zeitler",
+        "date": "2015-08-21",
+        "description": "Wang et al. (Reports, 21 November, 2014, p. 978) describe a buried canyon upstream of the Yarlung Tsangpo Gorge and argue that rapid erosion of the gorge was merely a passive response to rapid uplift at ~2.5 million years ago (Ma). We view these data as an expected consequence emerging from feedbacks between erosion and crustal rheology active well before 2.5 Ma.\nAuthors: Peter K. Zeitler, Peter O. Koons, Bernard Hallet, Anne S. Meltzer",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/799.2.summary?rss=1",
+        "title": "[Technical Comment] Comment on \u201cTectonic control of Yarlung Tsangpo Gorge revealed by a buried canyon in Southern Tibet\u201d"
+    },
     {
-        "author": "Andrei Cimpian", 
-        "date": "2015-07-24", 
-        "description": "Ginther and Kahn claim that academics\u2019 beliefs about the importance of brilliance do not predict gender gaps in Ph.D. attainment beyond mathematics and verbal test scores. However, Ginther and Kahn\u2019s analyses are problematic, exhibiting more than 100 times the recommended collinearity thresholds. Multiple analyses that avoid this problem suggest that academics\u2019 beliefs are in fact uniquely predictive of gender gaps across academia.\nAuthors: Andrei Cimpian, Sarah-Jane Leslie", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/391.3.summary?rss=1", 
-        "title": "[Technical Response] Response to Comment on \u201cExpectations of brilliance underlie gender distributions across academic disciplines\u201d"
-    }, 
+        "author": "Ping Wang",
+        "date": "2015-08-21",
+        "description": "In their Comment, Zeitler et al. do not challenge our results or interpretation. Our study does not disprove coupling between tectonic uplift and erosion but suggests that this coupling cannot be the sole explanation of rapid uplift in the Himalayan syntaxes.\nAuthors: Ping Wang, Dirk Scherler, Jing Liu-Zeng, J\u00fcrgen Mey, Jean-Philippe Avouac, Yunda Zhang, Dingguo Shi",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/799.3.summary?rss=1",
+        "title": "[Technical Response] Response to Comment on \u201cTectonic control of Yarlung Tsangpo Gorge revealed by a buried canyon in Southern Tibet\u201d"
+    },
     {
-        "author": "Barry Pogson", 
-        "date": "2015-07-24", 
-        "description": "Author: Barry Pogson", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.1.full?rss=1", 
-        "title": "[This Week in Science] Rice is on the lookout for bugs"
-    }, 
+        "author": "Andrew Sugden",
+        "date": "2015-08-21",
+        "description": "Authors: Andrew Sugden, Julia Fahrenkamp-Uppenbrink, David Malakoff, Sacha Vignieri",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/800.summary?rss=1",
+        "title": "[Introduction to Special Issue] Forest health in a changing world"
+    },
     {
-        "author": "Marc S. Lavine", 
-        "date": "2015-07-24", 
-        "description": "Author: Marc S. Lavine", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.2.full?rss=1", 
-        "title": "[This Week in Science] Composite stretchable conducting wires"
-    }, 
+        "author": "Gabriel Popkin",
+        "date": "2015-08-21",
+        "description": "The eastern hemlock is one of eastern North America's largest native conifers. It has been called the \"redwood of the east\" and the \"queen of the conifers.\" A healthy tree resembles an evergreen waterfall; overlapping layers of short, downy needles cascade from the crown almost to the ground. But the iconic tree, found from Georgia to Canada, is under attack. The hemlock woolly adelgid, a tiny sap-sucking insect about the size of a pinhead, has infested more than half of the hemlock's range, killing countless trees. Barring human intervention, it ultimately kills nearly every tree it attacks. Forest managers have been fighting a fierce battle against the adelgid. Many hemlocks are still alive because they've been treated with insecticides. But that's an expensive and labor-intensive tactic, so scientists are searching for more sustainable, long-term strategies. They're rearing and releasing predatory insects that eat the adelgid, for instance, and even looking for rare genes that might help them breed resistant trees. The question is whether such efforts will mature in time to prevent the adelgid from essentially removing one of the defining species from the eastern forest. Eastern hemlocks, warns forester Jesse Webster of Great Smoky Mountains National Park, \"are in intensive care.\"\nAuthor: Gabriel Popkin",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/802.summary?rss=1",
+        "title": "[Special Issue News] Battling a giant killer"
+    },
     {
-        "author": "Pamela J. Hines", 
-        "date": "2015-07-24", 
-        "description": "Author: Pamela J. Hines", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.3.full?rss=1", 
-        "title": "[This Week in Science] Keeping synaptic plasticity plastic"
-    }, 
+        "author": "Tim Appenzeller",
+        "date": "2015-08-21",
+        "description": "For 7 weeks last year, Yellowknife was besieged by smoke. In the vast evergreen forests encircling this small city in Canada's Northwest Territories, years of drought had set the scene for a historic fire year. Across the territories, 3.4 million hectares burned\u2014an area equal to the state of Maryland, and seven times the annual average. The smoke darkened the sky, stung eyes, and filled Yellowknife residents with \"a sense of panic,\" says Frank Lepine, who manages wildfire response for the Northwest Territories government. When the snow fell and the fires died, Lepine's army of firefighters\u2014about 1000 strong at one point\u2014could stand down. But for scientists, the work is just beginning. The fires, they say, were an extreme example of the forces transforming the boreal forest, a stronghold of spruce, pine, and other conifers that rings the top of the planet. With its millions of square kilometers of pristine timber, thick carpet of moss and needles, and organic-rich frozen soil, the boreal forest stores more carbon than any other land ecosystem. And more than any other forest, it is bearing the brunt of climate change, warming roughly twice as fast as the rest of the planet.\nAuthor: Tim Appenzeller",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/806.summary?rss=1",
+        "title": "[Special Issue News] The new North"
+    },
     {
-        "author": "Paula A. Kiberstis", 
-        "date": "2015-07-24", 
-        "description": "Author: Paula A. Kiberstis", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.4.full?rss=1", 
-        "title": "[This Week in Science] Trafficking from bedside to bench"
-    }, 
+        "author": "Elizabeth Pennisi",
+        "date": "2015-08-21",
+        "description": "When it came to studying forests, ecologist Robin Chazdon took the road less traveled. In the 1990s, when many tropical researchers were scrambling to study tropical forests before they disappeared, she focused on what grew back once the trees were burned or logged. Many colleagues worked in the forest's shaded understory, an ecosystem celebrated in Hollywood films. She labored in less charismatic deforested plots in the broiling sun, covered head to toe to keep prickly bushes and biting chiggers at bay. For decades, Chazdon worked in relative obscurity on long-term studies of these so-called secondary forests. She took issue with some prevailing views: that tropical forests wouldn't regenerate, and that second growth was a biological wasteland. Chazdon and like-minded colleagues argued that, while protecting intact forest was essential, second growth couldn't be ignored in efforts to protect the environment and human livelihoods. Now the rest of the world is beginning to see her point. Thanks in part to Chazdon's work, many now see secondary forests as key to restoring biodiversity and performing important ecosystems services, such as providing clean water and sequestering carbon. And last year, nations attending a United Nations climate conference set a goal of reforesting 350 million hectares of degraded land\u2014an area larger than India\u2014by 2030. For Chazdon, the rising interest in secondary forests has catalyzed her own second act. After decades as an academic, she's shifted her attention from collecting and analyzing data to influencing policy.\nAuthor: Elizabeth Pennisi",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/810.summary?rss=1",
+        "title": "[Special Issue News] Second act"
+    },
     {
-        "author": "Phil Szuromi", 
-        "date": "2015-07-24", 
-        "description": "Author: Phil Szuromi", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.5.full?rss=1", 
-        "title": "[This Week in Science] Etching platinum nanocage catalysts"
-    }, 
+        "author": "S. Trumbore",
+        "date": "2015-08-21",
+        "description": "Humans rely on healthy forests to supply energy, building materials, and food and to provide services such as storing carbon, hosting biodiversity, and regulating climate. Defining forest health integrates utilitarian and ecosystem measures of forest condition and function, implemented across a range of spatial scales. Although native forests are adapted to some level of disturbance, all forests now face novel stresses in the form of climate change, air pollution, and invasive pests. Detecting how intensification of these stresses will affect the trajectory of forests is a major scientific challenge that requires developing systems to assess the health of global forests. It is particularly critical to identify thresholds for rapid forest decline, because it can take many decades for forests to restore the services that they provide.\nAuthors: S. Trumbore, P. Brando, H. Hartmann",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/814.summary?rss=1",
+        "title": "[Special Issue Review] Forest health and global change"
+    },
     {
-        "author": "Jelena Stajic", 
-        "date": "2015-07-24", 
-        "description": "Author: Jelena Stajic", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.6.full?rss=1", 
-        "title": "[This Week in Science] Making hybrid quantum information systems"
-    }, 
+        "author": "S. Gauthier",
+        "date": "2015-08-21",
+        "description": "The boreal forest, one of the largest biomes on Earth, provides ecosystem services that benefit society at levels ranging from local to global. Currently, about two-thirds of the area covered by this biome is under some form of management, mostly for wood production. Services such as climate regulation are also provided by both the unmanaged and managed boreal forests. Although most of the boreal forests have retained the resilience to cope with current disturbances, projected environmental changes of unprecedented speed and amplitude pose a substantial threat to their health. Management options to reduce these threats are available and could be implemented, but economic incentives and a greater focus on the boreal biome in international fora are needed to support further adaptation and mitigation actions.\nAuthors: S. Gauthier, P. Bernier, T. Kuuluvainen, A. Z. Shvidenko, D. G. Schepaschenko",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/819.summary?rss=1",
+        "title": "[Special Issue Review] Boreal forest health and global change"
+    },
     {
-        "author": "Sacha Vignieri", 
-        "date": "2015-07-24", 
-        "description": "Author: Sacha Vignieri", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.7.full?rss=1", 
-        "title": "[This Week in Science] Snakes' four-legged missing link"
-    }, 
+        "author": "Constance I. Millar",
+        "date": "2015-08-21",
+        "description": "Although disturbances such as fire and native insects can contribute to natural dynamics of forest health, exceptional droughts, directly and in combination with other disturbance factors, are pushing some temperate forests beyond thresholds of sustainability. Interactions from increasing temperatures, drought, native insects and pathogens, and uncharacteristically severe wildfire are resulting in forest mortality beyond the levels of 20th-century experience. Additional anthropogenic stressors, such as atmospheric pollution and invasive species, further weaken trees in some regions. Although continuing climate change will likely drive many areas of temperate forest toward large-scale transformations, management actions can help ease transitions and minimize losses of socially valued ecosystem services.\nAuthors: Constance I. Millar, Nathan L. Stephenson",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/823.summary?rss=1",
+        "title": "[Special Issue Review] Temperate forest health in an era of emerging megadisturbance"
+    },
     {
-        "author": "Wei Wong", 
-        "date": "2015-07-24", 
-        "description": "Author: Wei Wong", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.8.full?rss=1", 
-        "title": "[This Week in Science] Counteracting the effects of a bad diet"
-    }, 
+        "author": "Simon L. Lewis",
+        "date": "2015-08-21",
+        "description": "Tropical forests house over half of Earth\u2019s biodiversity and are an important influence on the climate system. These forests are experiencing escalating human influence, altering their health and the provision of important ecosystem functions and services. Impacts started with hunting and millennia-old megafaunal extinctions (phase I), continuing via low-intensity shifting cultivation (phase II), to today\u2019s global integration, dominated by intensive permanent agriculture, industrial logging, and attendant fires and fragmentation (phase III). Such ongoing pressures, together with an intensification of global environmental change, may severely degrade forests in the future (phase IV, global simplification) unless new \u201cdevelopment without destruction\u201d pathways are established alongside climate change\u2013resilient landscape designs.\nAuthors: Simon L. Lewis, David P. Edwards, David Galbraith",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/827.summary?rss=1",
+        "title": "[Special Issue Review] Increasing human dominance of tropical forests"
+    },
     {
-        "author": "Nicholas S. Wigginton", 
-        "date": "2015-07-24", 
-        "description": "Author: Nicholas S. Wigginton", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.9.full?rss=1", 
-        "title": "[This Week in Science] A deep sleep in coal beds"
-    }, 
+        "author": "M. J. Wingfield",
+        "date": "2015-08-21",
+        "description": "Several key tree genera are used in planted forests worldwide, and these represent valuable global resources. Planted forests are increasingly threatened by insects and microbial pathogens, which are introduced accidentally and/or have adapted to new host trees. Globalization has hastened tree pest emergence, despite a growing awareness of the problem, improved understanding of the costs, and an increased focus on the importance of quarantine. To protect the value and potential of planted forests, innovative solutions and a better-coordinated global approach are needed. Mitigation strategies that are effective only in wealthy countries fail to contain invasions elsewhere in the world, ultimately leading to global impacts. Solutions to forest pest problems in the future should mainly focus on integrating management approaches globally, rather than single-country strategies. A global strategy to manage pest issues is vitally important and urgently needed.\nAuthors: M. J. Wingfield, E. G. Brockerhoff, B. D. Wingfield, B. Slippers",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/832.summary?rss=1",
+        "title": "[Special Issue Review] Planted forest health: The need for a global strategy"
+    },
     {
-        "author": "Caroline Ash", 
-        "date": "2015-07-24", 
-        "description": "Author: Caroline Ash", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.10.full?rss=1", 
-        "title": "[This Week in Science] Microbial bioactive molecules"
-    }, 
+        "author": "Pamela J. Hines",
+        "date": "2015-08-21",
+        "description": "Author: Pamela J. Hines",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.1.full?rss=1",
+        "title": "[This Week in Science] Germination signals illuminated"
+    },
     {
-        "author": "Marc S. Lavine", 
-        "date": "2015-07-24", 
-        "description": "Author: Marc S. Lavine", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.11.full?rss=1", 
-        "title": "[This Week in Science] Expanding origami to thicker materials"
-    }, 
+        "author": "Guy Riddihough",
+        "date": "2015-08-21",
+        "description": "Author: Guy Riddihough",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.2.full?rss=1",
+        "title": "[This Week in Science] Transcription factor shape-shifts DNA"
+    },
     {
-        "author": "Stella M. Hurtley", 
-        "date": "2015-07-24", 
-        "description": "Author: Stella M. Hurtley", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.12.full?rss=1", 
-        "title": "[This Week in Science] Membrane contact sites promote lipid exchange"
-    }, 
+        "author": "Ian S. Osborne",
+        "date": "2015-08-21",
+        "description": "Author: Ian S. Osborne",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.3.full?rss=1",
+        "title": "[This Week in Science] Limiting unknows in the dark side"
+    },
     {
-        "author": "Angela Colmone", 
-        "date": "2015-07-24", 
-        "description": "Author: Angela Colmone", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/392.13.full?rss=1", 
-        "title": "[This Week in Science] The downside of diversity"
-    }, 
+        "author": "Jelena Stajic",
+        "date": "2015-08-21",
+        "description": "Author: Jelena Stajic",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.4.full?rss=1",
+        "title": "[This Week in Science] Making interacting atoms localize"
+    },
     {
-        "author": "Stella M. Hurtley", 
-        "date": "2015-07-24", 
-        "description": "Author: Stella M. Hurtley", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.1.full?rss=1", 
-        "title": "[Editors' Choice] Making a StART on sterol transport"
-    }, 
+        "author": "Sacha Vignieri",
+        "date": "2015-08-21",
+        "description": "Author: Sacha Vignieri",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.5.full?rss=1",
+        "title": "[This Week in Science] An anomalous and unbalanced predator"
+    },
     {
-        "author": "Gilbert Chin", 
-        "date": "2015-07-24", 
-        "description": "Author: Gilbert Chin", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.2.full?rss=1", 
-        "title": "[Editors' Choice] Learning while listening to a foreign language"
-    }, 
+        "author": "L. Bryan Ray",
+        "date": "2015-08-21",
+        "description": "Author: L. Bryan Ray",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.6.full?rss=1",
+        "title": "[This Week in Science] Membrane potential regulates growth"
+    },
     {
-        "author": "Barbara R. Jasny", 
-        "date": "2015-07-24", 
-        "description": "Author: Barbara R. Jasny", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.3.full?rss=1", 
-        "title": "[Editors' Choice] SLIDE-ing to promote biosecurity"
-    }, 
+        "author": "Philip Yeagle",
+        "date": "2015-08-21",
+        "description": "Author: Philip Yeagle",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.7.full?rss=1",
+        "title": "[This Week in Science] Protonation by \u201cNewton's cradle\u201d"
+    },
     {
-        "author": "Pamela J. Hines", 
-        "date": "2015-07-24", 
-        "description": "Author: Pamela J. Hines", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.4.full?rss=1", 
-        "title": "[Editors' Choice] Lefties find marsupial friends"
-    }, 
+        "author": "Pamela J. Hines",
+        "date": "2015-08-21",
+        "description": "Author: Pamela J. Hines",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.8.full?rss=1",
+        "title": "[This Week in Science] Immune signals shape root communities"
+    },
     {
-        "author": "Brad Wible", 
-        "date": "2015-07-24", 
-        "description": "Author: Brad Wible", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.5.full?rss=1", 
-        "title": "[Editors' Choice] Academic effort hindered by peer pressure"
-    }, 
+        "author": "Angela Colmone",
+        "date": "2015-08-21",
+        "description": "Author: Angela Colmone",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.9.full?rss=1",
+        "title": "[This Week in Science] A tale of two asthmas"
+    },
     {
-        "author": "Jake Yeston", 
-        "date": "2015-07-24", 
-        "description": "Author: Jake Yeston", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.6.full?rss=1", 
-        "title": "[Editors' Choice] Boron juggling makes two bonds in a row"
-    }, 
+        "author": "Guy Riddihough",
+        "date": "2015-08-21",
+        "description": "Author: Guy Riddihough",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.10.full?rss=1",
+        "title": "[This Week in Science] Keeping gene transcription in check"
+    },
     {
-        "author": "Marc S. Lavine", 
-        "date": "2015-07-24", 
-        "description": "Author: Marc S. Lavine", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/393.7.full?rss=1", 
-        "title": "[Editors' Choice] Printing potent patchy particles"
-    }, 
+        "author": "Laura Zahn",
+        "date": "2015-08-21",
+        "description": "Author: Laura Zahn",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.11.full?rss=1",
+        "title": "[This Week in Science] Genetic history of Native Americans"
+    },
     {
-        "author": "Mohamed S. Donia", 
-        "date": "2015-07-24", 
-        "description": "Developments in the use of genomics to guide natural product discovery and a recent emphasis on understanding the molecular mechanisms of microbiota-host interactions have converged on the discovery of small molecules from the human microbiome. Here, we review what is known about small molecules produced by the human microbiota. Numerous molecules representing each of the major metabolite classes have been found that have a variety of biological activities, including immune modulation and antibiosis. We discuss technologies that will affect how microbiota-derived molecules are discovered in the future and consider the challenges inherent in finding specific molecules that are critical for driving microbe-host and microbe-microbe interactions and understanding their biological relevance.\nAuthors: Mohamed S. Donia, Michael A. Fischbach", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/1254766.abstract?rss=1", 
-        "title": "[Review] Small molecules from the human microbiota"
-    }, 
+        "author": "Guy Riddihough",
+        "date": "2015-08-21",
+        "description": "Author: Guy Riddihough",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.12.full?rss=1",
+        "title": "[This Week in Science] Regulation of splicing regulators"
+    },
     {
-        "author": "Yan Chen", 
-        "date": "2015-07-24", 
-        "description": "Origami patterns, including the rigid origami patterns in which flat inflexible sheets are joined by creases, are primarily created for zero-thickness sheets. In order to apply them to fold structures such as roofs, solar panels, and space mirrors, for which thickness cannot be disregarded, various methods have been suggested. However, they generally involve adding materials to or offsetting panels away from the idealized sheet without altering the kinematic model used to simulate folding. We develop a comprehensive kinematic synthesis for rigid origami of thick panels that differs from the existing kinematic model but is capable of reproducing motions identical to that of zero-thickness origami. The approach, proven to be effective for typical origami, can be readily applied to fold real engineering structures.\nAuthors: Yan Chen, Rui Peng, Zhong You", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/396.summary?rss=1", 
-        "title": "[Report] Origami of thick panels"
-    }, 
+        "author": "Sacha Vignieri",
+        "date": "2015-08-21",
+        "description": "Author: Sacha Vignieri",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.13.full?rss=1",
+        "title": "[This Week in Science] A model for who eats and who is eaten"
+    },
     {
-        "author": "Z. F. Liu", 
-        "date": "2015-07-24", 
-        "description": "Superelastic conducting fibers with improved properties and functionalities are needed for diverse applications. Here we report the fabrication of highly stretchable (up to 1320%) sheath-core conducting fibers created by wrapping carbon nanotube sheets oriented in the fiber direction on stretched rubber fiber cores. The resulting structure exhibited distinct short- and long-period sheath buckling that occurred reversibly out of phase in the axial and belt directions, enabling a resistance change of less than 5% for a 1000% stretch. By including other rubber and carbon nanotube sheath layers, we demonstrated strain sensors generating an 860% capacitance change and electrically powered torsional muscles operating reversibly by a coupled tension-to-torsion actuation mechanism. Using theory, we quantitatively explain the complementary effects of an increase in muscle length and a large positive Poisson\u2019s ratio on torsional actuation and electronic properties.\nAuthors: Z. F. Liu, S. Fang, F. A. Moura, J. N. Ding, N. Jiang, J. Di, M. Zhang, X. Lepr\u00f3, D. S. Galv\u00e3o, C. S. Haines, N. Y. Yuan, S. G. Yin, D. W. Lee, R. Wang, H. Y. Wang, W. Lv, C. Dong, R. C. Zhang, M. J. Chen, Q. Yin, Y. T. Chong, R. Zhang, X. Wang, M. D. Lima, R. Ovalle-Robles, D. Qian, H. Lu, R. H. Baughman", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/400.summary?rss=1", 
-        "title": "[Report] Hierarchically buckled sheath-core fibers for superelastic electronics, sensors, and muscles"
-    }, 
+        "author": "Jelena Stajic",
+        "date": "2015-08-21",
+        "description": "Author: Jelena Stajic",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.14.full?rss=1",
+        "title": "[This Week in Science] The dynamics of dipolar interactions"
+    },
     {
-        "author": "Yutaka Tabuchi", 
-        "date": "2015-07-24", 
-        "description": "Rigidity of an ordered phase in condensed matter results in collective excitation modes spatially extending to macroscopic dimensions. A magnon is a quantum of such collective excitation modes in ordered spin systems. Here, we demonstrate the coherent coupling between a single-magnon excitation in a millimeter-sized ferromagnetic sphere and a superconducting qubit, with the interaction mediated by the virtual photon excitation in a microwave cavity. We obtain the coupling strength far exceeding the damping rates, thus bringing the hybrid system into the strong coupling regime. Furthermore, we use a parametric drive to realize a tunable magnon-qubit coupling scheme. Our approach provides a versatile tool for quantum control and measurement of the magnon excitations and may lead to advances in quantum information processing.\nAuthors: Yutaka Tabuchi, Seiichiro Ishino, Atsushi Noguchi, Toyofumi Ishikawa, Rekishu Yamazaki, Koji Usami, Yasunobu Nakamura", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/405.summary?rss=1", 
-        "title": "[Report] Coherent coupling between a ferromagnetic magnon and a superconducting qubit"
-    }, 
+        "author": "Leslie K. Ferrarelli",
+        "date": "2015-08-21",
+        "description": "Author: Leslie K. Ferrarelli",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/838.15.full?rss=1",
+        "title": "[This Week in Science] Inhibiting two pathways is better than one"
+    },
     {
-        "author": "J. J. Viennot", 
-        "date": "2015-07-24", 
-        "description": "Electron spins and photons are complementary quantum-mechanical objects that can be used to carry, manipulate, and transform quantum information. To combine these resources, it is desirable to achieve the coherent coupling of a single spin to photons stored in a superconducting resonator. Using a circuit design based on a nanoscale spin valve, we coherently hybridize the individual spin and charge states of a double quantum dot while preserving spin coherence. This scheme allows us to achieve spin-photon coupling up to the megahertz range at the single-spin level. The cooperativity is found to reach 2.3, and the spin coherence time is about 60 nanoseconds. We thereby demonstrate a mesoscopic device suitable for nondestructive spin readout and distant spin coupling.\nAuthors: J. J. Viennot, M. C. Dartiailh, A. Cottet, T. Kontos", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/408.summary?rss=1", 
-        "title": "[Report] Coherent coupling of a single spin to microwave cavity photons"
-    }, 
+        "author": "Marc S. Lavine",
+        "date": "2015-08-21",
+        "description": "Author: Marc S. Lavine",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.1.full?rss=1",
+        "title": "[Editors' Choice] When wrinkling is a good thing"
+    },
     {
-        "author": "Lei Zhang", 
-        "date": "2015-07-24", 
-        "description": "A cost-effective catalyst should have a high dispersion of the active atoms, together with a controllable surface structure for the optimization of activity, selectivity, or both. We fabricated nanocages by depositing a few atomic layers of platinum (Pt) as conformal shells on palladium (Pd) nanocrystals with well-defined facets and then etching away the Pd templates. Density functional theory calculations suggest that the etching is initiated via a mechanism that involves the formation of vacancies through the removal of Pd atoms incorporated into the outermost layer during the deposition of Pt. With the use of Pd nanoscale cubes and octahedra as templates, we obtained Pt cubic and octahedral nanocages enclosed by {100} and {111} facets, respectively, which exhibited distinctive catalytic activities toward oxygen reduction.\nAuthors: Lei Zhang, Luke T. Roling, Xue Wang, Madeline Vara, Miaofang Chi, Jingyue Liu, Sang-Il Choi, Jinho Park, Jeffrey A. Herron, Zhaoxiong Xie, Manos Mavrikakis, Younan Xia", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/412.summary?rss=1", 
-        "title": "[Report] Platinum-based nanocages with subnanometer-thick walls and well-defined, controllable facets"
-    }, 
+        "author": "Valda Vinson",
+        "date": "2015-08-21",
+        "description": "Author: Valda Vinson",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.2.full?rss=1",
+        "title": "[Editors' Choice] Probing the activity of two proteases"
+    },
     {
-        "author": "David M. Martill", 
-        "date": "2015-07-24", 
-        "description": "Snakes are a remarkably diverse and successful group today, but their evolutionary origins are obscure. The discovery of snakes with two legs has shed light on the transition from lizards to snakes, but no snake has been described with four limbs, and the ecology of early snakes is poorly known. We describe a four-limbed snake from the Early Cretaceous (Aptian) Crato Formation of Brazil. The snake has a serpentiform body plan with an elongate trunk, short tail, and large ventral scales suggesting characteristic serpentine locomotion, yet retains small prehensile limbs. Skull and body proportions as well as reduced neural spines indicate fossorial adaptation, suggesting that snakes evolved from burrowing rather than marine ancestors. Hooked teeth, an intramandibular joint, a flexible spine capable of constricting prey, and the presence of vertebrate remains in the guts indicate that this species preyed on vertebrates and that snakes made the transition to carnivory early in their history. The structure of the limbs suggests that they were adapted for grasping, either to seize prey or as claspers during mating. Together with a diverse fauna of basal snakes from the Cretaceous of South America, Africa, and India, this snake suggests that crown Serpentes originated in Gondwana.\nAuthors: David M. Martill, Helmut Tischlinger, Nicholas R. Longrich", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/416.summary?rss=1", 
-        "title": "[Report] A four-legged snake from the Early Cretaceous of Gondwana"
-    }, 
+        "author": "Nicholas S. Wigginton",
+        "date": "2015-08-21",
+        "description": "Author: Nicholas S. Wigginton",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.3.full?rss=1",
+        "title": "[Editors' Choice] Abundant microbes hiding in plain sight"
+    },
     {
-        "author": "F. Inagaki", 
-        "date": "2015-07-24", 
-        "description": "Microbial life inhabits deeply buried marine sediments, but the extent of this vast ecosystem remains poorly constrained. Here we provide evidence for the existence of microbial communities in ~40\u00b0 to 60\u00b0C sediment associated with lignite coal beds at ~1.5 to 2.5 km below the seafloor in the Pacific Ocean off Japan. Microbial methanogenesis was indicated by the isotopic compositions of methane and carbon dioxide, biomarkers, cultivation data, and gas compositions. Concentrations of indigenous microbial cells below 1.5 km ranged from &lt;10 to ~104 cells cm\u22123. Peak concentrations occurred in lignite layers, where communities differed markedly from shallower subseafloor communities and instead resembled organotrophic communities in forest soils. This suggests that terrigenous sediments retain indigenous community members tens of millions of years after burial in the seabed.\nAuthors: F. Inagaki, K.-U. Hinrichs, Y. Kubo, M. W. Bowles, V. B. Heuer, W.-L. Hong, T. Hoshino, A. Ijiri, H. Imachi, M. Ito, M. Kaneko, M. A. Lever, Y.-S. Lin, B. A. Meth\u00e9, S. Morita, Y. Morono, W. Tanikawa, M. Bihan, S. A. Bowden, M. Elvert, C. Glombitza, D. Gross, G. J. Harrington, T. Hori, K. Li, D. Limmer, C.-H. Liu, M. Murayama, N. Ohkouchi, S. Ono, Y.-S. Park, S. C. Phillips, X. Prieto-Mollar, M. Purkey, N. Riedinger, Y. Sanada, J. Sauvage, G. Snyder, R. Susilawati, Y. Takano, E. Tasumi, T. Terada, H. Tomaru, E. Trembath-Reichert, D. T. Wang, Y. Yamada", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/420.summary?rss=1", 
-        "title": "[Report] Exploring deep microbial life in coal-bearing sediment down to ~2.5 km below the ocean floor"
-    }, 
+        "author": "Kristen L. Mueller",
+        "date": "2015-08-21",
+        "description": "Author: Kristen L. Mueller",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.4.full?rss=1",
+        "title": "[Editors' Choice] For females, a different path to pain"
+    },
     {
-        "author": "Stuart D. Greenhill", 
-        "date": "2015-07-24", 
-        "description": "Development of the cerebral cortex is influenced by sensory experience during distinct phases of postnatal development known as critical periods. Disruption of experience during a critical period produces neurons that lack specificity for particular stimulus features, such as location in the somatosensory system. Synaptic plasticity is the agent by which sensory experience affects cortical development. Here, we describe, in mice, a developmental critical period that affects plasticity itself. Transient neonatal disruption of signaling via the C-terminal domain of \u201cdisrupted in schizophrenia 1\u201d (DISC1)\u2014a molecule implicated in psychiatric disorders\u2014resulted in a lack of long-term potentiation (LTP) (persistent strengthening of synapses) and experience-dependent potentiation in adulthood. Long-term depression (LTD) (selective weakening of specific sets of synapses) and reversal of LTD were present, although impaired, in adolescence and absent in adulthood. These changes may form the basis for the cognitive deficits associated with mutations in DISC1 and the delayed onset of a range of psychiatric symptoms in late adolescence.\nAuthors: Stuart D. Greenhill, Konrad Juczewski, Annelies M. de Haan, Gillian Seaton, Kevin Fox, Neil R. Hardingham", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/424.summary?rss=1", 
-        "title": "[Report] Adult cortical plasticity depends on an early postnatal critical period"
-    }, 
+        "author": "Guy Riddihough",
+        "date": "2015-08-21",
+        "description": "Author: Guy Riddihough",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.5.full?rss=1",
+        "title": "[Editors' Choice] Copying chromatin to ensure identity"
+    },
     {
-        "author": "Jeeyun Chung", 
-        "date": "2015-07-24", 
-        "description": "Lipid transfer between cell membrane bilayers at contacts between the endoplasmic reticulum (ER) and other membranes help to maintain membrane lipid homeostasis. We found that two similar ER integral membrane proteins, oxysterol-binding protein (OSBP)\u2013related protein 5 (ORP5) and ORP8, tethered the ER to the plasma membrane (PM) via the interaction of their pleckstrin homology domains with phosphatidylinositol 4-phosphate (PI4P) in this membrane. Their OSBP-related domains (ORDs) harbored either PI4P or phosphatidylserine (PS) and exchanged these lipids between bilayers. Gain- and loss-of-function experiments showed that ORP5 and ORP8 could mediate PI4P/PS countertransport between the ER and the PM, thus delivering PI4P to the ER-localized PI4P phosphatase Sac1 for degradation and PS from the ER to the PM. This exchange helps to control plasma membrane PI4P levels and selectively enrich PS in the PM.\nAuthors: Jeeyun Chung, Federico Torta, Kaori Masai, Louise Lucast, Heather Czapla, Lukas B. Tanner, Pradeep Narayanaswamy, Markus R. Wenk, Fubito Nakatsu, Pietro De Camilli", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/428.summary?rss=1", 
-        "title": "[Report] PI4P/phosphatidylserine countertransport at ORP5- and ORP8-mediated ER\u2013plasma membrane contacts"
-    }, 
+        "author": "Laura M. Zahn",
+        "date": "2015-08-21",
+        "description": "Author: Laura M. Zahn",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.6.full?rss=1",
+        "title": "[Editors' Choice] How starving affects you and yours"
+    },
     {
-        "author": "Joachim Moser von Filseck", 
-        "date": "2015-07-24", 
-        "description": "In eukaryotic cells, phosphatidylserine (PS) is synthesized in the endoplasmic reticulum (ER) but is highly enriched in the plasma membrane (PM), where it contributes negative charge and to specific recruitment of signaling proteins. This distribution relies on transport mechanisms whose nature remains elusive. Here, we found that the PS transporter Osh6p extracted phosphatidylinositol 4-phosphate (PI4P) and exchanged PS for PI4P between two membranes. We solved the crystal structure of Osh6p:PI4P complex and demonstrated that the transport of PS by Osh6p depends on PI4P recognition in vivo. Finally, we showed that the PI4P-phosphatase Sac1p, by maintaining a PI4P gradient at the ER/PM interface, drove PS transport. Thus, PS transport by oxysterol-binding protein\u2013related protein (ORP)/oxysterol-binding homology (Osh) proteins is fueled by PI4P metabolism through PS/PI4P exchange cycles.\nAuthors: Joachim Moser von Filseck, Alenka \u010copi\u010d, Vanessa Delfosse, Stefano Vanni, Catherine L. Jackson, William Bourguet, Guillaume Drin", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/432.summary?rss=1", 
-        "title": "[Report] Phosphatidylserine transport by ORP/Osh proteins is driven by phosphatidylinositol 4-phosphate"
-    }, 
+        "author": "Melissa McCartney",
+        "date": "2015-08-21",
+        "description": "Author: Melissa McCartney",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/839.7.full?rss=1",
+        "title": "[Editors' Choice] What does one know and not know?"
+    },
     {
-        "author": "Bernice Lo", 
-        "date": "2015-07-24", 
-        "description": "Mutations in the LRBA gene (encoding the lipopolysaccharide-responsive and beige-like anchor protein) cause a syndrome of autoimmunity, lymphoproliferation, and humoral immune deficiency. The biological role of LRBA in immunologic disease is unknown. We found that patients with LRBA deficiency manifested a dramatic and sustained improvement in response to abatacept, a CTLA4 (cytotoxic T lymphocyte antigen-4)\u2013immunoglobulin fusion drug. Clinical responses and homology of LRBA to proteins controlling intracellular trafficking led us to hypothesize that it regulates CTLA4, a potent inhibitory immune receptor. We found that LRBA colocalized with CTLA4 in endosomal vesicles and that LRBA deficiency or knockdown increased CTLA4 turnover, which resulted in reduced levels of CTLA4 protein in FoxP3+ regulatory and activated conventional T cells. In LRBA-deficient cells, inhibition of lysosome degradation with chloroquine prevented CTLA4 loss. These findings elucidate a mechanism for CTLA4 trafficking and control of immune responses and suggest therapies for diseases involving the CTLA4 pathway.\nAuthors: Bernice Lo, Kejian Zhang, Wei Lu, Lixin Zheng, Qian Zhang, Chrysi Kanellopoulou, Yu Zhang, Zhiduo Liu, Jill M. Fritz, Rebecca Marsh, Ammar Husami, Diane Kissell, Shannon Nortman, Vijaya Chaturvedi, Hilary Haines, Lisa R. Young, Jun Mo, Alexandra H. Filipovich, Jack J. Bleesing, Peter Mustillo, Michael Stephens, Cesar M. Rueda, Claire A. Chougnet, Kasper Hoebe, Joshua McElwee, Jason D. Hughes, Elif Karakoc-Aydiner, Helen F. Matthews, Susan Price, Helen C. Su, V. Koneti Rao, Michael J. Lenardo, Michael B. Jordan", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/436.summary?rss=1", 
-        "title": "[Report] Patients with LRBA deficiency show CTLA4 loss and immune dysregulation responsive to abatacept therapy"
-    }, 
+        "author": "Maanasa Raghavan",
+        "date": "2015-08-21",
+        "description": "How and when the Americas were populated remains contentious. Using ancient and modern genome-wide data, we found that the ancestors of all present-day Native Americans, including Athabascans and Amerindians, entered the Americas as a single migration wave from Siberia no earlier than 23 thousand years ago (ka) and after no more than an 8000-year isolation period in Beringia. After their arrival to the Americas, ancestral Native Americans diversified into two basal genetic branches around 13 ka, one that is now dispersed across North and South America and the other restricted to North America. Subsequent gene flow resulted in some Native Americans sharing ancestry with present-day East Asians (including Siberians) and, more distantly, Australo-Melanesians. Putative \u201cPaleoamerican\u201d relict populations, including the historical Mexican Peric\u00faes and South American Fuego-Patagonians, are not directly related to modern Australo-Melanesians as suggested by the Paleoamerican Model.\nAuthors: Maanasa Raghavan, Matthias Steinr\u00fccken, Kelley Harris, Stephan Schiffels, Simon Rasmussen, Michael DeGiorgio, Anders Albrechtsen, Cristina Valdiosera, Mar\u00eda C. \u00c1vila-Arcos, Anna-Sapfo Malaspinas, Anders Eriksson, Ida Moltke, Mait Metspalu, Julian R. Homburger, Jeff Wall, Omar E. Cornejo, J. V\u00edctor Moreno-Mayar, Thorfinn S. Korneliussen, Tracey Pierre, Morten Rasmussen, Paula F. Campos, Peter de Barros Damgaard, Morten E. Allentoft, John Lindo, Ene Metspalu, Ricardo Rodr\u00edguez-Varela, Josefina Mansilla, Celeste Henrickson, Andaine Seguin-Orlando, Helena Malmstr\u00f6m, Thomas Stafford, Suyash S. Shringarpure, Andr\u00e9s Moreno-Estrada, Monika Karmin, Kristiina Tambets, Anders Bergstr\u00f6m, Yali Xue, Vera Warmuth, Andrew D. Friend, Joy Singarayer, Paul Valdes, Francois Balloux, Il\u00e1n Leboreiro, Jose Luis Vera, Hector Rangel-Villalobos, Davide Pettener, Donata Luiselli, Loren G. Davis, Evelyne Heyer, Christoph P. E. Zollikofer, Marcia S. Ponce de Le\u00f3n, Colin I. Smith, Vaughan Grimes, Kelly-Anne Pike, Michael Deal, Benjamin T. Fuller, Bernardo Arriaza, Vivien Standen, Maria F. Luz, Francois Ricaut, Niede Guidon, Ludmila Osipova, Mikhail I. Voevoda, Olga L. Posukh, Oleg Balanovsky, Maria Lavryashina, Yuri Bogunov, Elza Khusnutdinova, Marina Gubina, Elena Balanovska, Sardana Fedorova, Sergey Litvinov, Boris Malyarchuk, Miroslava Derenko, M. J. Mosher, David Archer, Jerome Cybulski, Barbara Petzelt, Joycelynn Mitchell, Rosita Worl, Paul J. Norman, Peter Parham, Brian M. Kemp, Toomas Kivisild, Chris Tyler-Smith, Manjinder S. Sandhu, Michael Crawford, Richard Villems, David Glenn Smith, Michael R. Waters, Ted Goebel, John R. Johnson, Ripan S. Malhi, Mattias Jakobsson, David J. Meltzer, Andrea Manica, Richard Durbin, Carlos D. Bustamante, Yun S. Song, Rasmus Nielsen, Eske Willerslev",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/aab3884.abstract?rss=1",
+        "title": "[Research Article] Genomic evidence for the Pleistocene and recent population history of Native Americans"
+    },
     {
-        "author": "", 
-        "date": "2015-07-24", 
-        "description": "A weekly roundup of information on newly offered instrumentation, apparatus, and laboratory materials of potential interest to researchers.\n", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/441.1.summary?rss=1", 
+        "author": "Michael Schreiber",
+        "date": "2015-08-21",
+        "description": "Many-body localization (MBL), the disorder-induced localization of interacting particles, signals a breakdown of conventional thermodynamics because MBL systems do not thermalize and show nonergodic time evolution. We experimentally observed this nonergodic evolution for interacting fermions in a one-dimensional quasirandom optical lattice and identified the MBL transition through the relaxation dynamics of an initially prepared charge density wave. For sufficiently weak disorder, the time evolution appears ergodic and thermalizing, erasing all initial ordering, whereas above a critical disorder strength, a substantial portion of the initial ordering persists. The critical disorder value shows a distinctive dependence on the interaction strength, which is in agreement with numerical simulations. Our experiment paves the way to further detailed studies of MBL, such as in noncorrelated disorder or higher dimensions.\nAuthors: Michael Schreiber, Sean S. Hodgman, Pranjal Bordia, Henrik P. L\u00fcschen, Mark H. Fischer, Ronen Vosk, Ehud Altman, Ulrich Schneider, Immanuel Bloch",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/842.abstract?rss=1",
+        "title": "[Research Article] Observation of many-body localization of interacting fermions in a quasirandom optical lattice"
+    },
+    {
+        "author": "Gonzalo A. \u00c1lvarez",
+        "date": "2015-08-21",
+        "description": "Nonequilibrium dynamics of many-body systems are important in many scientific fields. Here, we report the experimental observation of a phase transition of the quantum coherent dynamics of a three-dimensional many-spin system with dipolar interactions. Using nuclear magnetic resonance (NMR) on a solid-state system of spins at room-temperature, we quench the interaction Hamiltonian to drive the evolution of the system. Depending on the quench strength, we then observe either localized or extended dynamics of the system coherence. We extract the critical exponents for the localized cluster size of correlated spins and diffusion coefficient around the phase transition separating the localized from the delocalized dynamical regime. These results show that NMR techniques are well suited to studying the nonequilibrium dynamics of complex many-body systems.\nAuthors: Gonzalo A. \u00c1lvarez, Dieter Suter, Robin Kaiser",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/846.summary?rss=1",
+        "title": "[Report] Localization-delocalization transition in the dynamics of dipolar-coupled nuclear spins"
+    },
+    {
+        "author": "P. Hamilton",
+        "date": "2015-08-21",
+        "description": "If dark energy, which drives the accelerated expansion of the universe, consists of a light scalar field, it might be detectable as a \u201cfifth force\u201d between normal-matter objects, in potential conflict with precision tests of gravity. Chameleon fields and other theories with screening mechanisms, however, can evade these tests by suppressing the forces in regions of high density, such as the laboratory. Using a cesium matter-wave interferometer near a spherical mass in an ultrahigh-vacuum chamber, we reduced the screening mechanism by probing the field with individual atoms rather than with bulk matter. We thereby constrained a wide class of dark energy theories, including a range of chameleon and other theories that reproduce the observed cosmic acceleration.\nAuthors: P. Hamilton, M. Jaffe, P. Haslinger, Q. Simmons, H. M\u00fcller, J. Khoury",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/849.summary?rss=1",
+        "title": "[Report] Atom-interferometry constraints on dark energy"
+    },
+    {
+        "author": "The XENON Collaboration",
+        "date": "2015-08-21",
+        "description": "Laboratory experiments searching for galactic dark matter particles scattering off nuclei have so far not been able to establish a discovery. We use data from the XENON100 experiment to search for dark matter interacting with electrons. With no evidence for a signal above the low background of our experiment, we exclude a variety of representative dark matter models that would induce electronic recoils. For axial-vector couplings to electrons, we exclude cross sections above 6 \u00d7 10\u201335 cm2 for particle masses of m\u03c7 = 2 GeV/c2. Independent of the dark matter halo, we exclude leptophilic models as an explanation for the long-standing DAMA/LIBRA signal, such as couplings to electrons through axial-vector interactions at a 4.4\u03c3 confidence level, mirror dark matter at 3.6\u03c3, and luminous dark matter at 4.6\u03c3.\nAuthors: The XENON Collaboration, E. Aprile, F. Agostini, M. Alfonsi, L. Arazi, K. Arisaka, F. Arneodo, M. Auger, C. Balan, P. Barrow, L. Baudis, B. Bauermeister, A. Behrens, A. Brown, E. Brown, S. Bruenner, G. Bruno, R. Budnik, L. B\u00fctikofer, J. M. R. Cardoso, M. Cervantes, D. Coderre, A. P. Colijn, H. Contreras, J. P. Cussonneau, M. P. Decowski, A. Di Giovanni, E. Duchovni, S. Fattori, A. D. Ferella, A. Fieguth, W. Fulgione, F. Gao, M. Garbini, C. Geis, L. W. Goetzke, C. Grignon, E. Gross, W. Hampel, R. Itay, F. Kaether, B. Kaminsky, G. Kessler, A. Kish, H. Landsman, R. F. Lang, M. Le Calloch, D. Lellouch, L. Levinson, C. Levy, S. Lindemann, M. Lindner, J. A. M. Lopes, A. Lyashenko, S. Macmullin, T. Marrod\u00e1n Undagoitia, J. Masbou, F. V. Massoli, D. Mayani, A. J. Melgarejo Fernandez, Y. Meng, M. Messina, B. Miguez, A. Molinario, G. Morana, M. Murra, J. Naganoma, K. Ni, U. Oberlack, S. E. A. Orrigo, P. Pakarha, E. Pantic, R. Persiani, F. Piastra, J. Pienaar, G. Plante, N. Priel, L. Rauch, S. Reichard, C. Reuter, A. Rizzo, S. Rosendahl, J. M. F. dos Santos, G. Sartorelli, S. Schindler, J. Schreiner, M. Schumann, L. Scotto Lavina, M. Selvi, P. Shagin, H. Simgen, A. Teymourian, D. Thers, A. Tiseni, G. Trinchero, C. Tunnell, O. Vitells, R. Wall, H. Wang, M. Weber, C. Weinheimer",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/851.summary?rss=1",
+        "title": "[Report] Exclusion of leptophilic dark matter models using XENON100 electronic recoil data"
+    },
+    {
+        "author": "Kevin D. Lafferty",
+        "date": "2015-08-21",
+        "description": "Food-web dynamics arise from predator-prey, parasite-host, and herbivore-plant interactions. Models for such interactions include up to three consumer activity states (questing, attacking, consuming) and up to four resource response states (susceptible, exposed, ingested, resistant). Articulating these states into a general model allows for dissecting, comparing, and deriving consumer-resource models. We specify this general model for 11 generic consumer strategies that group mathematically into predators, parasites, and micropredators and then derive conditions for consumer success, including a universal saturating functional response. We further show how to use this framework to create simple models with a common mathematical lineage and transparent assumptions. Underlying assumptions, missing elements, and composite parameters are revealed when classic consumer-resource models are derived from the general model.\nAuthors: Kevin D. Lafferty, Giulio DeLeo, Cheryl J. Briggs, Andrew P. Dobson, Thilo Gross, Armand M. Kuris",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/854.summary?rss=1",
+        "title": "[Report] A general consumer-resource population model"
+    },
+    {
+        "author": "Chris T. Darimont",
+        "date": "2015-08-21",
+        "description": "Paradigms of sustainable exploitation focus on population dynamics of prey and yields to humanity but ignore the behavior of humans as predators. We compared patterns of predation by contemporary hunters and fishers with those of other predators that compete over shared prey (terrestrial mammals and marine fishes). Our global survey (2125 estimates of annual finite exploitation rate) revealed that humans kill adult prey, the reproductive capital of populations, at much higher median rates than other predators (up to 14 times higher), with particularly intense exploitation of terrestrial carnivores and fishes. Given this competitive dominance, impacts on predators, and other unique predatory behavior, we suggest that humans function as an unsustainable \u201csuper predator,\u201d which\u2014unless additionally constrained by managers\u2014will continue to alter ecological and evolutionary processes globally.\nAuthors: Chris T. Darimont, Caroline H. Fox, Heather M. Bryan, Thomas E. Reimchen",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/858.summary?rss=1",
+        "title": "[Report] The unique ecology of human predators"
+    },
+    {
+        "author": "Sarah L. Lebeis",
+        "date": "2015-08-21",
+        "description": "Immune systems distinguish \u201cself\u201d from \u201cnonself\u201d to maintain homeostasis and must differentially gate access to allow colonization by potentially beneficial, nonpathogenic microbes. Plant roots grow within extremely diverse soil microbial communities but assemble a taxonomically limited root-associated microbiome. We grew isogenic Arabidopsis thaliana mutants with altered immune systems in a wild soil and also in recolonization experiments with a synthetic bacterial community. We established that biosynthesis of, and signaling dependent on, the foliar defense phytohormone salicylic acid is required to assemble a normal root microbiome. Salicylic acid modulates colonization of the root by specific bacterial families. Thus, plant immune signaling drives selection from the available microbial communities to sculpt the root microbiome.\nAuthors: Sarah L. Lebeis, Sur Herrera Paredes, Derek S. Lundberg, Natalie Breakfield, Jase Gehring, Meredith McDonald, Stephanie Malfatti, Tijana Glavina del Rio, Corbin D. Jones, Susannah G. Tringe, Jeffery L. Dangl",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/860.summary?rss=1",
+        "title": "[Report] Salicylic acid modulates colonization of the root microbiome by specific bacterial taxa"
+    },
+    {
+        "author": "Yuichiro Tsuchiya",
+        "date": "2015-08-21",
+        "description": "Elucidating the signaling mechanism of strigolactones has been the key to controlling the devastating problem caused by the parasitic plant Striga hermonthica. To overcome the genetic intractability that has previously interfered with identification of the strigolactone receptor, we developed a fluorescence turn-on probe, Yoshimulactone Green (YLG), which activates strigolactone signaling and illuminates signal perception by the strigolactone receptors. Here we describe how strigolactones bind to and act via ShHTLs, the diverged family of \u03b1/\u03b2 hydrolase-fold proteins in Striga. Live imaging using YLGs revealed that a dynamic wavelike propagation of strigolactone perception wakes up Striga seeds. We conclude that ShHTLs function as the strigolactone receptors mediating seed germination in Striga. Our findings enable access to strigolactone receptors and observation of the regulatory dynamics for strigolactone signal transduction in Striga.\nAuthors: Yuichiro Tsuchiya, Masahiko Yoshimura, Yoshikatsu Sato, Keiko Kuwata, Shigeo Toh, Duncan Holbrook-Smith, Hua Zhang, Peter McCourt, Kenichiro Itami, Toshinori Kinoshita, Shinya Hagihara",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/864.summary?rss=1",
+        "title": "[Report] Probing strigolactone receptors in Striga hermonthica with fluorescence"
+    },
+    {
+        "author": "Serge Gueroussov",
+        "date": "2015-08-21",
+        "description": "Alternative splicing (AS) generates extensive transcriptomic and proteomic complexity. However, the functions of species- and lineage-specific splice variants are largely unknown. Here we show that mammalian-specific skipping of polypyrimidine tract\u2013binding protein 1 (PTBP1) exon 9 alters the splicing regulatory activities of PTBP1 and affects the inclusion levels of numerous exons. During neurogenesis, skipping of exon 9 reduces PTBP1 repressive activity so as to facilitate activation of a brain-specific AS program. Engineered skipping of the orthologous exon in chicken cells induces a large number of mammalian-like AS changes in PTBP1 target exons. These results thus reveal that a single exon-skipping event in an RNA binding regulator directs numerous AS changes between species. Our results further suggest that these changes contributed to evolutionary differences in the formation of vertebrate nervous systems.\nAuthors: Serge Gueroussov, Thomas Gonatopoulos-Pournatzis, Manuel Irimia, Bushra Raj, Zhen-Yuan Lin, Anne-Claude Gingras, Benjamin J. Blencowe",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/868.summary?rss=1",
+        "title": "[Report] An alternative splicing event amplifies evolutionary differences between vertebrates"
+    },
+    {
+        "author": "Yong Zhou",
+        "date": "2015-08-21",
+        "description": "Plasma membrane depolarization can trigger cell proliferation, but how membrane potential influences mitogenic signaling is uncertain. Here, we show that plasma membrane depolarization induces nanoscale reorganization of phosphatidylserine and phosphatidylinositol 4,5-bisphosphate but not other anionic phospholipids. K-Ras, which is targeted to the plasma membrane by electrostatic interactions with phosphatidylserine, in turn undergoes enhanced nanoclustering. Depolarization-induced changes in phosphatidylserine and K-Ras plasma membrane organization occur in fibroblasts, excitable neuroblastoma cells, and Drosophila neurons in vivo and robustly amplify K-Ras\u2013dependent mitogen-activated protein kinase (MAPK) signaling. Conversely, plasma membrane repolarization disrupts K-Ras nanoclustering and inhibits MAPK signaling. By responding to voltage-induced changes in phosphatidylserine spatiotemporal dynamics, K-Ras nanoclusters set up the plasma membrane as a biological field-effect transistor, allowing membrane potential to control the gain in mitogenic signaling circuits.\nAuthors: Yong Zhou, Ching-On Wong, Kwang-jin Cho, Dharini van der Hoeven, Hong Liang, Dhananiay P. Thakur, Jialie Luo, Milos Babic, Konrad E. Zinsmaier, Michael X. Zhu, Hongzhen Hu, Kartik Venkatachalam, John F. Hancock",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/873.summary?rss=1",
+        "title": "[Report] Membrane potential modulates plasma membrane phospholipid dynamics and K-Ras signaling"
+    },
+    {
+        "author": "Steven J. Philips",
+        "date": "2015-08-21",
+        "description": "Many transcriptional activators act at a distance from core promoter elements and work by recruiting RNA polymerase through protein-protein interactions. We show here how the prokaryotic regulatory protein CueR both represses and activates transcription by differentially modulating local DNA structure within the promoter. Structural studies reveal that the repressor state slightly bends the promoter DNA, precluding optimal RNA polymerase-promoter recognition. Upon binding a metal ion in the allosteric site, CueR switches into an activator conformation. It maintains all protein-DNA contacts but introduces torsional stresses that kink and undertwist the promoter, stabilizing an A-form DNA\u2013like conformation. These factors switch on and off transcription by exerting dynamic control of DNA stereochemistry, reshaping the core promoter and making it a better or worse substrate for polymerase.\nAuthors: Steven J. Philips, Monica Canalizo-Hernandez, Ilyas Yildirim, George C. Schatz, Alfonso Mondrag\u00f3n, Thomas V. O\u2019Halloran",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/877.summary?rss=1",
+        "title": "[Report] Allosteric transcriptional regulation via changes in the overall topology of the core promoter"
+    },
+    {
+        "author": "Yun Yang",
+        "date": "2015-08-21",
+        "description": "Transcription by RNA polymerase (RNAP) in bacteria requires specific promoter recognition by \u03c3 factors. The major variant \u03c3 factor (\u03c354) initially forms a transcriptionally silent complex requiring specialized adenosine triphosphate\u2013dependent activators for initiation. Our crystal structure of the 450-kilodalton RNAP-\u03c354 holoenzyme at 3.8 angstroms reveals molecular details of \u03c354 and its interactions with RNAP. The structure explains how \u03c354 targets different regions in RNAP to exert its inhibitory function. Although \u03c354 and the major \u03c3 factor, \u03c370, have similar functional domains and contact similar regions of RNAP, unanticipated differences are observed in their domain arrangement and interactions with RNAP, explaining their distinct properties. Furthermore, we observe evolutionarily conserved regulatory hotspots in RNAPs that can be targeted by a diverse range of mechanisms to fine tune transcription.\nAuthors: Yun Yang, Vidya C. Darbari, Nan Zhang, Duo Lu, Robert Glyde, Yi-Ping Wang, Jared T. Winkelman, Richard L. Gourse, Katsuhiko S. Murakami, Martin Buck, Xiaodong Zhang",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/882.summary?rss=1",
+        "title": "[Report] Structures of the RNA polymerase-\u03c354 reveal new and conserved regulatory strategies"
+    },
+    {
+        "author": "",
+        "date": "2015-08-21",
+        "description": "A weekly roundup of information on newly offered instrumentation, apparatus, and laboratory materials of potential interest to researchers.\n",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/886.1.summary?rss=1",
         "title": "[New Products] New Products"
-    }, 
+    },
     {
-        "author": "", 
-        "date": "2015-07-24", 
-        "description": "On this week's show: Ancient DNA and a roundup of daily news stories.\n", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/441.2.summary?rss=1", 
-        "title": "[Podcast] Science Podcast: 24 July Show"
-    }, 
+        "author": "",
+        "date": "2015-08-21",
+        "description": "On this week's show: Human superpredators and a roundup of daily news stories.\n",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/886.2.summary?rss=1",
+        "title": "[Podcast] Science Podcast: 21 August Show"
+    },
     {
-        "author": "Eric Betzig", 
-        "date": "2015-07-24", 
-        "description": "Superresolution microscopy has recently been making headlines again, not least because it was the breakthrough that spurred Eric Betzig, Stefan Hell, and William Moerner to be awarded the Nobel Prize for Chemistry in 2014. The number of superresolution technologies keeps increasing, along with an alphabet soup of acronyms that includes SIM, SPIM, STED, PALM, and STORM. It is difficult enough for the microscopy experts to keep up, but even more challenging for the average biologist, particularly when they are looking for more from their data than a standard or confocal microscope can offer. When faced with the array of possible techniques, how does one decide which technique is going to get the results needed for that next major publication? In this webinar we will discuss the newest developments in superresolution microscopy and provide practical advice on obtaining the best imaging results. Our panelists, including 2014 Nobel Prize winner Eric Betzig, will help you find the right tool to answer your biological question. You will also hear case studies about how superresolution microscopy data has made the difference between acceptance and rejection of key papers by scientific journals.View the Webinar\nAuthors: Eric Betzig, Raman Das, Justin Taraska", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/441.3.summary?rss=1", 
-        "title": "[Business Office Feature] \nGenerating the best superresolution microscopy data: Finding the right tool for the right job\n"
-    }, 
-    {
-        "author": "C. Neal Stewart", 
-        "date": "2015-07-24", 
-        "description": "Author: C. Neal Stewart", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/446.summary?rss=1", 
-        "title": "[Working Life] Songwriting and science"
-    }, 
-    {
-        "author": "", 
-        "date": "2015-07-24", 
-        "description": "", 
-        "journal": "Science", 
-        "link": "http://www.sciencemag.org/content/349/6246/aac9679.summary?rss=1", 
-        "title": "[Errata] Erratum for the Report \u201cThe psychological consequences of money\u201d by K. D. Vohs, N. L. Mead, M. R. Goode"
+        "author": "Richard Krablin",
+        "date": "2015-08-21",
+        "description": "Author: Richard Krablin",
+        "journal": "Science",
+        "link": "http://www.sciencemag.org/content/349/6250/894.summary?rss=1",
+        "title": "[Working Life] A risk worth taking"
     }
 ]
