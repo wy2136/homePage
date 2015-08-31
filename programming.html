@@ -32,7 +32,7 @@ pre {color: green;}
       <pre># the hello world program in python<br>print('Hello World!')</pre>
     </p>
     <p class="text-center">
-      <a href="https://docs.python.org/3/tutorial/index.html" class="btn btn-default">Tutorial
+      <a href="https://docs.python.org/3/tutorial/index.html" class="btn btn-default">Doc
       </a>
     </p>
   </article>
@@ -41,6 +41,10 @@ pre {color: green;}
   <h4 class="">
     Second, learn some fundamental packages of Scientific Python
   </h4>
+  <p class="text-center">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/5GlNDD7qbP4" frameborder="0" allowfullscreen></iframe>
+  </p>
+  
   <article class="well">
     <p>
       <a href="http://www.numpy.org"><img src="http://scipy.org/_static/images/numpylogo_med.png" height="32px"> NumPy
@@ -50,7 +54,11 @@ pre {color: green;}
       <pre>import numpy as np<br>x = np.arange(0, 2*np.pi, 0.1) <br>y = np.sin(x)</pre>
     </p>
     <p class="text-center">
-      <a href="http://wiki.scipy.org/Tentative_NumPy_Tutorial" class="btn btn-default">Tutorial
+      <a href="http://docs.scipy.org/doc/numpy/user/index.html" class="btn btn-default">Overview
+      </a>
+      <a href="http://docs.scipy.org/doc/numpy/reference/index.html#reference" class="btn btn-default">Doc
+      </a>
+      <a href="https://www.youtube.com/watch?v=1zmV8lZsHF4" class="btn btn-default">Video
       </a>
     </p>
     
@@ -64,7 +72,7 @@ pre {color: green;}
       <pre>import numpy as np <br>from scipy.fftpack import fft, ifft <br>x = np.random.randn(100) <br>y = fft(x) <br>yinv = ifft(y)</pre>
     </p>
     <p class="text-center">
-      <a href="http://docs.scipy.org/doc/scipy/reference/tutorial/index.html" class="btn btn-default">Tutorial</a>
+      <a href="http://docs.scipy.org/doc/scipy/reference/" class="btn btn-default">Doc</a>
     </p>
     
     
@@ -81,7 +89,8 @@ pre {color: green;}
     </p>
     <p class="text-center">  
       <a href="http://matplotlib.org/gallery.html" class="btn btn-default">Gallery</a>
-      <a href="http://matplotlib.org/users/index.html" class="btn btn-default">Tutorial</a>
+      <a href="http://matplotlib.org/contents.html" class="btn btn-default">Doc</a>
+      <a href="https://www.youtube.com/watch?v=MKucn8NtVeI" class="btn btn-default">Video</a>
     </p>
     
     <p>
@@ -97,7 +106,7 @@ pre {color: green;}
     </p>
     <p class="text-center">  
       <a href="http://matplotlib.org/basemap/users/examples.html" class="btn btn-default">Gallery</a>
-      <a href="https://basemaptutorial.readthedocs.org/en/latest/#" class="btn btn-default">Tutorial</a>
+      <a href="https://basemaptutorial.readthedocs.org/en/latest/#" class="btn btn-default">Doc</a>
     </p>
     
     
@@ -106,7 +115,7 @@ pre {color: green;}
       </a>:
        Provides a rich architecture for interactive computing.<br>
       <div class="text-center">
-        <a href="http://ipython.readthedocs.org/en/stable/index.html" class="btn btn-default">Document
+        <a href="http://ipython.readthedocs.org/en/stable/index.html" class="btn btn-default">Doc
         </a>
       </div>
     </p>
@@ -116,24 +125,11 @@ pre {color: green;}
       </a>:
        A web application for interactive data science and scientific computing.<br>
       <div class="text-center">
-        <a href="http://jupyter.readthedocs.org/en/latest/" class="btn btn-default">Document
+        <a href="http://jupyter.readthedocs.org/en/latest/" class="btn btn-default">Doc
         </a>
         <a href="http://jupyter-notebook.readthedocs.org/en/latest/index.html" class="btn btn-default">Notebook
         </a>
       </div>
-    </p>
-    
-    <p>
-      <a href="http://pandas.pydata.org"><img src="http://scipy.org/_static/images/pandas_badge2.jpg" height="32px"> Pandas
-      </a>: 
-       The art of data analysis, especially for time series and table data.
-    </p>
-    <p>
-      <pre>import pandas as pd <br>s = pd.Series([1,3,5,np.nan,6,8]) <br>dates = pd.date_range('20130101', periods=6) <br>df = pd.DataFrame(np.random.randn(6,4), index=dates, columns=list('ABCD'))</pre>
-    </p>
-    <p class="text-center">
-      <a href="http://pandas.pydata.org/pandas-docs/stable/tutorials.html" class="btn btn-default">Tutorial
-      </a>
     </p>
     
     
@@ -145,7 +141,7 @@ pre {color: green;}
       <pre>from netCDF4 import Dataset <br>ds = Dataset("test.nc", "w", format="NETCDF4") <br>print(ds)</pre>
     </p>
     <p class="text-center">
-      <a href="http://unidata.github.io/netcdf4-python/" class="btn btn-default">Tutorial
+      <a href="http://unidata.github.io/netcdf4-python/" class="btn btn-default">Doc
       </a>
     </p>
     
@@ -160,12 +156,25 @@ pre {color: green;}
     </p>
     <p>
       <div class="text-center">
-        <a href="http://docs.h5py.org/en/latest/" class="btn btn-default">Tutorial
+        <a href="http://docs.h5py.org/en/latest/" class="btn btn-default">Doc
         </a>
        </div>
     </p>
 
-    
+    <p>
+      <a href="http://pandas.pydata.org"><img src="http://scipy.org/_static/images/pandas_badge2.jpg" height="32px"> Pandas
+      </a>: 
+       The art of data analysis, especially for time series and table data.
+    </p>
+    <p>
+      <pre>import pandas as pd <br>s = pd.Series([1,3,5,np.nan,6,8]) <br>dates = pd.date_range('20130101', periods=6) <br>df = pd.DataFrame(np.random.randn(6,4), index=dates, columns=list('ABCD'))</pre>
+    </p>
+    <p class="text-center">
+      <a href="http://pandas.pydata.org/pandas-docs/stable/tutorials.html" class="btn btn-default">Doc
+      </a>
+      <a href="https://www.youtube.com/watch?v=kHdkFyGCxiY" class="btn btn-default">Video
+      </a>
+    </p>
     
     <p>
       <a href="https://github.com/xray/xray"><img src="http://xray.readthedocs.org/en/stable/_images/dataset-diagram-logo.png" height="32px">Xray </a>:
@@ -175,7 +184,11 @@ pre {color: green;}
       <pre>import xray <br>ds = xray.open_dataset('test.nc')</pre>
     </p>
     <p class="text-center">
-      <a href="http://xray.readthedocs.org/en/stable/" class="btn btn-default">Tutorial
+      <a href="http://xray.readthedocs.org/en/stable/" class="btn btn-default">
+        Doc
+      </a>
+      <a href="https://www.youtube.com/watch?v=X0pAhJgySxk" class="btn btn-default">
+        Video
       </a>
     </p>
     
@@ -183,8 +196,23 @@ pre {color: green;}
       <a href="https://github.com/numba/numba"><img src="http://dask.pydata.org/en/latest/_images/array.png" height="32px"> Dask </a>:
       Dask enables parallel computing through task scheduling and blocked algorithms. 
       <div class="text-center">
-        <a href="http://dask.pydata.org/en/latest/"
-       class="btn btn-default">Tutorial</a>
+        <a href="http://dask.pydata.org/en/latest/" class="btn btn-default">
+          Doc
+        </a>
+        <a href="https://www.youtube.com/watch?v=1kkFZ4P-XHg" class="btn btn-default">
+          Video
+        </a>
+     </div>
+    </p>
+    
+    <p>
+      <a href="https://pypi.python.org/pypi/Bottleneck">Bottleneck </a>:
+      Fast NumPy array functions written in Cython. 
+      <div class="text-center">
+        <a href="http://berkeleyanalytics.com/bottleneck/"
+       class="btn btn-default">Doc</a>
+        <a href="http://github.com/kwgoodman/bottleneck"
+       class="btn btn-default">Code</a>
      </div>
     </p>
   </article>
@@ -199,7 +227,7 @@ pre {color: green;}
     </p>
     <p>
       After Miniconda is installed, install the scientific Python packages using command <code>conda install</code>:
-      <pre>conda install numpy scipy matplotlib basemap ipython jupyter pandas netcdf4 h5py xray dask</pre>
+      <pre>conda install numpy scipy matplotlib basemap ipython jupyter netcdf4 h5py pandas xray dask bottleneck</pre>
     </p>
     <p>
       You can also use <code>conda install</code> to install other python packages with similar syntax:
@@ -207,7 +235,7 @@ pre {color: green;}
     </p>
     <p class="text-center">
       <a href="http://conda.pydata.org/docs/"
-     class="btn btn-default">Conda Tutorial</a>
+     class="btn btn-default">Doc</a>
     </p>
   </article>
   
@@ -221,8 +249,12 @@ pre {color: green;}
       <div class="text-center">
          <a href="http://scitools.org.uk/iris/docs/latest/gallery.html"
         class="btn btn-default">Gallery</a>
-        <a href="http://scitools.org.uk/iris/documentation.html"
-       class="btn btn-default">Documentaton</a>
+        <a href="http://scitools.org.uk/iris/documentation.html"class="btn btn-default">
+          Doc
+        </a>
+        <a href="https://www.youtube.com/watch?v=MW9wmGsscrs"class="btn btn-default">
+          Video
+        </a>
      </div>
     </p>
     
@@ -231,7 +263,7 @@ pre {color: green;}
       Implements a data model to create a data abstraction layer which isolates analysis and visualisation code from data format specifics.
       <div class="text-center">
         <a href="http://scitools.org.uk/cartopy/documentation.html"
-       class="btn btn-default">Documentaton</a>
+       class="btn btn-default">Doc</a>
      </div>
     </p>
     
@@ -242,7 +274,7 @@ pre {color: green;}
          <a href="https://www.pyngl.ucar.edu/Examples/gallery.shtml"
         class="btn btn-default">Gallery</a>
         <a href="https://www.pyngl.ucar.edu/Tutorial/"
-       class="btn btn-default">Tutorial</a>
+       class="btn btn-default">Doc</a>
      </div>
     </p>
     
@@ -251,7 +283,7 @@ pre {color: green;}
       Allows you to use CDO in the context of Python and Ruby as if it would be a native library.
       <div class="text-center">
         <a href="https://code.zmaw.de/projects/cdo/wiki/Cdo%7Brbpy%7D"
-       class="btn btn-default">Documentaton</a>
+       class="btn btn-default">Doc</a>
      </div>
     </p>
   </article>
@@ -274,8 +306,12 @@ pre {color: green;}
       <p class="text-center">
         <a href="http://stanford.edu/~mwaskom/software/seaborn/examples/index.html"
           class="btn btn-default">Gallery</a>
-        <a href="http://stanford.edu/~mwaskom/software/seaborn/tutorial.html"
-         class="btn btn-default">Tutorial</a>
+        <a href="http://stanford.edu/~mwaskom/software/seaborn/tutorial.html"class="btn btn-default">
+         Doc
+        </a>
+        <a href="https://www.youtube.com/watch?v=wCKHT4BQkqA"class="btn btn-default">
+         Video
+        </a>
       </p>
       
       
@@ -283,8 +319,25 @@ pre {color: green;}
         <a href="https://github.com/numba/numba">Numba </a>:
         Makes Python run fast.
         <div class="text-center">
-          <a href="http://numba.pydata.org"
-         class="btn btn-default">Tutorial</a>
+          <a href="http://numba.pydata.org"class="btn btn-default">
+            Doc
+          </a>
+          <a href="https://www.youtube.com/watch?v=eKlNEJlSjuE"class="btn btn-default">
+            Video
+          </a>
+       </div>
+      </p>
+      
+      <p>
+        <a href="http://scikit-learn.org"> <img src="http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="32px"> Scikit-learn </a>:
+        Machine Learning in Python.
+        <div class="text-center">
+          <a href="http://scikit-learn.org/stable/documentation.html"class="btn btn-default">
+            Doc
+          </a>
+          <a href="https://www.youtube.com/watch?v=HjAB45qsx_c"class="btn btn-default">
+            Video
+          </a>
        </div>
       </p>
       

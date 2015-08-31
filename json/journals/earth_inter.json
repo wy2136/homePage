@@ -1,58 +1,34 @@
 [
     {
-        "author": "Diandong Ren et al",
-        "date": "2015-07-28",
-        "description": "Earth Interactions, Ahead of Print. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0006.1?af=R",
+        "author": "Diandong Ren et al", 
+        "date": "2015-07-28", 
+        "description": "Earth Interactions, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Earth Interactions", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0006.1?af=R", 
         "title": "Changes in tropical cyclone activity over Northwest Western Australia in the past fifty years and a view of the future fifty years"
-    },
+    }, 
     {
-        "author": "XING LIU et al",
-        "date": "2015-07-21",
-        "description": "Earth Interactions, Ahead of Print. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-15-0005.1?af=R",
-        "title": "Calibration and Validation of the Hybrid-Maize Crop Model for Regional Analysis and Application over the U.S. Corn Belt"
-    },
-    {
-        "author": "Amber L. Pearson et al",
-        "date": "2015-07-17",
-        "description": "Earth Interactions, Ahead of Print. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0039.1?af=R",
-        "title": "Coping with Household Water Scarcity in the Savannah Today: Implications for Health and Climate Change into the Future"
-    },
-    {
-        "author": "Pierre Valty et al",
-        "date": "2015-05-20",
-        "description": "Earth Interactions, Ahead of Print. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0028.1?af=R",
+        "author": "Pierre Valty et al", 
+        "date": "2015-05-20", 
+        "description": "Earth Interactions, Ahead of Print. \n\t\t<br/>\n\t", 
+        "journal": "Earth Interactions", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0028.1?af=R", 
         "title": "Impact of the North Atlantic Oscillation on Southern Europe water distribution: insights from geodetic data"
-    },
+    }, 
     {
-        "author": "Tianyi Zhang et al",
-        "date": "2015-07-01",
-        "description": "Earth Interactions, Volume 19, Issue 7, Page 1-16, June 2015. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0035.1?af=R",
-        "title": "Adaptation of Irrigation Infrastructure on Irrigation Demands under Future Drought in the United States"
-    },
+        "author": "Xing Liu et al", 
+        "date": "2015-08-26", 
+        "description": "Earth Interactions, Volume 19, Issue 9, Page 1-16, August 2015. \n\t\t<br/>\n\t", 
+        "journal": "Earth Interactions", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-15-0005.1?af=R", 
+        "title": "Calibration and Validation of the Hybrid-Maize Crop Model for Regional Analysis and Application over the U.S. Corn Belt"
+    }, 
     {
-        "author": "Olivia Kellner et al",
-        "date": "2015-06-30",
-        "description": "Earth Interactions, Volume 19, Issue 6, Page 1-32, June 2015. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0031.1?af=R",
-        "title": "Climate Variability and the U.S. Corn Belt: ENSO and AO Episode-Dependent Hydroclimatic Feedbacks to Corn Production at Regional and Local Scales"
-    },
-    {
-        "author": "M. P. Calef et al",
-        "date": "2015-06-29",
-        "description": "Earth Interactions, Volume 19, Issue 5, Page 1-17, June 2015. \n\t\t<br/>\n\t",
-        "journal": "Earth Interactions",
-        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0025.1?af=R",
-        "title": "Recent Changes in Annual Area Burned in Interior Alaska: The Impact of Fire Management"
+        "author": "Amber L. Pearson et al", 
+        "date": "2015-08-25", 
+        "description": "Earth Interactions, Volume 19, Issue 8, Page 1-14, August 2015. \n\t\t<br/>\n\t", 
+        "journal": "Earth Interactions", 
+        "link": "http://journals.ametsoc.org/doi/abs/10.1175/EI-D-14-0039.1?af=R", 
+        "title": "Coping with Household Water Scarcity in the Savannah Today: Implications for Health and Climate Change into the Future"
     }
 ]
