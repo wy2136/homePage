@@ -1,2 +1,4 @@
+json/journals/*.json
+json/topics/*.json
 test.html
 history
