@@ -2,3 +2,4 @@ json/journals/*.json
 json/topics/*.json
 test.html
 history
+__pycache__

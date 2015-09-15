@@ -18,6 +18,11 @@
         "name_long": "Science", 
         "name_short": "science", 
         "url_rss": "http://www.sciencemag.org/rss/current.xml"
+    },
+    {
+        "name_long": "Science Advances", 
+        "name_short": "science_ad", 
+        "url_rss": "http://advances.sciencemag.org/rss/current.xml"
     }, 
     {
         "name_long": "PNAS - Environmental Sciences", 
