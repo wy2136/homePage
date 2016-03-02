@@ -11,58 +11,81 @@
 
 <div class="container-fluid text-center color-title bg-color-title border-bottom">
   <h3 id="top">
-    Recent Publications on Atmos/Ocean/Climate <br>
+    Most Recent Publicaions on the Atmosphere, Ocean and Climate <br>
     <small>by Topics</small><br>
     <small>
       Last updated: <script>write_update_time()</script>
     </small>
   </h3>
+  <a href="./journals.html" class="btn btn-default">Journals <span class="glyphicon glyphicon-menu-right"></span></a>
+  <p></p>
 </div>
 
-<div class="container" style="min-height:600px;">
+<!-- topics -->
+<div class="container text-left">
+  <p></p>
   <div class="row">
-    <!-- desktop version nav -->
-    <nav class="col-sm-3 scrollspy text-right hidden-xs hidden-sm" id="myScrollspy" >
-        <ul class="nav nav-pills nav-stacked">
-        <script>write_reading_nav_by_topics()</script>
-        <li><a href="#people">People <span class="badge"><script>document.write(get_num_of_feeds_by_topics('byPeople'))</script></span></a></li>
-        <li><a href="./journals.html">All Journals</a></li>
-      </ul>
-    </nav>
-    
-    <!-- mobile version nav -->
-    <nav class="col-sm-3 scrollspy text-left hidden-md hidden-lg" id="myScrollspy" >
-        <ul class="nav nav-pills nav-stacked">
-        <script>write_reading_nav_by_topics()</script>
-        <li><a href="#people">People <span class="badge"><script>document.write(get_num_of_feeds_by_topics('byPeople'))</script></span></a></li>
-        <li><a href="./journals.html">All Journals</a></li>
-      </ul>
-    </nav>
-    
-    <div class="col-sm-9 border-left">
-      <script>write_reading_list_by_topics()</script>
-      <div id="people">
-        <h3 class="color-title">People</h3>
-        <script>write_feeds_by_topics('byPeople')</script>
-      </div>
-    </div>  <!-- col -->  
-      
-  </div>  <!-- row -->
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <ul id="topic_list" class="nav nav-pills nav-stacked text-left"></ul>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
 </div>  <!-- container-->
 
 <script>write_footer(1)</script>
 <script>
-  $(document).ready(function(){
+$(document).ready(function(){
+  // initialize the topic list
+  $("#topic_list").html(get_html_topic_list());
+  
+  // toggle nav item background color
+  $(".topic_name").css("background-color","#F4F4F4");
+  $(".topic_name").hover(function(){
+    $(this).css("background-color", "white");
+    }, function(){
+    $(this).css("background-color", "#F4F4F4");
+  });
+  
+  // toggle the topic content
+  $('.topic_content').html('');
+  $(".topic_name").click(function(){
+    var topic_content = $(this).nextUntil('.topic_name').filter('.topic_content');
+    if (topic_content.html() == ''){
+      topic_content.css({"max-height":"800px", "overflow-y":"auto", "-webkit-overflow-scrolling":"touch"});
+      topic_content.html(
+        get_html_feeds_by_topic( $(this).attr("id") )
+      );
+      // toggle between glyphicon-menu-down and glyphicon-menu-up
+      $(this).children(".glyphicon").removeClass("glyphicon-menu-right");
+      $(this).children(".glyphicon").addClass("glyphicon-menu-down")
+      // move topic_name to the top
+      var offset = $(this).offset();
+      offset.top -= 10;
+      $('html, body').animate({
+          scrollTop: offset.top,
+      });
+    }else{
+      topic_content.css({"max-height":"0", "overflow-y":"auto"});
+      topic_content.html('');
+      // toggle between glyphicon-menu-down and glyphicon-menu-up
+      $(this).children(".glyphicon").removeClass("glyphicon-menu-down");
+      $(this).children(".glyphicon").addClass("glyphicon-menu-right")
+    }
     $(".toggle-switch").click(function(){
       $(this).nextUntil(".toggle-switch").filter(".description").toggle();
-    })
-  })
+      // toggle between glyphicon-menu-down and glyphicon-menu-up
+      if ($(this).children(".glyphicon").hasClass("glyphicon-menu-right")){
+        $(this).children(".glyphicon").removeClass("glyphicon-menu-right");
+        $(this).children(".glyphicon").addClass("glyphicon-menu-down");
+      }else{
+        $(this).children(".glyphicon").removeClass("glyphicon-menu-down");
+        $(this).children(".glyphicon").addClass("glyphicon-menu-right");
+      };
+    });
+  });
+});
 </script>
-  
-
-<div>
-  <a href="#top" class="btn btn-default  hidden-xs" style="position:fixed; bottom:1em; right:2ex">TOP</a>
-</div>
   
 </body>
 </html>

@@ -1,5 +1,10 @@
 [
     {
+        "name_long": "Nature Earth and Environmental Sciences Research", 
+        "name_short": "nature_ees", 
+        "url_rss": "http://feeds.nature.com/NatureEarthAndEnvironmentalSciencesResearch"
+    },
+    {
         "name_long": "Nature", 
         "name_short": "nature", 
         "url_rss": "http://feeds.nature.com/nature/rss/aop"
@@ -13,7 +18,12 @@
         "name_long": "Nature: Geoscience", 
         "name_short": "nature_geo", 
         "url_rss": "http://feeds.nature.com/ngeo/rss/aop"
-    }, 
+    },
+    {
+        "name_long": "Scientific Data", 
+        "name_short": "sci_data", 
+        "url_rss": "http://feeds.nature.com/sdata/rss/current"
+    },
     {
         "name_long": "Science", 
         "name_short": "science", 
@@ -29,6 +39,11 @@
         "name_short": "pnas_e", 
         "url_rss": "http://www.pnas.org/rss/Environmental_Sciences.xml"
     }, 
+    {
+        "name_long": "Annual Review of Earth and Planetary Sciences", 
+        "name_short": "ar_eps", 
+        "url_rss": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=s0&jc=earth&type=etoc&feed=rss%20"
+    },
     {
         "name_long": "Bulletin of the American Meteorological Society", 
         "name_short": "bams", 
@@ -248,5 +263,155 @@
         "name_long": "Weather and Climate Extremes", 
         "name_short": "extreme", 
         "url_rss": "http://rss.sciencedirect.com/publication/science/22120947"
+    },
+    {
+        "name_long": "Nature Biotechnology", 
+        "name_short": "nature_biotech", 
+        "url_rss": "http://feeds.nature.com/nbt/rss/aop"
+    },
+    {
+        "name_long": "Nature Reviews Microbiology", 
+        "name_short": "nature_rmicro", 
+        "url_rss": "http://feeds.nature.com/nrmicro/rss/aop"
+    },
+    {
+        "name_long": "The ISME Journal", 
+        "name_short": "nature_isme",
+        "url_rss": "http://feeds.nature.com/ismej/rss/aop"
+    },
+    {
+        "name_long": "Ecology Letters", 
+        "name_short": "ecology_letters", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1461-0248"
+    },
+    {
+        "name_long": "Global Change Biology", 
+        "name_short": "gcb", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2486"
+    },
+    {
+        "name_long": "Environmental Microbiology", 
+        "name_short": "env_micro_bio", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1462-2920"
+    },
+    {
+        "name_long": "Applied and Environmental Microbiology", 
+        "name_short": "aem", 
+        "url_rss": "http://aem.asm.org/rss/ahead.xml"
+    },
+    {
+        "name_long": "Soil Biology and Biochemistry", 
+        "name_short": "soil_bio", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00380717"
+    },
+    {
+        "name_long": "Molecular Ecology", 
+        "name_short": "mol_eco", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-294X"
+    },
+    {
+        "name_long": "FEMS Microbiology Ecology", 
+        "name_short": "fems_micro_eco", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1574-6941"
+    },
+    {
+        "name_long": "Frontiers in Microbiology", 
+        "name_short": "front_mbio", 
+        "url_rss": "http://journal.frontiersin.org/journal/microbiology/rss"
+    },
+    {
+        "name_long": "FEMS Microbiology Reviews", 
+        "name_short": "fems_mbio_review", 
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1574-6976"
+    },
+    {
+        "name_long": "Biogeochemistry", 
+        "name_short": "biogeochem", 
+        "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10533&channel-name=Biogeochemistry"
+    },
+    {
+        "name_long": "Current Opinion in Biotechnology", 
+        "name_short": "co_biotech", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/09581669"
+    },
+    {
+        "name_long": "Environmental Science and Technology", 
+        "name_short": "env_sci_tech", 
+        "url_rss": "http://feeds.feedburner.com/acs/esthag"
+    },
+    {
+        "name_long": "Environmental International", 
+        "name_short": "env_inter", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/01604120"
+    },
+    {
+        "name_long": "Environmental Pollution", 
+        "name_short": "env_pollution", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/02697491"
+    },
+    {
+        "name_long": "Science of the Total Environment", 
+        "name_short": "sci_env", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00489697"
+    },
+    {
+        "name_long": "Bioresource technology", 
+        "name_short": "bio_res_tech", 
+        "url_rss": "http://rss.sciencedirect.com/publication/science/09608524"
+    },
+    {
+        "name_long": "Journal of Renewable and Sustainable Energy", 
+        "name_short": "jrse", 
+        "url_rss": "http://scitation.aip.org/rss/content/aip/journal/jrse/latestarticles?fmt=rss"
+    },
+    {
+        "name_long": "Physics - spotlighting exceptional research", 
+        "name_short": "physics", 
+        "url_rss": "http://feeds.aps.org/rss/recent/physics.xml"
+    },
+    {
+        "name_long": "Reviews of Modern Physics", 
+        "name_short": "rev_modern_physics", 
+        "url_rss": "http://feeds.aps.org/rss/recent/rmp.xml"
+    },
+    {
+        "name_long": "PRE: Fluid dynamics", 
+        "name_short": "pre_fluid_dyn", 
+        "url_rss": "http://feeds.aps.org/rss/tocsec/PRE-Fluiddynamics.xml"
+    },
+    {
+        "name_long": "Environmental Research Letters", 
+        "name_short": "erl", 
+        "url_rss": "http://iopscience.iop.org/1748-9326/?rss=1"
+    },
+    {
+        "name_long": "Marine Chemistry",
+        "name_short": "marine_chem",
+        "url_rss": "http://rss.sciencedirect.com/publication/science/03044203"
+    },
+    {
+        "name_long": "Deep Sea Research Part I",
+        "name_short": "deep_sea_i",
+        "url_rss": "http://rss.sciencedirect.com/publication/science/09670637"
+    },
+    {
+        "name_long": "Deep Sea Research Part II",
+        "name_short": "deep_sea_ii",
+        "url_rss": "http://rss.sciencedirect.com/publication/science/09670645"
+    },
+    {
+        "name_long": "Limnology and Oceanography",
+        "name_short": "limn_ocean",
+        "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1939-5590"
+    },
+    {
+        "name_long": "International Journal of Applied Earth Observation and Geoinformation",
+        "name_short": "inter_j_app_earth_obs_geoinfo",
+        "url_rss": "http://rss.sciencedirect.com/publication/science/03032434"
+    },
+    {
+        "name_long": "Cell",
+        "name_short": "cell",
+        "url_rss": "http://rss.sciencedirect.com/publication/science/00928674"
     }
 ]

@@ -41,8 +41,8 @@ pre {color: green;}
   <h4 class="">
     Second, learn some fundamental packages of Scientific Python
   </h4>
-  <p class="text-center">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/5GlNDD7qbP4" frameborder="0" allowfullscreen></iframe>
+  <p class="text-center" style="position: relative; width=100%; height:0; padding-bottom: 56%;">
+    <iframe style="position: absolute; width:90%; height:90%; left:5%; top:0;" src="https://www.youtube.com/embed/5GlNDD7qbP4" frameborder="0" allowfullscreen></iframe>
   </p>
   
   <article class="well">
@@ -177,11 +177,11 @@ pre {color: green;}
     </p>
     
     <p>
-      <a href="https://github.com/xray/xray"><img src="http://xray.readthedocs.org/en/stable/_images/dataset-diagram-logo.png" height="32px">Xray </a>:
+      <a href="https://github.com/pydata/xarray"><img src="http://xarray.pydata.org/en/stable/_images/dataset-diagram-logo.png" height="32px">Xarray </a>:
        Brings to <a href="http://www.numpy.org">NumPy</a> N-D arrays the <a href="http://pandas.pydata.org">Pandas</a>-like labeled axes, and the <a href="http://www.unidata.ucar.edu/software/netcdf/">NetCDF</a>-like but in memory data structure.
     </p>
     <p>
-      <pre>import xray <br>ds = xray.open_dataset('test.nc')</pre>
+      <pre>import xarray as xr <br>ds = xr.open_dataset('test.nc')</pre>
     </p>
     <p class="text-center">
       <a href="http://xray.readthedocs.org/en/stable/" class="btn btn-default">
@@ -227,7 +227,7 @@ pre {color: green;}
     </p>
     <p>
       After Miniconda is installed, install the scientific Python packages using command <code>conda install</code>:
-      <pre>conda install numpy scipy matplotlib basemap ipython jupyter netcdf4 h5py pandas xray dask bottleneck</pre>
+      <pre>conda install numpy scipy matplotlib basemap ipython jupyter netcdf4 h5py pandas xarray dask bottleneck</pre>
     </p>
     <p>
       You can also use <code>conda install</code> to install other python packages with similar syntax:

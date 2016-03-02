@@ -9,43 +9,81 @@
 <body data-spy="scroll" data-target="#myScrollspy" data-offset="20">
 <script>write_navbar(1,'reading')</script>
 
-<div class="col-sm-12 text-center color-title bg-color-title border-bottom">
+<!-- title -->
+<div class="container-fluid text-center color-title bg-color-title border-bottom">
   <h3>
-    Recent Publications on Atmos/Ocean/Climate <br>
+    Most Recent Publicaions on the Atmosphere, Ocean and Climate <br>
     <small>by Journals</small><br>
     <small>
       Last updated: <script>write_update_time()</script>
     </small>
   </h3>
+  <a href="./reading.html" class="btn btn-default"><span class="glyphicon glyphicon-menu-left"></span> Topics</a>
+  <p></p>
 </div>
 
-<div class="container" style="min-height:600px;">
+<!-- journals -->
+<div class="container text-left">
+  <p></p>
   <div class="row">
-        
-    <nav class="col-sm-3 " id="myScrollspy">
-      <ul class="nav nav-pills nav-stacked">
-        <script>write_journal_nav_list()</script>
-      </ul>
-    </nav>
-    
-    <div class="col-sm-9 border-left">
-      <script>write_journal_rss_list()</script>
-    </div>  <!-- col -->   
-     
-  </div>  <!-- row -->
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <ul id="journal_list" class="nav nav-pills nav-stacked text-left"></ul>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
 </div>  <!-- container-->
 
 <script>write_footer(1)</script>
 <script>
 $(document).ready(function(){
-  $(".toggle-switch").click(function(){
-    $(this).nextUntil(".toggle-switch").filter(".description").toggle();
-  })
-})
+  $("#journal_list").html(get_html_journal_list());
+  
+  $(".journal_name").css("background-color","#F4F4F4");
+  $(".journal_name").hover(function(){
+    $(this).css("background-color", "white");
+    }, function(){
+    $(this).css("background-color", "#F4F4F4");
+  });
+  
+  $(".journal_name").click(function(){
+    var journal_content = $(this).nextUntil('.journal_name').filter('.journal_content');
+    if (journal_content.html() == ''){
+      journal_content.css({"max-height":"800px", "overflow-y":"auto",  "-webkit-overflow-scrolling":"touch"});
+      journal_content.html(
+        get_html_feeds_by_journal( $(this).attr("id") )
+      );
+      // toggle between glyphicon-menu-down and glyphicon-menu-up
+      $(this).children(".glyphicon").removeClass("glyphicon-menu-right");
+      $(this).children(".glyphicon").addClass("glyphicon-menu-down")
+      // move topic_name to the top
+      var offset = $(this).offset();
+      offset.top -= 10;
+      $('html, body').animate({
+          scrollTop: offset.top,
+      });
+    }else{
+      journal_content.css({"max-height":"0", "overflow-y":"auto"});
+      journal_content.html('');
+      // toggle between glyphicon-menu-down and glyphicon-menu-up
+      $(this).children(".glyphicon").removeClass("glyphicon-menu-down");
+      $(this).children(".glyphicon").addClass("glyphicon-menu-right")
+    }
+    $(".toggle-switch").click(function(){
+      $(this).nextUntil(".toggle-switch").filter(".description").toggle();
+      // toggle between glyphicon-menu-down and glyphicon-menu-up
+      if ($(this).children(".glyphicon").hasClass("glyphicon-menu-right")){
+        $(this).children(".glyphicon").removeClass("glyphicon-menu-right");
+        $(this).children(".glyphicon").addClass("glyphicon-menu-down");
+      }else{
+        $(this).children(".glyphicon").removeClass("glyphicon-menu-down");
+        $(this).children(".glyphicon").addClass("glyphicon-menu-right");
+      };
+    });
+  });
+});
 </script>
 
-<div>
-  <a href="#top" class="btn btn-default btn-lg hidden-xs" style="position:fixed; bottom:1em; right:2ex">TOP</a>
 </div>
 </body>
 </html>

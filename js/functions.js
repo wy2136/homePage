@@ -1,9 +1,33 @@
 // html structures
 function load_txt(url){
-    var xmlhttp=new XMLHttpRequest();
+    var xmlhttp;
+    if (window.XMLHttpRequest){
+        // code for IE7+, Firefox, Chrome, Opera, Safari
+        xmlhttp=new XMLHttpRequest();
+    }else{// code for IE6, IE5
+        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    }
     xmlhttp.open("GET",url,false);
     xmlhttp.send();
-    var s = xmlhttp.responseText; 
+    var s = xmlhttp.responseText;
+    // var xmlhttp;
+    // if (window.XMLHttpRequest)
+    //   {// code for IE7+, Firefox, Chrome, Opera, Safari
+    //   xmlhttp=new XMLHttpRequest();
+    //   }
+    // else
+    //   {// code for IE6, IE5
+    //   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+    //   }
+    // xmlhttp.onreadystatechange=function()
+    //   {
+    //   if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    //     {
+    //     s = xmlhttp.responseText;
+    //     }
+    //   }
+    // xmlhttp.open("GET","ajax_info.txt",true);
+    // xmlhttp.send();
     return s
 }
 function convert2depth(s,self_depth){
@@ -118,11 +142,15 @@ function write_publications(){
         var title = publications[i].title;
         var journal = publications[i].journal;
         var volume = publications[i].volume;
-        var number = publications[i].number;
         var page = publications[i].page;
-        var url = publications[i].url;
+        var doi = publications[i].doi;
+        if (doi=='N/A'){
+            var url = "#";
+        }else{
+            var url = " http://dx.doi.org/" + doi;
+        }
         var dburl = publications[i].dburl;
-        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + author + ' (' + year +'): <span class="text-capitalize">' + title + '</span>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + '. <a href="' + url + '"><span class="glyphicon glyphicon-new-window"></span></a>&nbsp;&nbsp;<a href="'+dburl+'"><span class="glyphicon glyphicon-download-alt"></span></a>';
+        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + author + ' (' + year +'): <a href="' + url + '" class="">' + title + '</a>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span><a href="'+dburl+'" class="pull-right text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
         document.write(bibString);
         document.write('</li>');
     	}
@@ -130,6 +158,90 @@ function write_publications(){
 }
 
 // display journal feeds
+function get_html_feeds_ul(feeds){
+    var N = feeds.length;
+    var html = '';
+    for (i=0;i<N;i++){ 
+        html += '<li style="margin:0 0 1em; padding:5px">';  
+        var author = feeds[i].author;
+        if (author==''){
+            author = 'Unknown';
+        }
+        var date = feeds[i].date;
+        var title = feeds[i].title;
+        var url = feeds[i].link;
+        var description = feeds[i].description;
+        var journal = feeds[i].journal
+        var feedString = '<div><span class="label label-default">' + (N-i).toString() + '</span> <a target="_blank" href="' + url + '" class="">' + title + '</a></div> \
+        <div class="text-muted "><i>' + journal + '</i><span class="pull-right">' + date + '</span></div>\
+        <div class="toggle-switch border-bottom" style="cursor:pointer;">' + author + ' <span class="glyphicon glyphicon-menu-right text-muted pull-right"></span></div>'
+        html += feedString;
+        html += '<div class="description text-muted" style="display:none;">' + description + '</div>';
+        html += '</li>';
+    }
+    return html
+}
+// by journal
+function load_journals(self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var json_file = convert2depth('./json/journals.json',self_depth);
+    var s = load_txt(json_file);
+    var journals = JSON.parse(s);
+    return journals
+}
+function load_journals_meta(self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var json_file = convert2depth('./json/journals/meta_journals.json',self_depth);
+    var s = load_txt(json_file);
+    var meta = JSON.parse(s);
+    return meta
+}
+function get_num_of_feeds_by_journal(name_short,self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var json_file = convert2depth('./json/journals/' + name_short + '.json',self_depth);
+    var s = load_txt(json_file);
+    var feeds = JSON.parse(s); 
+    var N = feeds.length
+    return N.toString()
+}
+function write_journal_nav_list(self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var i;
+    var journals = load_journals(self_depth);
+    var N = journals.length;
+    
+    for (i=0;i<N;i++){
+        var s_short = journals[i].name_short;
+        var s_long = journals[i].name_long;
+        document.write('<li>' + '<a href="#' + s_short + '" class=""><span class="label label-primary">' + (N-i).toString() + '</span> ' + s_long + '<span class="badge">' + get_num_of_feeds_by_journal(s_short,self_depth) + '</span></a></li>')
+    }
+}
+function get_html_journal_list(self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var i;
+    var journals = load_journals(self_depth);
+    var meta = load_journals_meta(self_depth);
+    var N = journals.length;
+    
+    var html = '';
+    for (i=0;i<N;i++){
+        var s_short = journals[i].name_short;
+        var s_long = journals[i].name_long;
+        html += '<li class="journal_name well" style="font-size:1.1em; cursor:pointer; margin-bottom:0;" id="' + s_short + '">' + '<span class="label label-primary">' + (N-i).toString() + '</span> ' + s_long + ' <span class="badge alert-info">' + meta[s_short]['count'] + '</span><span class="glyphicon glyphicon-menu-right text-muted pull-right"></span></li>';
+        html += '<p class="journal_content"></p>';
+    };
+    return html
+}
 function write_feeds(feeds_name,self_depth){
     if (typeof(self_depth)==='undefined'){
         self_depth = 1;
@@ -157,7 +269,7 @@ function write_feeds(feeds_name,self_depth){
         var url = feeds[i].link;
         var description = feeds[i].description;
         var journal = feeds[i].journal
-        var feedString = '<div><span class="label label-default">' + (N-i).toString() + '</span> <a target="_blank" href="' + url + '" class="text-capitalize">' + title + '</a></div> \
+        var feedString = '<div><span class="label label-default">' + (N-i).toString() + '</span> <a target="_blank" href="' + url + '" class="">' + title + '</a></div> \
         <div class="text-muted "><i>' + journal + '</i><span class="pull-right">' + date + '</span></div>\
         <div class="toggle-switch border-bottom" style="cursor:pointer;">' + author + ' <span class="pull-right"><b class="caret"></b></span></div>'
         document.write(feedString);
@@ -166,44 +278,38 @@ function write_feeds(feeds_name,self_depth){
     	}
     document.write('</ul>');
 }
-function get_num_of_feeds_by_journal(name_short,self_depth){
-    if (typeof(self_depth)==='undefined'){
-        self_depth = 1;
-    }
-    var json_file = convert2depth('./json/journals/' + name_short + '.json',self_depth);
-    var s = load_txt(json_file);
-    var feeds = JSON.parse(s); 
-    var N = feeds.length
-    return N.toString()
-}
-function get_journals(self_depth){
-    if (typeof(self_depth)==='undefined'){
-        self_depth = 1;
-    }
-    var json_file = convert2depth('./json/journals.json',self_depth);
-    var s = load_txt(json_file);
-    var journals = JSON.parse(s);
-    return journals
-}
-function write_journal_nav_list(self_depth){
+function get_html_feeds_by_journal(name_short,self_depth){
     if (typeof(self_depth)==='undefined'){
         self_depth = 1;
     }
     var i;
-    var journals = get_journals(self_depth);
+    var journals = load_journals(self_depth);
     var N = journals.length;
-    
     for (i=0;i<N;i++){
         var s_short = journals[i].name_short;
-        var s_long = journals[i].name_long;
-        document.write('<li>' + '<a href="#' + s_short + '" class="text-uppercase"><span class="label label-primary">' + (N-i).toString() + '</span> ' + s_short + '<span class="badge">' + get_num_of_feeds_by_journal(s_short,self_depth) + '</span></a></li>')
+        if (s_short == name_short){
+            var name_long = journals[i].name_long;
+            break;
+        }
     }
+    var html = ''
+    html += '<div id="' + name_short + '">';
+    html += '<h3 class="color-title" style="padding-left:0.5ex;">' + name_long + '</h3>';
+    
+    html += '<ul class="list-unstyled">';
+    json_file = convert2depth('./json/journals/' + name_short + '.json',self_depth)
+    var s = load_txt(json_file);
+    var feeds = JSON.parse(s); 
+    html += get_html_feeds_ul(feeds);
+    html += '</ul>';
+    html += '</div>';
+    return html
 }
 function write_journal_rss_list(self_depth){
     if (typeof(self_depth)==='undefined'){
         self_depth = 1;
     }
-    var journals = get_journals(self_depth);
+    var journals = load_journals(self_depth);
     var N = journals.length;
     
     for (i=0;i<N;i++){
@@ -224,6 +330,7 @@ function write_update_time(self_depth){
     var datetime = JSON.parse(s).datetime; 
     document.write(datetime)
 }
+// by topics
 function load_topics(self_depth){
     if (typeof(self_depth)==='undefined'){
         self_depth = 1;
@@ -232,6 +339,15 @@ function load_topics(self_depth){
     var s = load_txt(json_file);
     var topics = JSON.parse(s);
     return topics
+}
+function load_topics_meta(self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var json_file = convert2depth('./json/topics/meta_topics.json',self_depth);
+    var s = load_txt(json_file);
+    var meta = JSON.parse(s);
+    return meta
 }
 function get_num_of_feeds_by_topics(topic_name,self_depth){
     if (typeof(self_depth)==='undefined'){
@@ -257,6 +373,29 @@ function write_reading_nav_by_topics(self_depth){
         var s_id = s_name.replace(' ','_');
         document.write('<li><a href="#' + s_id + '">' + s_name + ' <span class="badge">' + get_num_of_feeds_by_topics(s_name,self_depth) + '</span></a></li>')
     }
+}
+function get_html_topic_list(self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var i;
+    var topics = load_topics(self_depth);
+    topics.push({"name":"Misc", "keywords":"N/A"});
+    var meta = load_topics_meta(self_depth);
+    meta['byPeople'] = {'count': get_num_of_feeds_by_topics('byPeople', self_depth)};
+    var N = topics.length;
+    
+    var html = '';
+    for (i=0;i<N;i++){
+        var s_name = topics[i].name;
+        var s_id = s_name.replace(' ','_');
+        if (s_id == "Misc"){
+            s_id = "byPeople";
+        }
+        html += '<li class="topic_name well" style="font-size:1.1em; cursor:pointer; margin-bottom:0;" id="' + s_id + '">' + '<span class="label label-primary">' + (N-i).toString() + '</span> ' + s_name + ' <span class="badge alert-info">' + meta[s_id]['count'] + '</span><span class="glyphicon glyphicon-menu-right text-muted pull-right"></span></li>';
+        html += '<p class="topic_content"></p>';
+    };
+    return html
 }
 function write_feeds_by_topics(topic_name,self_depth){
     if (typeof(self_depth)==='undefined'){
@@ -294,6 +433,28 @@ function write_feeds_by_topics(topic_name,self_depth){
         document.write('</li>');
     	}
     document.write('</ul>');
+}
+function get_html_feeds_by_topic(topic_id,self_depth){
+    if (typeof(self_depth)==='undefined'){
+        self_depth = 1;
+    }
+    var topic_name = topic_id.replace('_',' ');
+    if (topic_name == "byPeople"){
+        topic_name = "Misc"
+    }
+
+    var html = ''
+    html += '<div>';
+    html += '<h3 class="color-title" style="padding-left:0.5ex;">' + topic_name + '</h3>';
+    
+    html += '<ul class="list-unstyled">';
+    json_file = convert2depth('./json/topics/' + topic_id + '.json',self_depth)
+    var s = load_txt(json_file);
+    var feeds = JSON.parse(s); 
+    html += get_html_feeds_ul(feeds);
+    html += '</ul>';
+    html += '</div>';
+    return html
 }
 function write_reading_list_by_topics(self_depth){
     if (typeof(self_depth)==='undefined'){
