@@ -5,4 +5,6 @@ json/archive
 *__history*
 *test*.html
 __pycache__
-img/*
+img/*.jpg
+img/*.png
+img/*.jpeg
