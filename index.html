@@ -6,7 +6,7 @@
   <script src="./js/functions.js"></script>
   <script>write_head()</script>
   <style>
-  body { 
+  body {
 /*    background: url('./img/climate_system.jpg') no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -21,19 +21,20 @@
 </head>
 
 <body>
+<script>write_navbar(1,'home')</script>
   <div class="container text-center">
-    <div class="row">
-        <a class="navbar-brand" href="./index.html">
-          <img src="./img/yang_zhuanzi_brown.png" style="height:2em;">
+    <!-- <div class="row"> -->
+        <!-- <a class="navbar-brand" href="./index.html"> -->
+          <!-- <img src="./img/yang_zhuanzi_brown.png" style="height:2em;"> -->
           <!-- <span style="color:white; font-size:1.3em;">CLIMATE</span> -->
           <!-- 杨文昌 -->
-        </a>
-    </div>  <!-- row-->
-    
+        <!-- </a> -->
+    <!-- </div> -->  <!-- row-->
+
     <div class="row">
-      <img src="./img/yang_blue.jpg" class="img-circle" width="240px" style="margin-top:0em">
+      <img src="./img/yang_photo.jpg" class="img-circle" width="240px" style="margin-top:0em; padding-top:1em">
     </div>  <!--row -->
-    
+
     <div class="row">
       <h2 class="color-title">Wenchang Yang<br>
         <small style='font-family: "Hiragino Sans GB"; "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif' >杨文昌</small><br>
@@ -44,38 +45,44 @@
             University of California, Irvine</a></small><br>
       </h2>
     </div>  <!--row -->
-    
-    <p></p>
-    <div class="row">
-      <a href="./about_me.html" class="btn btn-default btn-lg">About</a>
-      <a href="./cv.html" class="btn btn-default btn-lg">CV</a>
-      <a href="./research.html" class="btn btn-default btn-lg">Research</a>
-      <a href="./publications.html" class="btn btn-default btn-lg">Publications</a>
-      <a href="./reading.html" class="btn btn-default btn-lg">Reading</a>
-      <a href="./programming.html" class="btn btn-default btn-lg">Python</a>
-      <a href="http://sites.uci.edu/magnusdottir/about-us/lab-members/" class="btn btn-default btn-lg">Group</a>
-      <a href="https://wenchangyang.wordpress.com" class="btn btn-default btn-lg">Blog</a>
-    </div>  <!--row -->
-    
-    <p></p>
-    <div class="row">
-      <a href="https://scholar.google.com/citations?user=KwpsFXsAAAAJ&hl=en" class="btn btn-default btn-lg">GoogleScholar</a>
-      <a href="https://www.researchgate.net/profile/Wenchang_Yang" class="btn btn-default btn-lg">ResearchGate</a>
-      <a href="https://github.com/wy2136" class="btn btn-default btn-lg">GitHub</a>
-    </div>  <!--row -->
 
-    <h3 class="row">
+    <h3 class="row" style="margin-top:0em">
       <small><a href="https://www.google.com/maps/place/Croul+Hall,+University+of+California+Irvine,+Irvine,+CA+92617/ @33.6437039,-117.84467,17z/data=!3m1!4b1!4m2!3m1!1s0x80dcde1046bd4355:0x13395bc7d752014a"><span class="glyphicon glyphicon-map-marker"></span> 2101E Croul Hall, Irvine, CA 92697
       </a></small><br>
       <small><a href="mailto:yang.wenchang@uci.edu"><span class="glyphicon glyphicon-envelope"></span> yang.wenchang@uci.edu
       </a></small><br>
       <small><a href="http://www.ess.uci.edu/~wenchay"><span class="glyphicon glyphicon-home"></span> http://www.ess.uci.edu/~wenchay</a></small><br>
     </h3>
-  </div>  <!-- container-->
 
-<div id="myCaret" class="row text-center" style="color:gray; margin:1em">
-  <script>write_copyright()</script><b class="caret"></b>
+
+    <p></p>
+    <div class="row visible-xs">
+      <div class="col-xs-12"><a href="./about_me.html" class="btn btn-default btn-lg btn-block">About</a></div>
+      <div class="col-xs-12"><a href="./cv.html" class="btn btn-default btn-lg btn-block">CV</a></div>
+      <div class="col-xs-12"><a href="./research.html" class="btn btn-default btn-lg btn-block">Research</a></div>
+      <div class="col-xs-12"><a href="./publications.html" class="btn btn-default btn-lg btn-block">Publications</a></div>
+      <div class="col-xs-12"><a href="https://wenchangyang.wordpress.com" class="btn btn-default btn-lg btn-block">Blog</a></div>
+      <div class="col-xs-12"><a href="./reading.html" class="btn btn-default btn-lg btn-block">Reading</a></div>
+      <div class="col-xs-12"><a href="http://sites.uci.edu/magnusdottir/about-us/lab-members/" class="btn btn-default btn-lg btn-block">Group</a></div>
+      <div class="col-xs-12"><a href="./python.html" class="btn btn-default btn-lg btn-block">Python</a></div>
+    </div>
+
+    <!-- <p></p> -->
+    <div class="row">
+      <a href="https://scholar.google.com/citations?user=KwpsFXsAAAAJ&hl=en"><img src="./img/googlescholar.png" class="img-circle" height="50px" style="margin:1ex;"></a>
+      <a href="https://www.researchgate.net/profile/Wenchang_Yang"><img src="./img/researchgate.png" class="img-circle" height="50px" style="margin-right:1ex; margin:1ex;"></a>
+      <a href="https://github.com/wy2136"><img src="./img/github.png" class="img-circle" height="50px" style="margin:1ex;"></a>
+    </div>  <!--row -->
+    <p></p>
+</div>  <!-- container-->
+
+
+<script>write_footer()</script>
+
+<!-- <div id="myCaret" class="row text-center" style="color:gray; margin:1em">
+  <span class="glyphicon glyphicon-menu-down text-muted"></span>
 </div>
+
 
 <div id="footerHided" style="display: none">
   <script>write_footer()</script>
@@ -85,9 +92,16 @@
   $(document).ready(function(){
     $("#myCaret").click(function(){
       $("#footerHided").toggle();
+      if ($(this).children(".glyphicon").hasClass("glyphicon-menu-down")){
+        $(this).children(".glyphicon").removeClass("glyphicon-menu-down");
+        $(this).children(".glyphicon").addClass("glyphicon-menu-up");
+      }else{
+        $(this).children(".glyphicon").removeClass("glyphicon-menu-up");
+        $(this).children(".glyphicon").addClass("glyphicon-menu-down");
+        }
     })
   })
-</script>
+</script> -->
 
 </body>
 </html>

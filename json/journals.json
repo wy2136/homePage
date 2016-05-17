@@ -1,52 +1,52 @@
 [
     {
-        "name_long": "Nature Earth and Environmental Sciences Research", 
-        "name_short": "nature_ees", 
+        "name_long": "Nature Earth and Environmental Sciences Research",
+        "name_short": "nature_ees",
         "url_rss": "http://feeds.nature.com/NatureEarthAndEnvironmentalSciencesResearch"
     },
     {
-        "name_long": "Nature", 
-        "name_short": "nature", 
+        "name_long": "Nature",
+        "name_short": "nature",
         "url_rss": "http://feeds.nature.com/nature/rss/aop"
-    }, 
+    },
     {
-        "name_long": "Nature: Climate Change", 
-        "name_short": "nature_cc", 
+        "name_long": "Nature: Climate Change",
+        "name_short": "nature_cc",
         "url_rss": "http://feeds.nature.com/nclimate/rss/aop"
-    }, 
+    },
     {
-        "name_long": "Nature: Geoscience", 
-        "name_short": "nature_geo", 
+        "name_long": "Nature: Geoscience",
+        "name_short": "nature_geo",
         "url_rss": "http://feeds.nature.com/ngeo/rss/aop"
     },
     {
-        "name_long": "Scientific Data", 
-        "name_short": "sci_data", 
+        "name_long": "Scientific Data",
+        "name_short": "sci_data",
         "url_rss": "http://feeds.nature.com/sdata/rss/current"
     },
     {
-        "name_long": "Science", 
-        "name_short": "science", 
+        "name_long": "Science",
+        "name_short": "science",
         "url_rss": "http://www.sciencemag.org/rss/current.xml"
     },
     {
-        "name_long": "Science Advances", 
-        "name_short": "science_ad", 
+        "name_long": "Science Advances",
+        "name_short": "science_ad",
         "url_rss": "http://advances.sciencemag.org/rss/current.xml"
-    }, 
+    },
     {
-        "name_long": "PNAS - Environmental Sciences", 
-        "name_short": "pnas_e", 
+        "name_long": "PNAS - Environmental Sciences",
+        "name_short": "pnas_e",
         "url_rss": "http://www.pnas.org/rss/Environmental_Sciences.xml"
-    }, 
+    },
     {
-        "name_long": "Annual Review of Earth and Planetary Sciences", 
-        "name_short": "ar_eps", 
+        "name_long": "Annual Review of Earth and Planetary Sciences",
+        "name_short": "ar_eps",
         "url_rss": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=s0&jc=earth&type=etoc&feed=rss%20"
     },
     {
-        "name_long": "Bulletin of the American Meteorological Society", 
-        "name_short": "bams", 
+        "name_long": "Bulletin of the American Meteorological Society",
+        "name_short": "bams",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=bams"
     },
     {
@@ -55,35 +55,35 @@
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=eint"
     },
     {
-        "name_long": "Journal of Climate", 
-        "name_short": "jc", 
+        "name_long": "Journal of Climate",
+        "name_short": "jc",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=clim"
     },
     {
-        "name_long": "Journal of the Atmospheric Science", 
-        "name_short": "jas", 
+        "name_long": "Journal of the Atmospheric Science",
+        "name_short": "jas",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=atsc"
-    },  
+    },
     {
-        "name_long": "Journal of Hydrometeorology", 
-        "name_short": "hydrometeo", 
+        "name_long": "Journal of Hydrometeorology",
+        "name_short": "hydrometeo",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=hydr"
-    }, 
+    },
     {
-        "name_long": "Journal of Physical Oceanography", 
-        "name_short": "jpo", 
+        "name_long": "Journal of Physical Oceanography",
+        "name_short": "jpo",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=phoc"
-    }, 
+    },
     {
-        "name_long": "Monthly Weather Review", 
-        "name_short": "mwr", 
+        "name_long": "Monthly Weather Review",
+        "name_short": "mwr",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=mwre"
-    }, 
+    },
     {
-        "name_long": "Weather, Climate and Society", 
-        "name_short": "wcs", 
+        "name_long": "Weather, Climate and Society",
+        "name_short": "wcs",
         "url_rss": "http://journals.ametsoc.org/action/showFeed?type=etoc&feed=rss&jc=wcas"
-    }, 
+    },
     {
         "name_long": "Journal of Applied Meteorology and Climatology",
         "name_short": "app_meteo",
@@ -105,18 +105,18 @@
         "url_rss": "https://eos.org/research-spotlights/feed"
     },
     {
-        "name_long": "Geophysical Research Letters", 
-        "name_short": "grl", 
+        "name_long": "Geophysical Research Letters",
+        "name_short": "grl",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007"
-    }, 
+    },
     {
-        "name_long": "Journal of Geophysical Research: Atmospheres", 
-        "name_short": "jgr_a", 
+        "name_long": "Journal of Geophysical Research: Atmospheres",
+        "name_short": "jgr_a",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-8996"
     },
     {
-        "name_long": "Journal of Geophysical Research: Oceans", 
-        "name_short": "jgr_o", 
+        "name_long": "Journal of Geophysical Research: Oceans",
+        "name_short": "jgr_o",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9291"
     },
     {
@@ -140,98 +140,103 @@
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-9186"
     },
     {
-        "name_long": "Climate Dynamics", 
-        "name_short": "climdyn", 
+        "name_long": "Climate Dynamics",
+        "name_short": "climdyn",
         "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=382&channel-name=Climate+Dynamics"
-    }, 
+    },
     {
-        "name_long": "Atmospheric Science Letters", 
-        "name_short": "asl", 
+        "name_long": "Atmospheric Science Letters",
+        "name_short": "asl",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1530-261X"
-    }, 
+    },
     {
-        "name_long": "International Journal of Climatology", 
-        "name_short": "ijoc", 
+        "name_long": "International Journal of Climatology",
+        "name_short": "ijoc",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-0088"
-    }, 
+    },
     {
-        "name_long": "Quarterly Journal of the Royal Meteorological Society", 
-        "name_short": "qjrms", 
+        "name_long": "Quarterly Journal of the Royal Meteorological Society",
+        "name_short": "qjrms",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1477-870X"
-    }, 
+    },
     {
-        "name_long": "Advances in Atmospheric Sciences", 
-        "name_short": "aas", 
+        "name_long": "Advances in Atmospheric Sciences",
+        "name_short": "aas",
         "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=376&channel-name=Advances+in+Atmospheric+Sciences"
-    }, 
+    },
     {
-        "name_long": "Atmospheric Chemistry and Physics", 
-        "name_short": "acp", 
+        "name_long": "Atmospheric Chemistry and Physics",
+        "name_short": "acp",
         "url_rss": "http://www.atmos-chem-phys.net/xml/rss2_0.xml"
-    }, 
+    },
     {
-        "name_long": "Biogeosciences", 
-        "name_short": "biogeo", 
+        "name_long": "Biogeosciences",
+        "name_short": "biogeo",
         "url_rss": "http://www.biogeosciences.net/xml/rss2_0.xml"
-    }, 
+    },
     {
-        "name_long": "Climate of the Past", 
-        "name_short": "clim_past", 
+        "name_long": "Climate of the Past",
+        "name_short": "clim_past",
         "url_rss": "http://www.clim-past.net/xml/rss2_0.xml"
-    }, 
+    },
     {
-        "name_long": "Hydrology and Earth System Sciences", 
-        "name_short": "hydro_earth", 
+        "name_long": "The Cryosphere",
+        "name_short": "cryosphere",
+        "url_rss": "http://www.the-cryosphere.net/xml/rss2_0.xml"
+    },
+    {
+        "name_long": "Hydrology and Earth System Sciences",
+        "name_short": "hydro_earth",
         "url_rss": "http://www.hydrol-earth-syst-sci.net/xml/rss2_0.xml"
-    }, 
+    },
     {
-        "name_long": "Natural Hazards and Earth System Science", 
-        "name_short": "hazards", 
+        "name_long": "Natural Hazards and Earth System Science",
+        "name_short": "hazards",
         "url_rss": "http://www.nat-hazards-earth-syst-sci.net/xml/rss2_0.xml"
-    }, 
+    },
     {
-        "name_long": "Geoscientific Model Development", 
-        "name_short": "geo_model", 
+        "name_long": "Geoscientific Model Development",
+        "name_short": "geo_model",
         "url_rss": "http://www.geosci-model-dev.net/xml/rss2_0.xml"
-    }, 
+    },
     {
-        "name_long": "Climatic Change", 
-        "name_short": "clim_change", 
+        "name_long": "Climatic Change",
+        "name_short": "clim_change",
         "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10584&channel-name=Climatic+Change"
-    }, 
+    },
     {
-        "name_long": "Tellus: Atmosphere", 
-        "name_short": "tellus_a", 
+        "name_long": "Tellus: Atmosphere",
+        "name_short": "tellus_a",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1600-0870"
-    }, 
+    },
     {
-        "name_long": "WIREs Climate Change", 
-        "name_short": "wires", 
+        "name_long": "WIREs Climate Change",
+        "name_short": "wires",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1757-7799"
     },
     {
-        "name_long": "Agricultural and Forest Meteorology", 
-        "name_short": "afm", 
+        "name_long": "Agricultural and Forest Meteorology",
+        "name_short": "afm",
         "url_rss": "http://rss.sciencedirect.com/publication/science/01681923"
     },
     {
-        "name_long": "Atmospheric Environment", 
-        "name_short": "atmos_env", 
+        "name_long": "Atmospheric Environment",
+        "name_short": "atmos_env",
         "url_rss": "http://rss.sciencedirect.com/publication/science/13522310"
     },
     {
-        "name_long": "Atmospheric Research", 
-        "name_short": "atmos_research", 
+        "name_long": "Atmospheric Research",
+        "name_short": "atmos_research",
         "url_rss": "http://rss.sciencedirect.com/publication/science/01698095"
     },
     {
-        "name_long": "Dynamics of Atmospheres and Oceans", 
-        "name_short": "dyn_atm_ocean", 
+        "name_long": "Dynamics of Atmospheres and Oceans",
+        "name_short": "dyn_atm_ocean",
         "url_rss": "http://rss.sciencedirect.com/publication/science/03770265"
     },
     {
-        "name_long": "Earth-Science Reviews", 
-        "name_short": "es_review", 
+        "name_long": "Earth-Science Reviews",
+        "name_short": "es_review",
         "url_rss": "http://rss.sciencedirect.com/publication/science/00128252"
     },
     {
@@ -240,148 +245,148 @@
         "url_rss": "http://rss.sciencedirect.com/publication/science/09218181"
     },
     {
-        "name_long": "Journal of Hydrology", 
-        "name_short": "j_hydro", 
+        "name_long": "Journal of Hydrology",
+        "name_short": "j_hydro",
         "url_rss": "http://rss.sciencedirect.com/publication/science/00221694"
     },
     {
-        "name_long": "Quaternary Research", 
-        "name_short": "quat_research", 
+        "name_long": "Quaternary Research",
+        "name_short": "quat_research",
         "url_rss": "http://rss.sciencedirect.com/publication/science/00335894"
     },
     {
-        "name_long": "Quaternary Science Reviews", 
-        "name_short": "quat_reviews", 
+        "name_long": "Quaternary Science Reviews",
+        "name_short": "quat_reviews",
         "url_rss": "http://rss.sciencedirect.com/publication/science/02773791"
     },
     {
-        "name_long": "Remote Sensing of Environment", 
-        "name_short": "remote_sense_env", 
+        "name_long": "Remote Sensing of Environment",
+        "name_short": "remote_sense_env",
         "url_rss": "http://rss.sciencedirect.com/publication/science/00344257"
     },
     {
-        "name_long": "Weather and Climate Extremes", 
-        "name_short": "extreme", 
+        "name_long": "Weather and Climate Extremes",
+        "name_short": "extreme",
         "url_rss": "http://rss.sciencedirect.com/publication/science/22120947"
     },
     {
-        "name_long": "Nature Biotechnology", 
-        "name_short": "nature_biotech", 
+        "name_long": "Nature Biotechnology",
+        "name_short": "nature_biotech",
         "url_rss": "http://feeds.nature.com/nbt/rss/aop"
     },
     {
-        "name_long": "Nature Reviews Microbiology", 
-        "name_short": "nature_rmicro", 
+        "name_long": "Nature Reviews Microbiology",
+        "name_short": "nature_rmicro",
         "url_rss": "http://feeds.nature.com/nrmicro/rss/aop"
     },
     {
-        "name_long": "The ISME Journal", 
+        "name_long": "The ISME Journal",
         "name_short": "nature_isme",
         "url_rss": "http://feeds.nature.com/ismej/rss/aop"
     },
     {
-        "name_long": "Ecology Letters", 
-        "name_short": "ecology_letters", 
+        "name_long": "Ecology Letters",
+        "name_short": "ecology_letters",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1461-0248"
     },
     {
-        "name_long": "Global Change Biology", 
-        "name_short": "gcb", 
+        "name_long": "Global Change Biology",
+        "name_short": "gcb",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2486"
     },
     {
-        "name_long": "Environmental Microbiology", 
-        "name_short": "env_micro_bio", 
+        "name_long": "Environmental Microbiology",
+        "name_short": "env_micro_bio",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1462-2920"
     },
     {
-        "name_long": "Applied and Environmental Microbiology", 
-        "name_short": "aem", 
+        "name_long": "Applied and Environmental Microbiology",
+        "name_short": "aem",
         "url_rss": "http://aem.asm.org/rss/ahead.xml"
     },
     {
-        "name_long": "Soil Biology and Biochemistry", 
-        "name_short": "soil_bio", 
+        "name_long": "Soil Biology and Biochemistry",
+        "name_short": "soil_bio",
         "url_rss": "http://rss.sciencedirect.com/publication/science/00380717"
     },
     {
-        "name_long": "Molecular Ecology", 
-        "name_short": "mol_eco", 
+        "name_long": "Molecular Ecology",
+        "name_short": "mol_eco",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-294X"
     },
     {
-        "name_long": "FEMS Microbiology Ecology", 
-        "name_short": "fems_micro_eco", 
+        "name_long": "FEMS Microbiology Ecology",
+        "name_short": "fems_micro_eco",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1574-6941"
     },
     {
-        "name_long": "Frontiers in Microbiology", 
-        "name_short": "front_mbio", 
+        "name_long": "Frontiers in Microbiology",
+        "name_short": "front_mbio",
         "url_rss": "http://journal.frontiersin.org/journal/microbiology/rss"
     },
     {
-        "name_long": "FEMS Microbiology Reviews", 
-        "name_short": "fems_mbio_review", 
+        "name_long": "FEMS Microbiology Reviews",
+        "name_short": "fems_mbio_review",
         "url_rss": "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1574-6976"
     },
     {
-        "name_long": "Biogeochemistry", 
-        "name_short": "biogeochem", 
+        "name_long": "Biogeochemistry",
+        "name_short": "biogeochem",
         "url_rss": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10533&channel-name=Biogeochemistry"
     },
     {
-        "name_long": "Current Opinion in Biotechnology", 
-        "name_short": "co_biotech", 
+        "name_long": "Current Opinion in Biotechnology",
+        "name_short": "co_biotech",
         "url_rss": "http://rss.sciencedirect.com/publication/science/09581669"
     },
     {
-        "name_long": "Environmental Science and Technology", 
-        "name_short": "env_sci_tech", 
+        "name_long": "Environmental Science and Technology",
+        "name_short": "env_sci_tech",
         "url_rss": "http://feeds.feedburner.com/acs/esthag"
     },
     {
-        "name_long": "Environmental International", 
-        "name_short": "env_inter", 
+        "name_long": "Environmental International",
+        "name_short": "env_inter",
         "url_rss": "http://rss.sciencedirect.com/publication/science/01604120"
     },
     {
-        "name_long": "Environmental Pollution", 
-        "name_short": "env_pollution", 
+        "name_long": "Environmental Pollution",
+        "name_short": "env_pollution",
         "url_rss": "http://rss.sciencedirect.com/publication/science/02697491"
     },
     {
-        "name_long": "Science of the Total Environment", 
-        "name_short": "sci_env", 
+        "name_long": "Science of the Total Environment",
+        "name_short": "sci_env",
         "url_rss": "http://rss.sciencedirect.com/publication/science/00489697"
     },
     {
-        "name_long": "Bioresource technology", 
-        "name_short": "bio_res_tech", 
+        "name_long": "Bioresource technology",
+        "name_short": "bio_res_tech",
         "url_rss": "http://rss.sciencedirect.com/publication/science/09608524"
     },
     {
-        "name_long": "Journal of Renewable and Sustainable Energy", 
-        "name_short": "jrse", 
+        "name_long": "Journal of Renewable and Sustainable Energy",
+        "name_short": "jrse",
         "url_rss": "http://scitation.aip.org/rss/content/aip/journal/jrse/latestarticles?fmt=rss"
     },
     {
-        "name_long": "Physics - spotlighting exceptional research", 
-        "name_short": "physics", 
+        "name_long": "Physics - spotlighting exceptional research",
+        "name_short": "physics",
         "url_rss": "http://feeds.aps.org/rss/recent/physics.xml"
     },
     {
-        "name_long": "Reviews of Modern Physics", 
-        "name_short": "rev_modern_physics", 
+        "name_long": "Reviews of Modern Physics",
+        "name_short": "rev_modern_physics",
         "url_rss": "http://feeds.aps.org/rss/recent/rmp.xml"
     },
     {
-        "name_long": "PRE: Fluid dynamics", 
-        "name_short": "pre_fluid_dyn", 
+        "name_long": "PRE: Fluid dynamics",
+        "name_short": "pre_fluid_dyn",
         "url_rss": "http://feeds.aps.org/rss/tocsec/PRE-Fluiddynamics.xml"
     },
     {
-        "name_long": "Environmental Research Letters", 
-        "name_short": "erl", 
+        "name_long": "Environmental Research Letters",
+        "name_short": "erl",
         "url_rss": "http://iopscience.iop.org/1748-9326/?rss=1"
     },
     {

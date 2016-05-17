@@ -1,30 +1,30 @@
 [
     {
-        "name": "East Africa", 
+        "name": "East Africa",
         "keywords": "East Africa, eastern Africa, Greater Horn, Horn of Africa"
     },
     {
-        "name": "Arctic Warming", 
+        "name": "Arctic Warming",
         "keywords": "Arctic Amplification, Arctic Warming"
     },
     {
-        "name": "Sea Ice", 
+        "name": "Sea Ice",
         "keywords": "Sea Ice, Sea-ice"
     },
     {
-        "name": "ITCZ", 
+        "name": "ITCZ",
         "keywords": "ITCZ, Intertropical Convergence Zone, Inter-tropical Convergence Zone"
     },
     {
-        "name": "Moisture Transport", 
+        "name": "Moisture Transport",
         "keywords": "Moisture Transport"
     },
     {
-        "name": "Arctic", 
+        "name": "Arctic",
         "keywords": "Arctic"
     },
     {
-        "name": "Atmospheric River", 
+        "name": "Atmospheric River",
         "keywords": "Atmospheric River"
     },
     {
@@ -32,111 +32,111 @@
         "keywords": "Climate Change"
     },
     {
-        "name": "AO AAO", 
+        "name": "AO AAO",
         "keywords": "North Atlantic Oscillation, NAO, Arctic Oscillation, Antarctic Oscillation, Northern Hemisphere Annular Mode, Southern Hemisphere Annular Mode"
     },
     {
-        "name": "California Drought", 
+        "name": "California Drought",
         "keywords": "California Drought"
     },
     {
-        "name": "Monsoon", 
+        "name": "Monsoon",
         "keywords": "monsoon"
     },
     {
-        "name": "Storm Tracks", 
+        "name": "Storm Tracks",
         "keywords": "Storm Tracks"
     },
     {
-        "name": "Drought", 
+        "name": "Drought",
         "keywords": "Drought"
     },
     {
-        "name": "Tropical Cyclone", 
+        "name": "Tropical Cyclone",
         "keywords": "Tropical Cyclone, Hurricane, Typhoon"
     },
     {
-        "name": "MJO", 
+        "name": "MJO",
         "keywords": "MJO, Madden-Julian Oscillation"
     },
     {
-        "name": "ENSO", 
+        "name": "ENSO",
         "keywords": "ENSO, El Nino, La Nina, El Niño, La Niña"
     },
     {
-        "name": "QBO", 
+        "name": "QBO",
         "keywords": "QBO, Quasi-biennial Oscillation"
     },
     {
-        "name": "PDO", 
+        "name": "PDO",
         "keywords": "PDO, Pacific Decadal Oscillation"
     },
     {
-        "name": "AMO", 
+        "name": "AMO",
         "keywords": "Atlantic Multidecadal Oscillation, Atlantic Multi-decadal Oscillation, Atlantic Multidecadal Variability, Atlantic Multi-decadal Variability"
     },
     {
-        "name": "Indian Ocean", 
+        "name": "Indian Ocean",
         "keywords": "Indian Ocean"
     },
     {
-        "name": "Atlantic Ocean", 
+        "name": "Atlantic Ocean",
         "keywords": "Atlantic"
     },
     {
-        "name": "Pacific Ocean", 
+        "name": "Pacific Ocean",
         "keywords": "Pacific"
     },
     {
-        "name": "Southern Ocean", 
+        "name": "Southern Ocean",
         "keywords": "Southern"
     },
     {
-        "name": "North America", 
+        "name": "North America",
         "keywords": "North America"
     },
     {
-        "name": "South America", 
+        "name": "South America",
         "keywords": "South America"
     },
     {
-        "name": "West Africa", 
+        "name": "West Africa",
         "keywords": "West Africa, western Africa"
     },
     {
-        "name": "South Asia", 
+        "name": "South Asia",
         "keywords": "South Asia, southern Asia"
     },
     {
-        "name": "Central Asia", 
+        "name": "Central Asia",
         "keywords": "Central Asia"
     },
     {
-        "name": "East Asia", 
+        "name": "East Asia",
         "keywords": "East Asia, eastern Asia"
-    }, 
+    },
     {
-        "name": "China", 
+        "name": "China",
         "keywords": "China, Chinese"
-    }, 
+    },
     {
-        "name": "CMIP", 
+        "name": "CMIP",
         "keywords": "CMIP, Coupled Model Intercomparison Project"
     },
     {
-        "name": "Carbon Cycle", 
+        "name": "Carbon Cycle",
         "keywords": "carbon cycle"
     },
     {
-        "name": "Litter Decomposition", 
+        "name": "Litter Decomposition",
         "keywords": "Litter Decomposition, Carbon Recycle"
     },
     {
-        "name": "Nitrogen Cycle", 
+        "name": "Nitrogen Cycle",
         "keywords": "Nitrogen Recycle, Nitrogen Cycle"
     },
     {
-        "name": "Microbial Ecology", 
+        "name": "Microbial Ecology",
         "keywords": "Microbial Ecology"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "name": "Thorium Isotope",
-        "keywords": "Thorium Isotope"
+        "keywords": "Thorium"
     },
     {
         "name": "Sediment Trap",
@@ -180,7 +180,7 @@
         "keywords": "Isotope Applications, N-15, O-18, C-13"
     },
     {
-        "name": "Reviews", 
+        "name": "Reviews",
         "keywords": "review, Review"
     }
 ]

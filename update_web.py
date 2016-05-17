@@ -8,6 +8,6 @@ os.system(cmd)
 
 
 # rsync to ess.uci
-cmd = 'rsync -av --progress --exclude __pycache__ --exclude "history" --exclude update_journals --exclude update_journals.py --exclude=json/journals --exclude=json/topics --exclude=json/archive --exclude=json/.DS_Store --exclude=.git  /Users/yang/Dropbox/Public/wyang_ess_uci/ wenchay@home.ps.uci.edu:~/public_html/'
+cmd = 'rsync -av --progress --exclude "__pycache__" --exclude "history" --exclude "update_journals" --exclude "*.py" --exclude="json/journals" --exclude="json/topics" --exclude="json/archive"  --exclude=".*"  /Users/yang/Dropbox/Public/wyang_ess_uci/ wenchay@home.ps.uci.edu:~/public_html/'
 print('\nWeb:' + '-'*20)
 os.system(cmd)
