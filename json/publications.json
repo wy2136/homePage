@@ -1,62 +1,72 @@
 [
-{
-"author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon",
-"year": "2015",
-"title": "The Rainfall Annual Cycle Bias over East Africa in CMIP5 Coupled Climate Models",
-"journal": "J. Clim.",
-"volume": "28",
-"page": " 9789-9802",
-"doi": "10.1175/JCLI-D-15-0323.1",
-"dburl":  "https://www.dropbox.com/s/vps9l3x1a8jpb06/yang_2015_bias.pdf?dl=0"
-},
-{
-"author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon",
-"year": "2015",
-"title": "The Annual Cycle of East African Precipitation",
-"journal": "J. Clim.",
-"volume": "28",
-"page": "2385-2404",
-"doi": "10.1175/JCLI-D-14-00484.1",
-"dburl": "https://www.dropbox.com/s/5zopi71mxmszty7/Yang_2015.pdf?dl=0"
-},
-{
-"author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon ",
-"year": "2014",
-"title": "The East African Long Rains in Observations and Models",
-"journal": "J. Clim.",
-"volume": "27",
-"page": "7185–7202",
-"doi": "10.1175/JCLI-D-13-00447.1",
-"dburl": "https://www.dropbox.com/s/3gt74noelawz1gb/Yang_2014.pdf?dl=0"
-},
-{
-"author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane ",
-"year": "2013",
-"title": "Zonal Momentum Balance in the Tropical Atmospheric Circulation during the Global Monsoon Mature Months",
-"journal": " J. Atmos. Sci.",
-"volume": "70",
-"page": "583–599",
-"doi": "10.1175/JAS-D-12-0140.1",
-"dburl": "https://www.dropbox.com/s/37pum2ohqflr044/Yang_2013.pdf?dl=0"
-},
-{
-"author": "Nie, J., Wang, P., <span style='font-weight:bold'>Yang, W.</span> and Tan, B.",
-"year": "2008",
-"title": "Northern Hemisphere Storm Tracks in Strong AO Anomaly Winters",
-"journal": "Atmosph. Sci. Lett.",
-"volume": "9",
-"page": "153–159",
-"doi": "10.1002/asl.186",
-"dburl": "https://www.dropbox.com/s/o8mg13h2h9uoqe0/Nie_2008.pdf?dl=0"
-},
-{
-"author": "<span style='font-weight:bold'>Yang, W.</span>, J. Nie, P. Lin, and B. Tan",
-"year": "2007",
-"title": "Baroclinic Wave Packets in an Extended Quasigeostrophic Two-Layer Model",
-"journal": "Geophys. Res. Lett.",
-"volume": "34",
-"page": "L05822",
-"doi": "10.1029/2006GL029077",
-"dburl": "https://www.dropbox.com/s/ei7wur0e0e4l9bj/Yang_2007.pdf?dl=0"
-}
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, G. Magnusdottir",
+    "year": "2016",
+    "title": "Interannual Signature in Daily ITCZ States in the East Pacific in Boreal Spring",
+    "journal": "J. Clim.",
+    "volume": "in press",
+    "page": " ",
+    "doi": "10.1175/JCLI-D-16-0395.1",
+    "dburl":  "https://www.dropbox.com/s/klcb7p5acyg209d/yang_itcz_2016.pdf?dl=0"
+    },
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon",
+    "year": "2015",
+    "title": "The Rainfall Annual Cycle Bias over East Africa in CMIP5 Coupled Climate Models",
+    "journal": "J. Clim.",
+    "volume": "28",
+    "page": " 9789-9802",
+    "doi": "10.1175/JCLI-D-15-0323.1",
+    "dburl":  "https://www.dropbox.com/s/vps9l3x1a8jpb06/yang_2015_bias.pdf?dl=0"
+    },
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon",
+    "year": "2015",
+    "title": "The Annual Cycle of East African Precipitation",
+    "journal": "J. Clim.",
+    "volume": "28",
+    "page": "2385-2404",
+    "doi": "10.1175/JCLI-D-14-00484.1",
+    "dburl": "https://www.dropbox.com/s/5zopi71mxmszty7/Yang_2015.pdf?dl=0"
+    },
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon ",
+    "year": "2014",
+    "title": "The East African Long Rains in Observations and Models",
+    "journal": "J. Clim.",
+    "volume": "27",
+    "page": "7185–7202",
+    "doi": "10.1175/JCLI-D-13-00447.1",
+    "dburl": "https://www.dropbox.com/s/3gt74noelawz1gb/Yang_2014.pdf?dl=0"
+    },
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane ",
+    "year": "2013",
+    "title": "Zonal Momentum Balance in the Tropical Atmospheric Circulation during the Global Monsoon Mature Months",
+    "journal": " J. Atmos. Sci.",
+    "volume": "70",
+    "page": "583–599",
+    "doi": "10.1175/JAS-D-12-0140.1",
+    "dburl": "https://www.dropbox.com/s/37pum2ohqflr044/Yang_2013.pdf?dl=0"
+    },
+    {
+    "author": "Nie, J., Wang, P., <span style='font-weight:bold'>Yang, W.</span> and Tan, B.",
+    "year": "2008",
+    "title": "Northern Hemisphere Storm Tracks in Strong AO Anomaly Winters",
+    "journal": "Atmosph. Sci. Lett.",
+    "volume": "9",
+    "page": "153–159",
+    "doi": "10.1002/asl.186",
+    "dburl": "https://www.dropbox.com/s/o8mg13h2h9uoqe0/Nie_2008.pdf?dl=0"
+    },
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, J. Nie, P. Lin, and B. Tan",
+    "year": "2007",
+    "title": "Baroclinic Wave Packets in an Extended Quasigeostrophic Two-Layer Model",
+    "journal": "Geophys. Res. Lett.",
+    "volume": "34",
+    "page": "L05822",
+    "doi": "10.1029/2006GL029077",
+    "dburl": "https://www.dropbox.com/s/ei7wur0e0e4l9bj/Yang_2007.pdf?dl=0"
+    }
 ]
