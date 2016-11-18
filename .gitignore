@@ -1,9 +1,10 @@
 json/journals/*.json
 json/topics/*.json
-json/people.json
+*people.json
 json/archive
 *__history*
 *test*.html
 __pycache__
 img/*
 !img/yang_*
+*.DS_Store

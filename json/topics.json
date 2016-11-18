@@ -1,5 +1,9 @@
 [
     {
+        "name": "Reviews",
+        "keywords": "Review, -Manuscript under review, -[Book Review], -Monthly Weather Review"
+    },
+    {
         "name": "East Africa",
         "keywords": "East Africa, eastern Africa, Greater Horn, Horn of Africa"
     },
@@ -153,7 +157,7 @@
     },
     {
         "name": "Mathematic Model",
-        "keywords": "Mathematic Model"
+        "keywords": "Mathematic Model, Numerical model"
     },
     {
         "name": "Likelihood",
@@ -178,9 +182,5 @@
     {
         "name": "Isotope Applications",
         "keywords": "Isotope Applications, N-15, O-18, C-13"
-    },
-    {
-        "name": "Reviews",
-        "keywords": "review, Review"
     }
 ]

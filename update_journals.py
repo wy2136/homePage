@@ -7,7 +7,7 @@
 from __future__ import print_function
 
 import json
-from lxml import etree, html
+from lxml import etree, html # to be replaced by BeautifulSoup
 import datetime
 import os
 import time
@@ -225,7 +225,8 @@ def retrieve_rss_to_json(dir_home):
     meta = load_journals_meta(dir_home)
     # retrive rss as a dict for each journal
     for i,journal in enumerate(journals,start=1):
-        print (i,'of',N,':',journal['name_long'],'...')
+        # print (i,'of',N,':',journal['name_long'],'...')
+        print('[{} of {}]: {} ...'.format(i, N, journal['name_long']))
         # old feeds
         json_journal = os.path.join(
             dir_home,
@@ -249,15 +250,15 @@ def retrieve_rss_to_json(dir_home):
         # connect to the rss server
         r = requests.get(journal['url_rss'])
         if r.ok is False:
-            print ('\tFailed to connect to the server!')
+            print ('\t[Error]: Failed to connect to the server!')
             continue
 
         # read the rss feeds into dom
         try:
             # dom = etree.XML(r.content)
-            soup = BeautifulSoup(r.content, 'xml')
+            soup = BeautifulSoup(r.text, 'xml')
         except:
-            print('\tFailed to retrieve feeds from the journal!')
+            print('\t[Error]: Failed to retrieve feeds from the journal!')
             continue
 
         # parse the dom into items
@@ -316,11 +317,12 @@ def retrieve_rss_to_json(dir_home):
                     )
 
             # save the item into a dict
-            if journal['name_long'] in ['Frontiers in Microbiology']:
+            if journal['name_long'] in ['Frontiers in Microbiology',
+                'Frontiers in Earth Science']:
                 # date = dom.xpath('channel/pubDate/text()')[0]
                 date = soup.channel.pubDate.text
                 author = description
-                description = ''
+                description = journal['name_long']
             feed = {
                 'author': author,
                 'title': title,
@@ -504,7 +506,7 @@ def load_topics_meta(dir_home):
             meta[topic_id] = {}
     return meta
 def gen_reading_json(dir_home):
-    print ('\n','Generate reading json files','...')
+    # print ('\n','Generate reading json files','...')
     # load journals
     journals = load_journals(dir_home)
     # initialize feeds of interest
@@ -522,8 +524,10 @@ def gen_reading_json(dir_home):
                 des = feed['title'] + ' ' + feed['description']
                 des_lower = des.lower()
                 keywords = topic['keywords'].split(', ')
+                # feed includes keywords that are included for a specific topic
+                keywords_include = [s for s in keywords if not s.startswith('-')]
                 topicIsRelevant = False
-                for keyword in keywords:
+                for keyword in keywords_include:
                     if len(keyword)<5: #initials e.g. MJO, ENSO
                         topicIsRelevant =  topicIsRelevant or (keyword in des)
                     else:
@@ -532,7 +536,16 @@ def gen_reading_json(dir_home):
                     if topicIsRelevant:
                         break
                 if topicIsRelevant:
-                    feeds_by_topic[topic['name']].append(feed)
+                    # feed includes keywords that are excluded for a specific topic
+                    keywords_exclude = [s[1:] for s in keywords if s.startswith('-')]
+                    excluded = False
+                    for keyword in keywords_exclude:
+                        k_lower = keyword.lower()
+                        if k_lower in des_lower:
+                            excluded = True
+                            break
+                    if not excluded:
+                        feeds_by_topic[topic['name']].append(feed)
             if people_in_feed(people,feed):
                 feeds_of_authors_of_interest.append(feed)
     meta_topics = load_topics_meta(dir_home)
@@ -667,7 +680,7 @@ def archive_topic(topic_name, dir_home):
                 key=lambda feed: feed['date'], reverse=True
             )
             json.dump(feeds_sorted,f_json,indent=4,sort_keys=True)
-        print('Archive', topic_name, year_current, 'updated!')
+        print('[OK]: Archive', topic_name, year_current, 'updated!')
     # to the last year archive
     if len(feeds_not_archived_last_year)>0:
         json_topic_last_year = os.path.join(
@@ -680,7 +693,7 @@ def archive_topic(topic_name, dir_home):
                 key=lambda feed: feed['date'], reverse=True
             )
             json.dump(feeds_sorted,f_json,indent=4,sort_keys=True)
-        print('Archive', topic_name, year_last, 'updated!')
+        print('[OK]: Archive', topic_name, year_last, 'updated!')
     # to the next year archive
     if len(feeds_not_archived_next_year)>0:
         json_topic_next_year = os.path.join(
@@ -693,7 +706,7 @@ def archive_topic(topic_name, dir_home):
                 key=lambda feed: feed['date'], reverse=True
             )
             json.dump(feeds_sorted,f_json,indent=4,sort_keys=True)
-        print('Archive', topic_name, year_next, 'updated!')
+        print('[OK]: Archive', topic_name, year_next, 'updated!')
 
 def archive_topics(dir_home):
     topics = load_topics(dir_home)
@@ -830,7 +843,7 @@ def test_journal(journal_short_name, dir_home='/Users/yang/Dropbox/Public/wyang_
         print ('\tFailed to connect to the server!')
         return
     # read the rss feeds into dom
-    soup = BeautifulSoup(r.content, 'xml')
+    soup = BeautifulSoup(r.text, 'xml')
     # parse the dom into items
     items = soup.find_all('item')
 
@@ -909,30 +922,38 @@ def main():
         dir_home = '/home/wenchay/Dropbox/Public/wyang_ess_uci/'
 
     #  retrieve rss feeds and save them into json files
+    print('[Busy]: Retrieving RSS feeds ...')
     retrieve_rss_to_json(dir_home)
     gen_updatetime_json(dir_home)
     end = time.time()
-    print (end - start,'s')
+    # print (end - start,'s')
+    print('[Done]: {:5.1f}s has been used.\n'.format(end-start))
     start = end
 
     # generate the reading json files
+    print('[Busy]: Generating topics json files ...')
     gen_reading_json(dir_home)
     end = time.time()
-    print( end - start,'s')
+    # print( end - start,'s')
+    print('[Done]: {:5.1f}s has been used.\n'.format(end-start))
     start = end
 
     # update the topics archive
+    print('[Busy]: Updating topics archive ...')
     archive_topics(dir_home)
     end = time.time()
-    print( end - start,'s')
+    # print( end - start,'s')
+    print('[Done]: {:5.1f}s has been used.\n'.format(end-start))
     start = end
 
     # sync to web server
+    print('[Busy]: rsync to web server ...')
     os.system('rsync -av --progress ' + dir_home + 'json/journals/ '
         + 'wenchay@home.ps.uci.edu:~/public_html/json/journals/ ')
     os.system('rsync -av --progress ' + dir_home + 'json/topics/ '
         + 'wenchay@home.ps.uci.edu:~/public_html/json/topics/ ')
     end = time.time()
-    print (end - start,'s')
+    # print(end - start,'s')
+    print('[Done]: {:5.1f}s has been used.\n'.format(end-start))
 if __name__=='__main__':
     main()

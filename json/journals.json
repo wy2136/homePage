@@ -270,6 +270,11 @@
         "url_rss": "http://rss.sciencedirect.com/publication/science/22120947"
     },
     {
+        "name_long": "Frontiers in Earth Science",
+        "name_short": "front_earth",
+        "url_rss": "http://journal.frontiersin.org/journal/earth-science/rss"
+    },
+    {
         "name_long": "Nature Biotechnology",
         "name_short": "nature_biotech",
         "url_rss": "http://feeds.nature.com/nbt/rss/aop"
