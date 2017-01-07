@@ -1,4 +1,4 @@
 # homePage  
 
-Wenchang Yang's Home Page: http://www.ess.uci.edu/~wenchay
+My personal home page: http://www.ess.uci.edu/~wenchay
 
