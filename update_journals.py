@@ -315,6 +315,18 @@ def retrieve_rss_to_json(dir_home):
                 author = ', '.join(
                     [' '.join( a.split() ) for a in author.split(', ')]
                     )
+            # special case for EGU journals
+            s0 = '</b><br>\n'
+            s1 = '<br>\n'
+            if author=='' and s0 in description:
+                i = description.find(s0)
+                s = description[i+len(s0):]
+                j = s.find(s1)
+                s = s[:j]
+                # remove redundant spaces between the first and last name
+                author = ', '.join(
+                    [' '.join( a.split() ) for a in s.split(', ')]
+                    )
 
             # save the item into a dict
             if journal['name_long'] in ['Frontiers in Microbiology',
@@ -477,7 +489,8 @@ def name_in_author_list(name,author_list):
         return False
 def people_in_feed(people,feed):
     '''Condition if the feed includes one or more persons of interest.'''
-    author_list = feed['author'].replace(', and ',', ').replace(' et al','').split(', ')
+    author_list = feed['author'].replace(', and ',', ')\
+        .replace(' and ', ', ').replace(' et al','').split(', ')
     if len(author_list)>4:
         author_list = author_list[0:1]
     L = False
