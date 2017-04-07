@@ -483,6 +483,17 @@ def name_in_author_list(name,author_list):
             s[-1] + ', ' + s[0] + ' ' + s[1],
             s[-1] + ', ' + s[0][0] + '. ' + s[1][0] + '.'
         ]
+    elif len(s)==4:
+        name_formats = [
+            ' '.join(s),
+            s[0] + ' ' + s[1][0] + ' ' + s[2][0] + ' ' + s[-1],
+            s[0] + ' ' + s[1][0] + '.' + s[2][0] + '. ' + s[-1],
+            s[0][0] + '. ' + s[1][0] + '. ' + s[2][0] + '. ' + s[-1],
+            s[-1] + ', ' + s[0] + ' ' + s[1] + ' ' + s[2],
+            s[-1] + ', ' + s[0][0] + '. ' + s[1][0] + '. ' + s[2][0] + '.'
+        ]
+    else:
+        name_formats= []
     if len(set(name_formats) & set(author_list))>0:
         return True
     else:
