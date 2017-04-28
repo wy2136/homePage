@@ -10,14 +10,30 @@
 <script>write_navbar(1)</script>
 
 <div class="container-fluid text-center bg-color-title">
-  <h3 class="color-title">Current Weather From <a target="_blank"  href="http://earth.nullschool.net">earth.nullschool.net</a> </h3>
+  <h3 class="color-title">Current Weather From <a target="_blank"  href="http://earth.nullschool.net">earth.nullschool.net</a> <br>
+  
+  <small>700hPa Circulation and 3-hour Precipitation Accumulation</small> <br>
+  
+  <small>See also: 
+    <a href="https://earth.nullschool.net/#current/wind/surface/level/overlay=temp/winkel3=260,0,220">Tas</a>,
+    <a href="https://earth.nullschool.net/#current/wind/surface/level/overlay=total_precipitable_water/winkel3=260,0,220">TPW</a>,
+    Circulation (<a href="https://earth.nullschool.net/#current/wind/isobaric/850hPa/overlay=wind/winkel3=260,0,220">850hPa</a>,
+    <a href="https://earth.nullschool.net/#current/wind/isobaric/700hPa/overlay=wind/winkel3=260,0,220">700hPa</a>,
+    <a href="https://earth.nullschool.net/#current/wind/isobaric/500hPa/overlay=wind/winkel3=260,0,220">500hPa</a>,
+    <a href="https://earth.nullschool.net/#current/wind/isobaric/250hPa/overlay=wind/winkel3=260,0,220">250hPa</a>,
+    <a href="https://earth.nullschool.net/#current/wind/isobaric/70hPa/overlay=wind/winkel3=260,0,220">70hPa</a>,
+    <a href="https://earth.nullschool.net/#current/wind/isobaric/10hPa/overlay=wind/winkel3=260,0,220">10hPa</a>),
+    <a href="https://earth.nullschool.net/#current/ocean/surface/currents/overlay=sea_surface_temp/winkel3=260,0,220">SST</a>,
+    <a href="https://earth.nullschool.net/#current/ocean/surface/currents/overlay=sea_surface_temp_anomaly/winkel3=260,0,220">SSTA</a>
+  </small>
+  </h3>
+  
 </div>
 <div class="container-fluid" style="min-height:600px;">
   <div class="row">
     <!-- <div class="col-md-3"></div> -->
     <!-- <div class="col-md-6"> -->
-      <!-- <h4 class="text-center">Total Precipitable Water</h4> -->
-      <iframe id="weatherMap" style="width:100%; height:600px;"  src="https://earth.nullschool.net/#current/wind/isobaric/700hPa/overlay=total_precipitable_water/winkel3=210,0,220"></iframe> 
+      <iframe id="weatherMap" style="width:100%; height:600px;"  src="https://earth.nullschool.net/#current/wind/isobaric/700hPa/overlay=precip_3hr/winkel3=260,0,220"></iframe> 
     <!-- </div> -->  <!-- col--> 
     <!-- <div class="col-md-3"></div> -->
          

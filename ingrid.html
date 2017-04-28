@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="./js/functions.js"></script>
+    <script>write_head(1)</script>
+    <title> Ingrid | Wenchang Yang's Homepage - 杨文昌</title>
+    <meta name="Keywords" content="Ingrid">
+    <script>
+        $(document).ready(function(){
+            var fileName = location.pathname.split('/').slice(-1)[0]
+            $("nav#third_nav a").text(fileName.replace('.html',''))
+        });
+    </script>
+
+    <style>
+/*    h2 {font-size:140%;}*/
+    h4 {cursor:pointer; 
+        margin:1em 2ex; 
+        font-size:120%;}
+    p.examples {
+        display:none;
+        margin:1em 4ex; 
+        padding: 0 1ex;
+        font-size:100%;
+        font-family: "Courier", monospace;
+	    color:darkgreen;
+	    background-color:/*  #0057a8 */ whitesmoke ;
+    }
+    p.examples > a {color:red;} 
+    	</style>
+    
+</head>
+
+<body id="home">
+        <script>write_navbar(1)</script>   
+        
+        <div class="container-fluid bg-color-title border-bottom">
+          <h3 class="text-center color-title">
+            Ingrid Usage<br>
+            <small>Open the <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert">webpage Ingrid interface</a> and paste the example scripts below to test the results. <br>
+              You can also click the links below each example to view the results directly.</small>
+          </h3>
+        </div>  <!-- container-->
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+
+            <h3 class="color-title">Data Selection</h3>
+
+            <h4>+  Select a continous time period </h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP .EMC .CMB .GLOBAL .Reyn_SmithOIv1 .weekly .sst <br>
+                T (17 Nov 1982) (29 Dec 2001) RANGE<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP/.EMC/.CMB/.GLOBAL/.Reyn_SmithOIv1/.weekly/.sst/T/%2817%20Nov%201982%29%2829%20Dec%202001%29RANGE/">link</a>
+                </p>
+
+            <h4>+  Select a discontinous time period </h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCDC .DAILY .GLOBALSOD IWMO 466960 VALUE .mean .temp <br>
+                 T (3-4 Sep 1995-1999) RANGE<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCDC/.DAILY/.GLOBALSOD/IWMO/466960/VALUE/.mean/.temp/T/%283-4%20Sep%201995-1999%29RANGE/">link</a>
+                </p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCDC .DAILY .GLOBALSOD IWMO 466960 VALUE .mean .temp <br>
+                 T (4 Jan 1999) (31 Dec 1999) RANGE<br>
+                 T 7 STEP <br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCDC/.DAILY/.GLOBALSOD/IWMO/466960/VALUE/.mean/.temp/T/%283-4%20Sep%201995-1999%29RANGE/">link</a>
+                </p>
+
+            <h4>+  Select a single grid point </h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP .EMC .CMB .GLOBAL .Reyn_SmithOIv1 .climatology .sst <br>
+                Y (25N) VALUES <br>
+                X (120E) VALUES <br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP/.EMC/.CMB/.GLOBAL/.Reyn_SmithOIv1/.climatology/.sst/Y/%2825N%29VALUES/X/%28120E%29VALUES/">link</a>
+                </p>
+
+            <h4>+  Select a region of grid points </h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP .EMC .CMB .GLOBAL .Reyn_SmithOIv1 .climatology .sst <br>
+                Y (10S) (10N) RANGE <br>
+                X (70W) (20W) RANGE <br>
+              or <br>
+                Y (-10) (10) RANGE <br>
+                X (-70) (-20) RANGE <br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP/.EMC/.CMB/.GLOBAL/.Reyn_SmithOIv1/.climatology/Y/%2810S%29%2810N%29RANGE/X/%2870W%29%2820W%29RANGE/">link</a>
+                </p>
+    
+            <h4>+  Select stations</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCDC .DAILY .GLOBALSOD <br>
+                IWMO 875740 875760 875850 VALUES <br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCDC/.DAILY/.GLOBALSOD/IWMO/875740/875760/875850/VALUES/">link</a>
+                </p>
+
+            <h4>+  Select stations within a region</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCDC .DAILY .GLOBALSOD <br>
+                lon 290 340 masknotrange SELECT <br>
+                lat -10 10 masknotrange SELECT <br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCDC/.DAILY/.GLOBALSOD/lon/290/340/masknotrange/SELECT/lat/-10/10/masknotrange/SELECT/">link</a>
+                </p>
+    
+            <h4>+  Masks and Flags</h4>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                100. div <br>
+                1024. maskgt <br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/100.0/div/1024.0/maskgt/">link</a>
+            	</p>
+    
+            <p class="examples">
+            expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                100. div <br>
+                1024. masklt<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/100.0/div/1024.0/masklt/">link</a>
+            	</p>
+    
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                100. div <br>
+                1024. flaggt<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/100.0/div/1024.0/flaggt/">link</a>
+            	</p>
+
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                100. div <br>
+                1024. flagle<br> 
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/100.0/div/1024.0/flagle/">link</a>
+            	</p>
+
+            <h3 class="color-title">Arithmetic</h3>
+
+            <h4>+  Addition: add</h4>
+            <p class="examples">
+                expert  <br>
+                2	<br>
+                3 <br>
+                add<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/2/3/add/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp<br>
+                5. add<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/5.0/add/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .sensible .heat_flux <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .latent .heat_flux  <br>
+                add<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.sensible/.heat_flux/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.latent/.heat_flux/add/">link</a>
+            	</p>
+
+            <h4>+  Subtraction: sub</h4>
+                <p class="examples">
+                expert  <br>
+                18.	<br>
+                2. <br>
+                sub<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/18/2/sub/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                273.15 <br>
+                sub<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/273.15/sub/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .sensible .heat_flux <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .latent .heat_flux  <br>
+                sub<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.sensible/.heat_flux/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.latent/.heat_flux/sub/">link</a>
+            	</p>
+
+            <h4>+  Multiplication: mul</h4>
+            <p class="examples">
+                expert  <br>
+                2.	<br>
+                3. <br>
+                mul<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/2.0/3.0/mul/">link</a>
+                </p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                5 <br>
+                mul<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/5/mul/">link</a>
+            	</p>
+            <p class="examples">
+            expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .u  <br>
+                mul<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.u/mul/">link</a>
+            	</p>
+
+            <h4>+  Division: div</h4>
+            <p class="examples">
+                expert  <br>
+                18	<br>
+                2 <br>
+                div<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/18/2/div/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                5 <br>
+                div<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/5/div/">link</a> 
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .taux <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .above_ground .u <br>
+                div<br>
+                <a target="_blank"  href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.taux/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.above_ground/.u/div/">link</a> 
+            	</p>
+
+            <h4>+  Exponent and logs: mul, sqrt, eexp, ln, log, X Y exch ln mul eexp </h4>
+                <p class="examples">
+                expert  <br>
+                2	<br>
+                3 <br>
+                exch ln mul eexp<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/2/3/exch/ln/mul/eexp/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                1000 P div<br> 
+                0.286 exch ln mul eexp <br>
+                mul<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/1000/P/div/0.286/exch/ln/mul/eexp/mul/">link</a>
+            	</p>
+
+            <h3 class="color-title">Statistics</h3>
+
+            <h4>+ Average</h4>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                [X Y]average<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure%5BX/Y%5Daverage/">link</a>
+            	</p>
+
+            <h4>+ Monthly climatology</h4>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure	<br>
+                  T (Jan 1949) (Dec 2001) RANGE	<br>
+                  yearly-climatology	<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/T/%28Jan%201949%29%28Dec%202001%29RANGE/yearly-climatology/">link</a>
+            	</p>
+
+            <h4>+ Anomaly</h4>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                dup [T]average<br>
+                sub <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/dup%5BT%5Daverage/sub/">link</a>
+            	</p>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                yearly-anomalies<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/yearly-anomalies/">link</a>
+            	</p>
+    
+            <h4>+ Chunk average</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                T 3 boxAverage<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/T/3/boxAverage/">link</a>
+            	</p>
+    
+            <h4>+ Running average</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .temp <br>
+                T 3 runningAverage<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.temp/T/3/runningAverage/">link</a>
+            	</p>
+    
+            <h4>+ Root Mean Squared (RMS)</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                [T]rmsover<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure%5BT%5Drmsover/">link</a>
+            	</p>
+            <h4>+ Root Mean Squared with mean removed (RMSA)</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                [T]rmsaover<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure%5BT%5Drmsaover/">link</a>
+            	</p>
+    
+            <h4>+ Minimum or maximum</h4>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .temp  <br>
+                273.15 sub	 <br>
+                T 12 boxAverage <br>
+                [X Y]maxover<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.temp/273.15/sub/T/12/boxAverage%5BX/Y%5Dmaxover/">link</a>
+            	</p>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .temp  <br>
+                273.15 sub	 <br>
+                [T] minover<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.temp/273.15/sub/T/12/boxAverage%5BX/Y%5Dminover/">link</a>
+            	</p>
+    
+            <h4>+ Set minimum or maximum</h4>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure  <br>
+                100. div	 <br>
+                1024 min<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/100.0/div/1024/min/">link</a>
+            	</p>
+            <p class="examples">
+                expert	<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure  <br>
+                100. div	 <br>
+                1024 max<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/100.0/div/1024/max">link</a>
+            	</p>
+    
+            <h4>+ Detrend</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .temp yearly-anomalies <br>
+                [T]detrend-bfl<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.temp/yearly-anomalies%5BT%5Ddetrend-bfl/">link</a>
+            	</p>
+    
+            <h4>+ Smoothing</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .rhum <br>
+                [X Y]1 SM121<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.rhum%5BX/Y%5D1/SM121/">link</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .temp <br>
+                [T]16 SM121<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.temp%5BT%5D16/SM121/">link</a>
+            	</p>
+
+            <h3 class="color-title">Advanced Analysis</h3>
+
+            <h4>+ Standardize</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .KAPLAN .Indices .NINO3 .avGOSTA <br>
+                 [T]standardize <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.KAPLAN/.Indices/.NINO3/.avGOSTA%5BT%5Dstandardize/">link</a>
+            	</p>
+
+            <h4>+ Correlation</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .MSL .pressure <br>
+                T (Jan 1949) (Dec 2001) RANGE <br>
+                yearly-anomalies <br>
+                SOURCES .Indices .nino .EXTENDED .NINO3 <br>
+                T (Jan 1949) (Dec 2001) RANGE <br>
+                [T]correlate <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.MSL/.pressure/T/%28Jan%201949%29%28Dec%202001%29RANGE/yearly-anomalies/SOURCES/.Indices/.nino/.EXTENDED/.NINO3/T/%28Jan%201949%29%28Dec%202001%29RANGE%5BT%5Dcorrelate/">link</a>
+            	</p>
+
+            <h4>+ EOFs</h4>
+            <p class="examples">
+                expert <br>
+                 SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .temp <br>
+                  Y 0 90 RANGE <br>
+                  T (Jan 1949) (Dec 2001) RANGE <br>
+                  yearly-anomalies <br>
+                  {Y cosd}[X Y][T]svd <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.temp/Y/0/90/RANGE/T/%28Jan%201949%29%28Dec%202001%29RANGE/yearly-anomalies/%7BY/cosd%7D%5BX/Y%5D%5BT%5Dsvd/">link</a>
+            	</p>
+
+            <h4>+ Partial derivatives</h4>
+            <p class="examples">
+                expert <br>
+                 SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                  a: <br>
+                    X partial <br>
+                    Y cosd div <br>
+                    X :a: .X REGRID <br>
+                    :a <br>
+                  110000. div <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/a:/X/partial/Y/cosd/div/X/:a:/.X/REGRID/:a/110000./div/">link: X partial</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                 SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp  <br>
+                   a: <br>
+                     Y partial <br>
+                     Y :a: .Y REGRID <br>
+                     :a <br>
+                   110000. div <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/a:/Y/partial/Y/:a:/.Y/REGRID/:a/110000./div/">link: Y partial</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                 SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp  <br>
+                   a: <br>
+                       T partial <br>
+                       T :a: .T REGRID <br>
+                       :a <br>
+                     30. div <br>
+                     86400. div <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/a:/T/partial/T/:a:/.T/REGRID/:a/30./div/86400./div/">link: T partial</a>
+            	</p>
+            <p class="examples">
+                expert <br>
+                 SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp  <br>
+                   a:  <br>
+                      P partial  <br>
+                      P :a: .P REGRID  <br>
+                      :a  <br>
+                    100. div  <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/a:/P/partial/P/:a:/.P/REGRID/:a/100./div/">link: P partial</a>
+            	</p>
+
+            <h4>+ Definite integral</h4>
+            <p class="examples">
+                expert <br>
+                 SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp <br>
+                  P 10 1000 definite-integral <br>
+                  100. mul <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/P/10/1000/definite-integral/100./mul/">link: P definite integral</a>
+                </p>
+
+            <h3 class="color-title">Miscellaneous</h3>
+
+            <h4>+ Rename a grid</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NASA .GPCP .V2p2 .satellite-gauge .prcp <br>
+                  X /lon renameGRID <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NASA/.GPCP/.V2p2/.satellite-gauge/.prcp/X//lon/renameGRID/">link</a>
+            	</p>
+
+            <h4>+ Change units</h4>
+            <p class="examples">
+                expert <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .surface .pressure <br>
+                  100. div <br>
+                  /units (mb) def <br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.surface/.pressure/100./div//units/%28mb%29def/">link</a>
+            	</p>
+
+            <h4>+ Duplicate variable: dup</h4>
+            <p class="examples">
+                expert<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Intrinsic .PressureLevel .temp<br>
+                dup<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Intrinsic/.PressureLevel/.temp/dup/">link</a>
+            	</p>
+	
+            <h4>+ Exchange stack order: exch</h4>
+            <p class="examples">
+                expert<br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .sensible .heat_flux <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .latent .heat_flux  <br>
+                exch<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.sensible/.heat_flux/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.latent/.heat_flux/exch/">link</a>
+            	</p>
+	
+            <h4>+ Nip variable: nip</h4>
+            <p class="examples">
+                expert<br>
+                <span style="text-decoration:line-through;">SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .sensible .heat_flux</span> <br>
+                SOURCES .NOAA .NCEP-NCAR .CDAS-1 .MONTHLY .Diagnostic .surface .latent .heat_flux  <br>
+                nip<br>
+                <a target="_blank" href="http://iridl.ldeo.columbia.edu/expert/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.sensible/.heat_flux/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.MONTHLY/.Diagnostic/.surface/.latent/.heat_flux/nip/">link</a>
+            	</p>
+    
+            <h3 class="color-title">References</h3>
+            <div style="margin-left: 4ex">
+            <p><a href="http://iridl.ldeo.columbia.edu/dochelp/Tutorial" >Navigating Through the IRI Data Library: A Tutorial</a>
+            	</p>
+            <p><a href="http://iridl.ldeo.columbia.edu/dochelp/StatTutorial/" >Statistical Techniques in the Data Library: A Tutorial</a>
+            	</p>
+            <p><a href="http://rainbow.ldeo.columbia.edu/~jennie/Ingrid/">
+            Jennie's Ingrid Examples</a>
+            	</p>
+            <p><a href="http://vimeo.com/album/2118349">Video Tutorials</a>
+                </p>
+            </div>
+        </div>
+      </div><!-- col-md-10-->
+      <div class="col-md-1"></div>
+    </div><!-- row -->
+        
+     
+<script>write_footer(1)</script>  
+</body>
+<script>
+    $(document).ready(function(){
+/*    $("h4").prepend("+ ");*/
+
+    $("h4").click(function(){
+    var h4text = $(this).text();
+    if (h4text.substring(0,1)=='+'){
+    h4text = '-' + h4text.substring(1);
+    $(this).text(h4text);
+    	}
+    else{
+    h4text = '+' + h4text.substring(1);
+    $(this).text(h4text);
+    	}
+    $(this).nextUntil("h4").filter(".examples").toggle()
+    	});
+    	});
+</script> 
+</html>

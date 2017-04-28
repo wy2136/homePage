@@ -2,10 +2,10 @@
 import os
 
 # get the current CV
-cmd = 'rsync -av /Users/yang/Dropbox/Work/myCV/CV_Wenchang_Yang.pdf /Users/yang/Dropbox/Public/wyang_ess_uci/cv_yang.pdf'
+cmd = 'rsync -av /Users/yang/Dropbox/Work/myCV/cv_yang/CV_Wenchang_Yang.pdf /Users/yang/Dropbox/Public/wyang_ess_uci/cv_yang.pdf'
 print('\nCV:' + '-'*20)
 os.system(cmd)
-cmd = 'rsync -av /Users/yang/Dropbox/Work/myCV/CV_Wenchang_Yang_Chinese.pdf /Users/yang/Dropbox/Public/wyang_ess_uci/cv_yang_Chinese.pdf'
+cmd = 'rsync -av /Users/yang/Dropbox/Work/myCV/cv_yang/CV_Wenchang_Yang_Chinese.pdf /Users/yang/Dropbox/Public/wyang_ess_uci/cv_yang_Chinese.pdf'
 print('\nCV:' + '-'*20)
 os.system(cmd)
 
